@@ -1,0 +1,614 @@
+[
+ {
+  "row": 19,
+  "slot": "01",
+  "out": "output/On-Model/TOP 126-451A + BOTTOM 126-451B/White with dots/004557713949_126-451a_126-451b_white-with-dots_r019_01-front.jpg",
+  "job_id": "1e79386b-7ea8-4698-b931-0c66a29376cc",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202820_1e79386b-7ea8-4698-b931-0c66a29376cc.png",
+  "error": null
+ },
+ {
+  "row": 38,
+  "slot": "01",
+  "out": "output/On-Model/TOP 21008 + BOTTOM N022/Plum - White Jeans/094367000087_21008_n022_plum_white-jeans_r038_01-front.jpg",
+  "job_id": "e888e223-7fe6-4674-a4ab-9001f1b8f0f1",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202820_e888e223-7fe6-4674-a4ab-9001f1b8f0f1.png",
+  "error": null
+ },
+ {
+  "row": 42,
+  "slot": "01",
+  "out": "output/On-Model/TOP 21008 + BOTTOM N022/Pink - White Jeans/094367000087_21008_n022_pink_white-jeans_r042_01-front.jpg",
+  "job_id": "f3550888-8393-43b9-923c-46002f5b2908",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202821_f3550888-8393-43b9-923c-46002f5b2908.png",
+  "error": null
+ },
+ {
+  "row": 45,
+  "slot": "01",
+  "out": "output/On-Model/TOP 2400A + BOTTOM N022 OFF WHITE/Grey/947990087843_2400a_n022-off-white_grey_r045_01-front.jpg",
+  "job_id": "74d5ae60-d463-4d21-afb2-5a3aa96c3131",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202820_74d5ae60-d463-4d21-afb2-5a3aa96c3131.png",
+  "error": null
+ },
+ {
+  "row": 71,
+  "slot": "01",
+  "out": "output/On-Model/TOP 5003 + BOTTOM 2500B/White - Grey Jeans/004557710566_5003_2500b_white_grey-jeans_r071_01-front.jpg",
+  "job_id": "42439dc9-a718-437b-b673-b6c30e52e19c",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202821_42439dc9-a718-437b-b673-b6c30e52e19c.png",
+  "error": null
+ },
+ {
+  "row": 87,
+  "slot": "01",
+  "out": "output/On-Model/TOP 5006 + BOTTOM 2400B/Light Brown - Black Pants/004557710672_5006_2400b_light-brown_black-pants_r087_01-front.jpg",
+  "job_id": "1f06be57-0975-4619-8b8d-64c5526243a7",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202820_1f06be57-0975-4619-8b8d-64c5526243a7.png",
+  "error": null
+ },
+ {
+  "row": 88,
+  "slot": "01",
+  "out": "output/On-Model/TOP 5006 + BOTTOM 2400B/White/004557710672_5006_2400b_white_r088_01-front.jpg",
+  "job_id": "ac23372a-47f0-4cc4-b5b9-5d73853a65b3",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202821_ac23372a-47f0-4cc4-b5b9-5d73853a65b3.png",
+  "error": null
+ },
+ {
+  "row": 102,
+  "slot": "01",
+  "out": "output/On-Model/TOP 5014 + BOTTOM N023/Camel - White/Beige/Black/004557711730_5014_n023_camel_white-beige-black_r102_01-front.jpg",
+  "job_id": "192bece7-b644-438d-8a75-af32040239d2",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202820_192bece7-b644-438d-8a75-af32040239d2.png",
+  "error": null
+ },
+ {
+  "row": 105,
+  "slot": "01",
+  "out": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Sand beige - White Jeans or sweatpants/000455766933_603_601-black_sand-beige_white-jeans-or-sweatpants_r105_01-front.jpg",
+  "job_id": "9eb488a7-a3d2-4af9-b739-5f998290994d",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202820_9eb488a7-a3d2-4af9-b739-5f998290994d.png",
+  "error": null
+ },
+ {
+  "row": 128,
+  "slot": "01",
+  "out": "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Cream/004557712164_7094_n022-off-white_cream_r128_01-front.jpg",
+  "job_id": "06915bf0-e049-4d5b-a3a2-749c528e3347",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202820_06915bf0-e049-4d5b-a3a2-749c528e3347.png",
+  "error": null
+ },
+ {
+  "row": 132,
+  "slot": "01",
+  "out": "output/On-Model/TOP 7095 + BOTTOM N022/Cream / beige - Black Pants/004557714977_7095_n022_cream-beige_black-pants_r132_01-front.jpg",
+  "job_id": "f341bc61-cdf5-4cee-9c44-a21f6577e83c",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202820_f341bc61-cdf5-4cee-9c44-a21f6577e83c.png",
+  "error": null
+ },
+ {
+  "row": 133,
+  "slot": "01",
+  "out": "output/On-Model/TOP 7095 + BOTTOM N022/Blush peach - White Pants/004557714977_7095_n022_blush-peach_white-pants_r133_01-front.jpg",
+  "job_id": "58ae1ee6-b24d-499b-bd9c-8ec9dca8556e",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202821_58ae1ee6-b24d-499b-bd9c-8ec9dca8556e.png",
+  "error": null
+ },
+ {
+  "row": 137,
+  "slot": "01",
+  "out": "output/On-Model/TOP 7095 + BOTTOM N022/Taupe - Black Pants/004557714977_7095_n022_taupe_black-pants_r137_01-front.jpg",
+  "job_id": "04f14560-fa98-4058-a5b7-16c1c9579a99",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202921_04f14560-fa98-4058-a5b7-16c1c9579a99.png",
+  "error": null
+ },
+ {
+  "row": 141,
+  "slot": "01",
+  "out": "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Black/004557715738_7096_n022022-as-in-folder-name_black_r141_01-front.jpg",
+  "job_id": "912b46d4-83e8-4b22-b99f-55fae7e06731",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202921_912b46d4-83e8-4b22-b99f-55fae7e06731.png",
+  "error": null
+ },
+ {
+  "row": 3,
+  "slot": "03",
+  "out": "output/On-Model/TOP 125-7071 + BOTTOM 126-439/Black/000676478967_125-7071_126-439_black_r003_03-back.jpg",
+  "job_id": "536686af-a4bd-4e81-b0b2-dd66b544b5df",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202921_536686af-a4bd-4e81-b0b2-dd66b544b5df.png",
+  "error": null
+ },
+ {
+  "row": 9,
+  "slot": "03",
+  "out": "output/On-Model/TOP 126-427 + BOTTOM 126-439/Lavender/000676478967_126-427_126-439_lavender_r009_03-back.jpg",
+  "job_id": "b41cb8b4-fa35-4949-9039-83d9fda9fa31",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202921_b41cb8b4-fa35-4949-9039-83d9fda9fa31.png",
+  "error": null
+ },
+ {
+  "row": 15,
+  "slot": "02",
+  "out": "output/On-Model/TOP 126-427 + BOTTOM 126-439/White/000676478967_126-427_126-439_white_r015_02-three-quarter.jpg",
+  "job_id": "35c58c96-8b4e-44ff-a0d4-c1724339b80e",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202921_35c58c96-8b4e-44ff-a0d4-c1724339b80e.png",
+  "error": null
+ },
+ {
+  "row": 15,
+  "slot": "03",
+  "out": "output/On-Model/TOP 126-427 + BOTTOM 126-439/White/000676478967_126-427_126-439_white_r015_03-back.jpg",
+  "job_id": "f41664c9-651e-4115-914f-1396bc462c81",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202921_f41664c9-651e-4115-914f-1396bc462c81.png",
+  "error": null
+ },
+ {
+  "row": 16,
+  "slot": "03",
+  "out": "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Grey/004557713949_126-451a_126-451b_grey_r016_03-back.jpg",
+  "job_id": "845f2816-d270-4a40-ae1c-f042e1d9d1fb",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202921_845f2816-d270-4a40-ae1c-f042e1d9d1fb.png",
+  "error": null
+ },
+ {
+  "row": 22,
+  "slot": "02",
+  "out": "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Chocolate brown leaf print/004557717602_126-474_bxx-smb115_chocolate-brown-leaf-print_r022_02-three-quarter.jpg",
+  "job_id": "8a462c5e-2d85-4c9b-8f1e-6a97bda924b8",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202921_8a462c5e-2d85-4c9b-8f1e-6a97bda924b8.png",
+  "error": null
+ },
+ {
+  "row": 37,
+  "slot": "03",
+  "out": "output/On-Model/TOP 21008 + BOTTOM N022/Grey/094367000087_21008_n022_grey_r037_03-back.jpg",
+  "job_id": "8ebbca28-561c-4f61-8b3d-8a25acf5cdef",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202922_8ebbca28-561c-4f61-8b3d-8a25acf5cdef.png",
+  "error": null
+ },
+ {
+  "row": 39,
+  "slot": "03",
+  "out": "output/On-Model/TOP 21008 + BOTTOM N022/Taupe beige/094367000087_21008_n022_taupe-beige_r039_03-back.jpg",
+  "job_id": "ff6db4e6-eee5-4ed0-a863-568559e727db",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_202921_ff6db4e6-eee5-4ed0-a863-568559e727db.png",
+  "error": null
+ },
+ {
+  "row": 19,
+  "slot": "02",
+  "out": "output/On-Model/TOP 126-451A + BOTTOM 126-451B/White with dots/004557713949_126-451a_126-451b_white-with-dots_r019_02-three-quarter.jpg",
+  "job_id": "b4a4bb84-c4d7-4ff2-9b15-b876bec53180",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203140_b4a4bb84-c4d7-4ff2-9b15-b876bec53180.png",
+  "error": null
+ },
+ {
+  "row": 26,
+  "slot": "03",
+  "out": "output/On-Model/TOP 1418 + BOTTOM 601/White/947990090614_1418_601_white_r026_03-back.jpg",
+  "job_id": "f1835f4f-7b2c-4646-959e-23dd259793c4",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203141_f1835f4f-7b2c-4646-959e-23dd259793c4.png",
+  "error": null
+ },
+ {
+  "row": 42,
+  "slot": "03",
+  "out": "output/On-Model/TOP 21008 + BOTTOM N022/Pink - White Jeans/094367000087_21008_n022_pink_white-jeans_r042_03-back.jpg",
+  "job_id": "b5927100-0c29-4196-aeae-a1d8ad09bc29",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203142_b5927100-0c29-4196-aeae-a1d8ad09bc29.png",
+  "error": null
+ },
+ {
+  "row": 46,
+  "slot": "03",
+  "out": "output/On-Model/TOP 2403 + BOTTOM N022/White / cream - Grey Jeans/000676460573_2403_n022_white-cream_grey-jeans_r046_03-back.jpg",
+  "job_id": "103d3b56-ebbd-49ce-8811-9f2437100576",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203141_103d3b56-ebbd-49ce-8811-9f2437100576.png",
+  "error": null
+ },
+ {
+  "row": 55,
+  "slot": "03",
+  "out": "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Burgundy/947990098368_2410_n022-off-white_burgundy_r055_03-back.jpg",
+  "job_id": "9b429f11-3e20-46d3-b700-648716d55172",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203140_9b429f11-3e20-46d3-b700-648716d55172.png",
+  "error": null
+ },
+ {
+  "row": 69,
+  "slot": "02",
+  "out": "output/On-Model/TOP 5003 + BOTTOM 2500B/Plum brown/004557710566_5003_2500b_plum-brown_r069_02-three-quarter.jpg",
+  "job_id": "77b190a0-e86f-44be-9d57-4aef9265594c",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203141_77b190a0-e86f-44be-9d57-4aef9265594c.png",
+  "error": null
+ },
+ {
+  "row": 76,
+  "slot": "03",
+  "out": "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/White - Grey Pants/004557711105_5004_2500b-off-white_white_grey-pants_r076_03-back.jpg",
+  "job_id": "9a51cf93-1dd3-46f9-995b-a925632f778e",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203141_9a51cf93-1dd3-46f9-995b-a925632f778e.png",
+  "error": null
+ },
+ {
+  "row": 79,
+  "slot": "02",
+  "out": "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Black/004557711105_5004_2500b-off-white_black_r079_02-three-quarter.jpg",
+  "job_id": "308acc6a-aa76-41c8-9a6d-b9e43a232552",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203141_308acc6a-aa76-41c8-9a6d-b9e43a232552.png",
+  "error": null
+ },
+ {
+  "row": 135,
+  "slot": "01",
+  "out": "output/On-Model/TOP 7095 + BOTTOM N022/Yellow - White Pants/004557714977_7095_n022_yellow_white-pants_r135_01-front.jpg",
+  "job_id": "9a373013-d0a6-4f1d-ab54-bbaca1c0269f",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203325_9a373013-d0a6-4f1d-ab54-bbaca1c0269f.png",
+  "error": null
+ },
+ {
+  "row": 56,
+  "slot": "03",
+  "out": "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Off-white - Grey Jeans/947990098368_2410_n022-off-white_off-white_grey-jeans_r056_03-back.jpg",
+  "job_id": "3b6133ce-c958-41a4-8750-a3f5f5dc709c",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203326_3b6133ce-c958-41a4-8750-a3f5f5dc709c.png",
+  "error": null
+ },
+ {
+  "row": 65,
+  "slot": "03",
+  "out": "output/On-Model/TOP 2505 + BOTTOM N022/Burgundy - White Jeans/000455769903_2505_n022_burgundy_white-jeans_r065_03-back.jpg",
+  "job_id": "ec9a9e00-16a3-425d-a7de-d22a75c7ea60",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203325_ec9a9e00-16a3-425d-a7de-d22a75c7ea60.png",
+  "error": null
+ },
+ {
+  "row": 73,
+  "slot": "03",
+  "out": "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Dusty mauve (sleeveless, over white shirt)/004557711105_5004_2500b-off-white_dusty-mauve-sleeveless-over-white-shirt_r073_03-back.jpg",
+  "job_id": "2b8d5a24-2b9b-48e1-a095-fb2876bd6202",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203326_2b8d5a24-2b9b-48e1-a095-fb2876bd6202.png",
+  "error": null
+ },
+ {
+  "row": 84,
+  "slot": "03",
+  "out": "output/On-Model/TOP 5006 + BOTTOM 2400B/Black - Off White Pants/004557710672_5006_2400b_black_off-white-pants_r084_03-back.jpg",
+  "job_id": "eb8d51fc-4d23-4ea1-9274-aed9a85755b9",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203326_eb8d51fc-4d23-4ea1-9274-aed9a85755b9.png",
+  "error": null
+ },
+ {
+  "row": 88,
+  "slot": "02",
+  "out": "output/On-Model/TOP 5006 + BOTTOM 2400B/White/004557710672_5006_2400b_white_r088_02-three-quarter.jpg",
+  "job_id": "6cd7274f-d80f-41a9-850f-81d9cd966582",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203326_6cd7274f-d80f-41a9-850f-81d9cd966582.png",
+  "error": null
+ },
+ {
+  "row": 89,
+  "slot": "04",
+  "out": "output/On-Model/TOP 5006 + BOTTOM 2400B/Charcoal grey/004557710672_5006_2400b_charcoal-grey_r089_04-editorial-front.jpg",
+  "job_id": "352c267f-c913-497e-a62b-3ad1a1812b15",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203408_352c267f-c913-497e-a62b-3ad1a1812b15.png",
+  "error": null
+ },
+ {
+  "row": 90,
+  "slot": "03",
+  "out": "output/On-Model/TOP 5008 + BOTTOM N022 OFF WHITE/Black vest over white shirt/004557711402_5008_n022-off-white_black-vest-over-white-shirt_r090_03-back.jpg",
+  "job_id": "f0c50d25-46f8-4ca7-83a8-3680f184f74b",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203408_f0c50d25-46f8-4ca7-83a8-3680f184f74b.png",
+  "error": null
+ },
+ {
+  "row": 90,
+  "slot": "05",
+  "out": "output/On-Model/TOP 5008 + BOTTOM N022 OFF WHITE/Black vest over white shirt/004557711402_5008_n022-off-white_black-vest-over-white-shirt_r090_05-editorial-back.jpg",
+  "job_id": "ff9b0df6-a5b0-4085-a741-ddc733a30d7b",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203408_ff9b0df6-a5b0-4085-a741-ddc733a30d7b.png",
+  "error": null
+ },
+ {
+  "row": 99,
+  "slot": "02",
+  "out": "output/On-Model/TOP 5014 + BOTTOM N023/Olive/004557711730_5014_n023_olive_r099_02-three-quarter.jpg",
+  "job_id": "c576990b-91fe-4805-bfa4-bb2a9dc07776",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203409_c576990b-91fe-4805-bfa4-bb2a9dc07776.png",
+  "error": null
+ },
+ {
+  "row": 101,
+  "slot": "03",
+  "out": "output/On-Model/TOP 5014 + BOTTOM N023/Rose pink - White jeans/004557711730_5014_n023_rose-pink_white-jeans_r101_03-back.jpg",
+  "job_id": "046ad3ca-c064-4b1b-b500-317caeba0f37",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203409_046ad3ca-c064-4b1b-b500-317caeba0f37.png",
+  "error": null
+ },
+ {
+  "row": 108,
+  "slot": "03",
+  "out": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Brown - White Jeans or sweatpants/000455766933_603_601-black_brown_white-jeans-or-sweatpants_r108_03-back.jpg",
+  "job_id": "ab3caacf-e904-4c3d-ae1a-86449b34d2a8",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203409_ab3caacf-e904-4c3d-ae1a-86449b34d2a8.png",
+  "error": null
+ },
+ {
+  "row": 109,
+  "slot": "03",
+  "out": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/White/000455766933_603_601-black_white_r109_03-back.jpg",
+  "job_id": "1472b912-292a-4d69-be8c-dcde5e25703f",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203504_1472b912-292a-4d69-be8c-dcde5e25703f.png",
+  "error": null
+ },
+ {
+  "row": 111,
+  "slot": "03",
+  "out": "output/On-Model/TOP 604 + BOTTOM N022/Black/000455767527_604_n022_black_r111_03-back.jpg",
+  "job_id": "8022e33a-4eef-4603-b883-954c356ab302",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203505_8022e33a-4eef-4603-b883-954c356ab302.png",
+  "error": null
+ },
+ {
+  "row": 113,
+  "slot": "03",
+  "out": "output/On-Model/TOP 604 + BOTTOM N022/Burgundy/000455767527_604_n022_burgundy_r113_03-back.jpg",
+  "job_id": "a887b4ec-b99e-47df-80d5-9676ba8ddf73",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203504_a887b4ec-b99e-47df-80d5-9676ba8ddf73.png",
+  "error": null
+ },
+ {
+  "row": 115,
+  "slot": "03",
+  "out": "output/On-Model/TOP 604 + BOTTOM N022/Cream - Grey Jeans/000455767527_604_n022_cream_grey-jeans_r115_03-back.jpg",
+  "job_id": "fe4dfbd3-097e-4ea3-b4d5-d8bf56a9ac7a",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203504_fe4dfbd3-097e-4ea3-b4d5-d8bf56a9ac7a.png",
+  "error": null
+ },
+ {
+  "row": 126,
+  "slot": "03",
+  "out": "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Olive - White Jeans/000455770596_7089_no23-as-in-folder-name_olive_white-jeans_r126_03-back.jpg",
+  "job_id": "6408f246-c0a9-4d63-bae7-ad73630bab8b",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203504_6408f246-c0a9-4d63-bae7-ad73630bab8b.png",
+  "error": null
+ },
+ {
+  "row": 132,
+  "slot": "02",
+  "out": "output/On-Model/TOP 7095 + BOTTOM N022/Cream / beige - Black Pants/004557714977_7095_n022_cream-beige_black-pants_r132_02-three-quarter.jpg",
+  "job_id": "fb6c4b39-2d17-4677-b07c-7c6248ddf453",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203504_fb6c4b39-2d17-4677-b07c-7c6248ddf453.png",
+  "error": null
+ },
+ {
+  "row": 133,
+  "slot": "03",
+  "out": "output/On-Model/TOP 7095 + BOTTOM N022/Blush peach - White Pants/004557714977_7095_n022_blush-peach_white-pants_r133_03-back.jpg",
+  "job_id": "a570a712-4bcd-4f16-a9df-736e45bd5697",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203552_a570a712-4bcd-4f16-a9df-736e45bd5697.png",
+  "error": null
+ },
+ {
+  "row": 146,
+  "slot": "03",
+  "out": "output/On-Model/TOP 7097 + BOTTOM N023/Camel brown - White Jeans/004557715820_7097_n023_camel-brown_white-jeans_r146_03-back.jpg",
+  "job_id": "f9b53642-1a26-423f-bd58-90de48e32f72",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203552_f9b53642-1a26-423f-bd58-90de48e32f72.png",
+  "error": null
+ },
+ {
+  "row": 148,
+  "slot": "02",
+  "out": "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Cream - Blue/Black/Pink/Brown/Beige Pants/000676478837_bxx-7039_bxx-1384_cream_blue-black-pink-brown-beige-pants_r148_02-three-quarter.jpg",
+  "job_id": "22b838b9-bd73-4cb3-af9e-fcee7681c4bf",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203551_22b838b9-bd73-4cb3-af9e-fcee7681c4bf.png",
+  "error": null
+ },
+ {
+  "row": 148,
+  "slot": "03",
+  "out": "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Cream - Blue/Black/Pink/Brown/Beige Pants/000676478837_bxx-7039_bxx-1384_cream_blue-black-pink-brown-beige-pants_r148_03-back.jpg",
+  "job_id": "66a5599a-070b-4959-8fd1-0c57f005ebad",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203551_66a5599a-070b-4959-8fd1-0c57f005ebad.png",
+  "error": null
+ },
+ {
+  "row": 150,
+  "slot": "03",
+  "out": "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Kiwi green - White Pants/000676478837_bxx-7039_bxx-1384_kiwi-green_white-pants_r150_03-back.jpg",
+  "job_id": "3795df43-2794-4926-9ce8-6c8ba7fd67af",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203552_3795df43-2794-4926-9ce8-6c8ba7fd67af.png",
+  "error": null
+ },
+ {
+  "row": 151,
+  "slot": "02",
+  "out": "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Turquoise - White Pants/000676478837_bxx-7039_bxx-1384_turquoise_white-pants_r151_02-three-quarter.jpg",
+  "job_id": "1463ec5d-932e-47ed-a9c9-adbdba5c2577",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203553_1463ec5d-932e-47ed-a9c9-adbdba5c2577.png",
+  "error": null
+ },
+ {
+  "row": 151,
+  "slot": "03",
+  "out": "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Turquoise - White Pants/000676478837_bxx-7039_bxx-1384_turquoise_white-pants_r151_03-back.jpg",
+  "job_id": "ac5295ea-ef5f-4125-bce5-4c4f4f11095b",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203647_ac5295ea-ef5f-4125-bce5-4c4f4f11095b.png",
+  "error": null
+ },
+ {
+  "row": 21,
+  "slot": "02",
+  "out": "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Beige leaf print - White Pants/004557717602_126-474_bxx-smb115_beige-leaf-print_white-pants_r021_02-three-quarter.jpg",
+  "job_id": "eb5adc8d-b992-45db-8a0c-53f8c5119adf",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203647_eb5adc8d-b992-45db-8a0c-53f8c5119adf.png",
+  "error": null
+ },
+ {
+  "row": 35,
+  "slot": "02",
+  "out": "output/On-Model/TOP 21008 + BOTTOM N022/Black/094367000087_21008_n022_black_r035_02-three-quarter.jpg",
+  "job_id": "d57df2f9-6516-4cbe-b712-2972d2e89990",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203646_d57df2f9-6516-4cbe-b712-2972d2e89990.png",
+  "error": null
+ },
+ {
+  "row": 42,
+  "slot": "04",
+  "out": "output/On-Model/TOP 21008 + BOTTOM N022/Pink - White Jeans/094367000087_21008_n022_pink_white-jeans_r042_04-editorial-front.jpg",
+  "job_id": "1cf3f547-e913-4641-9075-1f19cdc2abab",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203647_1cf3f547-e913-4641-9075-1f19cdc2abab.png",
+  "error": null
+ },
+ {
+  "row": 72,
+  "slot": "03",
+  "out": "output/On-Model/TOP 5003 + BOTTOM 2500B/Navy/004557710566_5003_2500b_navy_r072_03-back.jpg",
+  "job_id": "8527cf67-1cc7-46ce-abb8-d9feb7b8c5ab",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203647_8527cf67-1cc7-46ce-abb8-d9feb7b8c5ab.png",
+  "error": null
+ },
+ {
+  "row": 74,
+  "slot": "03",
+  "out": "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Burgundy/004557711105_5004_2500b-off-white_burgundy_r074_03-back.jpg",
+  "job_id": "9977b866-8035-4975-ab09-6657f76d7b0b",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203647_9977b866-8035-4975-ab09-6657f76d7b0b.png",
+  "error": null
+ },
+ {
+  "row": 98,
+  "slot": "02",
+  "out": "output/On-Model/TOP 5014 + BOTTOM N023/Cream/004557711730_5014_n023_cream_r098_02-three-quarter.jpg",
+  "job_id": "6a96dfdc-0c02-4239-a8cf-a32a30961ff0",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203737_6a96dfdc-0c02-4239-a8cf-a32a30961ff0.png",
+  "error": null
+ },
+ {
+  "row": 100,
+  "slot": "02",
+  "out": "output/On-Model/TOP 5014 + BOTTOM N023/Cobalt blue/004557711730_5014_n023_cobalt-blue_r100_02-three-quarter.jpg",
+  "job_id": "1b873552-44fb-4382-b3b4-24bcc2f2144c",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203736_1b873552-44fb-4382-b3b4-24bcc2f2144c.png",
+  "error": null
+ },
+ {
+  "row": 105,
+  "slot": "02",
+  "out": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Sand beige - White Jeans or sweatpants/000455766933_603_601-black_sand-beige_white-jeans-or-sweatpants_r105_02-three-quarter.jpg",
+  "job_id": "244064d7-2705-4f59-ae89-3cb18722337e",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203736_244064d7-2705-4f59-ae89-3cb18722337e.png",
+  "error": null
+ },
+ {
+  "row": 107,
+  "slot": "03",
+  "out": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Black/000455766933_603_601-black_black_r107_03-back.jpg",
+  "job_id": "6965bb54-26e0-48c2-8f04-de3a1577c10d",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203736_6965bb54-26e0-48c2-8f04-de3a1577c10d.png",
+  "error": null
+ },
+ {
+  "row": 116,
+  "slot": "04",
+  "out": "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Grey/947990092861_7080-grey_n022-off-white_grey_r116_04-editorial-front.jpg",
+  "job_id": "3a41d207-007b-4c54-9d20-749d429c47dc",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203736_3a41d207-007b-4c54-9d20-749d429c47dc.png",
+  "error": null
+ },
+ {
+  "row": 121,
+  "slot": "03",
+  "out": "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Sage green - White Jeans/000455770596_7089_no23-as-in-folder-name_sage-green_white-jeans_r121_03-back.jpg",
+  "job_id": "a6fbce7f-ac93-4b83-afb4-6b26c5ccfcd8",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203736_a6fbce7f-ac93-4b83-afb4-6b26c5ccfcd8.png",
+  "error": null
+ },
+ {
+  "row": 121,
+  "slot": "05",
+  "out": "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Sage green - White Jeans/000455770596_7089_no23-as-in-folder-name_sage-green_white-jeans_r121_05-editorial-back.jpg",
+  "job_id": "b9f41b34-f26d-4121-b0e5-5eb6ac30f35a",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203820_b9f41b34-f26d-4121-b0e5-5eb6ac30f35a.png",
+  "error": null
+ },
+ {
+  "row": 138,
+  "slot": "03",
+  "out": "output/On-Model/TOP 7095 + BOTTOM N022/Black - White Pants/004557714977_7095_n022_black_white-pants_r138_03-back.jpg",
+  "job_id": "d60333a5-109f-4d25-8c9a-1a3bff45eced",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_203820_d60333a5-109f-4d25-8c9a-1a3bff45eced.png",
+  "error": null
+ }
+]
