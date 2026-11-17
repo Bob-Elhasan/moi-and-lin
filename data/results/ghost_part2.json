@@ -1386,9 +1386,15 @@
   "media_id": "b5d4ceb0-5764-49e3-b29e-7d1f33983e31",
   "folder": "Ghost Mannequin/BOTTOM NO23 (as in folder name)/Black Jeans",
   "file": "ghost_bottom_no23-as-in-folder-name_black-jeans_front.jpg",
-  "job_id": "2401b282-bdb8-4d9b-80f6-1b852b5f9c73",
-  "status": "nsfw",
-  "error": "Content was flagged by the safety system. Try different prompts or inputs."
+  "job_id": "e40de948-1cb9-425b-bf85-a02b44f6e715",
+  "status": "completed",
+  "prior_job_ids": [
+   "2401b282-bdb8-4d9b-80f6-1b852b5f9c73"
+  ],
+  "prior_errors": [
+   "nsfw: Content was flagged by the safety system. Try different prompts or inputs."
+  ],
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155931_e40de948-1cb9-425b-bf85-a02b44f6e715.png"
  },
  {
   "kind": "bottom",
@@ -1569,7 +1575,8 @@
   "folder": "Ghost Mannequin/TOP 7094/Cream",
   "file": "ghost_top_7094_cream_front.jpg",
   "job_id": "1fd8e3db-97be-4347-b4c9-30a1a26121f2",
-  "status": "submitted"
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155735_1fd8e3db-97be-4347-b4c9-30a1a26121f2.png"
  },
  {
   "kind": "top",
@@ -1594,7 +1601,8 @@
   "folder": "Ghost Mannequin/TOP 7094/Dusty mauve / lilac",
   "file": "ghost_top_7094_dusty-mauve-lilac_front.jpg",
   "job_id": "411af8da-90e5-43bc-a3ec-4da6580cd1a1",
-  "status": "submitted"
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155735_411af8da-90e5-43bc-a3ec-4da6580cd1a1.png"
  },
  {
   "kind": "top",
@@ -1671,7 +1679,8 @@
   "folder": "Ghost Mannequin/TOP 7094/Grey",
   "file": "ghost_top_7094_grey_front.jpg",
   "job_id": "e79a1f8a-096d-4f2d-9760-0c3beccbd73b",
-  "status": "submitted"
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155736_e79a1f8a-096d-4f2d-9760-0c3beccbd73b.png"
  },
  {
   "kind": "top",
@@ -1711,5 +1720,298 @@
   "job_id": "97911cdc-a083-4984-8379-05ddff7f3e39",
   "status": "completed",
   "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155738_97911cdc-a083-4984-8379-05ddff7f3e39.png"
+ },
+ {
+  "kind": "top",
+  "code": "7095",
+  "color": "Cream / beige",
+  "side": "front",
+  "row": 132,
+  "media_id": "678b72ce-d0ad-45b1-84ef-6e5b004fa1be",
+  "folder": "Ghost Mannequin/TOP 7095/Cream / beige",
+  "file": "ghost_top_7095_cream-beige_front.jpg",
+  "job_id": "d72871a4-007f-4714-a728-e81ecb536710",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155931_d72871a4-007f-4714-a728-e81ecb536710.png"
+ },
+ {
+  "kind": "top",
+  "code": "7095",
+  "color": "Cream / beige",
+  "side": "back",
+  "row": 132,
+  "media_id": "2092e762-48ee-41c1-96a9-c3d055502ae3",
+  "folder": "Ghost Mannequin/TOP 7095/Cream / beige",
+  "file": "ghost_top_7095_cream-beige_back.jpg",
+  "job_id": "54b080f0-4f6a-4ee9-9ba4-c99ec147babb",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155931_54b080f0-4f6a-4ee9-9ba4-c99ec147babb.png"
+ },
+ {
+  "kind": "bottom",
+  "code": "N022",
+  "color": "Black Pants",
+  "side": "front",
+  "row": 132,
+  "media_id": "678b72ce-d0ad-45b1-84ef-6e5b004fa1be",
+  "folder": "Ghost Mannequin/BOTTOM N022/Black Pants",
+  "file": "ghost_bottom_n022_black-pants_front.jpg",
+  "job_id": "6c174600-9b54-427c-b6de-7625449a4cf8",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155931_6c174600-9b54-427c-b6de-7625449a4cf8.png"
+ },
+ {
+  "kind": "bottom",
+  "code": "N022",
+  "color": "Black Pants",
+  "side": "back",
+  "row": 132,
+  "media_id": "2092e762-48ee-41c1-96a9-c3d055502ae3",
+  "folder": "Ghost Mannequin/BOTTOM N022/Black Pants",
+  "file": "ghost_bottom_n022_black-pants_back.jpg",
+  "job_id": "e0360e9f-35d8-4ea3-ba2b-c473f9166927",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155931_e0360e9f-35d8-4ea3-ba2b-c473f9166927.png"
+ },
+ {
+  "kind": "top",
+  "code": "7095",
+  "color": "Blush peach",
+  "side": "front",
+  "row": 133,
+  "media_id": "678b72ce-d0ad-45b1-84ef-6e5b004fa1be",
+  "folder": "Ghost Mannequin/TOP 7095/Blush peach",
+  "file": "ghost_top_7095_blush-peach_front.jpg",
+  "job_id": "96a421c1-c362-4a92-b17a-60b25b002a0b",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155933_96a421c1-c362-4a92-b17a-60b25b002a0b.png"
+ },
+ {
+  "kind": "top",
+  "code": "7095",
+  "color": "Blush peach",
+  "side": "back",
+  "row": 133,
+  "media_id": "2092e762-48ee-41c1-96a9-c3d055502ae3",
+  "folder": "Ghost Mannequin/TOP 7095/Blush peach",
+  "file": "ghost_top_7095_blush-peach_back.jpg",
+  "job_id": "704fb43d-e718-4339-b216-788a057166f9",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155933_704fb43d-e718-4339-b216-788a057166f9.png"
+ },
+ {
+  "kind": "bottom",
+  "code": "N022",
+  "color": "White Pants",
+  "side": "front",
+  "row": 133,
+  "media_id": "678b72ce-d0ad-45b1-84ef-6e5b004fa1be",
+  "folder": "Ghost Mannequin/BOTTOM N022/White Pants",
+  "file": "ghost_bottom_n022_white-pants_front.jpg",
+  "job_id": "a220550f-5e62-446f-a077-db69e7dec5be",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155934_a220550f-5e62-446f-a077-db69e7dec5be.png"
+ },
+ {
+  "kind": "bottom",
+  "code": "N022",
+  "color": "White Pants",
+  "side": "back",
+  "row": 133,
+  "media_id": "2092e762-48ee-41c1-96a9-c3d055502ae3",
+  "folder": "Ghost Mannequin/BOTTOM N022/White Pants",
+  "file": "ghost_bottom_n022_white-pants_back.jpg",
+  "job_id": "52076157-f045-47a3-b602-d4eb463b8983",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155931_52076157-f045-47a3-b602-d4eb463b8983.png"
+ },
+ {
+  "kind": "top",
+  "code": "7095",
+  "color": "Purple",
+  "side": "front",
+  "row": 134,
+  "media_id": "678b72ce-d0ad-45b1-84ef-6e5b004fa1be",
+  "folder": "Ghost Mannequin/TOP 7095/Purple",
+  "file": "ghost_top_7095_purple_front.jpg",
+  "job_id": "e8e0c22a-a96f-4c92-8d20-d938780e4be5",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155931_e8e0c22a-a96f-4c92-8d20-d938780e4be5.png"
+ },
+ {
+  "kind": "top",
+  "code": "7095",
+  "color": "Purple",
+  "side": "back",
+  "row": 134,
+  "media_id": "2092e762-48ee-41c1-96a9-c3d055502ae3",
+  "folder": "Ghost Mannequin/TOP 7095/Purple",
+  "file": "ghost_top_7095_purple_back.jpg",
+  "job_id": "4c31c517-b806-41f1-9547-548845b4414e",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155936_4c31c517-b806-41f1-9547-548845b4414e.png"
+ },
+ {
+  "kind": "top",
+  "code": "7095",
+  "color": "Yellow",
+  "side": "front",
+  "row": 135,
+  "media_id": "678b72ce-d0ad-45b1-84ef-6e5b004fa1be",
+  "folder": "Ghost Mannequin/TOP 7095/Yellow",
+  "file": "ghost_top_7095_yellow_front.jpg",
+  "job_id": "57087f2d-8ce7-4e34-aa7a-47076ab6d41d",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155931_57087f2d-8ce7-4e34-aa7a-47076ab6d41d.png"
+ },
+ {
+  "kind": "top",
+  "code": "7095",
+  "color": "Yellow",
+  "side": "back",
+  "row": 135,
+  "media_id": "2092e762-48ee-41c1-96a9-c3d055502ae3",
+  "folder": "Ghost Mannequin/TOP 7095/Yellow",
+  "file": "ghost_top_7095_yellow_back.jpg",
+  "job_id": "6c06bc8d-f46d-4286-a497-3a4641d06611",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160019_6c06bc8d-f46d-4286-a497-3a4641d06611.png"
+ },
+ {
+  "kind": "top",
+  "code": "7095",
+  "color": "Grey",
+  "side": "front",
+  "row": 136,
+  "media_id": "678b72ce-d0ad-45b1-84ef-6e5b004fa1be",
+  "folder": "Ghost Mannequin/TOP 7095/Grey",
+  "file": "ghost_top_7095_grey_front.jpg",
+  "job_id": "1937310b-c81b-4ac4-97a1-8dcdee6b03d7",
+  "status": "submitted"
+ },
+ {
+  "kind": "top",
+  "code": "7095",
+  "color": "Grey",
+  "side": "back",
+  "row": 136,
+  "media_id": "2092e762-48ee-41c1-96a9-c3d055502ae3",
+  "folder": "Ghost Mannequin/TOP 7095/Grey",
+  "file": "ghost_top_7095_grey_back.jpg",
+  "job_id": "fd00024b-2ee3-4a80-848d-ffbc7c6d6520",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160019_fd00024b-2ee3-4a80-848d-ffbc7c6d6520.png"
+ },
+ {
+  "kind": "top",
+  "code": "7095",
+  "color": "Taupe",
+  "side": "front",
+  "row": 137,
+  "media_id": "678b72ce-d0ad-45b1-84ef-6e5b004fa1be",
+  "folder": "Ghost Mannequin/TOP 7095/Taupe",
+  "file": "ghost_top_7095_taupe_front.jpg",
+  "job_id": "7d16c1fd-12b7-458b-9e7b-8cc83de21e99",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160020_7d16c1fd-12b7-458b-9e7b-8cc83de21e99.png"
+ },
+ {
+  "kind": "top",
+  "code": "7095",
+  "color": "Taupe",
+  "side": "back",
+  "row": 137,
+  "media_id": "2092e762-48ee-41c1-96a9-c3d055502ae3",
+  "folder": "Ghost Mannequin/TOP 7095/Taupe",
+  "file": "ghost_top_7095_taupe_back.jpg",
+  "job_id": "f9448b67-7e27-4e58-9f57-045885ca1164",
+  "status": "submitted"
+ },
+ {
+  "kind": "top",
+  "code": "7095",
+  "color": "Black",
+  "side": "front",
+  "row": 138,
+  "media_id": "678b72ce-d0ad-45b1-84ef-6e5b004fa1be",
+  "folder": "Ghost Mannequin/TOP 7095/Black",
+  "file": "ghost_top_7095_black_front.jpg",
+  "job_id": "f68efdcd-8060-4cf9-9099-f9e7e6729f4a",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160020_f68efdcd-8060-4cf9-9099-f9e7e6729f4a.png"
+ },
+ {
+  "kind": "top",
+  "code": "7095",
+  "color": "Black",
+  "side": "back",
+  "row": 138,
+  "media_id": "2092e762-48ee-41c1-96a9-c3d055502ae3",
+  "folder": "Ghost Mannequin/TOP 7095/Black",
+  "file": "ghost_top_7095_black_back.jpg",
+  "job_id": "b1372517-7394-4875-92c5-dc2d35896e29",
+  "status": "submitted"
+ },
+ {
+  "kind": "top",
+  "code": "7096",
+  "color": "Cream / ivory",
+  "side": "front",
+  "row": 139,
+  "media_id": "e76953f7-f4b9-4c25-a87e-a7a3a15f0d67",
+  "folder": "Ghost Mannequin/TOP 7096/Cream / ivory",
+  "file": "ghost_top_7096_cream-ivory_front.jpg",
+  "job_id": "ea2d0a82-b1ca-43b1-85f8-0ba6a06367c5",
+  "status": "submitted"
+ },
+ {
+  "kind": "top",
+  "code": "7096",
+  "color": "Cream / ivory",
+  "side": "back",
+  "row": 139,
+  "media_id": "d40c1cbd-049c-4539-a975-edda02e998d2",
+  "folder": "Ghost Mannequin/TOP 7096/Cream / ivory",
+  "file": "ghost_top_7096_cream-ivory_back.jpg",
+  "job_id": "adb56367-b7c9-47b0-a51f-12d5c5dae783",
+  "status": "submitted"
+ },
+ {
+  "kind": "bottom",
+  "code": "N022022 (as in folder name)",
+  "color": "Original",
+  "side": "front",
+  "row": 139,
+  "media_id": "e76953f7-f4b9-4c25-a87e-a7a3a15f0d67",
+  "folder": "Ghost Mannequin/BOTTOM N022022 (as in folder name)/Original",
+  "file": "ghost_bottom_n022022-as-in-folder-name_original_front.jpg",
+  "job_id": "ab19673d-94d8-4304-97ac-ec3ee76dba09",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160019_ab19673d-94d8-4304-97ac-ec3ee76dba09.png"
+ },
+ {
+  "kind": "bottom",
+  "code": "N022022 (as in folder name)",
+  "color": "Original",
+  "side": "back",
+  "row": 139,
+  "media_id": "d40c1cbd-049c-4539-a975-edda02e998d2",
+  "folder": "Ghost Mannequin/BOTTOM N022022 (as in folder name)/Original",
+  "file": "ghost_bottom_n022022-as-in-folder-name_original_back.jpg",
+  "job_id": "22c9cfd3-0aa1-4b1e-bf93-e0ff573903f5",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160019_22c9cfd3-0aa1-4b1e-bf93-e0ff573903f5.png"
+ },
+ {
+  "kind": "top",
+  "code": "7096",
+  "color": "Pink",
+  "side": "front",
+  "row": 140,
+  "media_id": "e76953f7-f4b9-4c25-a87e-a7a3a15f0d67",
+  "folder": "Ghost Mannequin/TOP 7096/Pink",
+  "file": "ghost_top_7096_pink_front.jpg",
+  "job_id": "5ee60129-dd37-4b18-9993-765cab57a48b",
+  "status": "submitted"
  }
 ]
