@@ -1,0 +1,292 @@
+[
+ {
+  "fix": 1,
+  "row": 9,
+  "slot": "03",
+  "sev": "high",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161422_22521dbc-b251-4895-88ac-10fced006f17.png",
+  "old_job": "22521dbc-b251-4895-88ac-10fced006f17",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 126-427) must be Lavender. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 126-427 + BOTTOM 126-439/Lavender/000676478967_126-427_126-439_lavender_r009_03-back.jpg"
+ },
+ {
+  "fix": 4,
+  "row": 16,
+  "slot": "03",
+  "sev": "high",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161736_cdef9523-3b2a-427e-8a7c-258c352cb2f9.png",
+  "old_job": "cdef9523-3b2a-427e-8a7c-258c352cb2f9",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 126-451A) must be Grey. Replace any footwear with closed-toe black leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Grey/004557713949_126-451a_126-451b_grey_r016_03-back.jpg"
+ },
+ {
+  "fix": 6,
+  "row": 19,
+  "slot": "02",
+  "sev": "high",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161735_1475eb60-5d99-4a21-bf63-1e87fd2d4f6c.png",
+  "old_job": "1475eb60-5d99-4a21-bf63-1e87fd2d4f6c",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 126-451A) must be White with dots. Replace any footwear with closed-toe black leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 126-451A + BOTTOM 126-451B/White with dots/004557713949_126-451a_126-451b_white-with-dots_r019_02-three-quarter.jpg"
+ },
+ {
+  "fix": 8,
+  "row": 22,
+  "slot": "02",
+  "sev": "high",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161903_cfe1270a-3c2c-4987-bf62-a688240ae4cc.png",
+  "old_job": "cfe1270a-3c2c-4987-bf62-a688240ae4cc",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 126-474) must be Chocolate brown leaf print. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Chocolate brown leaf print/004557717602_126-474_bxx-smb115_chocolate-brown-leaf-print_r022_02-three-quarter.jpg"
+ },
+ {
+  "fix": 9,
+  "row": 26,
+  "slot": "03",
+  "sev": "high",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_163007_c3099e08-2a65-4345-ae73-2376415f9847.png",
+  "old_job": "c3099e08-2a65-4345-ae73-2376415f9847",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 1418) must be White. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 1418 + BOTTOM 601/White/947990090614_1418_601_white_r026_03-back.jpg"
+ },
+ {
+  "fix": 13,
+  "row": 39,
+  "slot": "03",
+  "sev": "high",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162207_bc167b8a-adb2-47a6-9dbf-c0ca791179d5.png",
+  "old_job": "bc167b8a-adb2-47a6-9dbf-c0ca791179d5",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 21008) must be Taupe beige. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 21008 + BOTTOM N022/Taupe beige/094367000087_21008_n022_taupe-beige_r039_03-back.jpg"
+ },
+ {
+  "fix": 15,
+  "row": 42,
+  "slot": "03",
+  "sev": "high",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162208_141da836-c447-4ecd-a25e-9100ee72e448.png",
+  "old_job": "141da836-c447-4ecd-a25e-9100ee72e448",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 21008) must be Pink; the bottom garment must be White Jeans. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 21008 + BOTTOM N022/Pink - White Jeans/094367000087_21008_n022_pink_white-jeans_r042_03-back.jpg"
+ },
+ {
+  "fix": 21,
+  "row": 65,
+  "slot": "03",
+  "sev": "high",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161116_7df008e3-f73b-4b5d-8646-567c2a9a50b6.png",
+  "old_job": "7df008e3-f73b-4b5d-8646-567c2a9a50b6",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 2505) must be Burgundy; the bottom garment must be White Jeans. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 2505 + BOTTOM N022/Burgundy - White Jeans/000455769903_2505_n022_burgundy_white-jeans_r065_03-back.jpg"
+ },
+ {
+  "fix": 27,
+  "row": 76,
+  "slot": "03",
+  "sev": "high",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161452_e1ed71ea-e939-4f15-a45f-e360b143ebfb.png",
+  "old_job": "e1ed71ea-e939-4f15-a45f-e360b143ebfb",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 5004) must be White; the bottom garment must be Grey Pants. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/White - Grey Pants/004557711105_5004_2500b-off-white_white_grey-pants_r076_03-back.jpg"
+ },
+ {
+  "fix": 29,
+  "row": 84,
+  "slot": "03",
+  "sev": "high",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161947_ffe04e83-04c4-4deb-96cd-a5a7d0594fbc.png",
+  "old_job": "ffe04e83-04c4-4deb-96cd-a5a7d0594fbc",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 5006) must be Black; the bottom garment must be Off White Pants. Replace any footwear with clean minimal black leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 5006 + BOTTOM 2400B/Black - Off White Pants/004557710672_5006_2400b_black_off-white-pants_r084_03-back.jpg"
+ },
+ {
+  "fix": 32,
+  "row": 88,
+  "slot": "02",
+  "sev": "high",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162118_a5a1c4c6-b6e2-4292-acdd-f852f8bb80d3.png",
+  "old_job": "a5a1c4c6-b6e2-4292-acdd-f852f8bb80d3",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 5006) must be White. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 5006 + BOTTOM 2400B/White/004557710672_5006_2400b_white_r088_02-three-quarter.jpg"
+ },
+ {
+  "fix": 44,
+  "row": 108,
+  "slot": "03",
+  "sev": "high",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161120_ed2df4cc-98e6-4180-9365-e205fdef685f.png",
+  "old_job": "ed2df4cc-98e6-4180-9365-e205fdef685f",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 603) must be Brown; the bottom garment must be White Jeans or sweatpants. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Brown - White Jeans or sweatpants/000455766933_603_601-black_brown_white-jeans-or-sweatpants_r108_03-back.jpg"
+ },
+ {
+  "fix": 45,
+  "row": 109,
+  "slot": "03",
+  "sev": "high",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161122_871b5b8c-968c-404a-9213-b3eb6f3669e7.png",
+  "old_job": "871b5b8c-968c-404a-9213-b3eb6f3669e7",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 603) must be White. Replace any footwear with clean minimal black leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/White/000455766933_603_601-black_white_r109_03-back.jpg"
+ },
+ {
+  "fix": 48,
+  "row": 115,
+  "slot": "03",
+  "sev": "high",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161303_4e05b5bc-3f76-41fe-8e0e-e50a2d2b88ea.png",
+  "old_job": "4e05b5bc-3f76-41fe-8e0e-e50a2d2b88ea",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 604) must be Cream; the bottom garment must be Grey Jeans. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 604 + BOTTOM N022/Cream - Grey Jeans/000455767527_604_n022_cream_grey-jeans_r115_03-back.jpg"
+ },
+ {
+  "fix": 52,
+  "row": 126,
+  "slot": "03",
+  "sev": "high",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161603_f1314a92-544e-49cf-b351-3578c4e42429.png",
+  "old_job": "f1314a92-544e-49cf-b351-3578c4e42429",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 7089) must be Olive; the bottom garment must be White Jeans. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Olive - White Jeans/000455770596_7089_no23-as-in-folder-name_olive_white-jeans_r126_03-back.jpg"
+ },
+ {
+  "fix": 55,
+  "row": 132,
+  "slot": "02",
+  "sev": "high",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162048_9c7e512a-fbdb-470c-9207-01cbc1dbe8ee.png",
+  "old_job": "9c7e512a-fbdb-470c-9207-01cbc1dbe8ee",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 7095) must be Cream / beige; the bottom garment must be Black Pants. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 7095 + BOTTOM N022/Cream / beige - Black Pants/004557714977_7095_n022_cream-beige_black-pants_r132_02-three-quarter.jpg"
+ },
+ {
+  "fix": 57,
+  "row": 133,
+  "slot": "03",
+  "sev": "high",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162049_1af3d6d6-eb03-40a1-90cc-5aac0e71e06c.png",
+  "old_job": "1af3d6d6-eb03-40a1-90cc-5aac0e71e06c",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 7095) must be Blush peach; the bottom garment must be White Pants. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 7095 + BOTTOM N022/Blush peach - White Pants/004557714977_7095_n022_blush-peach_white-pants_r133_03-back.jpg"
+ },
+ {
+  "fix": 62,
+  "row": 146,
+  "slot": "03",
+  "sev": "high",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162336_b32b6c9b-4c46-4ab5-a615-bd75afce6b41.png",
+  "old_job": "b32b6c9b-4c46-4ab5-a615-bd75afce6b41",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 7097) must be Camel brown; the bottom garment must be White Jeans. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 7097 + BOTTOM N023/Camel brown - White Jeans/004557715820_7097_n023_camel-brown_white-jeans_r146_03-back.jpg"
+ },
+ {
+  "fix": 64,
+  "row": 148,
+  "slot": "03",
+  "sev": "high",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162452_ddde0015-2581-4f4a-aad5-ff34faf60fa7.png",
+  "old_job": "ddde0015-2581-4f4a-aad5-ff34faf60fa7",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product BXX-7039) must be Cream; the bottom garment must be Blue/Black/Pink/Brown/Beige Pants. Replace any footwear with closed-toe cream leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Cream - Blue/Black/Pink/Brown/Beige Pants/000676478837_bxx-7039_bxx-1384_cream_blue-black-pink-brown-beige-pants_r148_03-back.jpg"
+ },
+ {
+  "fix": 67,
+  "row": 151,
+  "slot": "03",
+  "sev": "high",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162451_893c3d51-397f-42ab-82d9-7c847ba4e287.png",
+  "old_job": "893c3d51-397f-42ab-82d9-7c847ba4e287",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product BXX-7039) must be Turquoise; the bottom garment must be White Pants. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Turquoise - White Pants/000676478837_bxx-7039_bxx-1384_turquoise_white-pants_r151_03-back.jpg"
+ },
+ {
+  "fix": 23,
+  "row": 71,
+  "slot": "01",
+  "sev": "medium",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160823_6b185885-ae48-4d73-a21f-f7a47034846c.png",
+  "old_job": "6b185885-ae48-4d73-a21f-f7a47034846c",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 5003) must be White; the bottom garment must be Grey Jeans. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 5003 + BOTTOM 2500B/White - Grey Jeans/004557710566_5003_2500b_white_grey-jeans_r071_01-front.jpg"
+ },
+ {
+  "fix": 24,
+  "row": 72,
+  "slot": "03",
+  "sev": "medium",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161454_028cb50a-477c-4ace-a6c7-7e213cc8c333.png",
+  "old_job": "028cb50a-477c-4ace-a6c7-7e213cc8c333",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 5003) must be Navy. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 5003 + BOTTOM 2500B/Navy/004557710566_5003_2500b_navy_r072_03-back.jpg"
+ },
+ {
+  "fix": 26,
+  "row": 74,
+  "slot": "03",
+  "sev": "medium",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_182322_64f10544-6698-48ad-b788-de169bce380d.png",
+  "old_job": "64f10544-6698-48ad-b788-de169bce380d",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 5004) must be Burgundy. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Burgundy/004557711105_5004_2500b-off-white_burgundy_r074_03-back.jpg"
+ },
+ {
+  "fix": 30,
+  "row": 87,
+  "slot": "01",
+  "sev": "medium",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161635_44d133d9-2e33-43bc-952f-5c9c22452022.png",
+  "old_job": "44d133d9-2e33-43bc-952f-5c9c22452022",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 5006) must be Light Brown; the bottom garment must be Black Pants. Replace any footwear with clean minimal black leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 5006 + BOTTOM 2400B/Light Brown - Black Pants/004557710672_5006_2400b_light-brown_black-pants_r087_01-front.jpg"
+ },
+ {
+  "fix": 42,
+  "row": 105,
+  "slot": "02",
+  "sev": "medium",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162523_c7fea431-66fa-48db-8b3c-c4f52623f0c0.png",
+  "old_job": "c7fea431-66fa-48db-8b3c-c4f52623f0c0",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 603) must be Sand beige; the bottom garment must be White Jeans or sweatpants. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Sand beige - White Jeans or sweatpants/000455766933_603_601-black_sand-beige_white-jeans-or-sweatpants_r105_02-three-quarter.jpg"
+ },
+ {
+  "fix": 43,
+  "row": 107,
+  "slot": "03",
+  "sev": "medium",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161121_2bdc4fb2-9f44-42e9-8faa-efa7bbebb6cc.png",
+  "old_job": "2bdc4fb2-9f44-42e9-8faa-efa7bbebb6cc",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 603) must be Black. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Black/000455766933_603_601-black_black_r107_03-back.jpg"
+ },
+ {
+  "fix": 50,
+  "row": 121,
+  "slot": "03",
+  "sev": "medium",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161441_653048e5-6d4a-4a99-a32f-38ad3c09f483.png",
+  "old_job": "653048e5-6d4a-4a99-a32f-38ad3c09f483",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 7089) must be Sage green; the bottom garment must be White Jeans. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Sage green - White Jeans/000455770596_7089_no23-as-in-folder-name_sage-green_white-jeans_r121_03-back.jpg"
+ },
+ {
+  "fix": 53,
+  "row": 128,
+  "slot": "01",
+  "sev": "medium",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160935_8fe7731f-ac00-4159-9429-7461dc04799e.png",
+  "old_job": "8fe7731f-ac00-4159-9429-7461dc04799e",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 7094) must be Cream. Replace any footwear with closed-toe black leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Cream/004557712164_7094_n022-off-white_cream_r128_01-front.jpg"
+ },
+ {
+  "fix": 60,
+  "row": 138,
+  "slot": "03",
+  "sev": "medium",
+  "old_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162210_122987ce-037b-44e0-9d95-2e4b08f7e917.png",
+  "old_job": "122987ce-037b-44e0-9d95-2e4b08f7e917",
+  "prompt": "Edit this e-commerce studio photo. Keep the camera angle, pose, framing, the woman, her hair and the garment designs EXACTLY as they are; this is the same photo with only these corrections: the top garment (product 7095) must be Black; the bottom garment must be White Pants. Replace any footwear with closed-toe black leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Exactly one woman in the frame (remove any duplicate person). Natural minimal makeup with no dark or smoky eye makeup. Keep fabric texture, seams and details. Pure white background, same soft studio light. Photorealistic, indistinguishable from a real photograph.",
+  "out": "output/On-Model/TOP 7095 + BOTTOM N022/Black - White Pants/004557714977_7095_n022_black_white-pants_r138_03-back.jpg"
+ }
+]
