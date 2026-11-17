@@ -48,6 +48,27 @@ def product_refs(code: str) -> list[Path]:
     return sorted(p for p in folder.iterdir() if p.suffix.lower() in IMG_EXT)
 
 
+DEFAULT_FOOTWEAR = "White Balerina"
+FLATS = ("closed-toe {c} leather ballet flats: round toe, completely flat sole, no heel, "
+         "no straps, toes fully covered")
+SNEAKERS = "clean minimal {c} leather low-top sneakers with flat soles"
+
+
+def footwear_prompt(sheet_value: str) -> str:
+    """Footwear comes from the Excel only, and is always flats or sneakers.
+    Blank cells default to white ballet flats. Never sandals or heels."""
+    v = (sheet_value or DEFAULT_FOOTWEAR).lower().replace("sheakers", "sneakers")
+    v = v.replace(" or shoes", "")
+    color = "white"
+    for c in ("black", "white", "brown", "beige", "cream", "navy"):
+        if c in v:
+            color = c
+            break
+    shoe = SNEAKERS if ("sneaker" in v or "shoes" in v or "clean" in v) else FLATS
+    return ("Replace any footwear with " + shoe.format(c=color) + ". Both feet fully visible and "
+            "correctly proportioned. Never sandals, heels, or open toes.")
+
+
 def first_prompt(o: Outfit, first_color: str) -> str:
     lines = [
         "Image 1 is the model in our studio. The other images are product references.",
@@ -59,7 +80,7 @@ def first_prompt(o: Outfit, first_color: str) -> str:
         lines.append(f"The bottom's color must be: {o.bottom_color}.")
     if o.undershirt:
         lines.append(f"Add a plain {o.undershirt} undershirt under the top.")
-    lines.append(f"Footwear: {o.footwear}." if o.footwear else "Footwear: simple shoes that suit the outfit.")
+    lines.append(footwear_prompt(o.footwear))
     lines.append(STUDIO_RULES)
     return "\n".join(lines)
 
