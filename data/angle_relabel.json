@@ -1,0 +1,34 @@
+{
+ "004557710566": {
+  "01-front": "02-three-quarter",
+  "02-three-quarter": "03-three-quarter-alt",
+  "03-back": "01-front"
+ },
+ "004557711105": {
+  "03-back": "03-front-alt"
+ },
+ "000676478837": {
+  "01-front": "03-back",
+  "02-three-quarter": "01-front-detail",
+  "03-back": "03-back-alt"
+ },
+ "947990090614": {
+  "03-back": "03-side"
+ },
+ "000455769903": {
+  "02-three-quarter": "02-three-quarter-detail",
+  "03-back": "03-back-detail"
+ },
+ "947990087843": {
+  "02-three-quarter": "02-front-detail"
+ },
+ "004557711716": {
+  "03-back": "03-back-detail"
+ },
+ "000455766933": {
+  "02-three-quarter": "02-three-quarter-detail"
+ },
+ "000455767527": {
+  "02-three-quarter": "02-three-quarter-detail"
+ }
+}
