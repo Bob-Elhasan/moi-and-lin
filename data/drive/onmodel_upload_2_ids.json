@@ -860,6 +860,38 @@
   "004557715820_7097_n023_camel-brown_white-jeans_r146_03-back.jpg": {
    "id": "13bSha03BZRT7SvapbaEgK6a6MdjfQH4R",
    "viewUrl": "https://drive.google.com/file/d/13bSha03BZRT7SvapbaEgK6a6MdjfQH4R/view?usp=drivesdk"
+  },
+  "004557715820_7097_n023_dark-brown_r147_02-three-quarter.jpg": {
+   "id": "1jTIA4ig20bLBJzVuhCh0cSjXZkAwUc3F",
+   "viewUrl": "https://drive.google.com/file/d/1jTIA4ig20bLBJzVuhCh0cSjXZkAwUc3F/view?usp=drivesdk"
+  },
+  "004557715820_7097_n023_dark-brown_r147_03-back.jpg": {
+   "id": "1i_x7Kk5UCb6RIyfLfya6kxj3zbonZc_0",
+   "viewUrl": "https://drive.google.com/file/d/1i_x7Kk5UCb6RIyfLfya6kxj3zbonZc_0/view?usp=drivesdk"
+  },
+  "000676478837_bxx-7039_bxx-1384_cream_blue-black-pink-brown-beige-pants_r148_02-three-quarter.jpg": {
+   "id": "18fu9Wfswo2z7pR3cNdMeuDfZ5GbAfSQN",
+   "viewUrl": "https://drive.google.com/file/d/18fu9Wfswo2z7pR3cNdMeuDfZ5GbAfSQN/view?usp=drivesdk"
+  },
+  "000676478837_bxx-7039_bxx-1384_cream_blue-black-pink-brown-beige-pants_r148_03-back.jpg": {
+   "id": "1e6RXRwS-Mzc6VAgkH_UHQzafoKnBc9b9",
+   "viewUrl": "https://drive.google.com/file/d/1e6RXRwS-Mzc6VAgkH_UHQzafoKnBc9b9/view?usp=drivesdk"
+  },
+  "000676478837_bxx-7039_bxx-1384_kiwi-green_white-pants_r150_02-three-quarter.jpg": {
+   "id": "1SEOeGhQGr3oB6BbVfsfUPFUjSW3RQVoH",
+   "viewUrl": "https://drive.google.com/file/d/1SEOeGhQGr3oB6BbVfsfUPFUjSW3RQVoH/view?usp=drivesdk"
+  },
+  "000676478837_bxx-7039_bxx-1384_turquoise_white-pants_r151_02-three-quarter.jpg": {
+   "id": "15GGwBtfc10w_Q5pTwScZXlPSWmnc3cVy",
+   "viewUrl": "https://drive.google.com/file/d/15GGwBtfc10w_Q5pTwScZXlPSWmnc3cVy/view?usp=drivesdk"
+  },
+  "000676478837_bxx-7039_bxx-1384_turquoise_white-pants_r151_03-back.jpg": {
+   "id": "1WPscuGiU0_qHmVgFSThlJRzibiY5EXJS",
+   "viewUrl": "https://drive.google.com/file/d/1WPscuGiU0_qHmVgFSThlJRzibiY5EXJS/view?usp=drivesdk"
+  },
+  "000676478837_bxx-7039_bxx-1384_kiwi-green_white-pants_r150_03-back.jpg": {
+   "id": "1d4tuO29-Tf6JBXpU8gqb4wsTmhvOL6RC",
+   "viewUrl": "https://drive.google.com/file/d/1d4tuO29-Tf6JBXpU8gqb4wsTmhvOL6RC/view?usp=drivesdk"
   }
  },
  "errors": {
@@ -873,6 +905,10 @@
   "004557714977_7095_n022_cream-beige_black-pants_r132_02-three-quarter.jpg": "Nothing was uploaded: /home/user/moi-and-lin/output/On-Model/TOP 7095 + BOTTOM N022/Cream / beige - Black Pants/004557714977_7095_n022_cream-beige_black-pants_r132_02-three-quarter.jpg either does not exist or can't be sent by reference from here (this message doesn't say which). Check the path. If it is right, a reference won't work for this file, but base64Content still accepts a file's base64. [failed twice; file exists locally with matching sha256]",
   "004557714977_7095_n022_cream-beige_black-pants_r132_03-back.jpg": "Nothing was uploaded: /home/user/moi-and-lin/output/On-Model/TOP 7095 + BOTTOM N022/Cream / beige - Black Pants/004557714977_7095_n022_cream-beige_black-pants_r132_03-back.jpg either does not exist or can't be sent by reference from here (this message doesn't say which). Check the path. If it is right, a reference won't work for this file, but base64Content still accepts a file's base64. [failed twice; file exists locally with matching sha256]",
   "004557715738_7096_n022022-as-in-folder-name_cream-ivory_r139_02-three-quarter.jpg": "Nothing was uploaded: /home/user/moi-and-lin/output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Cream / ivory/004557715738_7096_n022022-as-in-folder-name_cream-ivory_r139_02-three-quarter.jpg either does not exist or can't be sent by reference from here (this message doesn't say which). Check the path. If it is right, a reference won't work for this file, but base64Content still accepts a file's base64. [failed twice; file exists locally with matching sha256]",
-  "004557715738_7096_n022022-as-in-folder-name_cream-ivory_r139_03-back.jpg": "Nothing was uploaded: /home/user/moi-and-lin/output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Cream / ivory/004557715738_7096_n022022-as-in-folder-name_cream-ivory_r139_03-back.jpg either does not exist or can't be sent by reference from here (this message doesn't say which). Check the path. If it is right, a reference won't work for this file, but base64Content still accepts a file's base64. [failed twice; file exists locally with matching sha256]"
+  "004557715738_7096_n022022-as-in-folder-name_cream-ivory_r139_03-back.jpg": "Nothing was uploaded: /home/user/moi-and-lin/output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Cream / ivory/004557715738_7096_n022022-as-in-folder-name_cream-ivory_r139_03-back.jpg either does not exist or can't be sent by reference from here (this message doesn't say which). Check the path. If it is right, a reference won't work for this file, but base64Content still accepts a file's base64. [failed twice; file exists locally with matching sha256]",
+  "004557715820_7097_n023_beige-stone_r145_02-three-quarter.jpg": "Nothing was uploaded: /home/user/moi-and-lin/output/On-Model/TOP 7097 + BOTTOM N023/Beige / stone/004557715820_7097_n023_beige-stone_r145_02-three-quarter.jpg either does not exist or can't be sent by reference from here (this message doesn't say which). Check the path. If it is right, a reference won't work for this file, but base64Content still accepts a file's base64. [failed twice; file exists locally with matching sha256]",
+  "004557715820_7097_n023_beige-stone_r145_03-back.jpg": "Nothing was uploaded: /home/user/moi-and-lin/output/On-Model/TOP 7097 + BOTTOM N023/Beige / stone/004557715820_7097_n023_beige-stone_r145_03-back.jpg either does not exist or can't be sent by reference from here (this message doesn't say which). Check the path. If it is right, a reference won't work for this file, but base64Content still accepts a file's base64. [failed twice; file exists locally with matching sha256]",
+  "000676478837_bxx-7039_bxx-1384_chocolate-brown_white-black-pants_r149_02-three-quarter.jpg": "Nothing was uploaded: /home/user/moi-and-lin/output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Chocolate brown - White /Black Pants/000676478837_bxx-7039_bxx-1384_chocolate-brown_white-black-pants_r149_02-three-quarter.jpg either does not exist or can't be sent by reference from here (this message doesn't say which). Check the path. If it is right, a reference won't work for this file, but base64Content still accepts a file's base64. [failed twice; file exists locally with matching sha256]",
+  "000676478837_bxx-7039_bxx-1384_chocolate-brown_white-black-pants_r149_03-back.jpg": "Nothing was uploaded: /home/user/moi-and-lin/output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Chocolate brown - White /Black Pants/000676478837_bxx-7039_bxx-1384_chocolate-brown_white-black-pants_r149_03-back.jpg either does not exist or can't be sent by reference from here (this message doesn't say which). Check the path. If it is right, a reference won't work for this file, but base64Content still accepts a file's base64. [failed twice; file exists locally with matching sha256]"
  }
 }
