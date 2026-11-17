@@ -133,5 +133,50 @@
   "job_id": "d6bd9e07-119f-47cb-976c-b2ec245255d5",
   "status": "completed",
   "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160009_d6bd9e07-119f-47cb-976c-b2ec245255d5.png"
+ },
+ {
+  "row": 13,
+  "code": "000676478967",
+  "top": "126-427",
+  "bottom": "126-439",
+  "top_color": "Purple",
+  "bottom_color": "White Pants",
+  "footwear": "White Shoes",
+  "folder": "On-Model/TOP 126-427 + BOTTOM 126-439/Purple - White Pants",
+  "shot": "01-front",
+  "file": "000676478967_126-427_126-439_purple_white-pants_r013_01-front.jpg",
+  "job_id": "5f245a8d-a8fb-4c42-9e2f-8ce75aa699a2",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160009_5f245a8d-a8fb-4c42-9e2f-8ce75aa699a2.png"
+ },
+ {
+  "row": 14,
+  "code": "000676478967",
+  "top": "126-427",
+  "bottom": "126-439",
+  "top_color": "Sky blue",
+  "bottom_color": "White Pants",
+  "footwear": "",
+  "folder": "On-Model/TOP 126-427 + BOTTOM 126-439/Sky blue - White Pants",
+  "shot": "01-front",
+  "file": "000676478967_126-427_126-439_sky-blue_white-pants_r014_01-front.jpg",
+  "job_id": "661a92a9-6649-415b-b018-ffe47ea71de1",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160009_661a92a9-6649-415b-b018-ffe47ea71de1.png"
+ },
+ {
+  "row": 15,
+  "code": "000676478967",
+  "top": "126-427",
+  "bottom": "126-439",
+  "top_color": "White",
+  "bottom_color": "",
+  "footwear": "",
+  "folder": "On-Model/TOP 126-427 + BOTTOM 126-439/White",
+  "shot": "01-front",
+  "file": "000676478967_126-427_126-439_white_r015_01-front.jpg",
+  "job_id": "fd973a4e-3fb3-4aa7-b6d4-539aaf94ae4b",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160103_fd973a4e-3fb3-4aa7-b6d4-539aaf94ae4b.png"
  }
 ]
