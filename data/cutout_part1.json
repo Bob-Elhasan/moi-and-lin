@@ -1,0 +1,612 @@
+[
+ {
+  "local": "output/Ghost Mannequin/BOTTOM 126-451B/Original/ghost_bottom_126-451b_original_back.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM 126-451B/Original/ghost_bottom_126-451b_original_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154557_cd40b90d-b698-4431-98fd-656da232c72b.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM 126-451B/Original/ghost_bottom_126-451b_original_front.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM 126-451B/Original/ghost_bottom_126-451b_original_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154558_0424be6c-6f94-4dc1-a1dc-58fd1729ea8e.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM 2400B/Black Pants/ghost_bottom_2400b_black-pants_back.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM 2400B/Black Pants/ghost_bottom_2400b_black-pants_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154430_4f45dc06-9893-4910-b086-dda1fecbf5a7.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM 2400B/Original/ghost_bottom_2400b_original_back.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM 2400B/Original/ghost_bottom_2400b_original_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154340_210e8bca-9ad6-4387-8f4d-39df5a850c88.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM 2500B/Grey Pants/ghost_bottom_2500b_grey-pants_back.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM 2500B/Grey Pants/ghost_bottom_2500b_grey-pants_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154557_81a8db73-77a4-47e7-973f-a12522b29a58.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM 2500B/Grey/Beige Jeans/ghost_bottom_2500b_grey-beige-jeans_front.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM 2500B/Grey/Beige Jeans/ghost_bottom_2500b_grey-beige-jeans_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154743_e8206c76-168d-474c-8f6e-8be35beac4a4.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM 601 BLACK/Original/ghost_bottom_601-black_original_back.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM 601 BLACK/Original/ghost_bottom_601-black_original_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155046_44529768-6eb4-43e3-974e-798d69f5a5fc.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM 601 BLACK/Original/ghost_bottom_601-black_original_front.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM 601 BLACK/Original/ghost_bottom_601-black_original_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155045_7d2a1c7c-744c-4092-9915-db6baa598d97.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM 601/Black Pants/ghost_bottom_601_black-pants_back.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM 601/Black Pants/ghost_bottom_601_black-pants_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154959_a4d47336-d1ba-4304-8e2d-6c6300d749bc.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM 601/Black Pants/ghost_bottom_601_black-pants_front.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM 601/Black Pants/ghost_bottom_601_black-pants_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154959_9d38e06b-73d2-43a2-a9dc-1a53eb2ded4a.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM BXX-1384/White Pants/ghost_bottom_bxx-1384_white-pants_front.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM BXX-1384/White Pants/ghost_bottom_bxx-1384_white-pants_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160444_47962cc8-ba3f-4196-890d-211424f8abcd.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM BXX-SMB115/Original/ghost_bottom_bxx-smb115_original_front.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM BXX-SMB115/Original/ghost_bottom_bxx-smb115_original_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154844_4f549737-f95d-47a3-8d75-28b31e81380a.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM BXX-SMB115/White Pants/ghost_bottom_bxx-smb115_white-pants_back.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM BXX-SMB115/White Pants/ghost_bottom_bxx-smb115_white-pants_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154847_ff590398-87da-46b3-8e52-6433b8ae296e.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM N022 OFF WHITE/Black Pants/ghost_bottom_n022-off-white_black-pants_back.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM N022 OFF WHITE/Black Pants/ghost_bottom_n022-off-white_black-pants_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155738_97911cdc-a083-4984-8379-05ddff7f3e39.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM N022 OFF WHITE/Black Pants/ghost_bottom_n022-off-white_black-pants_front.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM N022 OFF WHITE/Black Pants/ghost_bottom_n022-off-white_black-pants_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155734_93fa5a86-647e-4e47-87a4-608db76a9ced.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM N022/Black Pants/ghost_bottom_n022_black-pants_front.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM N022/Black Pants/ghost_bottom_n022_black-pants_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155931_6c174600-9b54-427c-b6de-7625449a4cf8.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM N022/Original/ghost_bottom_n022_original_back.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM N022/Original/ghost_bottom_n022_original_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155250_ae401cc8-715d-4c36-b363-62abdcf3a57e.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM N022/White Jeans/ghost_bottom_n022_white-jeans_back.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM N022/White Jeans/ghost_bottom_n022_white-jeans_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155437_541eda5a-53ab-42c4-af29-b978ddfffb22.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM N022/White Pants/ghost_bottom_n022_white-pants_back.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM N022/White Pants/ghost_bottom_n022_white-pants_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155931_52076157-f045-47a3-b602-d4eb463b8983.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM N022/White Pants/ghost_bottom_n022_white-pants_front.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM N022/White Pants/ghost_bottom_n022_white-pants_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155934_a220550f-5e62-446f-a077-db69e7dec5be.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM N022022 (as in folder name)/Original/ghost_bottom_n022022-as-in-folder-name_original_front.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM N022022 (as in folder name)/Original/ghost_bottom_n022022-as-in-folder-name_original_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160019_ab19673d-94d8-4304-97ac-ec3ee76dba09.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM N022022 (as in folder name)/White Jeans/ghost_bottom_n022022-as-in-folder-name_white-jeans_back.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM N022022 (as in folder name)/White Jeans/ghost_bottom_n022022-as-in-folder-name_white-jeans_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160212_96640a4c-7aa8-429b-98bd-078421f5cd31.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM N023/White jeans/ghost_bottom_n023_white-jeans_back.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM N023/White jeans/ghost_bottom_n023_white-jeans_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154936_effc3440-bda8-4736-a4da-1066ace67f95.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM N023/White jeans/ghost_bottom_n023_white-jeans_front.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM N023/White jeans/ghost_bottom_n023_white-jeans_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154935_2e107c2f-e1b3-4370-8f71-ead658a1057c.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM N023/White/Beige/Black/ghost_bottom_n023_white-beige-black_back.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM N023/White/Beige/Black/ghost_bottom_n023_white-beige-black_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154936_0db53478-b969-496c-864d-0cb8b8220062.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM N024/Grey Jeans/ghost_bottom_n024_grey-jeans_back.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM N024/Grey Jeans/ghost_bottom_n024_grey-jeans_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155756_c1a5c625-83d1-4246-a6eb-997d1e32b3fc.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM N025/Original/ghost_bottom_n025_original_back.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM N025/Original/ghost_bottom_n025_original_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155253_53e44e88-940b-46d1-890d-3634b6905d0b.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM N025/Original/ghost_bottom_n025_original_front.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM N025/Original/ghost_bottom_n025_original_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155249_0ccbc327-8c03-4483-9176-52605ed42ce1.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM NC024/Original/ghost_bottom_nc024_original_back.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM NC024/Original/ghost_bottom_nc024_original_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155242_23100ab0-d856-4266-b26f-65bd394c5915.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM NO23 (as in folder name)/Black Jeans/ghost_bottom_no23-as-in-folder-name_black-jeans_back.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM NO23 (as in folder name)/Black Jeans/ghost_bottom_no23-as-in-folder-name_black-jeans_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155516_17d72349-c2c8-4250-b6a5-37e27a0a7593.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM NO23 (as in folder name)/Original/ghost_bottom_no23-as-in-folder-name_original_front.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM NO23 (as in folder name)/Original/ghost_bottom_no23-as-in-folder-name_original_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155622_17219bfc-18b3-4cdf-a442-b351842b5d22.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM NO23 (as in folder name)/White Jeans/ghost_bottom_no23-as-in-folder-name_white-jeans_back.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM NO23 (as in folder name)/White Jeans/ghost_bottom_no23-as-in-folder-name_white-jeans_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155517_3d05524d-a2fb-4306-b366-57575810260c.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/BOTTOM NO23 (as in folder name)/White Jeans/ghost_bottom_no23-as-in-folder-name_white-jeans_front.jpg",
+  "out": "output_grey/Ghost Mannequin/BOTTOM NO23 (as in folder name)/White Jeans/ghost_bottom_no23-as-in-folder-name_white-jeans_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155516_cc61fa7e-3020-43ca-b64e-45dedb0bf12c.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 126-427/Chocolate brown/ghost_top_126-427_chocolate-brown_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 126-427/Chocolate brown/ghost_top_126-427_chocolate-brown_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154334_95c84009-c0c4-4a11-8469-9f106104bbfc.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 126-427/Chocolate brown/ghost_top_126-427_chocolate-brown_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 126-427/Chocolate brown/ghost_top_126-427_chocolate-brown_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154334_f30ebfbf-b67a-450f-9d8f-b8b7d9a0b088.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 126-427/Sage green/ghost_top_126-427_sage-green_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 126-427/Sage green/ghost_top_126-427_sage-green_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154432_72d1a1de-a857-4e59-83b1-404d325f6892.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 126-451A/Brown check/ghost_top_126-451a_brown-check_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 126-451A/Brown check/ghost_top_126-451a_brown-check_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154557_fb045090-a461-49db-bc17-99b3d7fed32d.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 126-451A/Brown check/ghost_top_126-451a_brown-check_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 126-451A/Brown check/ghost_top_126-451a_brown-check_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154557_dd79ed1d-2216-4fa1-8b25-c8183ae10c23.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 126-451A/Grey/ghost_top_126-451a_grey_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 126-451A/Grey/ghost_top_126-451a_grey_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154558_5320b36f-4510-4b59-a8ff-cef75e7a6f4c.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 126-451A/Grey/ghost_top_126-451a_grey_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 126-451A/Grey/ghost_top_126-451a_grey_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154558_76514fa4-501c-4330-b7ec-136092ffc6af.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 126-451A/Slate blue/ghost_top_126-451a_slate-blue_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 126-451A/Slate blue/ghost_top_126-451a_slate-blue_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154845_4e206b35-0e0a-4e1c-8812-9a7cc3190cb3.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 126-451A/White with dots/ghost_top_126-451a_white-with-dots_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 126-451A/White with dots/ghost_top_126-451a_white-with-dots_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154845_e4e88c72-51bf-42f4-81e0-a626d9aa5129.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 126-474/Chocolate brown leaf print/ghost_top_126-474_chocolate-brown-leaf-print_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 126-474/Chocolate brown leaf print/ghost_top_126-474_chocolate-brown-leaf-print_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155000_0987f604-a077-4a48-9327-6096b2c49c9f.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 1418/Black/ghost_top_1418_black_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 1418/Black/ghost_top_1418_black_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155000_144a13b5-988b-4161-bf55-fb66dd083afc.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 1418/Black/ghost_top_1418_black_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 1418/Black/ghost_top_1418_black_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154959_baf7754b-28b6-4a17-9a3d-e9f70755a6e3.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 1418/Sand beige/ghost_top_1418_sand-beige_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 1418/Sand beige/ghost_top_1418_sand-beige_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155244_4c51b47b-bf98-4600-bbe8-a2187909eff1.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 1418/White/ghost_top_1418_white_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 1418/White/ghost_top_1418_white_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155244_dad78611-f982-4450-a2b3-465641719056.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 1431/Dark navy / charcoal/ghost_top_1431_dark-navy-charcoal_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 1431/Dark navy / charcoal/ghost_top_1431_dark-navy-charcoal_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155243_c599a6d2-12a1-4e8d-a596-229ee2b602ac.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 1431/Dark navy / charcoal/ghost_top_1431_dark-navy-charcoal_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 1431/Dark navy / charcoal/ghost_top_1431_dark-navy-charcoal_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155243_16cd751f-a1d8-4e76-b3e2-52bb9feea017.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 1431/Grey/ghost_top_1431_grey_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 1431/Grey/ghost_top_1431_grey_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155243_4e1d5262-da20-4928-95d2-67dea59e8905.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 1431/Grey/ghost_top_1431_grey_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 1431/Grey/ghost_top_1431_grey_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155242_05cf3284-33ce-4ce7-b317-fc0f9a9ec23d.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 1438/Mustard / camel/ghost_top_1438_mustard-camel_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 1438/Mustard / camel/ghost_top_1438_mustard-camel_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155243_9bcf20c0-076e-47cd-902b-247f7f5cfb84.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 1438/Mustard / camel/ghost_top_1438_mustard-camel_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 1438/Mustard / camel/ghost_top_1438_mustard-camel_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155242_41ba05dc-14a4-471d-9fac-3eb1b51f1ebe.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 21008/Black/ghost_top_21008_black_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 21008/Black/ghost_top_21008_black_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155249_df54e3dc-b6f9-4acf-9bcb-d5cefb378172.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 21008/Mauve/ghost_top_21008_mauve_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 21008/Mauve/ghost_top_21008_mauve_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155541_47776045-b4cb-4f2a-baee-c71720c18358.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 21008/Pink/ghost_top_21008_pink_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 21008/Pink/ghost_top_21008_pink_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155436_9841b8e6-61eb-425c-ae5a-12ac367b8b3b.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 21008/Plum/ghost_top_21008_plum_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 21008/Plum/ghost_top_21008_plum_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155435_47e29adf-871f-424d-b0d4-57eb718a8518.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 21008/Taupe beige/ghost_top_21008_taupe-beige_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 21008/Taupe beige/ghost_top_21008_taupe-beige_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155437_32f49da6-55f5-4b67-8b60-101f2a128c5b.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 2400A/Grey/ghost_top_2400a_grey_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 2400A/Grey/ghost_top_2400a_grey_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155540_e7edf26a-98d9-4ebf-84ca-5ab22b80d7be.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 2403/Burgundy/ghost_top_2403_burgundy_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 2403/Burgundy/ghost_top_2403_burgundy_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155650_290d7602-94d0-42b1-ab17-6ec63cfa0d17.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 2403/Burgundy/ghost_top_2403_burgundy_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 2403/Burgundy/ghost_top_2403_burgundy_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155651_c1300dba-69f9-4ede-8beb-241a4757dda0.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 2403/Dusty rose/ghost_top_2403_dusty-rose_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 2403/Dusty rose/ghost_top_2403_dusty-rose_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155651_ede434f3-5e61-4d6e-af79-29cb1a5569d4.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 2403/Grey/ghost_top_2403_grey_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 2403/Grey/ghost_top_2403_grey_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155650_9c740e5b-4e02-4ea0-a05f-19eef8a0a8c8.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 2403/Grey/ghost_top_2403_grey_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 2403/Grey/ghost_top_2403_grey_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155649_6049e8a4-ba35-40f0-b430-4e7acdd20724.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 2408/Black/ghost_top_2408_black_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 2408/Black/ghost_top_2408_black_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155650_5822f22d-9e29-4363-a113-2980831b12d1.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 2408/Lavender grey/ghost_top_2408_lavender-grey_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 2408/Lavender grey/ghost_top_2408_lavender-grey_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155757_4b1cc874-8205-46a9-b502-775f48812284.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 2408/Lavender grey/ghost_top_2408_lavender-grey_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 2408/Lavender grey/ghost_top_2408_lavender-grey_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155756_6e25e2d4-eb64-43a9-a4e9-a2738f321e75.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5003/Black/ghost_top_5003_black_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5003/Black/ghost_top_5003_black_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160011_a5b71ba8-776e-4ada-aec7-ae527ef41cc3.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5003/Dusty mauve/ghost_top_5003_dusty-mauve_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5003/Dusty mauve/ghost_top_5003_dusty-mauve_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160011_a0c5c6ea-b869-4342-a5f6-1e96953f1103.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5003/Lavender grey/ghost_top_5003_lavender-grey_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5003/Lavender grey/ghost_top_5003_lavender-grey_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160012_32282665-bd12-4772-b0c8-f793eabc1c91.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5003/Lavender grey/ghost_top_5003_lavender-grey_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5003/Lavender grey/ghost_top_5003_lavender-grey_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160012_26fe9ab1-0f1d-4070-825c-188c9173f550.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5003/Navy/ghost_top_5003_navy_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5003/Navy/ghost_top_5003_navy_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160119_12cce2ab-4485-405c-982a-5cb0f2f1d6f5.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5003/Navy/ghost_top_5003_navy_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5003/Navy/ghost_top_5003_navy_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160118_5fd7162d-bcc0-4e6f-9d9d-7771e73cfb91.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5003/Plum brown/ghost_top_5003_plum-brown_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5003/Plum brown/ghost_top_5003_plum-brown_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160013_af41ec1b-706b-4d3f-ab4a-0d8e70aab68a.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5003/White/ghost_top_5003_white_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5003/White/ghost_top_5003_white_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160012_0cda52e3-97a9-4edb-88af-d83127137441.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5005/Chocolate brown/ghost_top_5005_chocolate-brown_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5005/Chocolate brown/ghost_top_5005_chocolate-brown_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160337_5e0f8dff-d5d3-47ef-93c6-5e40948bbc2a.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5006/Black/ghost_top_5006_black_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5006/Black/ghost_top_5006_black_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154341_0a7b1a87-644e-46da-af40-169897eb6da8.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5006/Burgundy/ghost_top_5006_burgundy_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5006/Burgundy/ghost_top_5006_burgundy_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154340_87c27c3b-4b53-4797-9d9f-71e6611b3d6b.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5006/Light Brown/ghost_top_5006_light-brown_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5006/Light Brown/ghost_top_5006_light-brown_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154432_0acb497b-a434-4dc9-852f-eaeb439ab1ca.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5006/Navy/ghost_top_5006_navy_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5006/Navy/ghost_top_5006_navy_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154341_a0403cc9-260e-4a5f-8537-8d599dede661.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5010/Black/ghost_top_5010_black_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5010/Black/ghost_top_5010_black_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154557_998a1299-854c-410f-a00f-19eda96af994.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5010/Black/ghost_top_5010_black_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5010/Black/ghost_top_5010_black_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154559_dfbf057e-993e-48ac-af88-0fbe7a156175.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5010/Brown/ghost_top_5010_brown_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5010/Brown/ghost_top_5010_brown_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154558_6b143373-4b4c-4f45-ae1a-410af81b2a8d.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5010/Brown/ghost_top_5010_brown_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5010/Brown/ghost_top_5010_brown_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154558_a96a3223-fc3b-40cc-b57a-3af77f87c6f6.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5010/Burgundy/ghost_top_5010_burgundy_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5010/Burgundy/ghost_top_5010_burgundy_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154603_ff0e646b-1374-40d8-88a2-bde34a5d5159.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5010/Burgundy/ghost_top_5010_burgundy_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5010/Burgundy/ghost_top_5010_burgundy_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154558_c9d62e04-910a-4058-b013-5cb9005a2535.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5010/Dusty pink/ghost_top_5010_dusty-pink_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5010/Dusty pink/ghost_top_5010_dusty-pink_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154558_a8514bf6-3238-42ed-8f1b-6f0a74304337.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5010/Dusty pink/ghost_top_5010_dusty-pink_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5010/Dusty pink/ghost_top_5010_dusty-pink_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154558_9a25331e-e22e-4190-9962-814a52f155bf.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5010/Grey/ghost_top_5010_grey_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5010/Grey/ghost_top_5010_grey_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154431_3d0df996-b09b-46d3-b6a2-10c7b164ddc2.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5010/Navy/ghost_top_5010_navy_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5010/Navy/ghost_top_5010_navy_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154600_4416f055-3ee9-4d6f-a9ea-599ef5e41be7.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5010/Navy/ghost_top_5010_navy_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5010/Navy/ghost_top_5010_navy_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154559_5577715e-3e5f-4180-97f5-5e30173b80df.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5014/Burgundy/ghost_top_5014_burgundy_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5014/Burgundy/ghost_top_5014_burgundy_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154935_9425cd9b-8077-4061-acf5-bf9a352a3d13.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5014/Camel/ghost_top_5014_camel_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5014/Camel/ghost_top_5014_camel_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154935_c30cdc43-d8a6-4b3c-9bd7-d0aadf007e13.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5014/Cobalt blue/ghost_top_5014_cobalt-blue_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5014/Cobalt blue/ghost_top_5014_cobalt-blue_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154935_b89e40a7-60b4-4806-a44c-ca9e95ac2ab2.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5014/Cobalt blue/ghost_top_5014_cobalt-blue_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5014/Cobalt blue/ghost_top_5014_cobalt-blue_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154936_5aa329ac-52c6-42fd-9e91-295ca07a1ed3.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5014/Olive/ghost_top_5014_olive_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5014/Olive/ghost_top_5014_olive_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154743_96d37914-6391-47bb-b635-6fcaf2408f2b.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 5014/Olive/ghost_top_5014_olive_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 5014/Olive/ghost_top_5014_olive_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_154744_4781e886-3269-48c1-b680-fc35b39a3591.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 603/Black/ghost_top_603_black_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 603/Black/ghost_top_603_black_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155248_d02a43fa-c212-46c9-84ea-0a6dfc43874b.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 603/Black/ghost_top_603_black_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 603/Black/ghost_top_603_black_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155246_439a671d-4127-4048-8f92-1608dab6190a.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 603/Brown/ghost_top_603_brown_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 603/Brown/ghost_top_603_brown_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155246_10a1f335-3208-4de4-acb5-4501df70a28d.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 603/Brown/ghost_top_603_brown_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 603/Brown/ghost_top_603_brown_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155246_049c5446-8865-4074-8ba8-5d53e5d22d1d.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 603/Burgundy/ghost_top_603_burgundy_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 603/Burgundy/ghost_top_603_burgundy_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155045_60e4d5ce-3a1d-47bf-862b-0852babb3e61.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 603/Burgundy/ghost_top_603_burgundy_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 603/Burgundy/ghost_top_603_burgundy_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155046_3b47293b-92fc-44d9-a714-9d0c6529afe5.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 603/White/ghost_top_603_white_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 603/White/ghost_top_603_white_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155246_96e1386a-fb01-4a04-b799-02ede2109730.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 604/Black/ghost_top_604_black_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 604/Black/ghost_top_604_black_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155247_69aac5d0-fbee-4257-880d-507bb06f4417.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 604/Burgundy/ghost_top_604_burgundy_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 604/Burgundy/ghost_top_604_burgundy_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155329_1edbf907-5e3e-4bcc-9e8f-eea108fe0b72.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 604/Burgundy/ghost_top_604_burgundy_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 604/Burgundy/ghost_top_604_burgundy_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155330_e6b412e2-0035-42d8-9e19-6ec2d3dbbc3b.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 604/Dark brown/ghost_top_604_dark-brown_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 604/Dark brown/ghost_top_604_dark-brown_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155246_27e36c73-0628-4ddd-bbd9-5fd3f9526eac.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 7080 GREY/Chocolate brown/ghost_top_7080-grey_chocolate-brown_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 7080 GREY/Chocolate brown/ghost_top_7080-grey_chocolate-brown_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155329_f8592d9d-69da-44a8-9bb1-1bc16918a789.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 7080 GREY/Chocolate brown/ghost_top_7080-grey_chocolate-brown_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 7080 GREY/Chocolate brown/ghost_top_7080-grey_chocolate-brown_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155330_b60ad8e2-b583-4d30-bc12-d799a86ddb4c.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 7080 GREY/Grey/ghost_top_7080-grey_grey_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 7080 GREY/Grey/ghost_top_7080-grey_grey_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155329_4d6b875c-d889-4969-921a-98b69a609781.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 7089/Brown/ghost_top_7089_brown_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 7089/Brown/ghost_top_7089_brown_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155622_d5bedd2a-6270-4a9a-8a65-9b2bddbc253e.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 7089/Olive/ghost_top_7089_olive_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 7089/Olive/ghost_top_7089_olive_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155624_d313b61e-b6b1-4e6f-84f3-b1b854cf4806.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 7094/Khaki taupe/ghost_top_7094_khaki-taupe_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 7094/Khaki taupe/ghost_top_7094_khaki-taupe_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_155624_b3692961-fc11-45b6-9559-5cf87778af20.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP 7095/Black/ghost_top_7095_black_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP 7095/Black/ghost_top_7095_black_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160021_b1372517-7394-4875-92c5-dc2d35896e29.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP BXX-7039/Chocolate brown/ghost_top_bxx-7039_chocolate-brown_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP BXX-7039/Chocolate brown/ghost_top_bxx-7039_chocolate-brown_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160445_f04174b4-6b8f-4905-8930-95f31559454c.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP BXX-7039/Chocolate brown/ghost_top_bxx-7039_chocolate-brown_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP BXX-7039/Chocolate brown/ghost_top_bxx-7039_chocolate-brown_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160326_49f27818-69e9-41b5-bceb-ae2c4a3d1163.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP BXX-7039/Kiwi green/ghost_top_bxx-7039_kiwi-green_front.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP BXX-7039/Kiwi green/ghost_top_bxx-7039_kiwi-green_front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160444_76477ac9-7c0a-4078-8da5-5dc96df8df76.png"
+ },
+ {
+  "local": "output/Ghost Mannequin/TOP BXX-7039/Turquoise/ghost_top_bxx-7039_turquoise_back.jpg",
+  "out": "output_grey/Ghost Mannequin/TOP BXX-7039/Turquoise/ghost_top_bxx-7039_turquoise_back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160445_260e1993-03d2-4d47-affe-6d916fb7dce5.png"
+ },
+ {
+  "local": "output/On-Model/TOP 125-7071 + BOTTOM 126-439/Sky blue/947990095282_125-7071_126-439_sky-blue_r004_03-back.jpg",
+  "out": "output_grey/On-Model/TOP 125-7071 + BOTTOM 126-439/Sky blue/947990095282_125-7071_126-439_sky-blue_r004_03-back.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_163008_6ee2612c-ecfb-45ae-b4fe-1f8645606abd.png"
+ },
+ {
+  "local": "output/On-Model/TOP 126-427 + BOTTOM 126-439/Black/000676478967_126-427_126-439_black_r005_05-editorial-back.jpg",
+  "out": "output_grey/On-Model/TOP 126-427 + BOTTOM 126-439/Black/000676478967_126-427_126-439_black_r005_05-editorial-back.jpg",
+  "generation_id": "LGDpsdrVN8KGXkTDaNgI"
+ },
+ {
+  "local": "output/On-Model/TOP 126-427 + BOTTOM 126-439/Mustard - White Pants/000676478967_126-427_126-439_mustard_white-pants_r011_01-front.jpg",
+  "out": "output_grey/On-Model/TOP 126-427 + BOTTOM 126-439/Mustard - White Pants/000676478967_126-427_126-439_mustard_white-pants_r011_01-front.jpg",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160824_c563ac68-ee8f-4199-b883-3544dcb3cf64.png"
+ }
+]
