@@ -1,54 +1,62 @@
-"""Build data/catalog_jobs.json: 3 catalog shots per sheet row, from that row's real shoot.
+"""Build catalog jobs (v3): light retouch of the REAL shoot, 3 original poses per row.
 
-Naming convention (file):  <barcode>_<TOP>_<BOTTOM>_<top-color>[_<bottom-color>]_r<row>_<NN-shot>.jpg
-Folder:                    TOP <top> + BOTTOM <bottom>/<Top color>[ - <Bottom color>]/
+Per row, shot 01-front is generated first; 02-three-quarter and 03-back then use the
+front RESULT as a second reference so face, eyes, makeup, hair and garment color match.
+
+Folder: On-Model/TOP <top> + BOTTOM <bottom>/<Top color>[ - <Bottom color>]/
+File:   <barcode>_<top>_<bottom>_<top-color>[_<bottom-color>]_r<row>_<NN-shot>.jpg
 """
 import json, re
 from studio.generate import footwear_prompt
 
-def slug(s):
-    return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
+def slug(s): return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
 
-QUALITY = (
-    "This must look like a real photograph from a professional fashion e-commerce studio shoot, not AI: "
-    "natural skin texture with visible pores, no plastic smoothing, real hair strands, true-to-life fabric texture, "
-    "weave, seams, stitching and buttons exactly as in the reference, accurate garment length and fit, natural fabric folds. "
-    "Same woman as the reference (same face, hair and body), relaxed confident expression with a soft natural closed-mouth smile, "
-    "natural minimal makeup: fresh even skin, light blush, nude lips, soft brows, no heavy eyeliner. "
-    "Pure white seamless background (#FFFFFF), soft diffused studio lighting with a gentle natural floor shadow, "
-    "85mm lens, full body head to toe, centered, 2:3 vertical. Premium website catalog quality."
-)
-SHOTS = [
-    ("01-front", "1", "Pose: front view, standing relaxed with weight on one leg, one hand casually in the trouser pocket or lightly at the waist, the other arm relaxed, slight head tilt, looking at the camera."),
-    ("02-three-quarter", "2", "Pose: three-quarter view, standing naturally and at ease, shoulders relaxed, arms soft, gaze slightly off camera."),
-    ("03-walking", "1", "Pose: natural mid-step walk toward the camera at a slight angle, arms swinging gently, garments moving naturally, glancing at the camera."),
-]
+NATURAL = ("Real skin texture with pores, natural matte makeup (no shine, no highlighter, no contouring), no smoothing, "
+           "no plastic look. Pure white background, same soft studio light. Indistinguishable from an untouched real photograph.")
+
+def front_prompt(m, outfit):
+    return ("Light professional retouch of this real fashion e-commerce photo, like a high-end retoucher would do. "
+            "Keep the SAME real woman and her identity. Refine subtly: balance eye symmetry (both eyes equally open, same size "
+            "and level, irises centered, gaze direct), even and harmonious facial features, without changing her face shape or "
+            "who she is. Calm, confident, relaxed fashion-model expression, lips softly closed. Relax the shoulders and hands very "
+            f"slightly; same pose, framing and camera angle. {outfit} {footwear_prompt(m['footwear'])} "
+            "Keep every garment's exact cut, fabric weave, seams, stitching and buttons. " + NATURAL)
+
+def follow_prompt(view):
+    if view == "back view":
+        return ("Image 1 is a real fashion e-commerce photo (back view) to retouch. Image 2 is the approved retouched front shot of "
+                "the same woman in the same outfit. Keep image 1's pose, framing and camera angle exactly. Match the hair color and "
+                "texture and every garment's color, fabric and details exactly to image 2; if feet are visible they wear the same "
+                "shoes as image 2. " + NATURAL)
+    return (f"Image 1 is a real fashion e-commerce photo ({view}) to retouch. Image 2 is the approved retouched front shot of the "
+            "same woman in the same outfit. Retouch image 1 so her face, eyes (balanced symmetry, same eye shape and color), brows, "
+            "lips, skin tone, makeup and hair match image 2 exactly, as the same person photographed from this angle. Match every "
+            "garment's color, fabric, details and the shoes exactly to image 2. Keep image 1's pose, framing and camera angle; relax "
+            "shoulders and hands very slightly. Calm, confident fashion-model expression. " + NATURAL)
 
 media = json.load(open("data/media_map.json"))
-inv = {}
+rows = {}
 for j in json.load(open("data/jobs.json")):
-    inv.setdefault((j["row"]), {"meta": j, "poses": {}})["poses"][j["pose"]] = j["drive_id"]
+    rows.setdefault(j["row"], {"m": j, "p": {}})["p"][j["pose"]] = media[j["drive_id"]]
 
 out = []
-for row, d in sorted(inv.items()):
-    m = d["meta"]
-    outfit = []
-    outfit.append(f"the top (product {m['top']})" + (f" recolored to {m['top_color']}" if m["top_color"] else ""))
-    outfit.append(f"the bottom (product {m['bottom']})" + (f" in {m['bottom_color']}" if m["bottom_color"] else ""))
+for row, d in sorted(rows.items()):
+    m, p = d["m"], d["p"]
+    outfit = ""
+    if m["top_color"]: outfit += f"Change the top garment (product {m['top']}) to {m['top_color']}. "
+    if m["bottom_color"]: outfit += f"Change the bottom garment (product {m['bottom']}) to {m['bottom_color']}. "
     color_part = slug(m["top_color"] or "original") + (f"_{slug(m['bottom_color'])}" if m["bottom_color"] else "")
-    folder = f"TOP {m['top']} + BOTTOM {m['bottom']}/{m['top_color'] or 'Original'}" + (f" - {m['bottom_color']}" if m["bottom_color"] else "")
-    for shot, pose, pose_txt in SHOTS:
-        src = d["poses"].get(pose) or next(iter(d["poses"].values()))
-        prompt = (f"Use the reference photo for the exact garments and the model's identity. Show her wearing the same outfit: "
-                  f"{' and '.join(outfit)}, plus every other garment exactly as in the reference. "
-                  f"{footwear_prompt(m['footwear'])} {pose_txt} {QUALITY}")
-        out.append({"row": row, "code": m["code"], "top": m["top"], "bottom": m["bottom"], "top_color": m["top_color"],
-                    "bottom_color": m["bottom_color"], "footwear": m["footwear"], "shot": shot, "media_id": media[src],
-                    "folder": folder,
-                    "file": f"{m['code']}_{slug(m['top'])}_{slug(m['bottom'])}_{color_part}_r{row:03d}_{shot}.jpg",
-                    "prompt": prompt})
+    base = f"{m['code']}_{slug(m['top'])}_{slug(m['bottom'])}_{color_part}_r{row:03d}"
+    shots = [{"shot": "01-front", "source": p.get("1") or next(iter(p.values())), "prompt": front_prompt(m, outfit)}]
+    if "2" in p: shots.append({"shot": "02-three-quarter", "source": p["2"], "prompt": follow_prompt("three-quarter view")})
+    if "3" in p: shots.append({"shot": "03-back", "source": p["3"], "prompt": follow_prompt("back view")})
+    out.append({"row": row, "code": m["code"], "top": m["top"], "bottom": m["bottom"], "top_color": m["top_color"],
+                "bottom_color": m["bottom_color"], "footwear": m["footwear"],
+                "folder": f"On-Model/TOP {m['top']} + BOTTOM {m['bottom']}/{m['top_color'] or 'Original'}"
+                          + (f" - {m['bottom_color']}" if m["bottom_color"] else ""),
+                "shots": [dict(s, file=f"{base}_{s['shot']}.jpg") for s in shots]})
 json.dump(out, open("data/catalog_jobs.json", "w"), indent=1)
+n = len(out)
 for i in range(3):
-    json.dump(out[i::3] if False else out[i * len(out) // 3:(i + 1) * len(out) // 3], open(f"data/catalog_part{i+1}.json", "w"), indent=1)
-print(len(out), "shots,", len({o['file'] for o in out}), "unique names")
-print(out[0]["folder"], "/", out[0]["file"])
+    json.dump(out[i * n // 3:(i + 1) * n // 3], open(f"data/catalog_part{i+1}.json", "w"), indent=1)
+print(n, "rows,", sum(len(r["shots"]) for r in out), "shots")
