@@ -51,9 +51,11 @@ def assign(rows):
         out[r["row"]] = (f, b)
     return out
 
-COMMON = ("Use the reference photo as the exact source for the woman and the outfit: same face, eyes, natural makeup, "
-          "hair, skin tone, and every garment and the shoes exactly as in the reference (same colors, fabric, texture, "
-          "seams, buttons, length and fit). Do not add or remove any garment or accessory. ")
+COMMON = ("Image 1 is the approved photo of this exact woman in this exact outfit. Keep her identity IDENTICAL to image 1: "
+          "same face shape, eyes, eye color, brows, nose, lips, jawline, skin tone and complexion, same natural minimal makeup "
+          "(no added eyeliner, eyeshadow, contour, highlighter or lipstick), same hair color, length and texture. Do not "
+          "beautify, slim, age or change her in any way. Keep every garment exactly as in the reference images (same colors, "
+          "fabric, texture, seams, buttons, length and fit). Do not add or remove any garment or accessory. ")
 TAIL = (" Natural, effortless body language, a candid moment rather than a stiff pose. Pure white seamless studio "
         "background (#FFFFFF), soft natural window-like light, subtle gentle shadows, true-to-life colors, 85mm lens. "
         "Real skin texture with pores, natural minimal makeup, no retouched or glossy look. Looks like an authentic "
@@ -63,5 +65,6 @@ def prompt(pose, side):
     frame = ("Close editorial framing from just above the head to the hips, the top filling most of the frame, camera at "
              "chest height, natural slightly off-center composition. Front-facing pose: " if side == "front" else
              "Close editorial framing from just above the head to the hips, the back and side of the top filling most of "
-             "the frame, camera at shoulder height, showing back details (yoke, seams, hood, belt) clearly. Pose: ")
+             "the frame, camera at shoulder height, showing back details (yoke, seams, hood, belt) clearly. Image 2 shows the real "
+             "back of the outfit: match its back details exactly. Pose: ")
     return COMMON + frame + pose[1] + "." + TAIL
