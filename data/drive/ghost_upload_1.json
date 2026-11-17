@@ -1,0 +1,2004 @@
+[
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 125-7071",
+   "Black"
+  ],
+  "file": "ghost_top_125-7071_black_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 125-7071/Black/ghost_top_125-7071_black_front.jpg",
+  "sha256": "5c8f59338004c730765f0a7a6ad43d981ff4197099f27a52760a72e5b211258a",
+  "row": 3,
+  "code": "125-7071",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 125-7071",
+   "Black"
+  ],
+  "file": "ghost_top_125-7071_black_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 125-7071/Black/ghost_top_125-7071_black_back.jpg",
+  "sha256": "1ac0f3aa78df92a9a67dee95da0796bb0fe2f876af123616b459f1e32f9cb118",
+  "row": 3,
+  "code": "125-7071",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 126-439",
+   "Original"
+  ],
+  "file": "ghost_bottom_126-439_original_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 126-439/Original/ghost_bottom_126-439_original_front.jpg",
+  "sha256": "5f6a4e628bfdeead0b9c77cb351d0eafa7ba47a43de119bd7cfd984efd48eec4",
+  "row": 3,
+  "code": "126-439",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 126-439",
+   "Original"
+  ],
+  "file": "ghost_bottom_126-439_original_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 126-439/Original/ghost_bottom_126-439_original_back.jpg",
+  "sha256": "2a25e144567b0648d9ec898b2bac76e733445d634e1da5305587835820180763",
+  "row": 3,
+  "code": "126-439",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 125-7071",
+   "Sky blue"
+  ],
+  "file": "ghost_top_125-7071_sky-blue_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 125-7071/Sky blue/ghost_top_125-7071_sky-blue_front.jpg",
+  "sha256": "ace803b40e733c450906be1b7a7cd040d526ef8607cea481cdad6ea92e7b1e6c",
+  "row": 4,
+  "code": "125-7071",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 125-7071",
+   "Sky blue"
+  ],
+  "file": "ghost_top_125-7071_sky-blue_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 125-7071/Sky blue/ghost_top_125-7071_sky-blue_back.jpg",
+  "sha256": "53698933889580b2003491cecd8763173e5ef159ae5c6fb03ee11e207276ab00",
+  "row": 4,
+  "code": "125-7071",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "Black"
+  ],
+  "file": "ghost_top_126-427_black_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/Black/ghost_top_126-427_black_front.jpg",
+  "sha256": "cc818ae8c828a1af01596e5602f1a09ee0685a7a23eec1adec487f40cd2b3fa7",
+  "row": 5,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "Black"
+  ],
+  "file": "ghost_top_126-427_black_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/Black/ghost_top_126-427_black_back.jpg",
+  "sha256": "314278636ec256977919ec32976f8886290a6a90ab9ff5fd92b50960e2393d34",
+  "row": 5,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "Chocolate brown"
+  ],
+  "file": "ghost_top_126-427_chocolate-brown_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/Chocolate brown/ghost_top_126-427_chocolate-brown_front.jpg",
+  "sha256": "551f8de317cbf699d9e3ee5b2af3e7d85f2ba438d29b206b698c7d8d56a3dc0e",
+  "row": 6,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "Chocolate brown"
+  ],
+  "file": "ghost_top_126-427_chocolate-brown_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/Chocolate brown/ghost_top_126-427_chocolate-brown_back.jpg",
+  "sha256": "fe80776605f995caef652f77e323061411e771f8b51e1337dae25f91faaa1c04",
+  "row": 6,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "Beige-stone"
+  ],
+  "file": "ghost_top_126-427_beige-stone_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/Beige / stone/ghost_top_126-427_beige-stone_front.jpg",
+  "sha256": "861975c7ae3ba23fa38d5ea3dd40dbd1dd804357dda09c3cd2900aa469ca8fe7",
+  "row": 7,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "Beige-stone"
+  ],
+  "file": "ghost_top_126-427_beige-stone_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/Beige / stone/ghost_top_126-427_beige-stone_back.jpg",
+  "sha256": "07d5028655640b819641744b485d694ae50e607a073c7340561f58aff5e1cb84",
+  "row": 7,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "Dusty rose"
+  ],
+  "file": "ghost_top_126-427_dusty-rose_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/Dusty rose/ghost_top_126-427_dusty-rose_front.jpg",
+  "sha256": "eef73a4cdf73d3d1a872e25501b59d3057d13ca18f09d089280c2c1cfa51aeda",
+  "row": 8,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "Dusty rose"
+  ],
+  "file": "ghost_top_126-427_dusty-rose_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/Dusty rose/ghost_top_126-427_dusty-rose_back.jpg",
+  "sha256": "70d255e8ca0f051a760915e9f04ad5824173ae99608e84ba21e9322c2e0c2212",
+  "row": 8,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "Lavender"
+  ],
+  "file": "ghost_top_126-427_lavender_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/Lavender/ghost_top_126-427_lavender_front.jpg",
+  "sha256": "ca5a4ee419187d8c07bb010e014e7ae21d72885abd14574affb014885abcac02",
+  "row": 9,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "Lavender"
+  ],
+  "file": "ghost_top_126-427_lavender_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/Lavender/ghost_top_126-427_lavender_back.jpg",
+  "sha256": "e423406b3e77cee6e75f73eabd16a26554f23365d324586a510893adcd553520",
+  "row": 9,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "Sage green"
+  ],
+  "file": "ghost_top_126-427_sage-green_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/Sage green/ghost_top_126-427_sage-green_front.jpg",
+  "sha256": "5f1fee010c8603b4ac813e79386895eff249a8479cb8a7d4a34f24596dc7e6bf",
+  "row": 10,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "Sage green"
+  ],
+  "file": "ghost_top_126-427_sage-green_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/Sage green/ghost_top_126-427_sage-green_back.jpg",
+  "sha256": "f5ebdb956142e85f610d58b06e99fb164afd2268c483ec105cf98ed41d1a7d81",
+  "row": 10,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 126-439",
+   "White Pants"
+  ],
+  "file": "ghost_bottom_126-439_white-pants_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 126-439/White Pants/ghost_bottom_126-439_white-pants_front.jpg",
+  "sha256": "207de21954fd67b2c18fe7af5d34599dc0bc9ec05e54cab4875a03c411243f93",
+  "row": 10,
+  "code": "126-439",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 126-439",
+   "White Pants"
+  ],
+  "file": "ghost_bottom_126-439_white-pants_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 126-439/White Pants/ghost_bottom_126-439_white-pants_back.jpg",
+  "sha256": "2e395a2d03ed48964518134f702b501cb46a05d38e79c1df62b713dd4e8be362",
+  "row": 10,
+  "code": "126-439",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "Mustard"
+  ],
+  "file": "ghost_top_126-427_mustard_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/Mustard/ghost_top_126-427_mustard_front.jpg",
+  "sha256": "3a4ab62faf5fedbab0461570e7ba3aad33398181659b9ee84de5c5a14d0ecaa3",
+  "row": 11,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "Mustard"
+  ],
+  "file": "ghost_top_126-427_mustard_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/Mustard/ghost_top_126-427_mustard_back.jpg",
+  "sha256": "232f4c3c7c3326266d621d0c6e3412f5d743d510bf81f181968e088e39bd4a06",
+  "row": 11,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "Olive"
+  ],
+  "file": "ghost_top_126-427_olive_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/Olive/ghost_top_126-427_olive_front.jpg",
+  "sha256": "435c44978b667d08b92b23b243825ea54e67c1f3962476bc6347d80344173c5b",
+  "row": 12,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "Olive"
+  ],
+  "file": "ghost_top_126-427_olive_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/Olive/ghost_top_126-427_olive_back.jpg",
+  "sha256": "6e05e1ce467c2045a9fa3c2298883059158f48dc262be25eda86e40bf442b4b0",
+  "row": 12,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "Purple"
+  ],
+  "file": "ghost_top_126-427_purple_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/Purple/ghost_top_126-427_purple_front.jpg",
+  "sha256": "b0219c8d932c96fa07bdffe7e108d3ce61dfe92a713e4705b0db6ed3c920b014",
+  "row": 13,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "Purple"
+  ],
+  "file": "ghost_top_126-427_purple_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/Purple/ghost_top_126-427_purple_back.jpg",
+  "sha256": "53f6ec7a7063ea530d2fc13b2c85ab807cbd1895dea0644ffa6abd903fc9a05c",
+  "row": 13,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "Sky blue"
+  ],
+  "file": "ghost_top_126-427_sky-blue_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/Sky blue/ghost_top_126-427_sky-blue_front.jpg",
+  "sha256": "88263302bb376b0900a5be9732a2442919707748b32b96a80cad825a6968a317",
+  "row": 14,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "Sky blue"
+  ],
+  "file": "ghost_top_126-427_sky-blue_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/Sky blue/ghost_top_126-427_sky-blue_back.jpg",
+  "sha256": "e62e9974f84df9dee7b8095db4908fba618a13b60788f1d44c9445f8bd6db405",
+  "row": 14,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "White"
+  ],
+  "file": "ghost_top_126-427_white_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/White/ghost_top_126-427_white_front.jpg",
+  "sha256": "d7af77367ea4d49f31288b5e2b0208f7705098c2467d0af09666c08ac09f14e4",
+  "row": 15,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-427",
+   "White"
+  ],
+  "file": "ghost_top_126-427_white_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-427/White/ghost_top_126-427_white_back.jpg",
+  "sha256": "11c8932ccb830c8157b13e141493a4eea886a9329bb86b3f0b24396bbcec5d15",
+  "row": 15,
+  "code": "126-427",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-451A",
+   "Grey"
+  ],
+  "file": "ghost_top_126-451a_grey_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-451A/Grey/ghost_top_126-451a_grey_front.jpg",
+  "sha256": "0271f498201c72a2e630dd3383a1e915e91167d9aef51658aca0f8d36dadf510",
+  "row": 16,
+  "code": "126-451A",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-451A",
+   "Grey"
+  ],
+  "file": "ghost_top_126-451a_grey_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-451A/Grey/ghost_top_126-451a_grey_back.jpg",
+  "sha256": "075d1936662b2516de4ae767324ec1d7b982784f92fb1abab2687eacc2e28596",
+  "row": 16,
+  "code": "126-451A",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 126-451B",
+   "Original"
+  ],
+  "file": "ghost_bottom_126-451b_original_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 126-451B/Original/ghost_bottom_126-451b_original_front.jpg",
+  "sha256": "1f64e32e71fb65240b3b31c728934227078150996b52fa8fb0686a8639f57fa1",
+  "row": 16,
+  "code": "126-451B",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 126-451B",
+   "Original"
+  ],
+  "file": "ghost_bottom_126-451b_original_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 126-451B/Original/ghost_bottom_126-451b_original_back.jpg",
+  "sha256": "b64063f49023d51868373f734924a9d488ccb9b9fd1f868b46c36cd01738e09d",
+  "row": 16,
+  "code": "126-451B",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-451A",
+   "Brown check"
+  ],
+  "file": "ghost_top_126-451a_brown-check_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-451A/Brown check/ghost_top_126-451a_brown-check_front.jpg",
+  "sha256": "20911f80d7ab0f51ea78bbbcb09b4a947de5465774703e2cbd0fccc8a04a0201",
+  "row": 17,
+  "code": "126-451A",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-451A",
+   "Brown check"
+  ],
+  "file": "ghost_top_126-451a_brown-check_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-451A/Brown check/ghost_top_126-451a_brown-check_back.jpg",
+  "sha256": "617a12574c334d9a1aba841418fa563ddaae78fe94c749a92e5e408f01de811d",
+  "row": 17,
+  "code": "126-451A",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-451A",
+   "Slate blue"
+  ],
+  "file": "ghost_top_126-451a_slate-blue_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-451A/Slate blue/ghost_top_126-451a_slate-blue_front.jpg",
+  "sha256": "3b5181b4cb09eb13a08f7fdd75f34c86d1a8f597a33955d19b1712dca519f462",
+  "row": 18,
+  "code": "126-451A",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-451A",
+   "Slate blue"
+  ],
+  "file": "ghost_top_126-451a_slate-blue_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-451A/Slate blue/ghost_top_126-451a_slate-blue_back.jpg",
+  "sha256": "740576d2a0e93ae12b563e9bcd7e10061c4fba7b065ecb2171aa01c2eedf8c66",
+  "row": 18,
+  "code": "126-451A",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-451A",
+   "White with dots"
+  ],
+  "file": "ghost_top_126-451a_white-with-dots_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-451A/White with dots/ghost_top_126-451a_white-with-dots_front.jpg",
+  "sha256": "61b9e20cc5fe1a5d4e70d30d63f03c2529547a78a970290dcbb440f41cb6ff2d",
+  "row": 19,
+  "code": "126-451A",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-451A",
+   "White with dots"
+  ],
+  "file": "ghost_top_126-451a_white-with-dots_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-451A/White with dots/ghost_top_126-451a_white-with-dots_back.jpg",
+  "sha256": "3c326820e162169494e1c515e783f0ad3bb688ca6ee3d925d8f22241ddfea7b1",
+  "row": 19,
+  "code": "126-451A",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-474",
+   "Black-white floral print"
+  ],
+  "file": "ghost_top_126-474_black-white-floral-print_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-474/Black / white floral print/ghost_top_126-474_black-white-floral-print_front.jpg",
+  "sha256": "7312b79a00d5ab3cb6ba045d3937d697ec65e37d7f1008cbbf7a5b0aa831f959",
+  "row": 20,
+  "code": "126-474",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-474",
+   "Black-white floral print"
+  ],
+  "file": "ghost_top_126-474_black-white-floral-print_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-474/Black / white floral print/ghost_top_126-474_black-white-floral-print_back.jpg",
+  "sha256": "d26903e92a182bb2dd5bfd5dc6c936d11cc414b63996dff30832fab60627d782",
+  "row": 20,
+  "code": "126-474",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM BXX-SMB115",
+   "Original"
+  ],
+  "file": "ghost_bottom_bxx-smb115_original_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM BXX-SMB115/Original/ghost_bottom_bxx-smb115_original_front.jpg",
+  "sha256": "9181e3dfbcdebf5ce250494f205849a1f2ca491e670b3a592c067cb05f9440b4",
+  "row": 20,
+  "code": "BXX-SMB115",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM BXX-SMB115",
+   "Original"
+  ],
+  "file": "ghost_bottom_bxx-smb115_original_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM BXX-SMB115/Original/ghost_bottom_bxx-smb115_original_back.jpg",
+  "sha256": "3e13bad747cfb0b25d8ea8752c424b127cb0a1e5c36c71943b4bd3613593f6f6",
+  "row": 20,
+  "code": "BXX-SMB115",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-474",
+   "Beige leaf print"
+  ],
+  "file": "ghost_top_126-474_beige-leaf-print_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-474/Beige leaf print/ghost_top_126-474_beige-leaf-print_front.jpg",
+  "sha256": "d41c15e925171015ecba2f4fef9e83ff0fd5fc95e0f7965194e77e25df2252cb",
+  "row": 21,
+  "code": "126-474",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-474",
+   "Beige leaf print"
+  ],
+  "file": "ghost_top_126-474_beige-leaf-print_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-474/Beige leaf print/ghost_top_126-474_beige-leaf-print_back.jpg",
+  "sha256": "5fe8b7159912186657b5d90f6c6c997e440a035db0051f78c1f4c3b90f580b9b",
+  "row": 21,
+  "code": "126-474",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM BXX-SMB115",
+   "White Pants"
+  ],
+  "file": "ghost_bottom_bxx-smb115_white-pants_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM BXX-SMB115/White Pants/ghost_bottom_bxx-smb115_white-pants_front.jpg",
+  "sha256": "b8008f333ea5ae6fa42ae7d9f93fbeb787ffdfaa3690a487fd3e98ffb1c835ce",
+  "row": 21,
+  "code": "BXX-SMB115",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM BXX-SMB115",
+   "White Pants"
+  ],
+  "file": "ghost_bottom_bxx-smb115_white-pants_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM BXX-SMB115/White Pants/ghost_bottom_bxx-smb115_white-pants_back.jpg",
+  "sha256": "3380581aeb85d1843a1f0320c4bbcb7e02173c185a8941492709bef993d33779",
+  "row": 21,
+  "code": "BXX-SMB115",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-474",
+   "Chocolate brown leaf print"
+  ],
+  "file": "ghost_top_126-474_chocolate-brown-leaf-print_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-474/Chocolate brown leaf print/ghost_top_126-474_chocolate-brown-leaf-print_front.jpg",
+  "sha256": "87f0202922448aa3aeebab3745f49c3fd7086d5b90bcb95478baaa022bdd27c0",
+  "row": 22,
+  "code": "126-474",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-474",
+   "Chocolate brown leaf print"
+  ],
+  "file": "ghost_top_126-474_chocolate-brown-leaf-print_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-474/Chocolate brown leaf print/ghost_top_126-474_chocolate-brown-leaf-print_back.jpg",
+  "sha256": "b2ae2dd67ec6337c2aac627eac75a926e0b639841ca7c08b20381a8e97a015f7",
+  "row": 22,
+  "code": "126-474",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-474",
+   "Olive green leaf print"
+  ],
+  "file": "ghost_top_126-474_olive-green-leaf-print_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-474/Olive green leaf print/ghost_top_126-474_olive-green-leaf-print_front.jpg",
+  "sha256": "4facf02581f9817b8942d64567082995ba87d9f587090586aa33a04fd8220f86",
+  "row": 23,
+  "code": "126-474",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 126-474",
+   "Olive green leaf print"
+  ],
+  "file": "ghost_top_126-474_olive-green-leaf-print_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 126-474/Olive green leaf print/ghost_top_126-474_olive-green-leaf-print_back.jpg",
+  "sha256": "a426b97c717b16a7ad87da4f03247ee0c657b37b9338e48fd354b38a3c01b993",
+  "row": 23,
+  "code": "126-474",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 1418",
+   "Black"
+  ],
+  "file": "ghost_top_1418_black_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 1418/Black/ghost_top_1418_black_front.jpg",
+  "sha256": "5dcfaf38d248d0c3a4d3f3abc74b5a66155f2156f6f4286c5b153dcbf6d8ea16",
+  "row": 24,
+  "code": "1418",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 1418",
+   "Black"
+  ],
+  "file": "ghost_top_1418_black_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 1418/Black/ghost_top_1418_black_back.jpg",
+  "sha256": "28712f86cb3a291644b8f70639036c43f0fca173aad42aae8d446279648e79ec",
+  "row": 24,
+  "code": "1418",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 601",
+   "Original"
+  ],
+  "file": "ghost_bottom_601_original_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 601/Original/ghost_bottom_601_original_front.jpg",
+  "sha256": "0a07f6f71dd979cb150ca95cd6da3f7cd24ee15d063e230d7ca729ae33d24b5c",
+  "row": 24,
+  "code": "601",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 601",
+   "Original"
+  ],
+  "file": "ghost_bottom_601_original_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 601/Original/ghost_bottom_601_original_back.jpg",
+  "sha256": "94a0800f5407ed4b7528607e6359fb0581b2fe32e47857c5acec2cbe07d135c9",
+  "row": 24,
+  "code": "601",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 1418",
+   "Cream"
+  ],
+  "file": "ghost_top_1418_cream_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 1418/Cream/ghost_top_1418_cream_front.jpg",
+  "sha256": "237d5ed8f1757124f2dfc0be990c4c530ad7ed9f0cbff33701f996f5f8697060",
+  "row": 25,
+  "code": "1418",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 1418",
+   "Cream"
+  ],
+  "file": "ghost_top_1418_cream_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 1418/Cream/ghost_top_1418_cream_back.jpg",
+  "sha256": "f35203d028757544dc721b56e502b9ae870dc3260da3b8f1d332d8b8e813ccf1",
+  "row": 25,
+  "code": "1418",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 601",
+   "Black Pants"
+  ],
+  "file": "ghost_bottom_601_black-pants_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 601/Black Pants/ghost_bottom_601_black-pants_front.jpg",
+  "sha256": "5f2c6ce50dd0457da158bf4559c45f5379a3da23b35dafa829cfb136c5661aa4",
+  "row": 25,
+  "code": "601",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 601",
+   "Black Pants"
+  ],
+  "file": "ghost_bottom_601_black-pants_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 601/Black Pants/ghost_bottom_601_black-pants_back.jpg",
+  "sha256": "bc469b0ffb70d9c1a6e14d395ce5f5f9bd5b70dd714929b6ead1b75cfd08980f",
+  "row": 25,
+  "code": "601",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 1418",
+   "White"
+  ],
+  "file": "ghost_top_1418_white_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 1418/White/ghost_top_1418_white_front.jpg",
+  "sha256": "c36bd1ef01e948bfdfc6e126050a0664bb5e4a830f25d140105bc8c83ff63a82",
+  "row": 26,
+  "code": "1418",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 1418",
+   "White"
+  ],
+  "file": "ghost_top_1418_white_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 1418/White/ghost_top_1418_white_back.jpg",
+  "sha256": "1e4423d96e94bc5b34314b3a86cdad0ad53d824c17abc0c23ac44558bd1281d9",
+  "row": 26,
+  "code": "1418",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 1418",
+   "Sand beige"
+  ],
+  "file": "ghost_top_1418_sand-beige_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 1418/Sand beige/ghost_top_1418_sand-beige_front.jpg",
+  "sha256": "14492b4ea3a5f0bdf6cc986d010d8cbf5a99b5e7f1b76475bb8a065ffa9a1e30",
+  "row": 27,
+  "code": "1418",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 1418",
+   "Sand beige"
+  ],
+  "file": "ghost_top_1418_sand-beige_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 1418/Sand beige/ghost_top_1418_sand-beige_back.jpg",
+  "sha256": "0451988b3c00a8adccd1b90db662b9a51548ec69554b291e748c5018e86e799a",
+  "row": 27,
+  "code": "1418",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 1431",
+   "Grey"
+  ],
+  "file": "ghost_top_1431_grey_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 1431/Grey/ghost_top_1431_grey_front.jpg",
+  "sha256": "c5fbbcf07328b7875fb98a6d1b725d28bc433e3465a0ef31af3bb5d67716993e",
+  "row": 28,
+  "code": "1431",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 1431",
+   "Grey"
+  ],
+  "file": "ghost_top_1431_grey_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 1431/Grey/ghost_top_1431_grey_back.jpg",
+  "sha256": "02a64b89fa284dbb88ad4df953750fb33eb6ef8b26ca5805cf6e3229e52c334a",
+  "row": 28,
+  "code": "1431",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM NC024",
+   "Original"
+  ],
+  "file": "ghost_bottom_nc024_original_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM NC024/Original/ghost_bottom_nc024_original_front.jpg",
+  "sha256": "fabaea8d2b633b943d3dc00c905f7484c336803144858ace8d039b40589d3396",
+  "row": 28,
+  "code": "NC024",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM NC024",
+   "Original"
+  ],
+  "file": "ghost_bottom_nc024_original_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM NC024/Original/ghost_bottom_nc024_original_back.jpg",
+  "sha256": "755e4242c5dd63059e3c2d710410b17ba805e5f4f2add5f7904db414dd7f0ab3",
+  "row": 28,
+  "code": "NC024",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 1431",
+   "Dark navy-charcoal"
+  ],
+  "file": "ghost_top_1431_dark-navy-charcoal_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 1431/Dark navy / charcoal/ghost_top_1431_dark-navy-charcoal_front.jpg",
+  "sha256": "491b8a74e64755ee8fd75b9f5f671acec7669e385928b1638dcb64a0e77a4ea4",
+  "row": 29,
+  "code": "1431",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 1431",
+   "Dark navy-charcoal"
+  ],
+  "file": "ghost_top_1431_dark-navy-charcoal_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 1431/Dark navy / charcoal/ghost_top_1431_dark-navy-charcoal_back.jpg",
+  "sha256": "de15c825a87ef4b09c1703a88e9a9a3ca5a6c36eccc21e14ed01e3a1e515b87c",
+  "row": 29,
+  "code": "1431",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N025",
+   "Original"
+  ],
+  "file": "ghost_bottom_n025_original_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N025/Original/ghost_bottom_n025_original_front.jpg",
+  "sha256": "86a17360d8c3a1700a49dde3fce51fdc43068e17e761e4d16ac9104570536769",
+  "row": 31,
+  "code": "N025",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N025",
+   "Original"
+  ],
+  "file": "ghost_bottom_n025_original_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N025/Original/ghost_bottom_n025_original_back.jpg",
+  "sha256": "2f5917e072564fbd76da4b18f65abae21c589ff6ca1a4bf1b32a8b151e134e58",
+  "row": 31,
+  "code": "N025",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022",
+   "Original"
+  ],
+  "file": "ghost_bottom_n022_original_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022/Original/ghost_bottom_n022_original_front.jpg",
+  "sha256": "d359d42ec16eff1d0de2a61793a749da0194aade0a93e1ddefe417e1df27393e",
+  "row": 35,
+  "code": "N022",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022",
+   "Original"
+  ],
+  "file": "ghost_bottom_n022_original_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022/Original/ghost_bottom_n022_original_back.jpg",
+  "sha256": "2ac0df6c8802b5a507042c558217b5ebc2c2040f7f6dd343fd37f96e8b195062",
+  "row": 35,
+  "code": "N022",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022",
+   "Beige Jeans"
+  ],
+  "file": "ghost_bottom_n022_beige-jeans_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022/Beige Jeans/ghost_bottom_n022_beige-jeans_front.jpg",
+  "sha256": "fe0efd249faf8aebd1def5b8ba8114b8d770ed48bb237f61422a8d60e1d662d6",
+  "row": 36,
+  "code": "N022",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022",
+   "Beige Jeans"
+  ],
+  "file": "ghost_bottom_n022_beige-jeans_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022/Beige Jeans/ghost_bottom_n022_beige-jeans_back.jpg",
+  "sha256": "ba0d5b61e06082dcee973db24a512e82315bcc15ecddc17d57efb3134fa64fdd",
+  "row": 36,
+  "code": "N022",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022",
+   "White Jeans"
+  ],
+  "file": "ghost_bottom_n022_white-jeans_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022/White Jeans/ghost_bottom_n022_white-jeans_front.jpg",
+  "sha256": "76056550f7682e1fd87f5341f1a37bd7278c49bf117226bbdc36b1404910b9cd",
+  "row": 38,
+  "code": "N022",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022",
+   "White Jeans"
+  ],
+  "file": "ghost_bottom_n022_white-jeans_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022/White Jeans/ghost_bottom_n022_white-jeans_back.jpg",
+  "sha256": "dd3f96b63acc6834102b186bd8dec5ca94135d0efc7776f31e44fbdedb0c1d57",
+  "row": 38,
+  "code": "N022",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022 OFF WHITE",
+   "Original"
+  ],
+  "file": "ghost_bottom_n022-off-white_original_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022 OFF WHITE/Original/ghost_bottom_n022-off-white_original_front.jpg",
+  "sha256": "38aadcc6cb5774275dbcd0f1c5a9b5ffb0ffd5f0cc263ca9b7111d11c3648ff2",
+  "row": 44,
+  "code": "N022 OFF WHITE",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022 OFF WHITE",
+   "Original"
+  ],
+  "file": "ghost_bottom_n022-off-white_original_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022 OFF WHITE/Original/ghost_bottom_n022-off-white_original_back.jpg",
+  "sha256": "c6140f640a5713568cdfbc77b6ba3fe2d943f3c1c38def83aed997d2977cac1f",
+  "row": 44,
+  "code": "N022 OFF WHITE",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022",
+   "Grey Jeans"
+  ],
+  "file": "ghost_bottom_n022_grey-jeans_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022/Grey Jeans/ghost_bottom_n022_grey-jeans_front.jpg",
+  "sha256": "42d844e7aa31791aa02b692dd09d99b79f015bbfe05cdba4e25de7618d6e2f64",
+  "row": 46,
+  "code": "N022",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022",
+   "Grey Jeans"
+  ],
+  "file": "ghost_bottom_n022_grey-jeans_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022/Grey Jeans/ghost_bottom_n022_grey-jeans_back.jpg",
+  "sha256": "2f26bc9ad1e0adfb8270bdb213e901f75745e650f8277f8afc7364ad30c9b8b2",
+  "row": 46,
+  "code": "N022",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N024",
+   "Original"
+  ],
+  "file": "ghost_bottom_n024_original_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N024/Original/ghost_bottom_n024_original_front.jpg",
+  "sha256": "388a02293118754d005ddc5a08e8709a6630997eda34250650a686023955accc",
+  "row": 50,
+  "code": "N024",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N024",
+   "Original"
+  ],
+  "file": "ghost_bottom_n024_original_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N024/Original/ghost_bottom_n024_original_back.jpg",
+  "sha256": "b31c9897736e2373deba0e3e89d7975207892dad0c41a731ba0a927f807f2ecd",
+  "row": 50,
+  "code": "N024",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N024",
+   "White Jeans"
+  ],
+  "file": "ghost_bottom_n024_white-jeans_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N024/White Jeans/ghost_bottom_n024_white-jeans_front.jpg",
+  "sha256": "99affebdc81a68988b167df50650a13a62739daca070af36db31541ecf682d8e",
+  "row": 51,
+  "code": "N024",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N024",
+   "White Jeans"
+  ],
+  "file": "ghost_bottom_n024_white-jeans_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N024/White Jeans/ghost_bottom_n024_white-jeans_back.jpg",
+  "sha256": "34b25577057f46abec6097dedbe30f275a3db1fc25b36050cdff4e8384b52186",
+  "row": 51,
+  "code": "N024",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N024",
+   "Grey Jeans"
+  ],
+  "file": "ghost_bottom_n024_grey-jeans_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N024/Grey Jeans/ghost_bottom_n024_grey-jeans_front.jpg",
+  "sha256": "6d08971ca414d082b50274bf992c5847bb81aed553c9810eab782882b8eee871",
+  "row": 52,
+  "code": "N024",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N024",
+   "Grey Jeans"
+  ],
+  "file": "ghost_bottom_n024_grey-jeans_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N024/Grey Jeans/ghost_bottom_n024_grey-jeans_back.jpg",
+  "sha256": "f90eacd0d2ba4d0305bdf1e05d4669640bcf51c0912cbf93a70d246dce5b421c",
+  "row": 52,
+  "code": "N024",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022 OFF WHITE",
+   "Grey Jeans"
+  ],
+  "file": "ghost_bottom_n022-off-white_grey-jeans_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022 OFF WHITE/Grey Jeans/ghost_bottom_n022-off-white_grey-jeans_front.jpg",
+  "sha256": "55881d188ad7a71612071b1540371421019b2392df545735ff2d63f55ea97d52",
+  "row": 56,
+  "code": "N022 OFF WHITE",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022 OFF WHITE",
+   "Grey Jeans"
+  ],
+  "file": "ghost_bottom_n022-off-white_grey-jeans_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022 OFF WHITE/Grey Jeans/ghost_bottom_n022-off-white_grey-jeans_back.jpg",
+  "sha256": "bf960ee886915d0946a9389949f925dca59fd5de1825f3dccd82dbadc28018a3",
+  "row": 56,
+  "code": "N022 OFF WHITE",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022",
+   "Beige-Olive Jeans"
+  ],
+  "file": "ghost_bottom_n022_beige-olive-jeans_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022/Beige/Olive Jeans/ghost_bottom_n022_beige-olive-jeans_front.jpg",
+  "sha256": "0ff7ffb291000b9ed1257f4a42dbfd06c0c0471d534278c657c1aadf056c14b3",
+  "row": 64,
+  "code": "N022",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022",
+   "Beige-Olive Jeans"
+  ],
+  "file": "ghost_bottom_n022_beige-olive-jeans_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022/Beige/Olive Jeans/ghost_bottom_n022_beige-olive-jeans_back.jpg",
+  "sha256": "dba87c4cacb952aec787291b088c2a737ac3bc097b455fc456cec187b1757ce8",
+  "row": 64,
+  "code": "N022",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2500B",
+   "Original"
+  ],
+  "file": "ghost_bottom_2500b_original_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2500B/Original/ghost_bottom_2500b_original_front.jpg",
+  "sha256": "769a695d2cdd341821d5e22f5dac49fd121ba664bcee80a64af62ab2ac37aa03",
+  "row": 67,
+  "code": "2500B",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2500B",
+   "Original"
+  ],
+  "file": "ghost_bottom_2500b_original_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2500B/Original/ghost_bottom_2500b_original_back.jpg",
+  "sha256": "a490ee19b9873033614b985db20f2a27e271f504e2a214ea988b52d03adb34e7",
+  "row": 67,
+  "code": "2500B",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2500B",
+   "Grey Jeans"
+  ],
+  "file": "ghost_bottom_2500b_grey-jeans_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2500B/Grey Jeans/ghost_bottom_2500b_grey-jeans_front.jpg",
+  "sha256": "7ae15b557cf88b4f97fe5f3c80694ce6ebe3b3e712b1a5d005bb98eab098f695",
+  "row": 71,
+  "code": "2500B",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2500B",
+   "Grey Jeans"
+  ],
+  "file": "ghost_bottom_2500b_grey-jeans_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2500B/Grey Jeans/ghost_bottom_2500b_grey-jeans_back.jpg",
+  "sha256": "32a8424462e6c75d6e8399843f2bac43393936eb4a6df56e5a5f7d9594469f27",
+  "row": 71,
+  "code": "2500B",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2500B OFF WHITE",
+   "Original"
+  ],
+  "file": "ghost_bottom_2500b-off-white_original_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2500B OFF WHITE/Original/ghost_bottom_2500b-off-white_original_front.jpg",
+  "sha256": "8cf477fb9cfa23250b13d25862c8fa86311b309bbbb63f0861fda9253d8ef5fe",
+  "row": 73,
+  "code": "2500B OFF WHITE",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2500B OFF WHITE",
+   "Original"
+  ],
+  "file": "ghost_bottom_2500b-off-white_original_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2500B OFF WHITE/Original/ghost_bottom_2500b-off-white_original_back.jpg",
+  "sha256": "8f0cc5b1cb81d79c475b8b5b0c016be9ad299df52fdb0300272142c462583be2",
+  "row": 73,
+  "code": "2500B OFF WHITE",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2500B OFF WHITE",
+   "Grey Pants"
+  ],
+  "file": "ghost_bottom_2500b-off-white_grey-pants_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2500B OFF WHITE/Grey Pants/ghost_bottom_2500b-off-white_grey-pants_front.jpg",
+  "sha256": "27cb18ba30d8ab9b2df0355e32d6a3209dfe1d0dc6aad507731ff8964da8ee43",
+  "row": 76,
+  "code": "2500B OFF WHITE",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2500B OFF WHITE",
+   "Grey Pants"
+  ],
+  "file": "ghost_bottom_2500b-off-white_grey-pants_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2500B OFF WHITE/Grey Pants/ghost_bottom_2500b-off-white_grey-pants_back.jpg",
+  "sha256": "e6ae67e05026bbb3a3bb99c2ef93b2c38c5bb7f001d302b4d7f9aafb443aafcc",
+  "row": 76,
+  "code": "2500B OFF WHITE",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022 OFF WHITE",
+   "Grey Pants"
+  ],
+  "file": "ghost_bottom_n022-off-white_grey-pants_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022 OFF WHITE/Grey Pants/ghost_bottom_n022-off-white_grey-pants_front.jpg",
+  "sha256": "85a74cec18fbc9631c8e8f9a96f470149b82237bb4c99d17a92554b7db605577",
+  "row": 83,
+  "code": "N022 OFF WHITE",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022 OFF WHITE",
+   "Grey Pants"
+  ],
+  "file": "ghost_bottom_n022-off-white_grey-pants_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022 OFF WHITE/Grey Pants/ghost_bottom_n022-off-white_grey-pants_back.jpg",
+  "sha256": "01cd25a42ef4afb8045cc285b2f2994b06e65c691cd87131996c1a3890ab18ec",
+  "row": 83,
+  "code": "N022 OFF WHITE",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2400B",
+   "Off White Pants"
+  ],
+  "file": "ghost_bottom_2400b_off-white-pants_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2400B/Off White Pants/ghost_bottom_2400b_off-white-pants_front.jpg",
+  "sha256": "dc43cf482572ca634a17bee0dfe4a3c307b3b6fe7fe44834d2260a08b237c6ee",
+  "row": 84,
+  "code": "2400B",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2400B",
+   "Off White Pants"
+  ],
+  "file": "ghost_bottom_2400b_off-white-pants_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2400B/Off White Pants/ghost_bottom_2400b_off-white-pants_back.jpg",
+  "sha256": "ebf0b309ed5619552da4adc54091f96c50585aaca0bb73b70c6d7ba5cea8e65f",
+  "row": 84,
+  "code": "2400B",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2400B",
+   "Original"
+  ],
+  "file": "ghost_bottom_2400b_original_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2400B/Original/ghost_bottom_2400b_original_front.jpg",
+  "sha256": "067c034fc435177fafc52261d3c3ab63400abb5c12628206f5cf66e5c5afdac0",
+  "row": 85,
+  "code": "2400B",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2400B",
+   "Original"
+  ],
+  "file": "ghost_bottom_2400b_original_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2400B/Original/ghost_bottom_2400b_original_back.jpg",
+  "sha256": "54cd73c6e5ee915d02801f29a8f9144835ed79d43b3bbdac80011f47a376ba40",
+  "row": 85,
+  "code": "2400B",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2400B",
+   "White Pants"
+  ],
+  "file": "ghost_bottom_2400b_white-pants_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2400B/White Pants/ghost_bottom_2400b_white-pants_front.jpg",
+  "sha256": "b72a0418347155e8cb81c936f991f041afa5643282213dc76fd684f18f7011e8",
+  "row": 86,
+  "code": "2400B",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2400B",
+   "White Pants"
+  ],
+  "file": "ghost_bottom_2400b_white-pants_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2400B/White Pants/ghost_bottom_2400b_white-pants_back.jpg",
+  "sha256": "3b8e535b45df3279b67a49483759321e2b29338108ecfc6fdb396cf1e80d7e95",
+  "row": 86,
+  "code": "2400B",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2400B",
+   "Black Pants"
+  ],
+  "file": "ghost_bottom_2400b_black-pants_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2400B/Black Pants/ghost_bottom_2400b_black-pants_front.jpg",
+  "sha256": "cb988567d5828d3f30fd09fa340674b837caa53ec03e86c9c3095322c3e497ed",
+  "row": 87,
+  "code": "2400B",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2400B",
+   "Black Pants"
+  ],
+  "file": "ghost_bottom_2400b_black-pants_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2400B/Black Pants/ghost_bottom_2400b_black-pants_back.jpg",
+  "sha256": "4621c6104ab671868345089a144ca2a4cb3c3ed11d055007d1d1b52bfaf324d8",
+  "row": 87,
+  "code": "2400B",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2500B",
+   "Grey Pants"
+  ],
+  "file": "ghost_bottom_2500b_grey-pants_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2500B/Grey Pants/ghost_bottom_2500b_grey-pants_front.jpg",
+  "sha256": "54d4af09340bdfd9e0e39378c11cf26161d3a41e33c36e564788a1594e0de4f8",
+  "row": 93,
+  "code": "2500B",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2500B",
+   "Grey Pants"
+  ],
+  "file": "ghost_bottom_2500b_grey-pants_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2500B/Grey Pants/ghost_bottom_2500b_grey-pants_back.jpg",
+  "sha256": "c0f1e98736fc3438315832e18dc173a38ed7beee641d0b15cbfdecb453fc68eb",
+  "row": 93,
+  "code": "2500B",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2500B",
+   "Light Blue Jeans"
+  ],
+  "file": "ghost_bottom_2500b_light-blue-jeans_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2500B/Light Blue Jeans/ghost_bottom_2500b_light-blue-jeans_front.jpg",
+  "sha256": "a6ce73e744793fa3b700434c54d955e999a5d10fa580f8822a5087127c6cc7cd",
+  "row": 96,
+  "code": "2500B",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2500B",
+   "Light Blue Jeans"
+  ],
+  "file": "ghost_bottom_2500b_light-blue-jeans_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2500B/Light Blue Jeans/ghost_bottom_2500b_light-blue-jeans_back.jpg",
+  "sha256": "f1f31a7aea4304355c47e46ca570acd61a47a3afe9b2127b6adc6a1972da7596",
+  "row": 96,
+  "code": "2500B",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2500B",
+   "Grey-Beige Jeans"
+  ],
+  "file": "ghost_bottom_2500b_grey-beige-jeans_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2500B/Grey/Beige Jeans/ghost_bottom_2500b_grey-beige-jeans_front.jpg",
+  "sha256": "fbf5bed726462d4a918cb6710fa074bc2fa61159e41c4c21e28c694994034216",
+  "row": 97,
+  "code": "2500B",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 2500B",
+   "Grey-Beige Jeans"
+  ],
+  "file": "ghost_bottom_2500b_grey-beige-jeans_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 2500B/Grey/Beige Jeans/ghost_bottom_2500b_grey-beige-jeans_back.jpg",
+  "sha256": "32d4d348769006570aef5c761369e107efa8dbdcdb360d31502ece06f75e8a9b",
+  "row": 97,
+  "code": "2500B",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N023",
+   "Original"
+  ],
+  "file": "ghost_bottom_n023_original_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N023/Original/ghost_bottom_n023_original_front.jpg",
+  "sha256": "8557be737a50fed76000cf1f7700bb22b3678513d363788a888199b31807d96b",
+  "row": 98,
+  "code": "N023",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N023",
+   "Original"
+  ],
+  "file": "ghost_bottom_n023_original_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N023/Original/ghost_bottom_n023_original_back.jpg",
+  "sha256": "665bc69e1e504a0b188d68604db8cad9ad8750760b06467200d91a604c92f7c9",
+  "row": 98,
+  "code": "N023",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N023",
+   "White jeans"
+  ],
+  "file": "ghost_bottom_n023_white-jeans_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N023/White jeans/ghost_bottom_n023_white-jeans_front.jpg",
+  "sha256": "9e02ac75eebc244f9307c010a85dc64866631983a6d2d4939c57e5de0825afd2",
+  "row": 101,
+  "code": "N023",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N023",
+   "White jeans"
+  ],
+  "file": "ghost_bottom_n023_white-jeans_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N023/White jeans/ghost_bottom_n023_white-jeans_back.jpg",
+  "sha256": "d4ca91833226095d7d6879c80c2f691fa882bfab931f1ce17d5a7a26327216fa",
+  "row": 101,
+  "code": "N023",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N023",
+   "White-Beige-Black"
+  ],
+  "file": "ghost_bottom_n023_white-beige-black_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N023/White/Beige/Black/ghost_bottom_n023_white-beige-black_front.jpg",
+  "sha256": "02e479d2cacf3ed9075fda28a70800d69873aa182280958eccdd768fd9fdcf5e",
+  "row": 102,
+  "code": "N023",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N023",
+   "White-Beige-Black"
+  ],
+  "file": "ghost_bottom_n023_white-beige-black_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N023/White/Beige/Black/ghost_bottom_n023_white-beige-black_back.jpg",
+  "sha256": "837b55cd13c955d510b54592fa3edeeea1b4660c2aacff98b73ff592e509eef5",
+  "row": 102,
+  "code": "N023",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N023",
+   "Grey Jeans"
+  ],
+  "file": "ghost_bottom_n023_grey-jeans_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N023/Grey Jeans/ghost_bottom_n023_grey-jeans_front.jpg",
+  "sha256": "66573006a0fda75658ef5630854e9a149b7603b8815124513c989cad1547414a",
+  "row": 104,
+  "code": "N023",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N023",
+   "Grey Jeans"
+  ],
+  "file": "ghost_bottom_n023_grey-jeans_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N023/Grey Jeans/ghost_bottom_n023_grey-jeans_back.jpg",
+  "sha256": "6dff889eed15069a6e8be11e3dafd7d4c593a3701a13004fa29472b67b8d02d8",
+  "row": 104,
+  "code": "N023",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 601 BLACK",
+   "White Jeans or sweatpants"
+  ],
+  "file": "ghost_bottom_601-black_white-jeans-or-sweatpants_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 601 BLACK/White Jeans or sweatpants/ghost_bottom_601-black_white-jeans-or-sweatpants_front.jpg",
+  "sha256": "acff70ee4c13e9467017a1d27862f5d63cf46bdd9e15a9c2efda57be56636205",
+  "row": 105,
+  "code": "601 BLACK",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 601 BLACK",
+   "White Jeans or sweatpants"
+  ],
+  "file": "ghost_bottom_601-black_white-jeans-or-sweatpants_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 601 BLACK/White Jeans or sweatpants/ghost_bottom_601-black_white-jeans-or-sweatpants_back.jpg",
+  "sha256": "7a273c6f14ad8e1eccde60a17e292cc64906a8c475ab3eb681d16d616d07c165",
+  "row": 105,
+  "code": "601 BLACK",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 601 BLACK",
+   "Original"
+  ],
+  "file": "ghost_bottom_601-black_original_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 601 BLACK/Original/ghost_bottom_601-black_original_front.jpg",
+  "sha256": "eb1bdc61deaba09c338cf840c340271bb5ad0609bf10105770fe991e931fbd06",
+  "row": 106,
+  "code": "601 BLACK",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM 601 BLACK",
+   "Original"
+  ],
+  "file": "ghost_bottom_601-black_original_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM 601 BLACK/Original/ghost_bottom_601-black_original_back.jpg",
+  "sha256": "6121b655673d2d8d638f8bd636cf72a22339c60eb2a22fe7fa40fcf06e28b9e3",
+  "row": 106,
+  "code": "601 BLACK",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM NO23 (as in folder name)",
+   "White Jeans"
+  ],
+  "file": "ghost_bottom_no23-as-in-folder-name_white-jeans_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM NO23 (as in folder name)/White Jeans/ghost_bottom_no23-as-in-folder-name_white-jeans_front.jpg",
+  "sha256": "debcca85733a068090d58680d9b02a556a816a1865026dae44096470d3bcd769",
+  "row": 120,
+  "code": "NO23 (as in folder name)",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM NO23 (as in folder name)",
+   "White Jeans"
+  ],
+  "file": "ghost_bottom_no23-as-in-folder-name_white-jeans_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM NO23 (as in folder name)/White Jeans/ghost_bottom_no23-as-in-folder-name_white-jeans_back.jpg",
+  "sha256": "e8a4988b180e019671ff2d661da2a6cbd8f1472133120b96e337908d26a1d7b7",
+  "row": 120,
+  "code": "NO23 (as in folder name)",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM NO23 (as in folder name)",
+   "Black Jeans"
+  ],
+  "file": "ghost_bottom_no23-as-in-folder-name_black-jeans_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM NO23 (as in folder name)/Black Jeans/ghost_bottom_no23-as-in-folder-name_black-jeans_front.jpg",
+  "sha256": "6e4f5eedef2dc52532466fd0f3a95ca52296885381461903012818ba30fe1d51",
+  "row": 122,
+  "code": "NO23 (as in folder name)",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM NO23 (as in folder name)",
+   "Black Jeans"
+  ],
+  "file": "ghost_bottom_no23-as-in-folder-name_black-jeans_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM NO23 (as in folder name)/Black Jeans/ghost_bottom_no23-as-in-folder-name_black-jeans_back.jpg",
+  "sha256": "d98e34005b3d2c801aa9597a8215517441a81780b717ced7967cb6f08657aa5c",
+  "row": 122,
+  "code": "NO23 (as in folder name)",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM NO23 (as in folder name)",
+   "Original"
+  ],
+  "file": "ghost_bottom_no23-as-in-folder-name_original_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM NO23 (as in folder name)/Original/ghost_bottom_no23-as-in-folder-name_original_front.jpg",
+  "sha256": "b240bc5c61b60e25b6f064bea36215d03ec5ff7b082270431860b03dd0289044",
+  "row": 125,
+  "code": "NO23 (as in folder name)",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM NO23 (as in folder name)",
+   "Original"
+  ],
+  "file": "ghost_bottom_no23-as-in-folder-name_original_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM NO23 (as in folder name)/Original/ghost_bottom_no23-as-in-folder-name_original_back.jpg",
+  "sha256": "29fcc29ec9c701308412a74ad68685d9e35e7706a556299cf955abac48450542",
+  "row": 125,
+  "code": "NO23 (as in folder name)",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022 OFF WHITE",
+   "White-Grey-Black Pants"
+  ],
+  "file": "ghost_bottom_n022-off-white_white-grey-black-pants_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022 OFF WHITE/White/Grey/Black Pants/ghost_bottom_n022-off-white_white-grey-black-pants_front.jpg",
+  "sha256": "145627e2965ebf701384075619b2b01506ee6a138f46e93eac16e0242aa63c13",
+  "row": 130,
+  "code": "N022 OFF WHITE",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022 OFF WHITE",
+   "White-Grey-Black Pants"
+  ],
+  "file": "ghost_bottom_n022-off-white_white-grey-black-pants_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022 OFF WHITE/White/Grey/Black Pants/ghost_bottom_n022-off-white_white-grey-black-pants_back.jpg",
+  "sha256": "a87f50102d33d6a1cf030b579a6ba0c92090042aa8c776d0fe3eb3da5108168b",
+  "row": 130,
+  "code": "N022 OFF WHITE",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022 OFF WHITE",
+   "Black Pants"
+  ],
+  "file": "ghost_bottom_n022-off-white_black-pants_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022 OFF WHITE/Black Pants/ghost_bottom_n022-off-white_black-pants_front.jpg",
+  "sha256": "3243ba6ecaecf54ebef9214d74c7de749c549838c8ae85c13698b0f2995a2c28",
+  "row": 131,
+  "code": "N022 OFF WHITE",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022 OFF WHITE",
+   "Black Pants"
+  ],
+  "file": "ghost_bottom_n022-off-white_black-pants_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022 OFF WHITE/Black Pants/ghost_bottom_n022-off-white_black-pants_back.jpg",
+  "sha256": "05c9f89014388cb80551bc6a0027dba98b643bff6ce525decd8250624b75a45b",
+  "row": 131,
+  "code": "N022 OFF WHITE",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022",
+   "Black Pants"
+  ],
+  "file": "ghost_bottom_n022_black-pants_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022/Black Pants/ghost_bottom_n022_black-pants_front.jpg",
+  "sha256": "1e09070ee7c6d8f349989d0672379c75bc0b7e631cf6c2e1813659c6ef4ff043",
+  "row": 132,
+  "code": "N022",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022",
+   "Black Pants"
+  ],
+  "file": "ghost_bottom_n022_black-pants_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022/Black Pants/ghost_bottom_n022_black-pants_back.jpg",
+  "sha256": "4097da9f5bdc657bb4b317677a7cdfef439a3f0c8ccfa1095446d02e478759f8",
+  "row": 132,
+  "code": "N022",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022",
+   "White Pants"
+  ],
+  "file": "ghost_bottom_n022_white-pants_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022/White Pants/ghost_bottom_n022_white-pants_front.jpg",
+  "sha256": "3a9d480492623ee4049858a6208854cd36d01549b7d9efb9beeb10fa1a186166",
+  "row": 133,
+  "code": "N022",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022",
+   "White Pants"
+  ],
+  "file": "ghost_bottom_n022_white-pants_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022/White Pants/ghost_bottom_n022_white-pants_back.jpg",
+  "sha256": "f91b58d07b416d7fa9e3d56636bb8b96f930d1f026cafcda7fa3465d35d2996f",
+  "row": 133,
+  "code": "N022",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022022 (as in folder name)",
+   "Original"
+  ],
+  "file": "ghost_bottom_n022022-as-in-folder-name_original_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022022 (as in folder name)/Original/ghost_bottom_n022022-as-in-folder-name_original_front.jpg",
+  "sha256": "2e25ae3fae55691724ca019352f698ef2ea1e3d4720c87267a30c3a3fb3080ac",
+  "row": 139,
+  "code": "N022022 (as in folder name)",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022022 (as in folder name)",
+   "Original"
+  ],
+  "file": "ghost_bottom_n022022-as-in-folder-name_original_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022022 (as in folder name)/Original/ghost_bottom_n022022-as-in-folder-name_original_back.jpg",
+  "sha256": "3e116ab2d084f128ef5d00ed3209c53b2e95b288c9ea7cdc870dca7d8e2f5cf4",
+  "row": 139,
+  "code": "N022022 (as in folder name)",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022022 (as in folder name)",
+   "White Jeans"
+  ],
+  "file": "ghost_bottom_n022022-as-in-folder-name_white-jeans_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022022 (as in folder name)/White Jeans/ghost_bottom_n022022-as-in-folder-name_white-jeans_front.jpg",
+  "sha256": "a45238255fa5167dc8d18ddc41c2ad0b4d10525b2a311ade3364656806e24d1b",
+  "row": 140,
+  "code": "N022022 (as in folder name)",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022022 (as in folder name)",
+   "White Jeans"
+  ],
+  "file": "ghost_bottom_n022022-as-in-folder-name_white-jeans_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022022 (as in folder name)/White Jeans/ghost_bottom_n022022-as-in-folder-name_white-jeans_back.jpg",
+  "sha256": "f54c1c6f6ad2db548fed8fa5e7e7826718383be5624d847284f7fef71f8dc8f7",
+  "row": 140,
+  "code": "N022022 (as in folder name)",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022022 (as in folder name)",
+   "Grey jeans"
+  ],
+  "file": "ghost_bottom_n022022-as-in-folder-name_grey-jeans_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022022 (as in folder name)/Grey jeans/ghost_bottom_n022022-as-in-folder-name_grey-jeans_front.jpg",
+  "sha256": "1f3e241f9db52decf77e568538cb1fdaba29e47e49a712f4beb76dd7ade723a3",
+  "row": 142,
+  "code": "N022022 (as in folder name)",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM N022022 (as in folder name)",
+   "Grey jeans"
+  ],
+  "file": "ghost_bottom_n022022-as-in-folder-name_grey-jeans_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM N022022 (as in folder name)/Grey jeans/ghost_bottom_n022022-as-in-folder-name_grey-jeans_back.jpg",
+  "sha256": "c37e14cf13c36435bd96b47cc68306bea4a584a3f5840a33d5aa21d835e6eccf",
+  "row": 142,
+  "code": "N022022 (as in folder name)",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM BXX-1384",
+   "Blue-Black-Pink-Brown-Beige Pants"
+  ],
+  "file": "ghost_bottom_bxx-1384_blue-black-pink-brown-beige-pants_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM BXX-1384/Blue/Black/Pink/Brown/Beige Pants/ghost_bottom_bxx-1384_blue-black-pink-brown-beige-pants_front.jpg",
+  "sha256": "ff46f405a87484e26cec213854fb15bc05df9e382094aa33bd6d05d6390c92fd",
+  "row": 148,
+  "code": "BXX-1384",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM BXX-1384",
+   "Blue-Black-Pink-Brown-Beige Pants"
+  ],
+  "file": "ghost_bottom_bxx-1384_blue-black-pink-brown-beige-pants_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM BXX-1384/Blue/Black/Pink/Brown/Beige Pants/ghost_bottom_bxx-1384_blue-black-pink-brown-beige-pants_back.jpg",
+  "sha256": "8cc981e8aacd65bdf78b53d7946f645a08267021eefcb1f56358053602d969cf",
+  "row": 148,
+  "code": "BXX-1384",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM BXX-1384",
+   "White-Black Pants"
+  ],
+  "file": "ghost_bottom_bxx-1384_white-black-pants_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM BXX-1384/White /Black Pants/ghost_bottom_bxx-1384_white-black-pants_front.jpg",
+  "sha256": "10547ef3b7b6f21f660035f3ae349d4224cbb750ac593b6a10c154889c9de443",
+  "row": 149,
+  "code": "BXX-1384",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM BXX-1384",
+   "White-Black Pants"
+  ],
+  "file": "ghost_bottom_bxx-1384_white-black-pants_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM BXX-1384/White /Black Pants/ghost_bottom_bxx-1384_white-black-pants_back.jpg",
+  "sha256": "f258af44ef779634faf0ad5b69aa8329cb28aad3ec60435a56d92b85d4b60e63",
+  "row": 149,
+  "code": "BXX-1384",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM BXX-1384",
+   "White Pants"
+  ],
+  "file": "ghost_bottom_bxx-1384_white-pants_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM BXX-1384/White Pants/ghost_bottom_bxx-1384_white-pants_front.jpg",
+  "sha256": "7dd738904a5497b1ea5e6d7556113756f09a93c0f5895f7c64200df520d93bc7",
+  "row": 150,
+  "code": "BXX-1384",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "BOTTOM BXX-1384",
+   "White Pants"
+  ],
+  "file": "ghost_bottom_bxx-1384_white-pants_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/BOTTOM BXX-1384/White Pants/ghost_bottom_bxx-1384_white-pants_back.jpg",
+  "sha256": "78bb287f0a52d9bd6e5dfed8e8ce1afcfb2719b6caa7488b68e51ec87ffd6de6",
+  "row": 150,
+  "code": "BXX-1384",
+  "kind": "ghost"
+ }
+]

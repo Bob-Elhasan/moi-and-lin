@@ -1,0 +1,2888 @@
+[
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 1438",
+   "Mustard-camel"
+  ],
+  "file": "ghost_top_1438_mustard-camel_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 1438/Mustard / camel/ghost_top_1438_mustard-camel_front.jpg",
+  "sha256": "6c80738362de1d3bcb251ec6a9258e83a9167317973247d83285f9706958b095",
+  "row": 31,
+  "code": "1438",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 1438",
+   "Mustard-camel"
+  ],
+  "file": "ghost_top_1438_mustard-camel_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 1438/Mustard / camel/ghost_top_1438_mustard-camel_back.jpg",
+  "sha256": "4532b68501cd9bf9c9a9c914a6b3af5b8471cdc6a440fd9280369d9cce38fab9",
+  "row": 31,
+  "code": "1438",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 21008",
+   "Black"
+  ],
+  "file": "ghost_top_21008_black_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 21008/Black/ghost_top_21008_black_front.jpg",
+  "sha256": "1b3ab88a259b9730511f9bd75ce0a1393a95889a634c624f00f4b38b04b5fa43",
+  "row": 35,
+  "code": "21008",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 21008",
+   "Black"
+  ],
+  "file": "ghost_top_21008_black_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 21008/Black/ghost_top_21008_black_back.jpg",
+  "sha256": "ae909a0f72694490115c92a4466625e66b7aac6846142d14e37a9b8909040266",
+  "row": 35,
+  "code": "21008",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 21008",
+   "White"
+  ],
+  "file": "ghost_top_21008_white_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 21008/White/ghost_top_21008_white_front.jpg",
+  "sha256": "4c41b9a99aa72d913b29a3741f3a9049d1a34dcba9d9302654e827903046d9a7",
+  "row": 36,
+  "code": "21008",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 21008",
+   "White"
+  ],
+  "file": "ghost_top_21008_white_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 21008/White/ghost_top_21008_white_back.jpg",
+  "sha256": "b3bdfd7d435ce3992c3d60c86a2f9f2731b3e1c93eb085dbd14a82d4c6dce503",
+  "row": 36,
+  "code": "21008",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 21008",
+   "Grey"
+  ],
+  "file": "ghost_top_21008_grey_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 21008/Grey/ghost_top_21008_grey_front.jpg",
+  "sha256": "516ebba84e4103ba10f557b7f6cad5a5f35892de6c4228e4e4c5f94ca50c96ee",
+  "row": 37,
+  "code": "21008",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 21008",
+   "Grey"
+  ],
+  "file": "ghost_top_21008_grey_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 21008/Grey/ghost_top_21008_grey_back.jpg",
+  "sha256": "312583e9e48eaec0a9a778059a6c8c70f4f5ae1fec497eef0ff7f63c703c7d50",
+  "row": 37,
+  "code": "21008",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 21008",
+   "Plum"
+  ],
+  "file": "ghost_top_21008_plum_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 21008/Plum/ghost_top_21008_plum_front.jpg",
+  "sha256": "a1aea3ad7299f28e46a5076454efcb9c4e289ac6f06abd5d73d66d9b0dcd9787",
+  "row": 38,
+  "code": "21008",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 21008",
+   "Plum"
+  ],
+  "file": "ghost_top_21008_plum_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 21008/Plum/ghost_top_21008_plum_back.jpg",
+  "sha256": "46655b84eea40e447ee8adce34d82d39873372a61913437d4374b87abc5cfdce",
+  "row": 38,
+  "code": "21008",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 21008",
+   "Taupe beige"
+  ],
+  "file": "ghost_top_21008_taupe-beige_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 21008/Taupe beige/ghost_top_21008_taupe-beige_front.jpg",
+  "sha256": "86b55f69a37d2343e4d100f50ade149230f0959726400fe4d84375dd170ebfb4",
+  "row": 39,
+  "code": "21008",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 21008",
+   "Taupe beige"
+  ],
+  "file": "ghost_top_21008_taupe-beige_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 21008/Taupe beige/ghost_top_21008_taupe-beige_back.jpg",
+  "sha256": "24e5bfb17813eb94e76625f2f6e12deae4d19cf08a7e444fdeed396e86e2b9fd",
+  "row": 39,
+  "code": "21008",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 21008",
+   "Turquoise"
+  ],
+  "file": "ghost_top_21008_turquoise_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 21008/Turquoise/ghost_top_21008_turquoise_front.jpg",
+  "sha256": "91015605f1e8056572476040091f48d749660f64b9132561bbb206a1d4e3b3d7",
+  "row": 40,
+  "code": "21008",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 21008",
+   "Turquoise"
+  ],
+  "file": "ghost_top_21008_turquoise_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 21008/Turquoise/ghost_top_21008_turquoise_back.jpg",
+  "sha256": "4aafb0034631ea9fb359afad182d5c0438d2712e581f51af0872fd71a4cd406b",
+  "row": 40,
+  "code": "21008",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 21008",
+   "Dusty rose"
+  ],
+  "file": "ghost_top_21008_dusty-rose_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 21008/Dusty rose/ghost_top_21008_dusty-rose_front.jpg",
+  "sha256": "c1b3a9e2b5d0b4bd2a2357c2594d907a6d5a56815b7b706472f7979ff872e1cf",
+  "row": 41,
+  "code": "21008",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 21008",
+   "Dusty rose"
+  ],
+  "file": "ghost_top_21008_dusty-rose_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 21008/Dusty rose/ghost_top_21008_dusty-rose_back.jpg",
+  "sha256": "26cdd904db5c93e542d3e0e792ef0d11c8ca6d391646badadf2226b132007146",
+  "row": 41,
+  "code": "21008",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 21008",
+   "Pink"
+  ],
+  "file": "ghost_top_21008_pink_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 21008/Pink/ghost_top_21008_pink_front.jpg",
+  "sha256": "64149eb0f8535f641e5d351e73f4ceb0b7ba9078c1f9584bcb64f1d80562eaf0",
+  "row": 42,
+  "code": "21008",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 21008",
+   "Pink"
+  ],
+  "file": "ghost_top_21008_pink_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 21008/Pink/ghost_top_21008_pink_back.jpg",
+  "sha256": "fcb1709648872852ae9890371dd655e15972fdfe42767d3acac85d889c7f1e10",
+  "row": 42,
+  "code": "21008",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 21008",
+   "Mauve"
+  ],
+  "file": "ghost_top_21008_mauve_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 21008/Mauve/ghost_top_21008_mauve_front.jpg",
+  "sha256": "664259b4a9bb5792725da883da6760067a7fe52954da33efad1583036103347c",
+  "row": 43,
+  "code": "21008",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 21008",
+   "Mauve"
+  ],
+  "file": "ghost_top_21008_mauve_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 21008/Mauve/ghost_top_21008_mauve_back.jpg",
+  "sha256": "a65c9a8f15968827d24ed520e099f9a56afd83c8cfe873c653eeb91a755d562c",
+  "row": 43,
+  "code": "21008",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2400A",
+   "Cream-beige"
+  ],
+  "file": "ghost_top_2400a_cream-beige_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2400A/Cream / beige/ghost_top_2400a_cream-beige_front.jpg",
+  "sha256": "5e22aa0bf6e074e9b2215a8f2fd3b21ba5461c8cd602fd4b731305f4db27a0ab",
+  "row": 44,
+  "code": "2400A",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2400A",
+   "Cream-beige"
+  ],
+  "file": "ghost_top_2400a_cream-beige_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2400A/Cream / beige/ghost_top_2400a_cream-beige_back.jpg",
+  "sha256": "d6d29446bc99ea96c2f00d76084f94ec008c773284fbeb9694b5ce4d64c092b7",
+  "row": 44,
+  "code": "2400A",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2400A",
+   "Grey"
+  ],
+  "file": "ghost_top_2400a_grey_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2400A/Grey/ghost_top_2400a_grey_front.jpg",
+  "sha256": "805dbcafc0c27a0d6fa24627430b45570f3c5678456dcafaed543a96530442ec",
+  "row": 45,
+  "code": "2400A",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2400A",
+   "Grey"
+  ],
+  "file": "ghost_top_2400a_grey_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2400A/Grey/ghost_top_2400a_grey_back.jpg",
+  "sha256": "be57af607c6e64e0bad7137c6da81d073d9bb5d5c65f5dbf5512e4eb363a8558",
+  "row": 45,
+  "code": "2400A",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2403",
+   "White-cream"
+  ],
+  "file": "ghost_top_2403_white-cream_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2403/White / cream/ghost_top_2403_white-cream_front.jpg",
+  "sha256": "ad781b62437d77e8d850b0faa096e2a34091216d7cd2f36310ffbf6f7ee9418b",
+  "row": 46,
+  "code": "2403",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2403",
+   "White-cream"
+  ],
+  "file": "ghost_top_2403_white-cream_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2403/White / cream/ghost_top_2403_white-cream_back.jpg",
+  "sha256": "d989f0823df25cffa88870c20df0b87f25c5ec2d3b10fb78389edb5786952e5c",
+  "row": 46,
+  "code": "2403",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2403",
+   "Burgundy"
+  ],
+  "file": "ghost_top_2403_burgundy_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2403/Burgundy/ghost_top_2403_burgundy_front.jpg",
+  "sha256": "02ef325f27021cd934af87318eb6248c80285f491ada051563debeaa566571b9",
+  "row": 47,
+  "code": "2403",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2403",
+   "Burgundy"
+  ],
+  "file": "ghost_top_2403_burgundy_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2403/Burgundy/ghost_top_2403_burgundy_back.jpg",
+  "sha256": "3c281c21c3b18109165059e3143fc8bd77da38af31415cff3af29fa69058e327",
+  "row": 47,
+  "code": "2403",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2403",
+   "Dusty rose"
+  ],
+  "file": "ghost_top_2403_dusty-rose_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2403/Dusty rose/ghost_top_2403_dusty-rose_front.jpg",
+  "sha256": "3a6e4639a9a604c0c9609facd6c04c917ea316ae88460fb79f61e6a21a5a2696",
+  "row": 48,
+  "code": "2403",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2403",
+   "Dusty rose"
+  ],
+  "file": "ghost_top_2403_dusty-rose_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2403/Dusty rose/ghost_top_2403_dusty-rose_back.jpg",
+  "sha256": "48ca3f79df768097ab14052e83cd30daf03f1ff8bb576594c586f7a9ce43c21e",
+  "row": 48,
+  "code": "2403",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2403",
+   "Grey"
+  ],
+  "file": "ghost_top_2403_grey_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2403/Grey/ghost_top_2403_grey_front.jpg",
+  "sha256": "3fd77c74291f1028c3b1acea388423664f079fb2b60598b9a38d1318b412a7c7",
+  "row": 49,
+  "code": "2403",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2403",
+   "Grey"
+  ],
+  "file": "ghost_top_2403_grey_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2403/Grey/ghost_top_2403_grey_back.jpg",
+  "sha256": "6ceb4d11e26372dff423ae141d084ab5837d3c670cccd631281ee200b0f07ebb",
+  "row": 49,
+  "code": "2403",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2408",
+   "Black"
+  ],
+  "file": "ghost_top_2408_black_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2408/Black/ghost_top_2408_black_front.jpg",
+  "sha256": "eb5de8fa64a8a735b1525cc98eaf544e0151a537a0ecb3f32ce65901ea8d477b",
+  "row": 50,
+  "code": "2408",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2408",
+   "Black"
+  ],
+  "file": "ghost_top_2408_black_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2408/Black/ghost_top_2408_black_back.jpg",
+  "sha256": "6422341a71c82322918efab1a7de20753ef455da4c39d0901b782b48ca32de22",
+  "row": 50,
+  "code": "2408",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2408",
+   "Aqua-turquoise"
+  ],
+  "file": "ghost_top_2408_aqua-turquoise_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2408/Aqua / turquoise/ghost_top_2408_aqua-turquoise_front.jpg",
+  "sha256": "b61c3da26c0f4588fc1dd2149e5a78d3719785d7b6e8a4358da374253d9769d4",
+  "row": 51,
+  "code": "2408",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2408",
+   "Aqua-turquoise"
+  ],
+  "file": "ghost_top_2408_aqua-turquoise_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2408/Aqua / turquoise/ghost_top_2408_aqua-turquoise_back.jpg",
+  "sha256": "7b25f06b24df5ee9d8242810289877999d3b7c392c5f66b33f23ed9e1ff63612",
+  "row": 51,
+  "code": "2408",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2408",
+   "Dusty rose"
+  ],
+  "file": "ghost_top_2408_dusty-rose_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2408/Dusty rose/ghost_top_2408_dusty-rose_front.jpg",
+  "sha256": "3cfea34b330800b7d92fd538dae6bcba7be1fbcb5ed6e5799f91535e094d3a0b",
+  "row": 52,
+  "code": "2408",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2408",
+   "Dusty rose"
+  ],
+  "file": "ghost_top_2408_dusty-rose_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2408/Dusty rose/ghost_top_2408_dusty-rose_back.jpg",
+  "sha256": "4ca09c4664b0a1b39298147383e49236fe787b068f549c5956d21dc77dc38113",
+  "row": 52,
+  "code": "2408",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2408",
+   "Lavender grey"
+  ],
+  "file": "ghost_top_2408_lavender-grey_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2408/Lavender grey/ghost_top_2408_lavender-grey_front.jpg",
+  "sha256": "a0811fce60661579762f07fb1133496084fd230d9582996defaa56551e6fa7df",
+  "row": 53,
+  "code": "2408",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2408",
+   "Lavender grey"
+  ],
+  "file": "ghost_top_2408_lavender-grey_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2408/Lavender grey/ghost_top_2408_lavender-grey_back.jpg",
+  "sha256": "d46b1a7a5bb866e4db15d16a0b015e8cfecac1e05337fb366e8878b635bc0c04",
+  "row": 53,
+  "code": "2408",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2410",
+   "Camel-tan"
+  ],
+  "file": "ghost_top_2410_camel-tan_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2410/Camel / tan/ghost_top_2410_camel-tan_front.jpg",
+  "sha256": "42e8a57b1db6778ca665b4cda93bacbb8979f18784632d13210ba36a2bf04f86",
+  "row": 54,
+  "code": "2410",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2410",
+   "Camel-tan"
+  ],
+  "file": "ghost_top_2410_camel-tan_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2410/Camel / tan/ghost_top_2410_camel-tan_back.jpg",
+  "sha256": "67a0b0c5d0bf3e52e4fe5dde5af1beeb9eba5e5ed51a9d7fd65c02e3cdd93ff4",
+  "row": 54,
+  "code": "2410",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2410",
+   "Burgundy"
+  ],
+  "file": "ghost_top_2410_burgundy_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2410/Burgundy/ghost_top_2410_burgundy_front.jpg",
+  "sha256": "c775c8fdc737fc2f87e34dac2c641039b83ef1cbbc4070d2e53f600afc3baf01",
+  "row": 55,
+  "code": "2410",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2410",
+   "Burgundy"
+  ],
+  "file": "ghost_top_2410_burgundy_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2410/Burgundy/ghost_top_2410_burgundy_back.jpg",
+  "sha256": "84b172d444fb74bb70c63907b039e4922ea7d46c35ebd831904778c04939832b",
+  "row": 55,
+  "code": "2410",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2410",
+   "Off-white"
+  ],
+  "file": "ghost_top_2410_off-white_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2410/Off-white/ghost_top_2410_off-white_front.jpg",
+  "sha256": "82aef9c1f02356cf1c832ee7af0aedc45c21f426628352fcbe003be32bda4fba",
+  "row": 56,
+  "code": "2410",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2410",
+   "Off-white"
+  ],
+  "file": "ghost_top_2410_off-white_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2410/Off-white/ghost_top_2410_off-white_back.jpg",
+  "sha256": "59f31b36c8d9a7a84034c5d25672b9638e01dc220152f30ece7efb20bace01dd",
+  "row": 56,
+  "code": "2410",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2505",
+   "White-cream"
+  ],
+  "file": "ghost_top_2505_white-cream_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2505/White / cream/ghost_top_2505_white-cream_front.jpg",
+  "sha256": "3a3adeed7555489e5fa2d2f6a673b6a558f18de2821b5e84bf7644277e355bdf",
+  "row": 64,
+  "code": "2505",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2505",
+   "White-cream"
+  ],
+  "file": "ghost_top_2505_white-cream_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2505/White / cream/ghost_top_2505_white-cream_back.jpg",
+  "sha256": "ae18ff214d7ed3d6ec068546e2688fd8563acd9090c638eeff73bcf118ef5f64",
+  "row": 64,
+  "code": "2505",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2505",
+   "Burgundy"
+  ],
+  "file": "ghost_top_2505_burgundy_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2505/Burgundy/ghost_top_2505_burgundy_front.jpg",
+  "sha256": "ab3d0212a00baad2c5a5e6e4d8f10806732b72505daf124d7b35672771c32976",
+  "row": 65,
+  "code": "2505",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2505",
+   "Burgundy"
+  ],
+  "file": "ghost_top_2505_burgundy_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2505/Burgundy/ghost_top_2505_burgundy_back.jpg",
+  "sha256": "ce622eac1d0ed9c8273afe4b6ed04f4cda4be3cb27c309537ffb2d0bf113fa3b",
+  "row": 65,
+  "code": "2505",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2505",
+   "Chocolate brown"
+  ],
+  "file": "ghost_top_2505_chocolate-brown_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2505/Chocolate brown/ghost_top_2505_chocolate-brown_front.jpg",
+  "sha256": "efa12cadca6c6e23dbae9aa599b8b6468d7b71058f37c03062ab19a2a42317a2",
+  "row": 66,
+  "code": "2505",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 2505",
+   "Chocolate brown"
+  ],
+  "file": "ghost_top_2505_chocolate-brown_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 2505/Chocolate brown/ghost_top_2505_chocolate-brown_back.jpg",
+  "sha256": "8400abf773431eb7076333d3ffb5280f6d971dfd1920eb2ece69cc36999217ec",
+  "row": 66,
+  "code": "2505",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5003",
+   "Dusty mauve"
+  ],
+  "file": "ghost_top_5003_dusty-mauve_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5003/Dusty mauve/ghost_top_5003_dusty-mauve_front.jpg",
+  "sha256": "8d0c349fbf9d304c78cfb68a1f965ca853f4cf9f20ef615b689f0f6d36358430",
+  "row": 67,
+  "code": "5003",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5003",
+   "Dusty mauve"
+  ],
+  "file": "ghost_top_5003_dusty-mauve_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5003/Dusty mauve/ghost_top_5003_dusty-mauve_back.jpg",
+  "sha256": "dbc272e426dae0afd46cde269d1f0bb0f4c27db7ee91917da04e111ef9aeadbc",
+  "row": 67,
+  "code": "5003",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5003",
+   "Black"
+  ],
+  "file": "ghost_top_5003_black_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5003/Black/ghost_top_5003_black_front.jpg",
+  "sha256": "d84bee0324b098e924bc912a61d9f4147b2e83db19b4aae54fe6ddcc025eb925",
+  "row": 68,
+  "code": "5003",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5003",
+   "Black"
+  ],
+  "file": "ghost_top_5003_black_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5003/Black/ghost_top_5003_black_back.jpg",
+  "sha256": "5649c0b68c7f83b6680f151bf15e018a9b4b2992a7eea05f355ae92358776197",
+  "row": 68,
+  "code": "5003",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5003",
+   "Plum brown"
+  ],
+  "file": "ghost_top_5003_plum-brown_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5003/Plum brown/ghost_top_5003_plum-brown_front.jpg",
+  "sha256": "bbf9c4c4716085c757d944664f339987ff99ec8d41291efb867c6bcf39bcafc0",
+  "row": 69,
+  "code": "5003",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5003",
+   "Plum brown"
+  ],
+  "file": "ghost_top_5003_plum-brown_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5003/Plum brown/ghost_top_5003_plum-brown_back.jpg",
+  "sha256": "cc8974dfad51b28a8bb264ec836a9fcc6d46a2ea0bbe92b71c375d10ad314617",
+  "row": 69,
+  "code": "5003",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5003",
+   "Lavender grey"
+  ],
+  "file": "ghost_top_5003_lavender-grey_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5003/Lavender grey/ghost_top_5003_lavender-grey_front.jpg",
+  "sha256": "242e3ca796e92e2dfccd2e42dd188cc0c4146a759336693ec57aeb44c9a8ec5f",
+  "row": 70,
+  "code": "5003",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5003",
+   "Lavender grey"
+  ],
+  "file": "ghost_top_5003_lavender-grey_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5003/Lavender grey/ghost_top_5003_lavender-grey_back.jpg",
+  "sha256": "c077d6d0a3cf3e23adf30181fcf4dba546085e45ec81d0ef4220f4004ccf6b66",
+  "row": 70,
+  "code": "5003",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5003",
+   "White"
+  ],
+  "file": "ghost_top_5003_white_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5003/White/ghost_top_5003_white_front.jpg",
+  "sha256": "d08693a558925c1486c26963b20c60de8a25f2897a48e74f926bd0a14268ce60",
+  "row": 71,
+  "code": "5003",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5003",
+   "White"
+  ],
+  "file": "ghost_top_5003_white_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5003/White/ghost_top_5003_white_back.jpg",
+  "sha256": "dbb480ad1cb73951df9ea9712a7e6857c772ffd5fe17a5fe9184cb0cdd5da532",
+  "row": 71,
+  "code": "5003",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5003",
+   "Navy"
+  ],
+  "file": "ghost_top_5003_navy_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5003/Navy/ghost_top_5003_navy_front.jpg",
+  "sha256": "2f3be2b1f2e18893399fc480ea80d1b434338b8f05fb4d9d438f1735e3106cec",
+  "row": 72,
+  "code": "5003",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5003",
+   "Navy"
+  ],
+  "file": "ghost_top_5003_navy_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5003/Navy/ghost_top_5003_navy_back.jpg",
+  "sha256": "bdaa79610d7a62d5ce2110738dfd0b37fd7c0e2aceb925ebd1714e60d20d75c5",
+  "row": 72,
+  "code": "5003",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5004",
+   "Dusty mauve (sleeveless, over white shirt)"
+  ],
+  "file": "ghost_top_5004_dusty-mauve-sleeveless-over-white-shirt_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5004/Dusty mauve (sleeveless, over white shirt)/ghost_top_5004_dusty-mauve-sleeveless-over-white-shirt_front.jpg",
+  "sha256": "450de1441e46633c1c324130a4b8bb43aedef7339c5718cecdb019d33f8af8da",
+  "row": 73,
+  "code": "5004",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5004",
+   "Dusty mauve (sleeveless, over white shirt)"
+  ],
+  "file": "ghost_top_5004_dusty-mauve-sleeveless-over-white-shirt_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5004/Dusty mauve (sleeveless, over white shirt)/ghost_top_5004_dusty-mauve-sleeveless-over-white-shirt_back.jpg",
+  "sha256": "5f240f19b73473e750fa63c87ea1ed4d26c0c6f3d81b777be9b7d25831341b4a",
+  "row": 73,
+  "code": "5004",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5004",
+   "Burgundy"
+  ],
+  "file": "ghost_top_5004_burgundy_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5004/Burgundy/ghost_top_5004_burgundy_front.jpg",
+  "sha256": "712f27e276c0bade47eb36aa169aa71dd2d342599d751f32646f5c80902a5349",
+  "row": 74,
+  "code": "5004",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5004",
+   "Burgundy"
+  ],
+  "file": "ghost_top_5004_burgundy_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5004/Burgundy/ghost_top_5004_burgundy_back.jpg",
+  "sha256": "9652580abd393723b62d94d5e2accbd6cb3df67c8d37309d5c670c6135e01ce6",
+  "row": 74,
+  "code": "5004",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5004",
+   "Navy"
+  ],
+  "file": "ghost_top_5004_navy_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5004/Navy/ghost_top_5004_navy_front.jpg",
+  "sha256": "a39ed8267bfea934ca11d0287c21e6ba32a59c23cefd2347123e99fb6a85a6c2",
+  "row": 75,
+  "code": "5004",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5004",
+   "Navy"
+  ],
+  "file": "ghost_top_5004_navy_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5004/Navy/ghost_top_5004_navy_back.jpg",
+  "sha256": "f602ce3bc9295001a976fbfbbd33932a02866827ea4d4fe7ec6b5f93eda191be",
+  "row": 75,
+  "code": "5004",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5004",
+   "White"
+  ],
+  "file": "ghost_top_5004_white_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5004/White/ghost_top_5004_white_front.jpg",
+  "sha256": "6adb23cf2885039c5a7646157efca99bf5581c7f37925db42b029c12ac9be98c",
+  "row": 76,
+  "code": "5004",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5004",
+   "White"
+  ],
+  "file": "ghost_top_5004_white_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5004/White/ghost_top_5004_white_back.jpg",
+  "sha256": "941d86ede4401e0b0628f1bbe2e2ff23d3512144b97b76e86dfd0f707e4866c5",
+  "row": 76,
+  "code": "5004",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5004",
+   "Dark brown"
+  ],
+  "file": "ghost_top_5004_dark-brown_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5004/Dark brown/ghost_top_5004_dark-brown_front.jpg",
+  "sha256": "d376e1104ecbc769509c680efe58ee900a6b90673cbe62ecb3d628f8eb2c5fdc",
+  "row": 77,
+  "code": "5004",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5004",
+   "Dark brown"
+  ],
+  "file": "ghost_top_5004_dark-brown_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5004/Dark brown/ghost_top_5004_dark-brown_back.jpg",
+  "sha256": "e5a5c9d4834cd52197ba1614f5a049cec275d960e45a3d5d95257d57960dfbb8",
+  "row": 77,
+  "code": "5004",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5004",
+   "Lavender grey"
+  ],
+  "file": "ghost_top_5004_lavender-grey_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5004/Lavender grey/ghost_top_5004_lavender-grey_front.jpg",
+  "sha256": "8f2644cddcab124c78a518a853c13979e8304d9868f77dec9473c206d30c5f4f",
+  "row": 78,
+  "code": "5004",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5004",
+   "Lavender grey"
+  ],
+  "file": "ghost_top_5004_lavender-grey_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5004/Lavender grey/ghost_top_5004_lavender-grey_back.jpg",
+  "sha256": "f54a493805262fec127006ca0f14daba6a75549414d68fa0a99447c826b7c4fd",
+  "row": 78,
+  "code": "5004",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5004",
+   "Black"
+  ],
+  "file": "ghost_top_5004_black_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5004/Black/ghost_top_5004_black_front.jpg",
+  "sha256": "eae1703eb4e426a8ab48747449783cecbedd7e955909cb5d48445f588bbc264c",
+  "row": 79,
+  "code": "5004",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5004",
+   "Black"
+  ],
+  "file": "ghost_top_5004_black_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5004/Black/ghost_top_5004_black_back.jpg",
+  "sha256": "39127b6165fff2aa4b2df382474d4aa1b51481e628bf34d03a1a9a1de3d8cc50",
+  "row": 79,
+  "code": "5004",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5005",
+   "Grey"
+  ],
+  "file": "ghost_top_5005_grey_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5005/Grey/ghost_top_5005_grey_front.jpg",
+  "sha256": "817270431560013345ad95912c7162323155086f84ceda64980dbc2c5e860131",
+  "row": 80,
+  "code": "5005",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5005",
+   "Grey"
+  ],
+  "file": "ghost_top_5005_grey_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5005/Grey/ghost_top_5005_grey_back.jpg",
+  "sha256": "3230949e2ae2d9e491afac4123f7fd61c3b4a98ad97f375596bb9b19ea946b81",
+  "row": 80,
+  "code": "5005",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5005",
+   "Chocolate brown"
+  ],
+  "file": "ghost_top_5005_chocolate-brown_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5005/Chocolate brown/ghost_top_5005_chocolate-brown_front.jpg",
+  "sha256": "68fc01945ff5ae5e1728935e1001e027ae1b06f3fc95acfa8dc5d81535fb87f1",
+  "row": 81,
+  "code": "5005",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5005",
+   "Chocolate brown"
+  ],
+  "file": "ghost_top_5005_chocolate-brown_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5005/Chocolate brown/ghost_top_5005_chocolate-brown_back.jpg",
+  "sha256": "e4cf28a48b7b6a5beb9de2f9e3da3bad37d763d52531cacb0d606a1713913996",
+  "row": 81,
+  "code": "5005",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5005",
+   "Navy"
+  ],
+  "file": "ghost_top_5005_navy_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5005/Navy/ghost_top_5005_navy_front.jpg",
+  "sha256": "d311f1c0bf3a069fb891bd20d4032b24d69d0aa887c682b6fb7f929772689770",
+  "row": 82,
+  "code": "5005",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5005",
+   "Navy"
+  ],
+  "file": "ghost_top_5005_navy_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5005/Navy/ghost_top_5005_navy_back.jpg",
+  "sha256": "ba1140cf2faa5d42709bda837ed5ecf832c692cf3e7facb9f48dafe680a3c995",
+  "row": 82,
+  "code": "5005",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5005",
+   "White"
+  ],
+  "file": "ghost_top_5005_white_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5005/White/ghost_top_5005_white_front.jpg",
+  "sha256": "ec15755af3452c24026046e15f4e00df14d2e47b56e4360f49aeb7b5e8df0432",
+  "row": 83,
+  "code": "5005",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5005",
+   "White"
+  ],
+  "file": "ghost_top_5005_white_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5005/White/ghost_top_5005_white_back.jpg",
+  "sha256": "b384353db16be4bce9a0a008d6e30c1ae99af6ee040c0f049a8791872b412ed1",
+  "row": 83,
+  "code": "5005",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5006",
+   "Black"
+  ],
+  "file": "ghost_top_5006_black_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5006/Black/ghost_top_5006_black_front.jpg",
+  "sha256": "cde87e761a3734e15c88d9f6d2fe1f9eebcdbbf62d06714a562ce59603fd8da1",
+  "row": 84,
+  "code": "5006",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5006",
+   "Black"
+  ],
+  "file": "ghost_top_5006_black_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5006/Black/ghost_top_5006_black_back.jpg",
+  "sha256": "036751199fefaa38bdd08d3d08886ceb4c07d3e27a9a432a3e9cb76cfc151ca6",
+  "row": 84,
+  "code": "5006",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5006",
+   "Navy"
+  ],
+  "file": "ghost_top_5006_navy_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5006/Navy/ghost_top_5006_navy_front.jpg",
+  "sha256": "bcede15b75dee68e96d7fdd15d458df2fd9a238dd3ba1c54efa6017e7517bac6",
+  "row": 85,
+  "code": "5006",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5006",
+   "Navy"
+  ],
+  "file": "ghost_top_5006_navy_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5006/Navy/ghost_top_5006_navy_back.jpg",
+  "sha256": "89f6cd38cdd89c8944bc4123a445f8d16c412cfe0b618ec5e9bf274c7301240c",
+  "row": 85,
+  "code": "5006",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5006",
+   "Burgundy"
+  ],
+  "file": "ghost_top_5006_burgundy_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5006/Burgundy/ghost_top_5006_burgundy_front.jpg",
+  "sha256": "4083610b6ba1343589aa9e6cb1101a56a222cc1b159429b327c3f92ed36d1f9d",
+  "row": 86,
+  "code": "5006",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5006",
+   "Burgundy"
+  ],
+  "file": "ghost_top_5006_burgundy_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5006/Burgundy/ghost_top_5006_burgundy_back.jpg",
+  "sha256": "44cb2f2a1e749603c13e5fb816661e03d1816e14530d3bf74caf8f3c85b1059d",
+  "row": 86,
+  "code": "5006",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5006",
+   "Light Brown"
+  ],
+  "file": "ghost_top_5006_light-brown_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5006/Light Brown/ghost_top_5006_light-brown_front.jpg",
+  "sha256": "0a588e8a42f282b7b3c8ea3bb3b37bcd39d658c8b90aaa6042c49816977d158d",
+  "row": 87,
+  "code": "5006",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5006",
+   "Light Brown"
+  ],
+  "file": "ghost_top_5006_light-brown_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5006/Light Brown/ghost_top_5006_light-brown_back.jpg",
+  "sha256": "7d731dac4658c674be3fb6890c366ddfb13056da9bb894b59eebaeeb541cbd6d",
+  "row": 87,
+  "code": "5006",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5006",
+   "White"
+  ],
+  "file": "ghost_top_5006_white_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5006/White/ghost_top_5006_white_front.jpg",
+  "sha256": "d0b0bd0613ecc48fb785328997765280d2741ff1d53d8346d88f15de255a061f",
+  "row": 88,
+  "code": "5006",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5006",
+   "White"
+  ],
+  "file": "ghost_top_5006_white_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5006/White/ghost_top_5006_white_back.jpg",
+  "sha256": "d62f865cec4b6815c89acd7c014c16e64f3fe15b7434b9b8f3647fc6e11247fd",
+  "row": 88,
+  "code": "5006",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5006",
+   "Charcoal grey"
+  ],
+  "file": "ghost_top_5006_charcoal-grey_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5006/Charcoal grey/ghost_top_5006_charcoal-grey_front.jpg",
+  "sha256": "073867855cb3638a4f6233ff9ba0effc700434456a13c85c55946638524d4698",
+  "row": 89,
+  "code": "5006",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5006",
+   "Charcoal grey"
+  ],
+  "file": "ghost_top_5006_charcoal-grey_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5006/Charcoal grey/ghost_top_5006_charcoal-grey_back.jpg",
+  "sha256": "b5430b42c045b3fd861ab9232b638e422bd1036f00bb940c04314cc3145b904f",
+  "row": 89,
+  "code": "5006",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5008",
+   "Black vest over white shirt"
+  ],
+  "file": "ghost_top_5008_black-vest-over-white-shirt_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5008/Black vest over white shirt/ghost_top_5008_black-vest-over-white-shirt_front.jpg",
+  "sha256": "e98af6d70b44375d14e7ff46a8acb2d95bd3fe31faea00982b4488a9c0b466bb",
+  "row": 90,
+  "code": "5008",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5008",
+   "Black vest over white shirt"
+  ],
+  "file": "ghost_top_5008_black-vest-over-white-shirt_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5008/Black vest over white shirt/ghost_top_5008_black-vest-over-white-shirt_back.jpg",
+  "sha256": "75005cfcb94c70bde724f9fed1405890c1300c316d0218e71346b0513f434cb3",
+  "row": 90,
+  "code": "5008",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5010",
+   "Grey"
+  ],
+  "file": "ghost_top_5010_grey_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5010/Grey/ghost_top_5010_grey_front.jpg",
+  "sha256": "16984e022729c2d4c9b5631fdc07941f7d3c9393ad2f0eef4f868aafd33b8bd7",
+  "row": 91,
+  "code": "5010",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5010",
+   "Grey"
+  ],
+  "file": "ghost_top_5010_grey_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5010/Grey/ghost_top_5010_grey_back.jpg",
+  "sha256": "81fb1c02068a90ed232a8e05f9e2fd6370eb3e397984dae3583128a16a02de06",
+  "row": 91,
+  "code": "5010",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5010",
+   "Dusty pink"
+  ],
+  "file": "ghost_top_5010_dusty-pink_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5010/Dusty pink/ghost_top_5010_dusty-pink_front.jpg",
+  "sha256": "9e453f0c1075c09eae783acf37d4586a18c778eccaeb2198f772b2427db87005",
+  "row": 92,
+  "code": "5010",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5010",
+   "Dusty pink"
+  ],
+  "file": "ghost_top_5010_dusty-pink_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5010/Dusty pink/ghost_top_5010_dusty-pink_back.jpg",
+  "sha256": "bb58a52b42dedcac2f373831c37e4bafb76825973e9552fda9a530bc19d9702b",
+  "row": 92,
+  "code": "5010",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5010",
+   "Burgundy"
+  ],
+  "file": "ghost_top_5010_burgundy_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5010/Burgundy/ghost_top_5010_burgundy_front.jpg",
+  "sha256": "bb82a77b3c8ff2ef1a19c781c4c50e2d01c5cbed181f84f9efa800568be115cd",
+  "row": 93,
+  "code": "5010",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5010",
+   "Burgundy"
+  ],
+  "file": "ghost_top_5010_burgundy_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5010/Burgundy/ghost_top_5010_burgundy_back.jpg",
+  "sha256": "0a33936dbc541d765e3c65557cc14d614db9ebf54f5088a4baced912bb9dbfcd",
+  "row": 93,
+  "code": "5010",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5010",
+   "Brown"
+  ],
+  "file": "ghost_top_5010_brown_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5010/Brown/ghost_top_5010_brown_front.jpg",
+  "sha256": "b690864cf215ed4434ff206155a23e8e3a46742b860ee9499ba93fb2e288fd0b",
+  "row": 94,
+  "code": "5010",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5010",
+   "Brown"
+  ],
+  "file": "ghost_top_5010_brown_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5010/Brown/ghost_top_5010_brown_back.jpg",
+  "sha256": "021fd72cbd7d5032352e355c00c297dca70173ca68c146331309895137e74e34",
+  "row": 94,
+  "code": "5010",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5010",
+   "Black"
+  ],
+  "file": "ghost_top_5010_black_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5010/Black/ghost_top_5010_black_front.jpg",
+  "sha256": "2d1c90a1a0c7a8ac4b8552c8410f5d2e0c83fed05097005f218604c42f37c81a",
+  "row": 95,
+  "code": "5010",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5010",
+   "Black"
+  ],
+  "file": "ghost_top_5010_black_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5010/Black/ghost_top_5010_black_back.jpg",
+  "sha256": "25afdf6ad390b0c645ea8538edbd215c8a1795711b7f17409a93cf4a9c0fc560",
+  "row": 95,
+  "code": "5010",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5010",
+   "Navy"
+  ],
+  "file": "ghost_top_5010_navy_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5010/Navy/ghost_top_5010_navy_front.jpg",
+  "sha256": "96ba5373bcc4b1be75d52f67331225617dd8891e85bd95e7b018917f6a3a9ef1",
+  "row": 96,
+  "code": "5010",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5010",
+   "Navy"
+  ],
+  "file": "ghost_top_5010_navy_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5010/Navy/ghost_top_5010_navy_back.jpg",
+  "sha256": "ec533194c177cf14d638c69e249e1512eef5d94bf44685c1e6f4ce60d2d48738",
+  "row": 96,
+  "code": "5010",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5010",
+   "White"
+  ],
+  "file": "ghost_top_5010_white_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5010/White/ghost_top_5010_white_front.jpg",
+  "sha256": "603f3850d37505112a55364ca50cc5f0ef6de1d01a52af805b1daa8840e5cf8a",
+  "row": 97,
+  "code": "5010",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5010",
+   "White"
+  ],
+  "file": "ghost_top_5010_white_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5010/White/ghost_top_5010_white_back.jpg",
+  "sha256": "4f5fdfc72a539c4308c0912f35d15cd82ec9310d4d73d6b13eff6f1e562ed0d7",
+  "row": 97,
+  "code": "5010",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5014",
+   "Cream"
+  ],
+  "file": "ghost_top_5014_cream_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5014/Cream/ghost_top_5014_cream_front.jpg",
+  "sha256": "868cb538a34d6a0c6aee45e23b845f11f77d90137618f36a9ff9672987859b34",
+  "row": 98,
+  "code": "5014",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5014",
+   "Cream"
+  ],
+  "file": "ghost_top_5014_cream_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5014/Cream/ghost_top_5014_cream_back.jpg",
+  "sha256": "e46a73d62e140571de804165b59a97235fad5030c3de21224d5206dd98cbb850",
+  "row": 98,
+  "code": "5014",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5014",
+   "Olive"
+  ],
+  "file": "ghost_top_5014_olive_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5014/Olive/ghost_top_5014_olive_front.jpg",
+  "sha256": "d4cc75ed8a08cf7075d059070f346a2d6e62836fffc2656c285f4c35ebf29200",
+  "row": 99,
+  "code": "5014",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5014",
+   "Olive"
+  ],
+  "file": "ghost_top_5014_olive_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5014/Olive/ghost_top_5014_olive_back.jpg",
+  "sha256": "48af91e4d215bddde80bf520f222202f1faed18eb744f37576076d9c7406aeb2",
+  "row": 99,
+  "code": "5014",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5014",
+   "Cobalt blue"
+  ],
+  "file": "ghost_top_5014_cobalt-blue_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5014/Cobalt blue/ghost_top_5014_cobalt-blue_front.jpg",
+  "sha256": "7dbed21190a91a61187b0dbdfe6c5e8859a85e21c10003b776e78b5790e215db",
+  "row": 100,
+  "code": "5014",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5014",
+   "Cobalt blue"
+  ],
+  "file": "ghost_top_5014_cobalt-blue_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5014/Cobalt blue/ghost_top_5014_cobalt-blue_back.jpg",
+  "sha256": "90a8aae2ce168acbaa14963376797c46739133738cf0b1b844f1d904267af8bc",
+  "row": 100,
+  "code": "5014",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5014",
+   "Rose pink"
+  ],
+  "file": "ghost_top_5014_rose-pink_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5014/Rose pink/ghost_top_5014_rose-pink_front.jpg",
+  "sha256": "a1c34609a315819a534d0cd2fcbb9adf0fdf6644edc9263cc61230b2b471d4f3",
+  "row": 101,
+  "code": "5014",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5014",
+   "Rose pink"
+  ],
+  "file": "ghost_top_5014_rose-pink_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5014/Rose pink/ghost_top_5014_rose-pink_back.jpg",
+  "sha256": "3ce42c5f91bde87b6377d3943169f05c059754488fd24829ba983b521ed83c7e",
+  "row": 101,
+  "code": "5014",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5014",
+   "Camel"
+  ],
+  "file": "ghost_top_5014_camel_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5014/Camel/ghost_top_5014_camel_front.jpg",
+  "sha256": "46b9818afdd36383df818ff15ee69c8f63711c8dd15c8b4a01cd8d2dd1f55e02",
+  "row": 102,
+  "code": "5014",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5014",
+   "Camel"
+  ],
+  "file": "ghost_top_5014_camel_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5014/Camel/ghost_top_5014_camel_back.jpg",
+  "sha256": "6f1418451a23a1b45fd1aa3009ad7d92939801597027aa1a046bf95200ce97d0",
+  "row": 102,
+  "code": "5014",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5014",
+   "Burgundy"
+  ],
+  "file": "ghost_top_5014_burgundy_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5014/Burgundy/ghost_top_5014_burgundy_front.jpg",
+  "sha256": "9a10f77bda383aca97eb93dbf84ae8281debd83fd499c34f57e2e75cb9cb445b",
+  "row": 103,
+  "code": "5014",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5014",
+   "Burgundy"
+  ],
+  "file": "ghost_top_5014_burgundy_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5014/Burgundy/ghost_top_5014_burgundy_back.jpg",
+  "sha256": "64d25b96a933cfc81e1680b6c4f95dd5ab71ea5cd27d3ad7f621820c98025804",
+  "row": 103,
+  "code": "5014",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5014",
+   "Black"
+  ],
+  "file": "ghost_top_5014_black_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5014/Black/ghost_top_5014_black_front.jpg",
+  "sha256": "933e06ff7f820aec526a4ff94b96677c56daa816e7afe4ac701819b329b0bd2f",
+  "row": 104,
+  "code": "5014",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 5014",
+   "Black"
+  ],
+  "file": "ghost_top_5014_black_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 5014/Black/ghost_top_5014_black_back.jpg",
+  "sha256": "4ff4a5a85e045e51bcc2626f5c338b8d95b9ebce11602bcaa1a252ba8a1ade1a",
+  "row": 104,
+  "code": "5014",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 603",
+   "Sand beige"
+  ],
+  "file": "ghost_top_603_sand-beige_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 603/Sand beige/ghost_top_603_sand-beige_front.jpg",
+  "sha256": "154e06ed9a60b2e0e3b1a0985272c43b1984b479763b204982d97d25089ac53c",
+  "row": 105,
+  "code": "603",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 603",
+   "Sand beige"
+  ],
+  "file": "ghost_top_603_sand-beige_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 603/Sand beige/ghost_top_603_sand-beige_back.jpg",
+  "sha256": "f1530773e390129eec599707e35e81dd841f0cdb788068550ceeadbd044ae8f1",
+  "row": 105,
+  "code": "603",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 603",
+   "Burgundy"
+  ],
+  "file": "ghost_top_603_burgundy_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 603/Burgundy/ghost_top_603_burgundy_front.jpg",
+  "sha256": "a35493461b64f52b23d4c831d6c2f67e257de5005d6d677052467484201d0da9",
+  "row": 106,
+  "code": "603",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 603",
+   "Burgundy"
+  ],
+  "file": "ghost_top_603_burgundy_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 603/Burgundy/ghost_top_603_burgundy_back.jpg",
+  "sha256": "f149017ad9de08f9f1d359165f1f57a158ccfce7ee4391978be5b222851ebd5f",
+  "row": 106,
+  "code": "603",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 603",
+   "Black"
+  ],
+  "file": "ghost_top_603_black_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 603/Black/ghost_top_603_black_front.jpg",
+  "sha256": "9f3104a30749b5634e13e861e433f76077f7872d55123d936d912e7a1346aae3",
+  "row": 107,
+  "code": "603",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 603",
+   "Black"
+  ],
+  "file": "ghost_top_603_black_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 603/Black/ghost_top_603_black_back.jpg",
+  "sha256": "90ab090e9da3131b97d5207a0bb77be1b00a7d04184efd0e87080c1305c855a2",
+  "row": 107,
+  "code": "603",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 603",
+   "Brown"
+  ],
+  "file": "ghost_top_603_brown_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 603/Brown/ghost_top_603_brown_front.jpg",
+  "sha256": "ed746e53fb98c1b4f33afa1dffba1952ccb3e7b5d6f69654c7535ee36cda1bba",
+  "row": 108,
+  "code": "603",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 603",
+   "Brown"
+  ],
+  "file": "ghost_top_603_brown_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 603/Brown/ghost_top_603_brown_back.jpg",
+  "sha256": "ea097aea158f15a0eae528a438a7d1e1b621e30d64c2abcb378c56c481aadb38",
+  "row": 108,
+  "code": "603",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 603",
+   "White"
+  ],
+  "file": "ghost_top_603_white_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 603/White/ghost_top_603_white_front.jpg",
+  "sha256": "75525209d420bdf5ca774501214028a3b3438280d8db531690df40cce78f2de5",
+  "row": 109,
+  "code": "603",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 603",
+   "White"
+  ],
+  "file": "ghost_top_603_white_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 603/White/ghost_top_603_white_back.jpg",
+  "sha256": "9e0518709840255ef99c300c19cbe5ca15cc8a02110af3b8be4c171423426e15",
+  "row": 109,
+  "code": "603",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 604",
+   "Blush taupe"
+  ],
+  "file": "ghost_top_604_blush-taupe_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 604/Blush taupe/ghost_top_604_blush-taupe_front.jpg",
+  "sha256": "2a122bbafef65832cb87a38d49ea5ff0c9d3e1051229b61eeb6891e3bf0089a9",
+  "row": 110,
+  "code": "604",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 604",
+   "Blush taupe"
+  ],
+  "file": "ghost_top_604_blush-taupe_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 604/Blush taupe/ghost_top_604_blush-taupe_back.jpg",
+  "sha256": "32ce352a90144a3dd052dfb6d3aa6ae9738e111e06ed05f2f14cd593bd75351c",
+  "row": 110,
+  "code": "604",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 604",
+   "Black"
+  ],
+  "file": "ghost_top_604_black_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 604/Black/ghost_top_604_black_front.jpg",
+  "sha256": "74ee5fbcbc87ae2268906b90a47f12d8c530ffd6b763ee6a795dfe9d77b0b9ff",
+  "row": 111,
+  "code": "604",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 604",
+   "Black"
+  ],
+  "file": "ghost_top_604_black_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 604/Black/ghost_top_604_black_back.jpg",
+  "sha256": "268048fd13a1449494f807bbbd4c0adfd481c9f089efd563cbedc6f6014f242b",
+  "row": 111,
+  "code": "604",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 604",
+   "Dark brown"
+  ],
+  "file": "ghost_top_604_dark-brown_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 604/Dark brown/ghost_top_604_dark-brown_front.jpg",
+  "sha256": "a0b8831ba59eb4bf3919dedf3731fbdac1832ffa928414528ad81cdc7d46d44e",
+  "row": 112,
+  "code": "604",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 604",
+   "Dark brown"
+  ],
+  "file": "ghost_top_604_dark-brown_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 604/Dark brown/ghost_top_604_dark-brown_back.jpg",
+  "sha256": "8db531bd523962112933075381035e06827da149c5de8db483929e776640915d",
+  "row": 112,
+  "code": "604",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 604",
+   "Burgundy"
+  ],
+  "file": "ghost_top_604_burgundy_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 604/Burgundy/ghost_top_604_burgundy_front.jpg",
+  "sha256": "0367590ec1315b85db89202ff8c146f8e29c242ce7f9b3e5a5a421bdb6dfd638",
+  "row": 113,
+  "code": "604",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 604",
+   "Burgundy"
+  ],
+  "file": "ghost_top_604_burgundy_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 604/Burgundy/ghost_top_604_burgundy_back.jpg",
+  "sha256": "f2dd21bae0205e741e11d1b3a27ca850f82cd5b98f18097a6b1889b979f1d6a1",
+  "row": 113,
+  "code": "604",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 604",
+   "Camel"
+  ],
+  "file": "ghost_top_604_camel_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 604/Camel/ghost_top_604_camel_front.jpg",
+  "sha256": "7e1b494c478b20ce96c991b224a4eb524914d450573036337b06101361fbd24e",
+  "row": 114,
+  "code": "604",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 604",
+   "Camel"
+  ],
+  "file": "ghost_top_604_camel_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 604/Camel/ghost_top_604_camel_back.jpg",
+  "sha256": "1240b393109037d02c2fb150d19422470349e6386eb759c068b081ba7f9d42b9",
+  "row": 114,
+  "code": "604",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 604",
+   "Cream"
+  ],
+  "file": "ghost_top_604_cream_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 604/Cream/ghost_top_604_cream_front.jpg",
+  "sha256": "61b12603dda24b09aff0b292e40fd259dd58f45277b5f065ef7a08ca428dab58",
+  "row": 115,
+  "code": "604",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 604",
+   "Cream"
+  ],
+  "file": "ghost_top_604_cream_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 604/Cream/ghost_top_604_cream_back.jpg",
+  "sha256": "fc0948b33ec9132e3e492f4b69d17701d4a170742502a98a9a1d1c3edfc40890",
+  "row": 115,
+  "code": "604",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7080 GREY",
+   "Grey"
+  ],
+  "file": "ghost_top_7080-grey_grey_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7080 GREY/Grey/ghost_top_7080-grey_grey_front.jpg",
+  "sha256": "3a105ea95b2ef43b888f4ceac9ec4a26732a3ebaef6bcb99b1b9badd0aa0fd0e",
+  "row": 116,
+  "code": "7080 GREY",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7080 GREY",
+   "Grey"
+  ],
+  "file": "ghost_top_7080-grey_grey_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7080 GREY/Grey/ghost_top_7080-grey_grey_back.jpg",
+  "sha256": "f27f8d5427d812679ed508e78a653e6f3bf0e5fb1599c9d50daa1c71c312321b",
+  "row": 116,
+  "code": "7080 GREY",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7080 GREY",
+   "Chocolate brown"
+  ],
+  "file": "ghost_top_7080-grey_chocolate-brown_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7080 GREY/Chocolate brown/ghost_top_7080-grey_chocolate-brown_front.jpg",
+  "sha256": "a31516cd8ab94a379575b9e83a7f6ee5a5c747559c9135a5a24ce18b2e97310e",
+  "row": 117,
+  "code": "7080 GREY",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7080 GREY",
+   "Chocolate brown"
+  ],
+  "file": "ghost_top_7080-grey_chocolate-brown_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7080 GREY/Chocolate brown/ghost_top_7080-grey_chocolate-brown_back.jpg",
+  "sha256": "59ac07ed9932b3c87e2e3a2095532d86204123c29229110c987f6eac6e8477c8",
+  "row": 117,
+  "code": "7080 GREY",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7080 GREY",
+   "Cafe pink"
+  ],
+  "file": "ghost_top_7080-grey_cafe-pink_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7080 GREY/Cafe pink/ghost_top_7080-grey_cafe-pink_front.jpg",
+  "sha256": "b96c8cde343356ab19ec5b5517f4dd8ef57d172ad86be07abb25d6186ce29b9c",
+  "row": 118,
+  "code": "7080 GREY",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7080 GREY",
+   "Cafe pink"
+  ],
+  "file": "ghost_top_7080-grey_cafe-pink_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7080 GREY/Cafe pink/ghost_top_7080-grey_cafe-pink_back.jpg",
+  "sha256": "8f82d5220e5eec7d28c969ebb1009aa48010d2cf9d7bc6911ff3c2615a008238",
+  "row": 118,
+  "code": "7080 GREY",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7088",
+   "Black"
+  ],
+  "file": "ghost_top_7088_black_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7088/Black/ghost_top_7088_black_front.jpg",
+  "sha256": "55731e0fec1745ef230b559543930a3c6ed519b01586eff33a96854919f421ff",
+  "row": 119,
+  "code": "7088",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7088",
+   "Black"
+  ],
+  "file": "ghost_top_7088_black_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7088/Black/ghost_top_7088_black_back.jpg",
+  "sha256": "078473cac1d1da1306797be798c84f1b8d9c39a27a29df6e7f8484c8873aae08",
+  "row": 119,
+  "code": "7088",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7089",
+   "Black"
+  ],
+  "file": "ghost_top_7089_black_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7089/Black/ghost_top_7089_black_front.jpg",
+  "sha256": "e3cb992b90d715e007aec15733cc9d5d7c8ae7897c699905d289adb77d894b93",
+  "row": 120,
+  "code": "7089",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7089",
+   "Black"
+  ],
+  "file": "ghost_top_7089_black_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7089/Black/ghost_top_7089_black_back.jpg",
+  "sha256": "93d921c0ac3a8b38c6e192c6d56f8018b9b4cf37f5785361918fd057785f6c68",
+  "row": 120,
+  "code": "7089",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7089",
+   "Sage green"
+  ],
+  "file": "ghost_top_7089_sage-green_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7089/Sage green/ghost_top_7089_sage-green_front.jpg",
+  "sha256": "a1fdf40985cf6e29e86155883267465bad5fe6fbdfda90c61e197eba1065e983",
+  "row": 121,
+  "code": "7089",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7089",
+   "Sage green"
+  ],
+  "file": "ghost_top_7089_sage-green_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7089/Sage green/ghost_top_7089_sage-green_back.jpg",
+  "sha256": "eadc005a1b609304972daa2fe696fbc1838a413739c361994812e0643abf21fe",
+  "row": 121,
+  "code": "7089",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7089",
+   "White"
+  ],
+  "file": "ghost_top_7089_white_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7089/White/ghost_top_7089_white_front.jpg",
+  "sha256": "671739e01258c5bcd19cf2834734797642f47a2159aaa1cc96ab0bf6e9350c40",
+  "row": 122,
+  "code": "7089",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7089",
+   "White"
+  ],
+  "file": "ghost_top_7089_white_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7089/White/ghost_top_7089_white_back.jpg",
+  "sha256": "deea7422175801bcd386b11237228f28125534e778669c64ef3d88a8989b7bff",
+  "row": 122,
+  "code": "7089",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7089",
+   "Brown"
+  ],
+  "file": "ghost_top_7089_brown_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7089/Brown/ghost_top_7089_brown_front.jpg",
+  "sha256": "cd96660ea311e5fbec49b72a3bd715d667dfe3fafe2d0c7eb99448566b24e600",
+  "row": 123,
+  "code": "7089",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7089",
+   "Brown"
+  ],
+  "file": "ghost_top_7089_brown_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7089/Brown/ghost_top_7089_brown_back.jpg",
+  "sha256": "7f0e13201f3d4ef1b652676a0dc48ec6b0f8a917ad1e99c9a7d20a59962cf4f4",
+  "row": 123,
+  "code": "7089",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7089",
+   "Dark brown"
+  ],
+  "file": "ghost_top_7089_dark-brown_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7089/Dark brown/ghost_top_7089_dark-brown_front.jpg",
+  "sha256": "5df4a2c1e138499d8adf1aec80b8beec9aa5991b3e8ef5a7d1529f2beedaf51f",
+  "row": 124,
+  "code": "7089",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7089",
+   "Dark brown"
+  ],
+  "file": "ghost_top_7089_dark-brown_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7089/Dark brown/ghost_top_7089_dark-brown_back.jpg",
+  "sha256": "2d4def7ae8fd7a25bfd6100e579aaa89f4b702294106b150796b20eb42e90179",
+  "row": 124,
+  "code": "7089",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7089",
+   "Beige"
+  ],
+  "file": "ghost_top_7089_beige_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7089/Beige/ghost_top_7089_beige_front.jpg",
+  "sha256": "76c073ede516d55d4c9635261a558b9aeb8857761dea1ecaa0015af06253cb8d",
+  "row": 125,
+  "code": "7089",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7089",
+   "Beige"
+  ],
+  "file": "ghost_top_7089_beige_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7089/Beige/ghost_top_7089_beige_back.jpg",
+  "sha256": "01c147271da550c853bff02e5290a9720e551f43feaee44e63b8a1ebab35d713",
+  "row": 125,
+  "code": "7089",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7089",
+   "Olive"
+  ],
+  "file": "ghost_top_7089_olive_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7089/Olive/ghost_top_7089_olive_front.jpg",
+  "sha256": "3a01b7a4ab28c4e615d79fe5bf2e44f3bd8f46e1bce9afba147bfbb8aeac8503",
+  "row": 126,
+  "code": "7089",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7089",
+   "Olive"
+  ],
+  "file": "ghost_top_7089_olive_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7089/Olive/ghost_top_7089_olive_back.jpg",
+  "sha256": "60c6400cf0cf961dcd2d1ebe9ed50b79460591b51a6a4a37817c9461e06aa4c2",
+  "row": 126,
+  "code": "7089",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7094",
+   "Khaki taupe"
+  ],
+  "file": "ghost_top_7094_khaki-taupe_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7094/Khaki taupe/ghost_top_7094_khaki-taupe_front.jpg",
+  "sha256": "eae0ee66e603aaaf36b6a3543d41825576e65a1fd96fb361c641ba119676a354",
+  "row": 127,
+  "code": "7094",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7094",
+   "Khaki taupe"
+  ],
+  "file": "ghost_top_7094_khaki-taupe_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7094/Khaki taupe/ghost_top_7094_khaki-taupe_back.jpg",
+  "sha256": "df59c694f71800c5c7bffd9e3e76495657298b47cda396e11231ce04d629facc",
+  "row": 127,
+  "code": "7094",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7094",
+   "Cream"
+  ],
+  "file": "ghost_top_7094_cream_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7094/Cream/ghost_top_7094_cream_front.jpg",
+  "sha256": "ed3d1b6ec693efe25897cb160c102f6b7e72e435d2da3e8d177474741daab451",
+  "row": 128,
+  "code": "7094",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7094",
+   "Cream"
+  ],
+  "file": "ghost_top_7094_cream_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7094/Cream/ghost_top_7094_cream_back.jpg",
+  "sha256": "e3777669e85080535b2bc57b104e7b8fd88dcf53e0d1304553a111780349efbb",
+  "row": 128,
+  "code": "7094",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7094",
+   "Dusty mauve-lilac"
+  ],
+  "file": "ghost_top_7094_dusty-mauve-lilac_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7094/Dusty mauve / lilac/ghost_top_7094_dusty-mauve-lilac_front.jpg",
+  "sha256": "66fc986c91481b87900f63a1b8aa5c29decfd998835472ce005631c01ab82f78",
+  "row": 129,
+  "code": "7094",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7094",
+   "Dusty mauve-lilac"
+  ],
+  "file": "ghost_top_7094_dusty-mauve-lilac_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7094/Dusty mauve / lilac/ghost_top_7094_dusty-mauve-lilac_back.jpg",
+  "sha256": "5267b9172b7a86a6931d5a698b8046b8bc1f1bcb5252577ca1a70f2fc6393fc0",
+  "row": 129,
+  "code": "7094",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7094",
+   "Powder blue"
+  ],
+  "file": "ghost_top_7094_powder-blue_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7094/Powder blue/ghost_top_7094_powder-blue_front.jpg",
+  "sha256": "c70f68ad7c6dde345a0d4fb204c5414c1f546a9e944d4bd673818205ad162cc3",
+  "row": 130,
+  "code": "7094",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7094",
+   "Powder blue"
+  ],
+  "file": "ghost_top_7094_powder-blue_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7094/Powder blue/ghost_top_7094_powder-blue_back.jpg",
+  "sha256": "58c72bbe9f81a3e323d51d6446175e186434f4a75763b4d0f09a00cf838c6a13",
+  "row": 130,
+  "code": "7094",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7094",
+   "Grey"
+  ],
+  "file": "ghost_top_7094_grey_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7094/Grey/ghost_top_7094_grey_front.jpg",
+  "sha256": "44037286c3ef33d7b8e2d38cf53dfdbb7c8cfdf0732d2eba1d1c6e2b74a2f0fc",
+  "row": 131,
+  "code": "7094",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7094",
+   "Grey"
+  ],
+  "file": "ghost_top_7094_grey_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7094/Grey/ghost_top_7094_grey_back.jpg",
+  "sha256": "76aa3b3bbf292fe0620536258a5011a0e3f2ed537a0a0e99d33964f786f5cc86",
+  "row": 131,
+  "code": "7094",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7095",
+   "Cream-beige"
+  ],
+  "file": "ghost_top_7095_cream-beige_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7095/Cream / beige/ghost_top_7095_cream-beige_front.jpg",
+  "sha256": "b7f5a6e8f8741524870288b687ddedaf9c735366a3be48dbd0a1df05e8b52bb6",
+  "row": 132,
+  "code": "7095",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7095",
+   "Cream-beige"
+  ],
+  "file": "ghost_top_7095_cream-beige_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7095/Cream / beige/ghost_top_7095_cream-beige_back.jpg",
+  "sha256": "5365145c4eecff1d7ac446692b5805a4c248eb89925ad6d93fa4f758f67c36f5",
+  "row": 132,
+  "code": "7095",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7095",
+   "Blush peach"
+  ],
+  "file": "ghost_top_7095_blush-peach_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7095/Blush peach/ghost_top_7095_blush-peach_front.jpg",
+  "sha256": "d0d39c6f20338785be8b32f344449ed7b1a5e693bc13acbe3c1a7c44fb3c9c59",
+  "row": 133,
+  "code": "7095",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7095",
+   "Blush peach"
+  ],
+  "file": "ghost_top_7095_blush-peach_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7095/Blush peach/ghost_top_7095_blush-peach_back.jpg",
+  "sha256": "df0041d762a503d09b04c77ed6e315d5a290dc84cdfe77c05afbe608e6a024eb",
+  "row": 133,
+  "code": "7095",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7095",
+   "Purple"
+  ],
+  "file": "ghost_top_7095_purple_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7095/Purple/ghost_top_7095_purple_front.jpg",
+  "sha256": "9b01f23bdb81f9b80175dfd30149f5311e72ec7783243d8930dbd3f48fa1d45e",
+  "row": 134,
+  "code": "7095",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7095",
+   "Purple"
+  ],
+  "file": "ghost_top_7095_purple_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7095/Purple/ghost_top_7095_purple_back.jpg",
+  "sha256": "1eb2a644cc0cb990c551dfa2f52c97556311639c11fdf47769183f6e324e3a1e",
+  "row": 134,
+  "code": "7095",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7095",
+   "Yellow"
+  ],
+  "file": "ghost_top_7095_yellow_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7095/Yellow/ghost_top_7095_yellow_front.jpg",
+  "sha256": "27e76347f7949d143f9ebfb0610ad8a7473715d1c37f65db33a06ac06bb0f336",
+  "row": 135,
+  "code": "7095",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7095",
+   "Yellow"
+  ],
+  "file": "ghost_top_7095_yellow_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7095/Yellow/ghost_top_7095_yellow_back.jpg",
+  "sha256": "e57e4e8b3207522edaf1f99e5aeddc73e704f1af83618758056e8bb7c800d051",
+  "row": 135,
+  "code": "7095",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7095",
+   "Grey"
+  ],
+  "file": "ghost_top_7095_grey_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7095/Grey/ghost_top_7095_grey_front.jpg",
+  "sha256": "cfffadc0ee6fb5b23831adfc6578dfbc3678ab0c892d832703701337c36bbda5",
+  "row": 136,
+  "code": "7095",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7095",
+   "Grey"
+  ],
+  "file": "ghost_top_7095_grey_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7095/Grey/ghost_top_7095_grey_back.jpg",
+  "sha256": "06cb6a09841a3d8ac6988045d230581519ea206303800c94f78b575d81e39dc4",
+  "row": 136,
+  "code": "7095",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7095",
+   "Taupe"
+  ],
+  "file": "ghost_top_7095_taupe_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7095/Taupe/ghost_top_7095_taupe_front.jpg",
+  "sha256": "0025989ab29c8eff975870cbaa8b034845280a324ed429d1c7ef892569cb45a6",
+  "row": 137,
+  "code": "7095",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7095",
+   "Taupe"
+  ],
+  "file": "ghost_top_7095_taupe_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7095/Taupe/ghost_top_7095_taupe_back.jpg",
+  "sha256": "8182bb7ac0f4de6a599ddfa564e3573ef1205a54928a1b338d2781f30a06ce56",
+  "row": 137,
+  "code": "7095",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7095",
+   "Black"
+  ],
+  "file": "ghost_top_7095_black_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7095/Black/ghost_top_7095_black_front.jpg",
+  "sha256": "a1559c084a762dee95d789c8bfdfff2a81ada801d3609fba3ff3ddfaa4ae4cef",
+  "row": 138,
+  "code": "7095",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7095",
+   "Black"
+  ],
+  "file": "ghost_top_7095_black_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7095/Black/ghost_top_7095_black_back.jpg",
+  "sha256": "f639cd7b042f620891de4c0db84bfbe07776d14d39b9f93dd7c414d7e7b94b21",
+  "row": 138,
+  "code": "7095",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7096",
+   "Cream-ivory"
+  ],
+  "file": "ghost_top_7096_cream-ivory_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7096/Cream / ivory/ghost_top_7096_cream-ivory_front.jpg",
+  "sha256": "fb6094693814c5baf98ac8d71bf0292859f5f24bb5959e271a16911ffe72c784",
+  "row": 139,
+  "code": "7096",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7096",
+   "Cream-ivory"
+  ],
+  "file": "ghost_top_7096_cream-ivory_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7096/Cream / ivory/ghost_top_7096_cream-ivory_back.jpg",
+  "sha256": "b10fdc7d07b732dca8de51deb107929b27b1d636a11f54aa26d47e4cd5bf2601",
+  "row": 139,
+  "code": "7096",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7096",
+   "Pink"
+  ],
+  "file": "ghost_top_7096_pink_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7096/Pink/ghost_top_7096_pink_front.jpg",
+  "sha256": "e5a4c302aa713c0f3fd1f09fe6e1fc72ce04c6a7cc469a5e4d6a6b8844ff5948",
+  "row": 140,
+  "code": "7096",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7096",
+   "Pink"
+  ],
+  "file": "ghost_top_7096_pink_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7096/Pink/ghost_top_7096_pink_back.jpg",
+  "sha256": "4da81eda6aebb57cc5d875aa3def7c3e1fa53daa61d6c0f4adc7785ad8c01040",
+  "row": 140,
+  "code": "7096",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7096",
+   "Black"
+  ],
+  "file": "ghost_top_7096_black_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7096/Black/ghost_top_7096_black_front.jpg",
+  "sha256": "fba6abfe30a40074990964ff32d171ff166c6397306c519f37494dab4901e049",
+  "row": 141,
+  "code": "7096",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7096",
+   "Black"
+  ],
+  "file": "ghost_top_7096_black_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7096/Black/ghost_top_7096_black_back.jpg",
+  "sha256": "a83a0f3aee90ca9117a1bf961d1b9b7e7760594c203a9d4957b1e7514267ed4c",
+  "row": 141,
+  "code": "7096",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7096",
+   "Blush beige"
+  ],
+  "file": "ghost_top_7096_blush-beige_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7096/Blush beige/ghost_top_7096_blush-beige_front.jpg",
+  "sha256": "0f88987a248abd96bd47e83fe924b781f0354564694064e3173c8a9361d8ae7b",
+  "row": 142,
+  "code": "7096",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7096",
+   "Blush beige"
+  ],
+  "file": "ghost_top_7096_blush-beige_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7096/Blush beige/ghost_top_7096_blush-beige_back.jpg",
+  "sha256": "86272372bdc04c20cfb6d797c29dd18b4fb62be272a1e69a6749ce9b05828072",
+  "row": 142,
+  "code": "7096",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7097",
+   "Black"
+  ],
+  "file": "ghost_top_7097_black_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7097/Black/ghost_top_7097_black_front.jpg",
+  "sha256": "5271b7543089fea9a2a4a79c7fba7d81929681647492827f3664834a770acb9f",
+  "row": 143,
+  "code": "7097",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7097",
+   "Black"
+  ],
+  "file": "ghost_top_7097_black_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7097/Black/ghost_top_7097_black_back.jpg",
+  "sha256": "1af3d1d64d77b0159c4c4c2cc5b550ba5bd4d21655fcc6bd8c9ac9f36d28fbce",
+  "row": 143,
+  "code": "7097",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7097",
+   "Burgundy"
+  ],
+  "file": "ghost_top_7097_burgundy_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7097/Burgundy/ghost_top_7097_burgundy_front.jpg",
+  "sha256": "7c6d4c70d55d59179e29022284cbaa5a9f50957a2f4670c9fc781c977aa9ac74",
+  "row": 144,
+  "code": "7097",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7097",
+   "Burgundy"
+  ],
+  "file": "ghost_top_7097_burgundy_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7097/Burgundy/ghost_top_7097_burgundy_back.jpg",
+  "sha256": "d6f85e760ca419f37fb5c77f12685668e46a7b3eb19c3d441f54d6c3ff408126",
+  "row": 144,
+  "code": "7097",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7097",
+   "Beige-stone"
+  ],
+  "file": "ghost_top_7097_beige-stone_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7097/Beige / stone/ghost_top_7097_beige-stone_front.jpg",
+  "sha256": "b2a565736a5d86f7f1f8542c5a74b357e25fe993e7c8320586cb4f9d8e69bc29",
+  "row": 145,
+  "code": "7097",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7097",
+   "Beige-stone"
+  ],
+  "file": "ghost_top_7097_beige-stone_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7097/Beige / stone/ghost_top_7097_beige-stone_back.jpg",
+  "sha256": "cb48530c06c23f3cf48ebe9d12af9987e6a4de901add2f90fe2e220996600f63",
+  "row": 145,
+  "code": "7097",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7097",
+   "Camel brown"
+  ],
+  "file": "ghost_top_7097_camel-brown_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7097/Camel brown/ghost_top_7097_camel-brown_front.jpg",
+  "sha256": "2e25c2299f79e711fcdbc210db17420e1984eacad71d209440288503fd020c34",
+  "row": 146,
+  "code": "7097",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7097",
+   "Camel brown"
+  ],
+  "file": "ghost_top_7097_camel-brown_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7097/Camel brown/ghost_top_7097_camel-brown_back.jpg",
+  "sha256": "daba9c8482100e94f753396fe5429ca513cbd93a1a43226170a42fc49c875a3b",
+  "row": 146,
+  "code": "7097",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7097",
+   "Dark brown"
+  ],
+  "file": "ghost_top_7097_dark-brown_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7097/Dark brown/ghost_top_7097_dark-brown_front.jpg",
+  "sha256": "b17eba2d6e1bd4ab291979352089bd59c712f1e7a2dc6c547d0928867edac297",
+  "row": 147,
+  "code": "7097",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP 7097",
+   "Dark brown"
+  ],
+  "file": "ghost_top_7097_dark-brown_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP 7097/Dark brown/ghost_top_7097_dark-brown_back.jpg",
+  "sha256": "4dc02f6cd61720288f915deb654b99d52126a9f309e7b515965e255ec103c6b3",
+  "row": 147,
+  "code": "7097",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP BXX-7039",
+   "Cream"
+  ],
+  "file": "ghost_top_bxx-7039_cream_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP BXX-7039/Cream/ghost_top_bxx-7039_cream_front.jpg",
+  "sha256": "ede90223e05c45012ea5703368ee13bd1f51ba16854d9466135832704951945d",
+  "row": 148,
+  "code": "BXX-7039",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP BXX-7039",
+   "Cream"
+  ],
+  "file": "ghost_top_bxx-7039_cream_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP BXX-7039/Cream/ghost_top_bxx-7039_cream_back.jpg",
+  "sha256": "2ef8fd97ebc062f1b3325f85c9b529cccfaeee7ac88ff2e5d40f5fb66dcfb8b0",
+  "row": 148,
+  "code": "BXX-7039",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP BXX-7039",
+   "Chocolate brown"
+  ],
+  "file": "ghost_top_bxx-7039_chocolate-brown_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP BXX-7039/Chocolate brown/ghost_top_bxx-7039_chocolate-brown_front.jpg",
+  "sha256": "a024879cad73c4fef1e6a67ba603b57edbfac2242e7bc14bd523a049ec9a9778",
+  "row": 149,
+  "code": "BXX-7039",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP BXX-7039",
+   "Chocolate brown"
+  ],
+  "file": "ghost_top_bxx-7039_chocolate-brown_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP BXX-7039/Chocolate brown/ghost_top_bxx-7039_chocolate-brown_back.jpg",
+  "sha256": "81f34dba1a731df507ad086427ae5bafb34d416aaba63acc242ad0f11d471336",
+  "row": 149,
+  "code": "BXX-7039",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP BXX-7039",
+   "Kiwi green"
+  ],
+  "file": "ghost_top_bxx-7039_kiwi-green_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP BXX-7039/Kiwi green/ghost_top_bxx-7039_kiwi-green_front.jpg",
+  "sha256": "4db55fed9e90143cd89ae02b77cc17ac8057d458fbc6238c88b38e7104104b34",
+  "row": 150,
+  "code": "BXX-7039",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP BXX-7039",
+   "Kiwi green"
+  ],
+  "file": "ghost_top_bxx-7039_kiwi-green_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP BXX-7039/Kiwi green/ghost_top_bxx-7039_kiwi-green_back.jpg",
+  "sha256": "a17bb672dcae295576a22b9138a29941c51bfadca56062c89583a58b67664a84",
+  "row": 150,
+  "code": "BXX-7039",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP BXX-7039",
+   "Turquoise"
+  ],
+  "file": "ghost_top_bxx-7039_turquoise_front.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP BXX-7039/Turquoise/ghost_top_bxx-7039_turquoise_front.jpg",
+  "sha256": "8e8f56bdc18c13355863c0a4ed84688d531f794e452fd0cddc80bbdd397207e5",
+  "row": 151,
+  "code": "BXX-7039",
+  "kind": "ghost"
+ },
+ {
+  "path": [
+   "Ghost Mannequin",
+   "TOP BXX-7039",
+   "Turquoise"
+  ],
+  "file": "ghost_top_bxx-7039_turquoise_back.jpg",
+  "local": "/home/user/moi-and-lin/output/Ghost Mannequin/TOP BXX-7039/Turquoise/ghost_top_bxx-7039_turquoise_back.jpg",
+  "sha256": "c0806678efcefdb36936c833aa5b76eb84147720368189daa72fc47529dcd38c",
+  "row": 151,
+  "code": "BXX-7039",
+  "kind": "ghost"
+ }
+]
