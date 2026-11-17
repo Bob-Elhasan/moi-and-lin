@@ -1,0 +1,351 @@
+Type,Excel row,Shot / item,Issue,Severity,Note,Review sheet
+On-model,3,02-three-quarter,WRONG_ANGLE,high,"Plain front view, practically identical to 01-front, not a three-quarter.",onmodel_01.jpg
+On-model,3,03-back,ANATOMY,high,Lower legs/trousers are broken: trouser edges fade out and legs look cut very short above the shoes.,onmodel_01.jpg
+On-model,4,02-three-quarter,WRONG_ANGLE,high,"Plain front view, practically identical to 01-front, not a three-quarter.",onmodel_01.jpg
+On-model,9,03-back,COLOR_MISMATCH,high,Jacket is black in the back shot; it is lavender in all other shots.,onmodel_03.jpg
+On-model,15,02-three-quarter,COLOR_MISMATCH,high,Top is black; caption and 01/04/05 show a white top.,onmodel_05.jpg
+On-model,15,03-back,COLOR_MISMATCH,high,Top is black; caption and 01/04/05 show a white top.,onmodel_05.jpg
+On-model,16,03-back,COLOR_MISMATCH,high,Jacket is black polka-dot (same print as trousers) instead of plain grey.,onmodel_05.jpg
+On-model,19,02-three-quarter,SHOES,high,"Pointed black pumps that look heeled, unlike the round black ballerinas in 01 and 03.",onmodel_06.jpg
+On-model,21,02-three-quarter,FRAMING,high,Cropped at the thighs and top of head clipped; not full body.,onmodel_07.jpg
+On-model,22,02-three-quarter,SHOES,high,"White heeled pumps here, flat ballerinas in 01 and 03.",onmodel_07.jpg
+On-model,26,03-back,COLOR_MISMATCH,high,Top is black in the back shot; it is white in all other shots.,onmodel_08.jpg
+On-model,37,03-back,COLOR_MISMATCH,high,Sweater is black from the back while it is grey in all other shots.,onmodel_11.jpg
+On-model,39,03-back,COLOR_MISMATCH,high,Sweater is black from the back while it is taupe beige in all other shots.,onmodel_11.jpg
+On-model,42,03-back,COLOR_MISMATCH,high,Black sweater and grey jeans instead of pink sweater and white jeans.,onmodel_12.jpg
+On-model,44,02-three-quarter,FRAMING,high,"Shot is cropped at the thighs (feet cut off) and is a near-front view, not a full-body three-quarter.",onmodel_13.jpg
+On-model,45,02-three-quarter,FRAMING,high,"Cropped at the thighs, feet cut off; must be full body.",onmodel_13.jpg
+On-model,45,03-back,FRAMING,high,"Close crop from head to hips, feet cut off; must be full body.",onmodel_13.jpg
+On-model,46,03-back,COLOR_MISMATCH,high,Trousers are beige wide-leg pants instead of the grey jeans seen in the other shots and caption.,onmodel_14.jpg
+On-model,51,03-back,FRAMING,high,"Back shot is cropped at the thighs, not full body (feet cut off).",onmodel_15.jpg
+On-model,55,03-back,GARMENT_MISMATCH,high,Long beige cardigan-coat shown instead of the short burgundy cardigan.,onmodel_17.jpg
+On-model,56,03-back,COLOR_MISMATCH,high,Coat is beige instead of off-white and trousers are white instead of grey jeans.,onmodel_17.jpg
+On-model,56,02-three-quarter,FRAMING,high,Cropped below the knee; feet cut off.,onmodel_17.jpg
+On-model,64,02-three-quarter,FRAMING,high,"Cropped at the thighs; legs and feet cut off, head top clipped.",onmodel_17.jpg
+On-model,64,03-back,FRAMING,high,"Cropped at the hips; legs and feet cut off, head top clipped.",onmodel_17.jpg
+On-model,65,03-back,COLOR_MISMATCH,high,Trousers are dark olive in the back shot; white jeans in the other shots and the caption.,onmodel_18.jpg
+On-model,67,01-front,WRONG_ANGLE,high,"Shot is a three-quarter view, not a straight front.",onmodel_18.jpg
+On-model,67,03-back,WRONG_ANGLE,high,"Shot shows the front of the model, not the back.",onmodel_18.jpg
+On-model,68,01-front,WRONG_ANGLE,high,"Model is turned three-quarter/side, not a straight front view.",onmodel_19.jpg
+On-model,69,01-front,WRONG_ANGLE,high,"Model is turned three-quarter/side, not a straight front view.",onmodel_19.jpg
+On-model,69,02-three-quarter,ANATOMY,high,"AI-broken: half-body crop with the white shoes floating at hip level directly under the sweater, legs missing.",onmodel_19.jpg
+On-model,69,03-back,WRONG_ANGLE,high,"Shows a three-quarter front view (near duplicate of 01), not the back.",onmodel_19.jpg
+On-model,72,01-front,WRONG_ANGLE,high,"01 is a three-quarter turned pose, not a straight front.",onmodel_20.jpg
+On-model,73,03-back,WRONG_ANGLE,high,Shot labeled back shows the front of the model with face visible.,onmodel_20.jpg
+On-model,73,03-back,COLOR_MISMATCH,high,Vest is a lighter beige-taupe instead of the dusty mauve in other shots.,onmodel_20.jpg
+On-model,73,03-back,SHOES,high,White sneakers instead of the beige ballerinas in 01/02.,onmodel_20.jpg
+On-model,76,01-front,WRONG_ANGLE,high,"Body and head are turned three-quarter (same pose as 02), not a straight front.",onmodel_21.jpg
+On-model,76,03-back,GARMENT_MISMATCH,high,"Top is sleeveless with bare arms from the back, while the other shots show long white sleeves.",onmodel_21.jpg
+On-model,78,01-front,WRONG_ANGLE,high,Three-quarter/side view instead of a front view.,onmodel_22.jpg
+On-model,78,02-three-quarter,FRAMING,high,Cropped at the thighs; feet cut off.,onmodel_22.jpg
+On-model,79,01-front,WRONG_ANGLE,high,Three-quarter/side view instead of a front view.,onmodel_22.jpg
+On-model,79,02-three-quarter,COLOR_MISMATCH,high,Vest is taupe/lavender-grey instead of black.,onmodel_22.jpg
+On-model,79,02-three-quarter,SHOES,high,"White sneakers here, black ballerinas in 01 and 03.",onmodel_22.jpg
+On-model,84,03-back,COLOR_MISMATCH,high,Pants are grey marl instead of the off-white pants in the other shots and caption.,onmodel_24.jpg
+On-model,86,02-three-quarter,WRONG_ANGLE,high,"Plain front view, not a three-quarter.",onmodel_25.jpg
+On-model,86,02-three-quarter,FRAMING,high,Cropped at hips with top of head cut; not full body.,onmodel_25.jpg
+On-model,86,03-back,WRONG_ANGLE,high,Three-quarter front view with face and front buttons visible; not a back view.,onmodel_25.jpg
+On-model,88,02-three-quarter,COLOR_MISMATCH,high,Sweater is black; caption and other shots are white.,onmodel_25.jpg
+On-model,88,03-back,WRONG_ANGLE,high,Side/three-quarter front view with face visible; not a back view.,onmodel_25.jpg
+On-model,89,02-three-quarter,WRONG_ANGLE,high,"Shows a rear three-quarter view with the face turned away, not a front three-quarter.",onmodel_26.jpg
+On-model,89,04-editorial-front,ANATOMY,high,An extra empty sleeve hangs down below the folded arm (third arm/sleeve artifact).,onmodel_26.jpg
+On-model,90,03-back,GARMENT_MISMATCH,high,"Vest has grey ribbed trim at neck, armholes and hem (also in 05), while it is all black in 01/02/04.",onmodel_26.jpg
+On-model,90,05-editorial-back,GARMENT_MISMATCH,high,"Vest shows grey trim with cream piping at armholes and hem, not present on the all-black vest in front shots.",onmodel_26.jpg
+On-model,92,02-three-quarter,WRONG_ANGLE,high,"Plain front view, not three-quarter.",onmodel_27.jpg
+On-model,92,02-three-quarter,FRAMING,high,Cropped at the thighs; feet cut off and top of head clipped.,onmodel_27.jpg
+On-model,94,02-three-quarter,FRAMING,high,Cropped at the thighs; feet cut off.,onmodel_27.jpg
+On-model,95,03-back,FRAMING,high,"Close crop from head to thighs, feet cut off; must be full body.",onmodel_28.jpg
+On-model,97,02-three-quarter,WRONG_ANGLE,high,"Plain front view, nearly identical to 01-front.",onmodel_28.jpg
+On-model,99,02-three-quarter,COLOR_MISMATCH,high,Hoodie is cream instead of olive.,onmodel_29.jpg
+On-model,101,03-back,COLOR_MISMATCH,high,Bottom is dark navy jeans; caption and other shots show white jeans.,onmodel_30.jpg
+On-model,101,03-back,FRAMING,high,"Cropped at the thighs, not full body.",onmodel_30.jpg
+On-model,105,02-three-quarter,FRAMING,high,"Close crop cut at the thighs, not full body, and the top of the head is tight to the frame.",onmodel_31.jpg
+On-model,106,01-front,WRONG_ANGLE,high,"Body and head are turned three-quarter (near duplicate of 02), not a straight front.",onmodel_31.jpg
+On-model,107,01-front,WRONG_ANGLE,high,Three-quarter/side view instead of a front view.,onmodel_32.jpg
+On-model,107,02-three-quarter,FRAMING,high,Cropped at the thighs; feet cut off.,onmodel_32.jpg
+On-model,108,01-front,WRONG_ANGLE,high,"Three-quarter view, almost identical to 02, instead of a front view.",onmodel_32.jpg
+On-model,108,03-back,COLOR_MISMATCH,high,Beige hoodie and black trousers instead of brown hoodie and white trousers.,onmodel_32.jpg
+On-model,108,03-back,FRAMING,high,Cropped at the thighs; feet cut off.,onmodel_32.jpg
+On-model,109,03-back,COLOR_MISMATCH,high,Hoodie is beige instead of white.,onmodel_32.jpg
+On-model,110,02-three-quarter,FRAMING,high,"Cropped at the thighs, feet cut off; must be full body.",onmodel_33.jpg
+On-model,111,03-back,COLOR_MISMATCH,high,Hoodie is beige in the back shot; it is black in all other shots.,onmodel_33.jpg
+On-model,112,02-three-quarter,WRONG_ANGLE,high,"Plain front view, nearly identical to 01-front.",onmodel_33.jpg
+On-model,113,03-back,COLOR_MISMATCH,high,Hoodie is beige/sand instead of burgundy.,onmodel_34.jpg
+On-model,115,03-back,COLOR_MISMATCH,high,Pants are white/cream instead of the grey jeans in the other shots and caption.,onmodel_34.jpg
+On-model,119,02-three-quarter,WRONG_ANGLE,high,"Plain front view, practically identical to 01-front.",onmodel_36.jpg
+On-model,122,02-three-quarter,WRONG_ANGLE,high,"Plain front view, near-duplicate of 01.",onmodel_37.jpg
+On-model,124,02-three-quarter,FRAMING,high,Cropped at the thighs; feet cut off.,onmodel_37.jpg
+On-model,126,03-back,COLOR_MISMATCH,high,Coat is black and jeans are dark grey in the back shot; olive coat and white jeans elsewhere.,onmodel_38.jpg
+On-model,126,03-back,SHOES,high,Chunky light sneakers in the back shot; white ballerinas in 01 and 02.,onmodel_38.jpg
+On-model,127,02-three-quarter,WRONG_ANGLE,high,"Plain front view, nearly identical to 01-front.",onmodel_38.jpg
+On-model,132,02-three-quarter,ANATOMY,high,Two women in the frame (duplicate person).,onmodel_40.jpg
+On-model,132,02-three-quarter,GARMENT_MISMATCH,high,Coat is knee-length here but hip-length in other shots; trousers are cropped.,onmodel_40.jpg
+On-model,133,03-back,ANATOMY,high,Two women in the frame (duplicate person).,onmodel_40.jpg
+On-model,133,03-back,COLOR_MISMATCH,high,Coat is a darker orange-peach than the blush peach in other shots.,onmodel_40.jpg
+On-model,133,02-three-quarter,FRAMING,high,Cropped above the knees with head top cut; not full body.,onmodel_40.jpg
+On-model,136,02-three-quarter,FRAMING,high,"Close crop cut at the thighs, not full body.",onmodel_41.jpg
+On-model,136,03-back,WRONG_ANGLE,high,"Shows a front three-quarter view (face and coat front visible), not the back.",onmodel_41.jpg
+On-model,137,02-three-quarter,WRONG_ANGLE,high,"Plain front view, near-duplicate of 01.",onmodel_42.jpg
+On-model,138,02-three-quarter,FRAMING,high,Cropped at the thighs; feet cut off.,onmodel_42.jpg
+On-model,139,02-three-quarter,WRONG_ANGLE,high,"Plain front view, near-duplicate of 01.",onmodel_42.jpg
+On-model,140,03-back,FRAMING,high,"Close crop from head to thighs, feet cut off; must be full body.",onmodel_43.jpg
+On-model,142,03-back,FRAMING,high,"Close crop from head to thighs, feet cut off; must be full body.",onmodel_43.jpg
+On-model,146,03-back,COLOR_MISMATCH,high,Jacket is black and jeans are grey; caption says camel brown jacket and white jeans.,onmodel_45.jpg
+On-model,146,03-back,FRAMING,high,"Cropped at the thighs, not full body.",onmodel_45.jpg
+On-model,148,01-front,WRONG_ANGLE,high,Shot labeled front shows the model from the back.,onmodel_45.jpg
+On-model,148,02-three-quarter,FRAMING,high,Cropped at the thighs with head top cut; not full body.,onmodel_45.jpg
+On-model,148,02-three-quarter,COLOR_MISMATCH,high,Trousers are solid navy; 01 and 04 show the blue multicolor print.,onmodel_45.jpg
+On-model,148,03-back,COLOR_MISMATCH,high,Trousers are solid navy; 01 and 04 show the blue multicolor print.,onmodel_45.jpg
+On-model,149,01-front,WRONG_ANGLE,high,"Shows the back of the shirt with head in profile (same as 03-back), not the front.",onmodel_46.jpg
+On-model,150,01-front,WRONG_ANGLE,high,"Shows the back of the shirt, not the front.",onmodel_46.jpg
+On-model,150,03-back,COLOR_MISMATCH,high,Cream shirt and navy trousers instead of kiwi green shirt and white pants.,onmodel_46.jpg
+On-model,150,03-back,SHOES,high,Tan sandal-like shoes instead of white ballerinas.,onmodel_46.jpg
+On-model,151,01-front,WRONG_ANGLE,high,"Shows the back of the shirt, not the front.",onmodel_46.jpg
+On-model,151,02-three-quarter,COLOR_MISMATCH,high,Cream shirt and navy trousers instead of turquoise shirt and white pants.,onmodel_46.jpg
+On-model,151,02-three-quarter,SHOES,high,Open-toe sandals.,onmodel_46.jpg
+On-model,151,03-back,COLOR_MISMATCH,high,Cream shirt and navy trousers instead of turquoise shirt and white pants.,onmodel_46.jpg
+On-model,151,03-back,IDENTITY,high,"Blonde hair from the back, a different woman from the brown-haired model in 01/04.",onmodel_46.jpg
+Ghost mannequin,,bottom_n023_white-beige-black_back,GARMENT_MISMATCH,high,Back is plain white jeans while the front is a white/beige/black patchwork.,ghost_05.jpg
+Ghost mannequin,,bottom_nc024_original_back,OTHER,high,Mannequin torso is visible above the waistband.,ghost_05.jpg
+Ghost mannequin,,top_604_camel_front,COLOR_MISMATCH,high,"Front is blush/taupe pink (same as the blush-taupe product), not camel like its back.",ghost_15.jpg
+Ghost mannequin,,bottom_126-439_white-pants_front,OTHER,high,Waistband and fly are shown open/unfastened; broken shape.,ghost_01.jpg
+Ghost mannequin,,bottom_126-451b_original_front,GARMENT_MISMATCH,high,"Front has tiny dense dots, back has large polka dots; look like different garments.",ghost_01.jpg
+Ghost mannequin,,bottom_2400b_white-pants_front,OTHER,high,Waist is deformed into a deep scooped opening showing the inside.,ghost_01.jpg
+Ghost mannequin,,bottom_2500b-off-white_grey-pants_back,GARMENT_MISMATCH,high,"Back is a cuffed jogger with patch pockets, front is a straight wide leg.",ghost_01.jpg
+Ghost mannequin,,bottom_2500b_grey-jeans_front,OTHER,high,"No fly, button or front pockets and a scooped waistband; looks like a back view or broken front.",ghost_01.jpg
+Ghost mannequin,,top_125-7071_black_front,GARMENT_MISMATCH,high,Open kimono cardigan with roll-tab sleeves; not the V-neck blouse of 125-7071 and unlike its own back.,ghost_06.jpg
+Ghost mannequin,,top_2505_white-cream_back,GARMENT_MISMATCH,high,Back includes white long sleeves of an under-layer; front is a sleeveless vest.,ghost_11.jpg
+Ghost mannequin,,top_604_cream_front,COLOR_MISMATCH,high,Front is pinkish beige while the back is cream.,ghost_16.jpg
+Ghost mannequin,,bottom_2500b_grey-pants_front,OTHER,high,"Waistband is unbuttoned and gaping open, and it is a darker twill jean while the back is a smooth light grey wide-leg trouser.",ghost_02.jpg
+Ghost mannequin,,bottom_2500b_grey-beige-jeans_back,OTHER,high,"Back is cream/off-white; front is washed grey-beige denim, so they look like different garments.",ghost_02.jpg
+Ghost mannequin,,bottom_601-black_original_front,OTHER,high,"Baggy shape with cuffed hems and an odd waistband; back is a slim straight trouser, so front and back look like different garments.",ghost_02.jpg
+Ghost mannequin,,bottom_601-black_white-jeans-or-sweatpants_front,OTHER,high,Front is an elastic-waist sweatpant; back is a five-pocket jean with belt loops.,ghost_02.jpg
+Ghost mannequin,,bottom_601_black-pants_front,OTHER,high,Front is slim and tapered; back is a wide-leg high-waist trouser.,ghost_02.jpg
+Ghost mannequin,,bottom_bxx-1384_white-black-pants_back,COLOR_MISMATCH,high,Trousers are solid navy; name says white-black and the front is white with black trim.,ghost_02.jpg
+Ghost mannequin,,top_126-451a_grey_back,OTHER,high,Back has white polka dots and a shirt collar; front is plain solid grey.,ghost_07.jpg
+Ghost mannequin,,top_126-451a_slate-blue_back,OTHER,high,Back has a dotted print and shirt collar; front is plain solid slate blue.,ghost_07.jpg
+Ghost mannequin,,top_126-451a_white-with-dots_back,COLOR_MISMATCH,high,Back is black with white dots; front is white with black dots.,ghost_07.jpg
+Ghost mannequin,,top_5004_burgundy_back,OTHER,high,"Shows the fold-over collar and centre seam, so it looks like a front view.",ghost_12.jpg
+Ghost mannequin,,top_5004_burgundy_front,OTHER,high,Vest is open down the front like a zip cardigan; other colors are closed pullovers.,ghost_12.jpg
+Ghost mannequin,,top_5004_dusty-mauve-sleeveless-over-white-shirt (1st tile),OTHER,high,White long shirt sleeves are attached to the vest; the paired tile has no sleeves.,ghost_12.jpg
+Ghost mannequin,,top_5004_lavender-grey_back,COLOR_MISMATCH,high,"Back is dusty mauve/beige, front is lavender-grey.",ghost_12.jpg
+Ghost mannequin,,top_7094_cream_front,COLOR_MISMATCH,high,"Front is taupe/grey-beige, not cream; back is cream.",ghost_17.jpg
+Ghost mannequin,,top_7094_grey_front,COLOR_MISMATCH,high,"Front is taupe-beige (same as khaki-taupe), back is dark herringbone grey.",ghost_17.jpg
+Ghost mannequin,,top_7095_blush-peach_front,COLOR_MISMATCH,high,Front is cream/ivory; back is peach.,ghost_17.jpg
+Ghost mannequin,,bottom_n022-off-white_white-grey-black-pants_back,COLOR_MISMATCH,high,Name says white/grey/black (checked pants on model) but the garment is plain off-white.,ghost_03.jpg
+Ghost mannequin,,bottom_n022-off-white_white-grey-black-pants_front,COLOR_MISMATCH,high,Name says white/grey/black (checked pants on model) but the garment is plain off-white.,ghost_03.jpg
+Ghost mannequin,,top_126-474_olive-green-leaf-print_back,COLOR_MISMATCH,high,Back is black with olive leaves while the front is olive with pale leaves; looks like a different garment.,ghost_08.jpg
+Ghost mannequin,,top_5006_charcoal-grey_back,GARMENT_MISMATCH,high,"Back has a full-length button placket, a different design from the front (3 hem buttons).",ghost_13.jpg
+Ghost mannequin,,bottom_n022022-as-in-folder-name_grey-jeans_front,GARMENT_MISMATCH,high,Front has cargo side pockets; the back shot has none.,ghost_04.jpg
+Ghost mannequin,,bottom_n022022-as-in-folder-name_original_front,GARMENT_MISMATCH,high,Front has cargo pockets while back has none; waist is hollow/deformed with no clear front waistband.,ghost_04.jpg
+Ghost mannequin,,bottom_n022022-as-in-folder-name_white-jeans_back,GARMENT_MISMATCH,high,Back has cargo side pockets; the front shot has none.,ghost_04.jpg
+Ghost mannequin,,top_21008_mauve_front,COLOR_MISMATCH,high,Front is a dark purple-plum while the back is a light dusty mauve.,ghost_09.jpg
+Ghost mannequin,,top_7097_camel-brown_front,GARMENT_MISMATCH,high,Biker-style asymmetric zip with wide lapels and rolled cuffs; a different jacket from the other 7097 fronts and from its own back.,ghost_19.jpg
+Ghost mannequin,,top_bxx-7039_kiwi-green_back,COLOR_MISMATCH,high,Back is a dull olive green; front is bright lime green.,ghost_19.jpg
+On-model,12,03-back,FRAMING,medium,"Back shot is cropped at the thighs; legs and feet are cut off, not full body.",onmodel_04.jpg
+On-model,12,05-editorial-back,WRONG_ANGLE,medium,"Shows a side profile view, not the back.",onmodel_04.jpg
+On-model,19,01-front,COLOR_MISMATCH,medium,"Caption says 'White with dots' but the jacket and trousers are black with white dots (only the inner top is white); consistent across shots, check caption vs garment.",onmodel_06.jpg
+On-model,21,02-three-quarter,MAKEUP,medium,"Dark smoky eye makeup, unlike 01-front.",onmodel_07.jpg
+On-model,22,04-editorial-front,BACKGROUND,medium,"Off-white background with grey vignette at the edges, not pure white.",onmodel_07.jpg
+On-model,24,03-back,WRONG_ANGLE,medium,"Body is turned three-quarter with the face in profile, not a straight back view.",onmodel_08.jpg
+On-model,35,02-three-quarter,SHOES,medium,"Shoes look like chunky white sneakers, while 01 and caption show white flats.",onmodel_10.jpg
+On-model,38,01-front,MAKEUP,medium,Dark smoky eye makeup (also visible in 02 and 04).,onmodel_11.jpg
+On-model,41,05-editorial-back,WRONG_ANGLE,medium,Side/profile view rather than a back view.,onmodel_12.jpg
+On-model,42,01-front,MAKEUP,medium,Dark purple-smoky eye makeup.,onmodel_12.jpg
+On-model,42,04-editorial-front,IDENTITY,medium,"Face looks like a different, older woman than 01-front.",onmodel_12.jpg
+On-model,45,05-editorial-back,WRONG_ANGLE,medium,"Shows a side profile, not the back.",onmodel_13.jpg
+On-model,45,01-front,MAKEUP,medium,Eye makeup is noticeably dark/smoky compared with the other rows.,onmodel_13.jpg
+On-model,68,02-three-quarter,FRAMING,medium,"Cropped at the thighs; feet cut off, not full body.",onmodel_19.jpg
+On-model,68,03-back,FRAMING,medium,"Cropped at the thighs; feet cut off, not full body.",onmodel_19.jpg
+On-model,71,01-front,MAKEUP,medium,Dark smoky eye makeup (also in 02 and lighter in 04).,onmodel_20.jpg
+On-model,72,03-back,IDENTITY,medium,Hair is much longer and wavy in the back shot versus shoulder-length straight in other shots.,onmodel_20.jpg
+On-model,74,03-back,IDENTITY,medium,"Hair is clearly redder/auburn, longer and wavier than the brown hair in 01/02/04.",onmodel_21.jpg
+On-model,79,03-back,WRONG_ANGLE,medium,"Three-quarter back with the face in profile, not a straight back view.",onmodel_22.jpg
+On-model,84,03-back,IDENTITY,medium,Hair is much longer (mid-back) than the shoulder-length hair in 01-front.,onmodel_24.jpg
+On-model,84,05-editorial-back,WRONG_ANGLE,medium,"Shows a side profile view, not the back.",onmodel_24.jpg
+On-model,87,01-front,MAKEUP,medium,"Dark smoky eye makeup in 01, 02 and 04.",onmodel_25.jpg
+On-model,88,01-front,MAKEUP,medium,Dark smoky eye makeup in 01 and 02.,onmodel_25.jpg
+On-model,91,03-back,FRAMING,medium,"Cropped at the thighs, feet not visible; must be full body.",onmodel_26.jpg
+On-model,98,02-three-quarter,MAKEUP,medium,"Dark smoky eye makeup, unlike the natural look in 01-front.",onmodel_29.jpg
+On-model,100,02-three-quarter,MAKEUP,medium,Smoky eyeshadow and a heavy blush patch on the cheek.,onmodel_29.jpg
+On-model,102,01-front,MAKEUP,medium,Dark smoky eye makeup in 01 and 04.,onmodel_30.jpg
+On-model,105,02-three-quarter,GARMENT_MISMATCH,medium,Hoodie looks longer (hip/thigh length) than the waist-length hoodie in 01 and 03.,onmodel_31.jpg
+On-model,105,01-front,MAKEUP,medium,Fairly dark eye makeup in the front shot.,onmodel_31.jpg
+On-model,107,03-back,IDENTITY,medium,"Hair is blonde here, auburn-brown in the other shots.",onmodel_32.jpg
+On-model,108,01-front,BACKGROUND,medium,Grey cast across the whole background.,onmodel_32.jpg
+On-model,108,02-three-quarter,BACKGROUND,medium,Grey cast across the whole background.,onmodel_32.jpg
+On-model,110,01-front,BACKGROUND,medium,"Grey cast on the background (01, 02 and 03 are all grey, 04 is white).",onmodel_33.jpg
+On-model,110,02-three-quarter,BACKGROUND,medium,Grey background cast.,onmodel_33.jpg
+On-model,110,03-back,BACKGROUND,medium,Grey background cast.,onmodel_33.jpg
+On-model,113,03-back,FRAMING,medium,"Cropped at the thighs; feet cut off, not full body.",onmodel_34.jpg
+On-model,116,04-editorial-front,IDENTITY,medium,"Hair is lighter blond-brown and curly, versus straight auburn in 01-03.",onmodel_35.jpg
+On-model,120,02-three-quarter,WRONG_ANGLE,medium,Body is almost fully frontal; only the head is turned.,onmodel_36.jpg
+On-model,121,03-back,IDENTITY,medium,Hair is clearly red/auburn from the back (also in 05) vs brown in 01/02/04.,onmodel_36.jpg
+On-model,121,05-editorial-back,IDENTITY,medium,"Hair is red/auburn, not the brown of the front shots.",onmodel_36.jpg
+On-model,126,03-back,IDENTITY,medium,Hair is shorter and redder than in 01-front.,onmodel_38.jpg
+On-model,128,01-front,COLOR_MISMATCH,medium,Caption says Cream but the coat is a taupe/grey-beige herringbone in all shots.,onmodel_39.jpg
+On-model,129,02-three-quarter,FRAMING,medium,"Cropped at the thighs; feet cut off, not full body.",onmodel_39.jpg
+On-model,130,02-three-quarter,FRAMING,medium,"Cropped at the thighs; feet cut off, not full body.",onmodel_39.jpg
+On-model,132,02-three-quarter,IDENTITY,medium,Different-looking woman with hair tied back.,onmodel_40.jpg
+On-model,132,01-front,MAKEUP,medium,Dark eye makeup in 01 and 04.,onmodel_40.jpg
+On-model,133,03-back,IDENTITY,medium,"Hair is long and curled, unlike the straighter hair in 01.",onmodel_40.jpg
+On-model,133,01-front,MAKEUP,medium,"Dark eye makeup in 01, 02 and 04.",onmodel_40.jpg
+On-model,135,01-front,MAKEUP,medium,Dark smoky eye makeup (also in 02 and 04).,onmodel_41.jpg
+On-model,137,01-front,MAKEUP,medium,Dark smoky eye makeup (same in 02).,onmodel_42.jpg
+On-model,138,03-back,IDENTITY,medium,"Hair is much longer and wavy from behind, shoulder-length straight in 01.",onmodel_42.jpg
+On-model,141,01-front,MAKEUP,medium,Dark smoky eye makeup (also visible in 02).,onmodel_43.jpg
+On-model,149,02-three-quarter,WRONG_ANGLE,medium,"Plain straight front view, not a three-quarter.",onmodel_46.jpg
+On-model,149,01-front,BACKGROUND,medium,"Warm cream/off-white background cast in 01, 02 and 03, unlike the pure white of 04.",onmodel_46.jpg
+On-model,151,02-three-quarter,WRONG_ANGLE,medium,"Plain straight front view, not a three-quarter.",onmodel_46.jpg
+On-model,151,03-back,SHOES,medium,Tan sandal-like shoes instead of white ballerinas.,onmodel_46.jpg
+Ghost mannequin,,bottom_n024_grey-jeans_back,GARMENT_MISMATCH,medium,"Back is a slim tapered, darker washed grey jean while the front is a wide-leg lighter flat grey.",ghost_05.jpg
+Ghost mannequin,,bottom_n025_original_front,GARMENT_MISMATCH,medium,"Front is narrower with bunched hems and a floating drop shadow, while the back is a longer wide-leg black jean.",ghost_05.jpg
+Ghost mannequin,,bottom_nc024_original_front,OTHER,medium,"Fly is open and the waistband is spread, showing the inside of the jeans; grey background cast.",ghost_05.jpg
+Ghost mannequin,,top_2408_aqua-turquoise_front,GARMENT_MISMATCH,medium,"Front has diagonal seams, no centre seam and a stand collar, unlike the centre-seam roll-neck fronts of the other 2408 colors; back has a straight ribbed hem vs curved front hem.",ghost_10.jpg
+Ghost mannequin,,top_5014_rose-pink_back,COLOR_MISMATCH,medium,"Back is a darker dusty rose and more cropped, while the front is light pink.",ghost_15.jpg
+Ghost mannequin,,top_603_brown_back,GARMENT_MISMATCH,medium,"Back is a darker chocolate brown with ribbed hem band and cuffs, while the front is a lighter tan-brown with a curved hem and no ribbing.",ghost_15.jpg
+Ghost mannequin,,bottom_126-439_original_back,BACKGROUND,medium,"Grey floor gradient at the bottom, not pure white.",ghost_01.jpg
+Ghost mannequin,,bottom_2400b_black-pants_front,GARMENT_MISMATCH,medium,"Back has turn-up cuffs, front has plain pooling hems; front also reads like a back view.",ghost_01.jpg
+Ghost mannequin,,bottom_2400b_off-white-pants_back,BACKGROUND,medium,Grey floor gradient at the bottom.,ghost_01.jpg
+Ghost mannequin,,bottom_2500b-off-white_original_back,GARMENT_MISMATCH,medium,"Back has gathered cuffed hems, front has straight open hems.",ghost_01.jpg
+Ghost mannequin,,bottom_2500b_grey-jeans_back,BACKGROUND,medium,Grey floor gradient at the bottom.,ghost_01.jpg
+Ghost mannequin,,top_125-7071_black_back,GARMENT_MISMATCH,medium,"Short boxy sleeves, unlike the long cuffed sleeves of the sky-blue version.",ghost_06.jpg
+Ghost mannequin,,top_126-427_dusty-rose_back,COLOR_MISMATCH,medium,Back is pale pink while front is a darker terracotta rose.,ghost_06.jpg
+Ghost mannequin,,top_126-427_dusty-rose_back,GARMENT_MISMATCH,medium,Back shows a pointed shirt collar; front is a collarless kimono band.,ghost_06.jpg
+Ghost mannequin,,top_5003_black_front,OTHER,medium,Garment is tilted and lopsided with an uneven hem; smaller scale than the back.,ghost_11.jpg
+Ghost mannequin,,top_5003_lavender-grey_back,COLOR_MISMATCH,medium,"Back is cool grey-lilac, front is warm mauve-pink.",ghost_11.jpg
+Ghost mannequin,,top_5004_black_back,GARMENT_MISMATCH,medium,Back shows a pointed shirt collar; front has a ribbed turtleneck fold-over.,ghost_11.jpg
+Ghost mannequin,,top_7080-grey_cafe-pink_back,COLOR_MISMATCH,medium,"Back is dusty mauve, front is a brighter pink.",ghost_16.jpg
+Ghost mannequin,,top_7080-grey_cafe-pink_back,GARMENT_MISMATCH,medium,"Back is long with a curved hem, front is cropped.",ghost_16.jpg
+Ghost mannequin,,bottom_2500b_grey-beige-jeans_front,OTHER,medium,Waist has a deep hollow cut-out shape that looks deformed.,ghost_02.jpg
+Ghost mannequin,,bottom_2500b_light-blue-jeans_front,BACKGROUND,medium,"Grey floor/shadow patch in the lower left, background not clean white.",ghost_02.jpg
+Ghost mannequin,,bottom_601_original_front,OTHER,medium,Front is a tapered cropped chino; back is a longer straight leg; background also has a slight grey cast.,ghost_02.jpg
+Ghost mannequin,,bottom_bxx-1384_blue-black-pink-brown-beige-pant (1st tile),OTHER,medium,Near-black in this tile but clearly navy in the paired tile; label is truncated so side cannot be confirmed.,ghost_02.jpg
+Ghost mannequin,,top_126-474_chocolate-brown-leaf-print_front,OTHER,medium,Leaf print is white/grey on the front but beige on the back; brown shade also differs.,ghost_07.jpg
+Ghost mannequin,,top_5004_dark-brown_back,OTHER,medium,Back has a plain crew neck with no collar; front has a high fold-over collar.,ghost_12.jpg
+Ghost mannequin,,top_5004_lavender-grey_front,OTHER,medium,Has a keyhole cut-out under the collar that no other color of this vest has.,ghost_12.jpg
+Ghost mannequin,,top_5004_navy_back,OTHER,medium,Back shows the fold-over collar and centre seam while the front is a plain turtleneck; sides look swapped.,ghost_12.jpg
+Ghost mannequin,,top_5004_white_back,OTHER,medium,"Back shows a fold-over collar with a tab, looks like a second front.",ghost_12.jpg
+Ghost mannequin,,bottom_bxx-1384_white-pants_front,BACKGROUND,medium,"Grey gradient background with a visible floor, not pure white.",ghost_03.jpg
+Ghost mannequin,,bottom_n022-off-white_grey-jeans_front,BACKGROUND,medium,"Grey gradient background with a visible floor, not pure white.",ghost_03.jpg
+Ghost mannequin,,bottom_n022-off-white_black-pants_back,OTHER,medium,"Deformed hems: legs balloon out and curl at the bottom, unlike the straight front.",ghost_03.jpg
+Ghost mannequin,,bottom_n022-off-white_original_back,GARMENT_MISMATCH,medium,Back has no back pockets or yoke although the front is a five-pocket jean.,ghost_03.jpg
+Ghost mannequin,,bottom_n022_beige-jeans_front,OTHER,medium,Waistband gapes open and the shape is baggy/deformed compared with the straight back view.,ghost_03.jpg
+Ghost mannequin,,top_1418_cream_back,GARMENT_MISMATCH,medium,Back view shows a zipper on the collar and no back yoke; looks like a front-ish view.,ghost_08.jpg
+Ghost mannequin,,top_1418_white_back,GARMENT_MISMATCH,medium,Zipper pull visible on the back of the collar.,ghost_08.jpg
+Ghost mannequin,,top_21008_dusty-rose_back,COLOR_MISMATCH,medium,"Back is a saturated coral pink, front is a muted dusty rose.",ghost_08.jpg
+Ghost mannequin,,top_5006_black_back,GARMENT_MISMATCH,medium,Back shows the hem buttons that belong on the front; smaller scale than front.,ghost_13.jpg
+Ghost mannequin,,top_5006_navy_back,GARMENT_MISMATCH,medium,"Back has a center seam and buttons at the hem, unlike the plain backs of burgundy/light-brown.",ghost_13.jpg
+Ghost mannequin,,top_5006_white_back,GARMENT_MISMATCH,medium,"Back has a center seam and buttons at the hem, unlike the plain backs of burgundy/light-brown.",ghost_13.jpg
+Ghost mannequin,,top_5010_brown_front,OTHER,medium,Hood stands upright as if on an invisible head and the garment is narrower than the other fronts.,ghost_13.jpg
+Ghost mannequin,,top_7096_pink_back,GARMENT_MISMATCH,medium,Back is smooth bright-pink felt while the front is dusty-pink teddy/boucle fabric.,ghost_18.jpg
+Ghost mannequin,,bottom_n022_grey-jeans_front,BACKGROUND,medium,"Background is off-white/grey, not pure white.",ghost_04.jpg
+Ghost mannequin,,bottom_n022_grey-jeans_front,GARMENT_MISMATCH,medium,Front is wide-leg while the back shot is a narrower straight leg.,ghost_04.jpg
+Ghost mannequin,,bottom_n022_original_front,OTHER,medium,Fly is unbuttoned and gaping open at the waist.,ghost_04.jpg
+Ghost mannequin,,bottom_n022_white-jeans_back,BACKGROUND,medium,Grey cast background.,ghost_04.jpg
+Ghost mannequin,,bottom_n022_white-jeans_front,OTHER,medium,Waistband is open and folded apart at the fly.,ghost_04.jpg
+Ghost mannequin,,bottom_n022_white-pants_back,BACKGROUND,medium,Grey cast background.,ghost_04.jpg
+Ghost mannequin,,bottom_n022_white-pants_front,OTHER,medium,"Waistband is open and spread apart, showing the inside.",ghost_04.jpg
+Ghost mannequin,,bottom_n023_original_back,BACKGROUND,medium,Grey cast background.,ghost_04.jpg
+Ghost mannequin,,top_21008_pink_back,COLOR_MISMATCH,medium,Back is lighter pink than the hot-pink front.,ghost_09.jpg
+Ghost mannequin,,top_21008_grey_back,GARMENT_MISMATCH,medium,"Backs of 21008 (grey, mauve, pink, taupe, turquoise, white) have a gathered ribbed hem and folded collar; fronts have a straight hi-low hem with side slits.",ghost_09.jpg
+Ghost mannequin,,top_2400a_cream-beige_back,OTHER,medium,"Neck label visible inside the neckline, so it reads as a front view; deep ribbed hem differs from the front shot.",ghost_09.jpg
+Ghost mannequin,,top_5010_grey_front,COLOR_MISMATCH,medium,Front is a lilac-tinted light grey; back is neutral mid grey.,ghost_14.jpg
+Ghost mannequin,,top_5014_burgundy_front,OTHER,medium,Hood stands upright as if on an invisible head; other colors have the hood down.,ghost_14.jpg
+Ghost mannequin,,top_7097_camel-brown_back,GARMENT_MISMATCH,medium,"Stand-up collar and no elastic hem, unlike other 7097 backs; drop shadow below.",ghost_19.jpg
+Ghost mannequin,,top_7097_black_back,GARMENT_MISMATCH,medium,Back has snap studs and a flat hem band; front has an elastic gathered hem. Drop shadow below.,ghost_19.jpg
+Ghost mannequin,,top_7097_burgundy_back,BACKGROUND,medium,Grey band along the bottom of the image.,ghost_19.jpg
+Ghost mannequin,,top_bxx-7039_turquoise_back,COLOR_MISMATCH,medium,Back is deep teal; front is a much lighter aqua.,ghost_19.jpg
+Ghost mannequin,,top_bxx-7039_cream_front,GARMENT_MISMATCH,medium,"Front design varies by color: cream has two chest pockets, kiwi one, chocolate and turquoise none (chocolate has a hidden placket).",ghost_19.jpg
+On-model,3,05-editorial-back,IDENTITY,low,Hair looks shorter (shoulder length) than in 01-front.,onmodel_01.jpg
+On-model,6,04-editorial-front,IDENTITY,low,"Laughing, eyes-closed face reads as a slightly different woman than 01-front.",onmodel_02.jpg
+On-model,7,05-editorial-back,IDENTITY,low,Hair looks lighter/more ginger than in 01-front.,onmodel_02.jpg
+On-model,9,05-editorial-back,IDENTITY,low,Hair looks shorter and straighter than in 01-front.,onmodel_03.jpg
+On-model,16,03-back,IDENTITY,low,Hair looks shorter and straighter than the wavy hair in 01.,onmodel_05.jpg
+On-model,19,03-back,IDENTITY,low,Hair is straight and longer than the wavy hair in 01/02/04.,onmodel_06.jpg
+On-model,21,01-front,SHOES,low,Caption says White Heels but photos show white flats (01 and 03).,onmodel_07.jpg
+On-model,22,04-editorial-front,IDENTITY,low,"Hair is long and wavy here, straight and shorter in 01-front.",onmodel_07.jpg
+On-model,23,02-three-quarter,SHOES,low,Pointed-toe flats here vs round-toe ballerinas in 01.,onmodel_07.jpg
+On-model,24,03-back,IDENTITY,low,Hair looks shorter (shoulder length) than in 01-front.,onmodel_08.jpg
+On-model,26,03-back,IDENTITY,low,"Hair is a short bob in the back shot, longer in 01-front.",onmodel_08.jpg
+On-model,31,02-three-quarter,SHOES,low,Shoes look bulkier (sneaker-like) than the white flats in 01.,onmodel_10.jpg
+On-model,35,01-front,MAKEUP,low,Strong pink blush on cheeks in 01 and 02.,onmodel_10.jpg
+On-model,42,03-back,WRONG_ANGLE,low,Head turned to full profile in the back shot.,onmodel_12.jpg
+On-model,42,04-editorial-front,GARMENT_MISMATCH,low,Sweater looks longer with a stepped side-slit hem not seen in 01.,onmodel_12.jpg
+On-model,45,03-back,GARMENT_MISMATCH,low,Back shows a centre seam like the front; row 44 back of the same model has none.,onmodel_13.jpg
+On-model,50,04-editorial-front,MAKEUP,low,Skin looks slightly shiny/glossy in 01 and 04.,onmodel_15.jpg
+On-model,53,03-back,IDENTITY,low,Hair is straight and longer down the back than the wavy shoulder-length hair in 01.,onmodel_16.jpg
+On-model,64,04-editorial-front,BACKGROUND,low,Slight grey vignette in the corners.,onmodel_17.jpg
+On-model,75,01-front,GARMENT_MISMATCH,low,Trouser hems look gathered/tapered at the ankle in 01 and 03 but straight in 02.,onmodel_21.jpg
+On-model,76,03-back,IDENTITY,low,Hair is longer and wavier than in the front shots.,onmodel_21.jpg
+On-model,77,01-front,WRONG_ANGLE,low,Body slightly turned and head tilted; not a square front view.,onmodel_22.jpg
+On-model,83,05-editorial-back,FRAMING,low,Head is cut off above the nose and the view is a side profile rather than the back.,onmodel_24.jpg
+On-model,92,04-editorial-front,IDENTITY,low,"Hair long and wavy in 04/05, straight in 01-front.",onmodel_27.jpg
+On-model,95,04-editorial-front,FRAMING,low,Almost full body instead of a closer crop.,onmodel_28.jpg
+On-model,103,04-editorial-front,IDENTITY,low,Hair is wavy/curly here but straight in 01-03.,onmodel_30.jpg
+On-model,103,04-editorial-front,BACKGROUND,low,Slight grey cast in the upper corners.,onmodel_30.jpg
+On-model,105,03-back,IDENTITY,low,Hair is longer and wavier than the straight hair in 01.,onmodel_31.jpg
+On-model,106,01-front,MAKEUP,low,Heavy pink blush patches on the cheeks (also in 02).,onmodel_31.jpg
+On-model,106,04-editorial-front,OTHER,low,Eyes are closed/winking while laughing.,onmodel_31.jpg
+On-model,109,04-editorial-front,GARMENT_MISMATCH,low,"Hoodie front hem hangs uneven, one panel longer than the other.",onmodel_32.jpg
+On-model,110,03-back,IDENTITY,low,Hair looks shorter and darker than in 01-front.,onmodel_33.jpg
+On-model,111,02-three-quarter,MAKEUP,low,Eye makeup looks somewhat dark.,onmodel_33.jpg
+On-model,116,04-editorial-front,BACKGROUND,low,Slight grey cast at the top-left corner.,onmodel_35.jpg
+On-model,119,01-front,GARMENT_MISMATCH,low,Inner top has a black neckline trim in 01 and 04 but is plain white in 02.,onmodel_36.jpg
+On-model,119,03-back,OTHER,low,"Belt end hangs down the centre back below the coat hem, looks odd.",onmodel_36.jpg
+On-model,119,05-editorial-back,IDENTITY,low,Hair looks shorter (shoulder length) than the long hair in 01.,onmodel_36.jpg
+On-model,121,04-editorial-front,OTHER,low,Eyes are closed while laughing.,onmodel_36.jpg
+On-model,123,04-editorial-front,IDENTITY,low,"Hair long and wavy in 04/05, straight in 01-03.",onmodel_37.jpg
+On-model,125,03-back,IDENTITY,low,Hair is much longer and straighter in the back shot than in 01-front.,onmodel_38.jpg
+On-model,126,05-editorial-back,IDENTITY,low,Hair is a shorter bob than in 01-front.,onmodel_38.jpg
+On-model,127,03-back,IDENTITY,low,Hair is much longer and straighter in the back shot than in 01-front.,onmodel_38.jpg
+On-model,129,02-three-quarter,MAKEUP,low,Slightly visible pink eyeshadow and blush in the close view.,onmodel_39.jpg
+On-model,139,03-back,SHOES,low,White sneakers not visible; trousers pool over dark-looking heels.,onmodel_42.jpg
+On-model,141,03-back,IDENTITY,low,"Hair is a short bob in the back shot, long in 01-front.",onmodel_43.jpg
+On-model,143,03-back,IDENTITY,low,Hair is noticeably longer (mid-back) than in 01-front.,onmodel_44.jpg
+On-model,147,04-editorial-front,BACKGROUND,low,Grey cast across the top of the frame.,onmodel_45.jpg
+On-model,147,01-front,MAKEUP,low,Eye makeup is somewhat dark in 01.,onmodel_45.jpg
+On-model,150,03-back,IDENTITY,low,Hair is much longer and wavier than in the other shots.,onmodel_46.jpg
+Ghost mannequin,,bottom_n023_white-beige-black_back,BACKGROUND,low,Light grey background cast.,ghost_05.jpg
+Ghost mannequin,,bottom_n024_grey-jeans_front,BACKGROUND,low,Grey gradient at the bottom of the background.,ghost_05.jpg
+Ghost mannequin,,bottom_n024_original_front,BACKGROUND,low,Light grey background cast.,ghost_05.jpg
+Ghost mannequin,,bottom_no23-as-in-folder-name_original_front,COLOR_MISMATCH,low,Front is a lighter grey wash than the darker charcoal back.,ghost_05.jpg
+Ghost mannequin,,bottom_no23-as-in-folder-name_white-jeans_back,BACKGROUND,low,Light grey background cast.,ghost_05.jpg
+Ghost mannequin,,top_2403_dusty-rose_back,BACKGROUND,low,"Dark floating drop shadow under the garment, unlike the other shots.",ghost_10.jpg
+Ghost mannequin,,top_2408_black_back,OTHER,low,Garment rendered much smaller in frame than its front.,ghost_10.jpg
+Ghost mannequin,,top_2410_off-white_back,GARMENT_MISMATCH,low,Back has a yoke seam and centre back seam not seen on the camel and burgundy backs; grey cast at the bottom of the background.,ghost_10.jpg
+Ghost mannequin,,top_603_burgundy_front,BACKGROUND,low,Floating drop shadow under the garment.,ghost_15.jpg
+Ghost mannequin,,bottom_2400b_original_back,BACKGROUND,low,Grey floor shadow under the hems.,ghost_01.jpg
+Ghost mannequin,,top_126-427_beige-stone_back,GARMENT_MISMATCH,low,Back shows a shirt-style collar and yoke not consistent with the collarless front.,ghost_06.jpg
+Ghost mannequin,,top_126-427_lavender_front,COLOR_MISMATCH,low,Front is paler than the back; drop shadow under garment.,ghost_06.jpg
+Ghost mannequin,,top_126-427_black_back,GARMENT_MISMATCH,low,"No roll-tab sleeves on back, and drop shadow under garment.",ghost_06.jpg
+Ghost mannequin,,top_126-427_olive_back,GARMENT_MISMATCH,low,Sleeves lack the roll tabs and look narrower than on the front.,ghost_06.jpg
+Ghost mannequin,,top_5003_plum-brown_back,OTHER,low,"Much smaller scale than the front, with a drop shadow.",ghost_11.jpg
+Ghost mannequin,,top_2505_burgundy_front,OTHER,low,"Smaller scale than the back, with a drop shadow.",ghost_11.jpg
+Ghost mannequin,,top_604_dark-brown_front,OTHER,low,Hood stands upright as if on a head; much smaller scale than the back.,ghost_16.jpg
+Ghost mannequin,,top_7080-grey_chocolate-brown_back,GARMENT_MISMATCH,low,"Back fabric is heathered/textured, front is smooth.",ghost_16.jpg
+Ghost mannequin,,bottom_2500b_original_front,OTHER,low,Front looks almost identical to the back (no fly or front detail visible).,ghost_02.jpg
+Ghost mannequin,,top_126-474_beige-leaf-print_front,OTHER,low,Print is white leaves on beige; back is tan leaves on cream.,ghost_07.jpg
+Ghost mannequin,,top_126-451a_brown-check_front,BACKGROUND,low,Grey drop shadow under the garment.,ghost_07.jpg
+Ghost mannequin,,top_5005_chocolate-brown_front,OTHER,low,Front has a cable texture at the hem that the back and other colors do not have.,ghost_12.jpg
+Ghost mannequin,,top_5005_grey_back,COLOR_MISMATCH,low,Back is cool light grey; front is a warmer lilac-grey.,ghost_12.jpg
+Ghost mannequin,,top_5005_white_back,OTHER,low,Back neckline looks like an open shirt collar instead of a mock neck.,ghost_12.jpg
+Ghost mannequin,,top_7095_blush-peach_back,OTHER,low,Belt ends hang below the hem at the back.,ghost_17.jpg
+Ghost mannequin,,top_7094_powder-blue_back,COLOR_MISMATCH,low,Back is a darker dusty blue than the light front.,ghost_17.jpg
+Ghost mannequin,,top_7094_powder-blue_front,OTHER,low,Belt end curls oddly at the lower left hem.,ghost_17.jpg
+Ghost mannequin,,top_7094_cream_front,BACKGROUND,low,Grey drop shadow under the garment.,ghost_17.jpg
+Ghost mannequin,,bottom_n022-off-white_grey-pants_back,COLOR_MISMATCH,low,Back is a lilac-taupe grey while the front is neutral grey marl.,ghost_03.jpg
+Ghost mannequin,,bottom_bxx-smb115_original_back,OTHER,low,Rendered much smaller and straighter than the flared front view.,ghost_03.jpg
+Ghost mannequin,,top_7095_taupe_back,GARMENT_MISMATCH,low,Back has a boucle texture while the front fabric is smooth.,ghost_18.jpg
+Ghost mannequin,,top_7096_blush-beige_front,BACKGROUND,low,Slight grey cast in the background tile.,ghost_18.jpg
+Ghost mannequin,,top_7096_blush-beige_back,GARMENT_MISMATCH,low,Back has gathered cuffs while the front has wide open sleeves.,ghost_18.jpg
+Ghost mannequin,,top_7095_grey_back,GARMENT_MISMATCH,low,Back has sleeve button tabs and a vent not present on other colors of the same coat.,ghost_18.jpg
+Ghost mannequin,,bottom_n023_grey-jeans_front,BACKGROUND,low,Slight grey cast background.,ghost_04.jpg
+Ghost mannequin,,bottom_n023_original_front,GARMENT_MISMATCH,low,Front looks tapered/barrel-leg while back is wide straight.,ghost_04.jpg
+Ghost mannequin,,top_21008_mauve_front,OTHER,low,Drop shadow under the garment.,ghost_09.jpg
+Ghost mannequin,,top_21008_mauve_back,GARMENT_MISMATCH,low,Back has a centre seam line not seen on other colors.,ghost_09.jpg
+Ghost mannequin,,top_21008_white_back,OTHER,low,Label-like rectangle visible on the outside of the collar.,ghost_09.jpg
+Ghost mannequin,,top_5014_camel_front,COLOR_MISMATCH,low,Front is browner than the mustard-camel back.,ghost_14.jpg
+Ghost mannequin,,top_5014_black_back,OTHER,low,Drop shadow under the garment.,ghost_14.jpg
+Ghost mannequin,,top_5010_white_front,OTHER,low,Drop shadow at the hem.,ghost_14.jpg
+Ghost mannequin,,top_7097_burgundy_back,GARMENT_MISMATCH,low,"No shoulder epaulettes on back, front has them.",ghost_19.jpg
