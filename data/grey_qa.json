@@ -1,0 +1,5846 @@
+{
+ "output/Ghost Mannequin/BOTTOM 126-439/Original/ghost_bottom_126-439_original_back.jpg": {
+  "frac": 0.662,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 126-439/Original/ghost_bottom_126-439_original_front.jpg": {
+  "frac": 0.662,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 126-439/White Pants/ghost_bottom_126-439_white-pants_back.jpg": {
+  "frac": 0.65,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 126-439/White Pants/ghost_bottom_126-439_white-pants_front.jpg": {
+  "frac": 0.67,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 126-451B/Original/ghost_bottom_126-451b_original_back.jpg": {
+  "frac": 0.686,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 126-451B/Original/ghost_bottom_126-451b_original_front.jpg": {
+  "frac": 0.607,
+  "mode": "loose",
+  "leftover": 0.0041,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2400B/Black Pants/ghost_bottom_2400b_black-pants_back.jpg": {
+  "frac": 0.682,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2400B/Black Pants/ghost_bottom_2400b_black-pants_front.jpg": {
+  "frac": 0.662,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2400B/Off White Pants/ghost_bottom_2400b_off-white-pants_back.jpg": {
+  "frac": 0.725,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2400B/Off White Pants/ghost_bottom_2400b_off-white-pants_front.jpg": {
+  "frac": 0.699,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2400B/Original/ghost_bottom_2400b_original_back.jpg": {
+  "frac": 0.691,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2400B/Original/ghost_bottom_2400b_original_front.jpg": {
+  "frac": 0.676,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2400B/White Pants/ghost_bottom_2400b_white-pants_back.jpg": {
+  "frac": 0.667,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2400B/White Pants/ghost_bottom_2400b_white-pants_front.jpg": {
+  "frac": 0.707,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2500B OFF WHITE/Grey Pants/ghost_bottom_2500b-off-white_grey-pants_back.jpg": {
+  "frac": 0.719,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2500B OFF WHITE/Grey Pants/ghost_bottom_2500b-off-white_grey-pants_front.jpg": {
+  "frac": 0.682,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2500B OFF WHITE/Original/ghost_bottom_2500b-off-white_original_back.jpg": {
+  "frac": 0.702,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2500B OFF WHITE/Original/ghost_bottom_2500b-off-white_original_front.jpg": {
+  "frac": 0.678,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2500B/Grey Jeans/ghost_bottom_2500b_grey-jeans_back.jpg": {
+  "frac": 0.66,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2500B/Grey Jeans/ghost_bottom_2500b_grey-jeans_front.jpg": {
+  "frac": 0.641,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2500B/Grey Pants/ghost_bottom_2500b_grey-pants_back.jpg": {
+  "frac": 0.678,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2500B/Grey Pants/ghost_bottom_2500b_grey-pants_front.jpg": {
+  "frac": 0.612,
+  "mode": "loose",
+  "leftover": 0.0034,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2500B/Grey/Beige Jeans/ghost_bottom_2500b_grey-beige-jeans_back.jpg": {
+  "frac": 0.675,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2500B/Grey/Beige Jeans/ghost_bottom_2500b_grey-beige-jeans_front.jpg": {
+  "frac": 0.677,
+  "mode": "loose",
+  "leftover": 0.0017,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2500B/Light Blue Jeans/ghost_bottom_2500b_light-blue-jeans_back.jpg": {
+  "frac": 0.7,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2500B/Light Blue Jeans/ghost_bottom_2500b_light-blue-jeans_front.jpg": {
+  "frac": 0.697,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2500B/Original/ghost_bottom_2500b_original_back.jpg": {
+  "frac": 0.676,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 2500B/Original/ghost_bottom_2500b_original_front.jpg": {
+  "frac": 0.694,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 601 BLACK/Original/ghost_bottom_601-black_original_back.jpg": {
+  "frac": 0.692,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 601 BLACK/Original/ghost_bottom_601-black_original_front.jpg": {
+  "frac": 0.587,
+  "mode": "loose",
+  "leftover": 0.008,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 601 BLACK/White Jeans or sweatpants/ghost_bottom_601-black_white-jeans-or-sweatpants_back.jpg": {
+  "frac": 0.751,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 601 BLACK/White Jeans or sweatpants/ghost_bottom_601-black_white-jeans-or-sweatpants_front.jpg": {
+  "frac": 0.693,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 601/Black Pants/ghost_bottom_601_black-pants_back.jpg": {
+  "frac": 0.628,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 601/Black Pants/ghost_bottom_601_black-pants_front.jpg": {
+  "frac": 0.714,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 601/Original/ghost_bottom_601_original_back.jpg": {
+  "frac": 0.723,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM 601/Original/ghost_bottom_601_original_front.jpg": {
+  "frac": 0.695,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM BXX-1384/Blue/Black/Pink/Brown/Beige Pants/ghost_bottom_bxx-1384_blue-black-pink-brown-beige-pants_back.jpg": {
+  "frac": 0.674,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM BXX-1384/Blue/Black/Pink/Brown/Beige Pants/ghost_bottom_bxx-1384_blue-black-pink-brown-beige-pants_front.jpg": {
+  "frac": 0.664,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM BXX-1384/White /Black Pants/ghost_bottom_bxx-1384_white-black-pants_back.jpg": {
+  "frac": 0.684,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM BXX-1384/White /Black Pants/ghost_bottom_bxx-1384_white-black-pants_front.jpg": {
+  "frac": 0.653,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM BXX-1384/White Pants/ghost_bottom_bxx-1384_white-pants_back.jpg": {
+  "frac": 0.683,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM BXX-1384/White Pants/ghost_bottom_bxx-1384_white-pants_front.jpg": {
+  "frac": 0.549,
+  "mode": "strict",
+  "leftover": 0.0047,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM BXX-SMB115/Original/ghost_bottom_bxx-smb115_original_back.jpg": {
+  "frac": 0.795,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM BXX-SMB115/Original/ghost_bottom_bxx-smb115_original_front.jpg": {
+  "frac": 0.703,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM BXX-SMB115/White Pants/ghost_bottom_bxx-smb115_white-pants_back.jpg": {
+  "frac": 0.709,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM BXX-SMB115/White Pants/ghost_bottom_bxx-smb115_white-pants_front.jpg": {
+  "frac": 0.729,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022 OFF WHITE/Black Pants/ghost_bottom_n022-off-white_black-pants_back.jpg": {
+  "frac": 0.674,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022 OFF WHITE/Black Pants/ghost_bottom_n022-off-white_black-pants_front.jpg": {
+  "frac": 0.639,
+  "mode": "loose",
+  "leftover": 0.0066,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022 OFF WHITE/Grey Jeans/ghost_bottom_n022-off-white_grey-jeans_back.jpg": {
+  "frac": 0.691,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022 OFF WHITE/Grey Jeans/ghost_bottom_n022-off-white_grey-jeans_front.jpg": {
+  "frac": 0.708,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022 OFF WHITE/Grey Pants/ghost_bottom_n022-off-white_grey-pants_back.jpg": {
+  "frac": 0.697,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022 OFF WHITE/Grey Pants/ghost_bottom_n022-off-white_grey-pants_front.jpg": {
+  "frac": 0.708,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022 OFF WHITE/Original/ghost_bottom_n022-off-white_original_back.jpg": {
+  "frac": 0.688,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022 OFF WHITE/Original/ghost_bottom_n022-off-white_original_front.jpg": {
+  "frac": 0.696,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022 OFF WHITE/White/Grey/Black Pants/ghost_bottom_n022-off-white_white-grey-black-pants_back.jpg": {
+  "frac": 0.691,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022 OFF WHITE/White/Grey/Black Pants/ghost_bottom_n022-off-white_white-grey-black-pants_front.jpg": {
+  "frac": 0.691,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022/Beige Jeans/ghost_bottom_n022_beige-jeans_back.jpg": {
+  "frac": 0.678,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022/Beige Jeans/ghost_bottom_n022_beige-jeans_front.jpg": {
+  "frac": 0.625,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022/Beige/Olive Jeans/ghost_bottom_n022_beige-olive-jeans_back.jpg": {
+  "frac": 0.719,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022/Beige/Olive Jeans/ghost_bottom_n022_beige-olive-jeans_front.jpg": {
+  "frac": 0.714,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022/Black Pants/ghost_bottom_n022_black-pants_back.jpg": {
+  "frac": 0.676,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022/Black Pants/ghost_bottom_n022_black-pants_front.jpg": {
+  "frac": 0.668,
+  "mode": "loose",
+  "leftover": 0.0034,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022/Grey Jeans/ghost_bottom_n022_grey-jeans_back.jpg": {
+  "frac": 0.746,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022/Grey Jeans/ghost_bottom_n022_grey-jeans_front.jpg": {
+  "frac": 0.682,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022/Original/ghost_bottom_n022_original_back.jpg": {
+  "frac": 0.684,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022/Original/ghost_bottom_n022_original_front.jpg": {
+  "frac": 0.681,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022/White Jeans/ghost_bottom_n022_white-jeans_back.jpg": {
+  "frac": 0.552,
+  "mode": "strict",
+  "leftover": 0.0042,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022/White Jeans/ghost_bottom_n022_white-jeans_front.jpg": {
+  "frac": 0.683,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022/White Pants/ghost_bottom_n022_white-pants_back.jpg": {
+  "frac": 0.543,
+  "mode": "strict",
+  "leftover": 0.0811,
+  "ok": false
+ },
+ "output/Ghost Mannequin/BOTTOM N022/White Pants/ghost_bottom_n022_white-pants_front.jpg": {
+  "frac": 0.508,
+  "mode": "strict",
+  "leftover": 0.0079,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022022 (as in folder name)/Grey jeans/ghost_bottom_n022022-as-in-folder-name_grey-jeans_back.jpg": {
+  "frac": 0.692,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022022 (as in folder name)/Grey jeans/ghost_bottom_n022022-as-in-folder-name_grey-jeans_front.jpg": {
+  "frac": 0.645,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022022 (as in folder name)/Original/ghost_bottom_n022022-as-in-folder-name_original_back.jpg": {
+  "frac": 0.728,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022022 (as in folder name)/Original/ghost_bottom_n022022-as-in-folder-name_original_front.jpg": {
+  "frac": 0.664,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022022 (as in folder name)/White Jeans/ghost_bottom_n022022-as-in-folder-name_white-jeans_back.jpg": {
+  "frac": 0.654,
+  "mode": "strict",
+  "leftover": 0.0039,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N022022 (as in folder name)/White Jeans/ghost_bottom_n022022-as-in-folder-name_white-jeans_front.jpg": {
+  "frac": 0.69,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N023/Grey Jeans/ghost_bottom_n023_grey-jeans_back.jpg": {
+  "frac": 0.679,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N023/Grey Jeans/ghost_bottom_n023_grey-jeans_front.jpg": {
+  "frac": 0.66,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N023/Original/ghost_bottom_n023_original_back.jpg": {
+  "frac": 0.675,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N023/Original/ghost_bottom_n023_original_front.jpg": {
+  "frac": 0.697,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N023/White jeans/ghost_bottom_n023_white-jeans_back.jpg": {
+  "frac": 0.61,
+  "mode": "strict",
+  "leftover": 0.0493,
+  "ok": false
+ },
+ "output/Ghost Mannequin/BOTTOM N023/White jeans/ghost_bottom_n023_white-jeans_front.jpg": {
+  "frac": 0.495,
+  "mode": "strict",
+  "leftover": 0.0808,
+  "ok": false
+ },
+ "output/Ghost Mannequin/BOTTOM N023/White/Beige/Black/ghost_bottom_n023_white-beige-black_back.jpg": {
+  "frac": 0.504,
+  "mode": "strict",
+  "leftover": 0.0138,
+  "ok": false
+ },
+ "output/Ghost Mannequin/BOTTOM N023/White/Beige/Black/ghost_bottom_n023_white-beige-black_front.jpg": {
+  "frac": 0.675,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N024/Grey Jeans/ghost_bottom_n024_grey-jeans_back.jpg": {
+  "frac": 0.698,
+  "mode": "loose",
+  "leftover": 0.0031,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N024/Grey Jeans/ghost_bottom_n024_grey-jeans_front.jpg": {
+  "frac": 0.675,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N024/Original/ghost_bottom_n024_original_back.jpg": {
+  "frac": 0.697,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N024/Original/ghost_bottom_n024_original_front.jpg": {
+  "frac": 0.687,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N024/White Jeans/ghost_bottom_n024_white-jeans_back.jpg": {
+  "frac": 0.701,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N024/White Jeans/ghost_bottom_n024_white-jeans_front.jpg": {
+  "frac": 0.642,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N025/Original/ghost_bottom_n025_original_back.jpg": {
+  "frac": 0.634,
+  "mode": "loose",
+  "leftover": 0.0051,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM N025/Original/ghost_bottom_n025_original_front.jpg": {
+  "frac": 0.709,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM NC024/Original/ghost_bottom_nc024_original_back.jpg": {
+  "frac": 0.669,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM NC024/Original/ghost_bottom_nc024_original_front.jpg": {
+  "frac": 0.66,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM NO23 (as in folder name)/Black Jeans/ghost_bottom_no23-as-in-folder-name_black-jeans_back.jpg": {
+  "frac": 0.701,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM NO23 (as in folder name)/Black Jeans/ghost_bottom_no23-as-in-folder-name_black-jeans_front.jpg": {
+  "frac": 0.683,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM NO23 (as in folder name)/Original/ghost_bottom_no23-as-in-folder-name_original_back.jpg": {
+  "frac": 0.674,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM NO23 (as in folder name)/Original/ghost_bottom_no23-as-in-folder-name_original_front.jpg": {
+  "frac": 0.673,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM NO23 (as in folder name)/White Jeans/ghost_bottom_no23-as-in-folder-name_white-jeans_back.jpg": {
+  "frac": 0.504,
+  "mode": "strict",
+  "leftover": 0.0055,
+  "ok": true
+ },
+ "output/Ghost Mannequin/BOTTOM NO23 (as in folder name)/White Jeans/ghost_bottom_no23-as-in-folder-name_white-jeans_front.jpg": {
+  "frac": 0.525,
+  "mode": "strict",
+  "leftover": 0.006,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 125-7071/Black/ghost_top_125-7071_black_back.jpg": {
+  "frac": 0.542,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 125-7071/Black/ghost_top_125-7071_black_front.jpg": {
+  "frac": 0.502,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 125-7071/Sky blue/ghost_top_125-7071_sky-blue_back.jpg": {
+  "frac": 0.517,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 125-7071/Sky blue/ghost_top_125-7071_sky-blue_front.jpg": {
+  "frac": 0.51,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/Beige / stone/ghost_top_126-427_beige-stone_back.jpg": {
+  "frac": 0.525,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/Beige / stone/ghost_top_126-427_beige-stone_front.jpg": {
+  "frac": 0.489,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/Black/ghost_top_126-427_black_back.jpg": {
+  "frac": 0.485,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/Black/ghost_top_126-427_black_front.jpg": {
+  "frac": 0.633,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/Chocolate brown/ghost_top_126-427_chocolate-brown_back.jpg": {
+  "frac": 0.464,
+  "mode": "loose",
+  "leftover": 0.0007,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/Chocolate brown/ghost_top_126-427_chocolate-brown_front.jpg": {
+  "frac": 0.423,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/Dusty rose/ghost_top_126-427_dusty-rose_back.jpg": {
+  "frac": 0.517,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/Dusty rose/ghost_top_126-427_dusty-rose_front.jpg": {
+  "frac": 0.528,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/Lavender/ghost_top_126-427_lavender_back.jpg": {
+  "frac": 0.499,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/Lavender/ghost_top_126-427_lavender_front.jpg": {
+  "frac": 0.562,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/Mustard/ghost_top_126-427_mustard_back.jpg": {
+  "frac": 0.54,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/Mustard/ghost_top_126-427_mustard_front.jpg": {
+  "frac": 0.5,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/Olive/ghost_top_126-427_olive_back.jpg": {
+  "frac": 0.607,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/Olive/ghost_top_126-427_olive_front.jpg": {
+  "frac": 0.52,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/Purple/ghost_top_126-427_purple_back.jpg": {
+  "frac": 0.523,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/Purple/ghost_top_126-427_purple_front.jpg": {
+  "frac": 0.514,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/Sage green/ghost_top_126-427_sage-green_back.jpg": {
+  "frac": 0.467,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/Sage green/ghost_top_126-427_sage-green_front.jpg": {
+  "frac": 0.416,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/Sky blue/ghost_top_126-427_sky-blue_back.jpg": {
+  "frac": 0.486,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/Sky blue/ghost_top_126-427_sky-blue_front.jpg": {
+  "frac": 0.495,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/White/ghost_top_126-427_white_back.jpg": {
+  "frac": 0.52,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-427/White/ghost_top_126-427_white_front.jpg": {
+  "frac": 0.533,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-451A/Brown check/ghost_top_126-451a_brown-check_back.jpg": {
+  "frac": 0.549,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-451A/Brown check/ghost_top_126-451a_brown-check_front.jpg": {
+  "frac": 0.567,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-451A/Grey/ghost_top_126-451a_grey_back.jpg": {
+  "frac": 0.561,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-451A/Grey/ghost_top_126-451a_grey_front.jpg": {
+  "frac": 0.568,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-451A/Slate blue/ghost_top_126-451a_slate-blue_back.jpg": {
+  "frac": 0.312,
+  "mode": "loose",
+  "leftover": 0.0122,
+  "ok": false
+ },
+ "output/Ghost Mannequin/TOP 126-451A/Slate blue/ghost_top_126-451a_slate-blue_front.jpg": {
+  "frac": 0.542,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-451A/White with dots/ghost_top_126-451a_white-with-dots_back.jpg": {
+  "frac": 0.466,
+  "mode": "loose",
+  "leftover": 0.0009,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-451A/White with dots/ghost_top_126-451a_white-with-dots_front.jpg": {
+  "frac": 0.658,
+  "mode": "loose",
+  "leftover": 0.0002,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-474/Beige leaf print/ghost_top_126-474_beige-leaf-print_back.jpg": {
+  "frac": 0.431,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-474/Beige leaf print/ghost_top_126-474_beige-leaf-print_front.jpg": {
+  "frac": 0.582,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-474/Black / white floral print/ghost_top_126-474_black-white-floral-print_back.jpg": {
+  "frac": 0.499,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-474/Black / white floral print/ghost_top_126-474_black-white-floral-print_front.jpg": {
+  "frac": 0.494,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-474/Chocolate brown leaf print/ghost_top_126-474_chocolate-brown-leaf-print_back.jpg": {
+  "frac": 0.441,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-474/Chocolate brown leaf print/ghost_top_126-474_chocolate-brown-leaf-print_front.jpg": {
+  "frac": 0.54,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-474/Olive green leaf print/ghost_top_126-474_olive-green-leaf-print_back.jpg": {
+  "frac": 0.652,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 126-474/Olive green leaf print/ghost_top_126-474_olive-green-leaf-print_front.jpg": {
+  "frac": 0.628,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 1418/Black/ghost_top_1418_black_back.jpg": {
+  "frac": 0.498,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 1418/Black/ghost_top_1418_black_front.jpg": {
+  "frac": 0.587,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 1418/Cream/ghost_top_1418_cream_back.jpg": {
+  "frac": 0.613,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 1418/Cream/ghost_top_1418_cream_front.jpg": {
+  "frac": 0.52,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 1418/Sand beige/ghost_top_1418_sand-beige_back.jpg": {
+  "frac": 0.615,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 1418/Sand beige/ghost_top_1418_sand-beige_front.jpg": {
+  "frac": 0.398,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 1418/White/ghost_top_1418_white_back.jpg": {
+  "frac": 0.373,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 1418/White/ghost_top_1418_white_front.jpg": {
+  "frac": 0.483,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 1431/Dark navy / charcoal/ghost_top_1431_dark-navy-charcoal_back.jpg": {
+  "frac": 0.428,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 1431/Dark navy / charcoal/ghost_top_1431_dark-navy-charcoal_front.jpg": {
+  "frac": 0.508,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 1431/Grey/ghost_top_1431_grey_back.jpg": {
+  "frac": 0.542,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 1431/Grey/ghost_top_1431_grey_front.jpg": {
+  "frac": 0.512,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 1438/Mustard / camel/ghost_top_1438_mustard-camel_back.jpg": {
+  "frac": 0.578,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 1438/Mustard / camel/ghost_top_1438_mustard-camel_front.jpg": {
+  "frac": 0.555,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 21008/Black/ghost_top_21008_black_back.jpg": {
+  "frac": 0.571,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 21008/Black/ghost_top_21008_black_front.jpg": {
+  "frac": 0.513,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 21008/Dusty rose/ghost_top_21008_dusty-rose_back.jpg": {
+  "frac": 0.458,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 21008/Dusty rose/ghost_top_21008_dusty-rose_front.jpg": {
+  "frac": 0.587,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 21008/Grey/ghost_top_21008_grey_back.jpg": {
+  "frac": 0.572,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 21008/Grey/ghost_top_21008_grey_front.jpg": {
+  "frac": 0.584,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 21008/Mauve/ghost_top_21008_mauve_back.jpg": {
+  "frac": 0.497,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 21008/Mauve/ghost_top_21008_mauve_front.jpg": {
+  "frac": 0.635,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 21008/Pink/ghost_top_21008_pink_back.jpg": {
+  "frac": 0.53,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 21008/Pink/ghost_top_21008_pink_front.jpg": {
+  "frac": 0.413,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 21008/Plum/ghost_top_21008_plum_back.jpg": {
+  "frac": 0.604,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 21008/Plum/ghost_top_21008_plum_front.jpg": {
+  "frac": 0.627,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 21008/Taupe beige/ghost_top_21008_taupe-beige_back.jpg": {
+  "frac": 0.482,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 21008/Taupe beige/ghost_top_21008_taupe-beige_front.jpg": {
+  "frac": 0.48,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 21008/Turquoise/ghost_top_21008_turquoise_back.jpg": {
+  "frac": 0.538,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 21008/Turquoise/ghost_top_21008_turquoise_front.jpg": {
+  "frac": 0.561,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 21008/White/ghost_top_21008_white_back.jpg": {
+  "frac": 0.494,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 21008/White/ghost_top_21008_white_front.jpg": {
+  "frac": 0.541,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2400A/Cream / beige/ghost_top_2400a_cream-beige_back.jpg": {
+  "frac": 0.506,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2400A/Cream / beige/ghost_top_2400a_cream-beige_front.jpg": {
+  "frac": 0.561,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2400A/Grey/ghost_top_2400a_grey_back.jpg": {
+  "frac": 0.555,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2400A/Grey/ghost_top_2400a_grey_front.jpg": {
+  "frac": 0.494,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2403/Burgundy/ghost_top_2403_burgundy_back.jpg": {
+  "frac": 0.43,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2403/Burgundy/ghost_top_2403_burgundy_front.jpg": {
+  "frac": 0.509,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2403/Dusty rose/ghost_top_2403_dusty-rose_back.jpg": {
+  "frac": 0.567,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2403/Dusty rose/ghost_top_2403_dusty-rose_front.jpg": {
+  "frac": 0.451,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2403/Grey/ghost_top_2403_grey_back.jpg": {
+  "frac": 0.476,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2403/Grey/ghost_top_2403_grey_front.jpg": {
+  "frac": 0.478,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2403/White / cream/ghost_top_2403_white-cream_back.jpg": {
+  "frac": 0.543,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2403/White / cream/ghost_top_2403_white-cream_front.jpg": {
+  "frac": 0.477,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2408/Aqua / turquoise/ghost_top_2408_aqua-turquoise_back.jpg": {
+  "frac": 0.486,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2408/Aqua / turquoise/ghost_top_2408_aqua-turquoise_front.jpg": {
+  "frac": 0.511,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2408/Black/ghost_top_2408_black_back.jpg": {
+  "frac": 0.712,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2408/Black/ghost_top_2408_black_front.jpg": {
+  "frac": 0.585,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2408/Dusty rose/ghost_top_2408_dusty-rose_back.jpg": {
+  "frac": 0.522,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2408/Dusty rose/ghost_top_2408_dusty-rose_front.jpg": {
+  "frac": 0.546,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2408/Lavender grey/ghost_top_2408_lavender-grey_back.jpg": {
+  "frac": 0.473,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2408/Lavender grey/ghost_top_2408_lavender-grey_front.jpg": {
+  "frac": 0.412,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2410/Burgundy/ghost_top_2410_burgundy_back.jpg": {
+  "frac": 0.678,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2410/Burgundy/ghost_top_2410_burgundy_front.jpg": {
+  "frac": 0.637,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2410/Camel / tan/ghost_top_2410_camel-tan_back.jpg": {
+  "frac": 0.617,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2410/Camel / tan/ghost_top_2410_camel-tan_front.jpg": {
+  "frac": 0.62,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2410/Off-white/ghost_top_2410_off-white_back.jpg": {
+  "frac": 0.61,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2410/Off-white/ghost_top_2410_off-white_front.jpg": {
+  "frac": 0.591,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2505/Burgundy/ghost_top_2505_burgundy_back.jpg": {
+  "frac": 0.552,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2505/Burgundy/ghost_top_2505_burgundy_front.jpg": {
+  "frac": 0.662,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2505/Chocolate brown/ghost_top_2505_chocolate-brown_back.jpg": {
+  "frac": 0.554,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2505/Chocolate brown/ghost_top_2505_chocolate-brown_front.jpg": {
+  "frac": 0.547,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2505/White / cream/ghost_top_2505_white-cream_back.jpg": {
+  "frac": 0.489,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 2505/White / cream/ghost_top_2505_white-cream_front.jpg": {
+  "frac": 0.573,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5003/Black/ghost_top_5003_black_back.jpg": {
+  "frac": 0.52,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5003/Black/ghost_top_5003_black_front.jpg": {
+  "frac": 0.687,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5003/Dusty mauve/ghost_top_5003_dusty-mauve_back.jpg": {
+  "frac": 0.565,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5003/Dusty mauve/ghost_top_5003_dusty-mauve_front.jpg": {
+  "frac": 0.513,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5003/Lavender grey/ghost_top_5003_lavender-grey_back.jpg": {
+  "frac": 0.382,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5003/Lavender grey/ghost_top_5003_lavender-grey_front.jpg": {
+  "frac": 0.517,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5003/Navy/ghost_top_5003_navy_back.jpg": {
+  "frac": 0.365,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5003/Navy/ghost_top_5003_navy_front.jpg": {
+  "frac": 0.487,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5003/Plum brown/ghost_top_5003_plum-brown_back.jpg": {
+  "frac": 0.632,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5003/Plum brown/ghost_top_5003_plum-brown_front.jpg": {
+  "frac": 0.418,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5003/White/ghost_top_5003_white_back.jpg": {
+  "frac": 0.382,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5003/White/ghost_top_5003_white_front.jpg": {
+  "frac": 0.498,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5004/Black/ghost_top_5004_black_back.jpg": {
+  "frac": 0.643,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5004/Black/ghost_top_5004_black_front.jpg": {
+  "frac": 0.556,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5004/Burgundy/ghost_top_5004_burgundy_back.jpg": {
+  "frac": 0.564,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5004/Burgundy/ghost_top_5004_burgundy_front.jpg": {
+  "frac": 0.63,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5004/Dark brown/ghost_top_5004_dark-brown_back.jpg": {
+  "frac": 0.571,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5004/Dark brown/ghost_top_5004_dark-brown_front.jpg": {
+  "frac": 0.6,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5004/Dusty mauve (sleeveless, over white shirt)/ghost_top_5004_dusty-mauve-sleeveless-over-white-shirt_back.jpg": {
+  "frac": 0.497,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5004/Dusty mauve (sleeveless, over white shirt)/ghost_top_5004_dusty-mauve-sleeveless-over-white-shirt_front.jpg": {
+  "frac": 0.637,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5004/Lavender grey/ghost_top_5004_lavender-grey_back.jpg": {
+  "frac": 0.574,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5004/Lavender grey/ghost_top_5004_lavender-grey_front.jpg": {
+  "frac": 0.54,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5004/Navy/ghost_top_5004_navy_back.jpg": {
+  "frac": 0.64,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5004/Navy/ghost_top_5004_navy_front.jpg": {
+  "frac": 0.59,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5004/White/ghost_top_5004_white_back.jpg": {
+  "frac": 0.641,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5004/White/ghost_top_5004_white_front.jpg": {
+  "frac": 0.618,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5005/Chocolate brown/ghost_top_5005_chocolate-brown_back.jpg": {
+  "frac": 0.589,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5005/Chocolate brown/ghost_top_5005_chocolate-brown_front.jpg": {
+  "frac": 0.425,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5005/Grey/ghost_top_5005_grey_back.jpg": {
+  "frac": 0.52,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5005/Grey/ghost_top_5005_grey_front.jpg": {
+  "frac": 0.398,
+  "mode": "loose",
+  "leftover": 0.0064,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5005/Navy/ghost_top_5005_navy_back.jpg": {
+  "frac": 0.489,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5005/Navy/ghost_top_5005_navy_front.jpg": {
+  "frac": 0.496,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5005/White/ghost_top_5005_white_back.jpg": {
+  "frac": 0.449,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5005/White/ghost_top_5005_white_front.jpg": {
+  "frac": 0.551,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5006/Black/ghost_top_5006_black_back.jpg": {
+  "frac": 0.733,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5006/Black/ghost_top_5006_black_front.jpg": {
+  "frac": 0.545,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5006/Burgundy/ghost_top_5006_burgundy_back.jpg": {
+  "frac": 0.641,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5006/Burgundy/ghost_top_5006_burgundy_front.jpg": {
+  "frac": 0.581,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5006/Charcoal grey/ghost_top_5006_charcoal-grey_back.jpg": {
+  "frac": 0.669,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5006/Charcoal grey/ghost_top_5006_charcoal-grey_front.jpg": {
+  "frac": 0.58,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5006/Light Brown/ghost_top_5006_light-brown_back.jpg": {
+  "frac": 0.582,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5006/Light Brown/ghost_top_5006_light-brown_front.jpg": {
+  "frac": 0.594,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5006/Navy/ghost_top_5006_navy_back.jpg": {
+  "frac": 0.481,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5006/Navy/ghost_top_5006_navy_front.jpg": {
+  "frac": 0.628,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5006/White/ghost_top_5006_white_back.jpg": {
+  "frac": 0.617,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5006/White/ghost_top_5006_white_front.jpg": {
+  "frac": 0.594,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5008/Black vest over white shirt/ghost_top_5008_black-vest-over-white-shirt_back.jpg": {
+  "frac": 0.617,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5008/Black vest over white shirt/ghost_top_5008_black-vest-over-white-shirt_front.jpg": {
+  "frac": 0.563,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5010/Black/ghost_top_5010_black_back.jpg": {
+  "frac": 0.537,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5010/Black/ghost_top_5010_black_front.jpg": {
+  "frac": 0.355,
+  "mode": "loose",
+  "leftover": 0.0059,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5010/Brown/ghost_top_5010_brown_back.jpg": {
+  "frac": 0.497,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5010/Brown/ghost_top_5010_brown_front.jpg": {
+  "frac": 0.637,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5010/Burgundy/ghost_top_5010_burgundy_back.jpg": {
+  "frac": 0.508,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5010/Burgundy/ghost_top_5010_burgundy_front.jpg": {
+  "frac": 0.533,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5010/Dusty pink/ghost_top_5010_dusty-pink_back.jpg": {
+  "frac": 0.484,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5010/Dusty pink/ghost_top_5010_dusty-pink_front.jpg": {
+  "frac": 0.4,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5010/Grey/ghost_top_5010_grey_back.jpg": {
+  "frac": 0.468,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5010/Grey/ghost_top_5010_grey_front.jpg": {
+  "frac": 0.441,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5010/Navy/ghost_top_5010_navy_back.jpg": {
+  "frac": 0.538,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5010/Navy/ghost_top_5010_navy_front.jpg": {
+  "frac": 0.444,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5010/White/ghost_top_5010_white_back.jpg": {
+  "frac": 0.539,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5010/White/ghost_top_5010_white_front.jpg": {
+  "frac": 0.529,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5014/Black/ghost_top_5014_black_back.jpg": {
+  "frac": 0.63,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5014/Black/ghost_top_5014_black_front.jpg": {
+  "frac": 0.686,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5014/Burgundy/ghost_top_5014_burgundy_back.jpg": {
+  "frac": 0.51,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5014/Burgundy/ghost_top_5014_burgundy_front.jpg": {
+  "frac": 0.623,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5014/Camel/ghost_top_5014_camel_back.jpg": {
+  "frac": 0.519,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5014/Camel/ghost_top_5014_camel_front.jpg": {
+  "frac": 0.568,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5014/Cobalt blue/ghost_top_5014_cobalt-blue_back.jpg": {
+  "frac": 0.53,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5014/Cobalt blue/ghost_top_5014_cobalt-blue_front.jpg": {
+  "frac": 0.594,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5014/Cream/ghost_top_5014_cream_back.jpg": {
+  "frac": 0.505,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5014/Cream/ghost_top_5014_cream_front.jpg": {
+  "frac": 0.557,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5014/Olive/ghost_top_5014_olive_back.jpg": {
+  "frac": 0.491,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5014/Olive/ghost_top_5014_olive_front.jpg": {
+  "frac": 0.49,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5014/Rose pink/ghost_top_5014_rose-pink_back.jpg": {
+  "frac": 0.576,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 5014/Rose pink/ghost_top_5014_rose-pink_front.jpg": {
+  "frac": 0.502,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 603/Black/ghost_top_603_black_back.jpg": {
+  "frac": 0.537,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 603/Black/ghost_top_603_black_front.jpg": {
+  "frac": 0.456,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 603/Brown/ghost_top_603_brown_back.jpg": {
+  "frac": 0.397,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 603/Brown/ghost_top_603_brown_front.jpg": {
+  "frac": 0.45,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 603/Burgundy/ghost_top_603_burgundy_back.jpg": {
+  "frac": 0.509,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 603/Burgundy/ghost_top_603_burgundy_front.jpg": {
+  "frac": 0.582,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 603/Sand beige/ghost_top_603_sand-beige_back.jpg": {
+  "frac": 0.572,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 603/Sand beige/ghost_top_603_sand-beige_front.jpg": {
+  "frac": 0.475,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 603/White/ghost_top_603_white_back.jpg": {
+  "frac": 0.534,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 603/White/ghost_top_603_white_front.jpg": {
+  "frac": 0.541,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 604/Black/ghost_top_604_black_back.jpg": {
+  "frac": 0.599,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 604/Black/ghost_top_604_black_front.jpg": {
+  "frac": 0.4,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 604/Blush taupe/ghost_top_604_blush-taupe_back.jpg": {
+  "frac": 0.486,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 604/Blush taupe/ghost_top_604_blush-taupe_front.jpg": {
+  "frac": 0.527,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 604/Burgundy/ghost_top_604_burgundy_back.jpg": {
+  "frac": 0.507,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 604/Burgundy/ghost_top_604_burgundy_front.jpg": {
+  "frac": 0.458,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 604/Camel/ghost_top_604_camel_back.jpg": {
+  "frac": 0.535,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 604/Camel/ghost_top_604_camel_front.jpg": {
+  "frac": 0.553,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 604/Cream/ghost_top_604_cream_back.jpg": {
+  "frac": 0.574,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 604/Cream/ghost_top_604_cream_front.jpg": {
+  "frac": 0.515,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 604/Dark brown/ghost_top_604_dark-brown_back.jpg": {
+  "frac": 0.454,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 604/Dark brown/ghost_top_604_dark-brown_front.jpg": {
+  "frac": 0.573,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7080 GREY/Cafe pink/ghost_top_7080-grey_cafe-pink_back.jpg": {
+  "frac": 0.533,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7080 GREY/Cafe pink/ghost_top_7080-grey_cafe-pink_front.jpg": {
+  "frac": 0.57,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7080 GREY/Chocolate brown/ghost_top_7080-grey_chocolate-brown_back.jpg": {
+  "frac": 0.398,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7080 GREY/Chocolate brown/ghost_top_7080-grey_chocolate-brown_front.jpg": {
+  "frac": 0.467,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7080 GREY/Grey/ghost_top_7080-grey_grey_back.jpg": {
+  "frac": 0.547,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7080 GREY/Grey/ghost_top_7080-grey_grey_front.jpg": {
+  "frac": 0.6,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7088/Black/ghost_top_7088_black_back.jpg": {
+  "frac": 0.557,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7088/Black/ghost_top_7088_black_front.jpg": {
+  "frac": 0.506,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7089/Beige/ghost_top_7089_beige_back.jpg": {
+  "frac": 0.52,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7089/Beige/ghost_top_7089_beige_front.jpg": {
+  "frac": 0.536,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7089/Black/ghost_top_7089_black_back.jpg": {
+  "frac": 0.53,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7089/Black/ghost_top_7089_black_front.jpg": {
+  "frac": 0.566,
+  "mode": "loose",
+  "leftover": 0.0006,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7089/Brown/ghost_top_7089_brown_back.jpg": {
+  "frac": 0.523,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7089/Brown/ghost_top_7089_brown_front.jpg": {
+  "frac": 0.451,
+  "mode": "loose",
+  "leftover": 0.0007,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7089/Dark brown/ghost_top_7089_dark-brown_back.jpg": {
+  "frac": 0.437,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7089/Dark brown/ghost_top_7089_dark-brown_front.jpg": {
+  "frac": 0.492,
+  "mode": "loose",
+  "leftover": 0.0003,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7089/Olive/ghost_top_7089_olive_back.jpg": {
+  "frac": 0.545,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7089/Olive/ghost_top_7089_olive_front.jpg": {
+  "frac": 0.513,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7089/Sage green/ghost_top_7089_sage-green_back.jpg": {
+  "frac": 0.55,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7089/Sage green/ghost_top_7089_sage-green_front.jpg": {
+  "frac": 0.488,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7089/White/ghost_top_7089_white_back.jpg": {
+  "frac": 0.584,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7089/White/ghost_top_7089_white_front.jpg": {
+  "frac": 0.711,
+  "mode": "loose",
+  "leftover": 0.0004,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7094/Cream/ghost_top_7094_cream_back.jpg": {
+  "frac": 0.477,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7094/Cream/ghost_top_7094_cream_front.jpg": {
+  "frac": 0.494,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7094/Dusty mauve / lilac/ghost_top_7094_dusty-mauve-lilac_back.jpg": {
+  "frac": 0.528,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7094/Dusty mauve / lilac/ghost_top_7094_dusty-mauve-lilac_front.jpg": {
+  "frac": 0.502,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7094/Grey/ghost_top_7094_grey_back.jpg": {
+  "frac": 0.512,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7094/Grey/ghost_top_7094_grey_front.jpg": {
+  "frac": 0.512,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7094/Khaki taupe/ghost_top_7094_khaki-taupe_back.jpg": {
+  "frac": 0.517,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7094/Khaki taupe/ghost_top_7094_khaki-taupe_front.jpg": {
+  "frac": 0.445,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7094/Powder blue/ghost_top_7094_powder-blue_back.jpg": {
+  "frac": 0.561,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7094/Powder blue/ghost_top_7094_powder-blue_front.jpg": {
+  "frac": 0.501,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7095/Black/ghost_top_7095_black_back.jpg": {
+  "frac": 0.448,
+  "mode": "loose",
+  "leftover": 0.0043,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7095/Black/ghost_top_7095_black_front.jpg": {
+  "frac": 0.549,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7095/Blush peach/ghost_top_7095_blush-peach_back.jpg": {
+  "frac": 0.515,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7095/Blush peach/ghost_top_7095_blush-peach_front.jpg": {
+  "frac": 0.49,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7095/Cream / beige/ghost_top_7095_cream-beige_back.jpg": {
+  "frac": 0.583,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7095/Cream / beige/ghost_top_7095_cream-beige_front.jpg": {
+  "frac": 0.505,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7095/Grey/ghost_top_7095_grey_back.jpg": {
+  "frac": 0.593,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7095/Grey/ghost_top_7095_grey_front.jpg": {
+  "frac": 0.524,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7095/Purple/ghost_top_7095_purple_back.jpg": {
+  "frac": 0.607,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7095/Purple/ghost_top_7095_purple_front.jpg": {
+  "frac": 0.626,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7095/Taupe/ghost_top_7095_taupe_back.jpg": {
+  "frac": 0.507,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7095/Taupe/ghost_top_7095_taupe_front.jpg": {
+  "frac": 0.468,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7095/Yellow/ghost_top_7095_yellow_back.jpg": {
+  "frac": 0.559,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7095/Yellow/ghost_top_7095_yellow_front.jpg": {
+  "frac": 0.486,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7096/Black/ghost_top_7096_black_back.jpg": {
+  "frac": 0.533,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7096/Black/ghost_top_7096_black_front.jpg": {
+  "frac": 0.536,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7096/Blush beige/ghost_top_7096_blush-beige_back.jpg": {
+  "frac": 0.488,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7096/Blush beige/ghost_top_7096_blush-beige_front.jpg": {
+  "frac": 0.609,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7096/Cream / ivory/ghost_top_7096_cream-ivory_back.jpg": {
+  "frac": 0.613,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7096/Cream / ivory/ghost_top_7096_cream-ivory_front.jpg": {
+  "frac": 0.592,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7096/Pink/ghost_top_7096_pink_back.jpg": {
+  "frac": 0.544,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7096/Pink/ghost_top_7096_pink_front.jpg": {
+  "frac": 0.567,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7097/Beige / stone/ghost_top_7097_beige-stone_back.jpg": {
+  "frac": 0.567,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7097/Beige / stone/ghost_top_7097_beige-stone_front.jpg": {
+  "frac": 0.476,
+  "mode": "loose",
+  "leftover": 0.0008,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7097/Black/ghost_top_7097_black_back.jpg": {
+  "frac": 0.595,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7097/Black/ghost_top_7097_black_front.jpg": {
+  "frac": 0.572,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7097/Burgundy/ghost_top_7097_burgundy_back.jpg": {
+  "frac": 0.584,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7097/Burgundy/ghost_top_7097_burgundy_front.jpg": {
+  "frac": 0.652,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7097/Camel brown/ghost_top_7097_camel-brown_back.jpg": {
+  "frac": 0.588,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7097/Camel brown/ghost_top_7097_camel-brown_front.jpg": {
+  "frac": 0.58,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7097/Dark brown/ghost_top_7097_dark-brown_back.jpg": {
+  "frac": 0.575,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP 7097/Dark brown/ghost_top_7097_dark-brown_front.jpg": {
+  "frac": 0.607,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP BXX-7039/Chocolate brown/ghost_top_bxx-7039_chocolate-brown_back.jpg": {
+  "frac": 0.467,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP BXX-7039/Chocolate brown/ghost_top_bxx-7039_chocolate-brown_front.jpg": {
+  "frac": 0.55,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP BXX-7039/Cream/ghost_top_bxx-7039_cream_back.jpg": {
+  "frac": 0.471,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP BXX-7039/Cream/ghost_top_bxx-7039_cream_front.jpg": {
+  "frac": 0.453,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP BXX-7039/Kiwi green/ghost_top_bxx-7039_kiwi-green_back.jpg": {
+  "frac": 0.581,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP BXX-7039/Kiwi green/ghost_top_bxx-7039_kiwi-green_front.jpg": {
+  "frac": 0.466,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP BXX-7039/Turquoise/ghost_top_bxx-7039_turquoise_back.jpg": {
+  "frac": 0.43,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/Ghost Mannequin/TOP BXX-7039/Turquoise/ghost_top_bxx-7039_turquoise_front.jpg": {
+  "frac": 0.536,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 125-7071 + BOTTOM 126-439/Black/000676478967_125-7071_126-439_black_r003_01-front.jpg": {
+  "frac": 0.736,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 125-7071 + BOTTOM 126-439/Black/000676478967_125-7071_126-439_black_r003_02-three-quarter.jpg": {
+  "frac": 0.736,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 125-7071 + BOTTOM 126-439/Black/000676478967_125-7071_126-439_black_r003_03-back.jpg": {
+  "frac": 0.625,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 125-7071 + BOTTOM 126-439/Black/000676478967_125-7071_126-439_black_r003_04-editorial-front.jpg": {
+  "frac": 0.566,
+  "mode": "loose",
+  "leftover": 0.0001,
+  "ok": true
+ },
+ "output/On-Model/TOP 125-7071 + BOTTOM 126-439/Black/000676478967_125-7071_126-439_black_r003_05-editorial-back.jpg": {
+  "frac": 0.627,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 125-7071 + BOTTOM 126-439/Sky blue/947990095282_125-7071_126-439_sky-blue_r004_01-front.jpg": {
+  "frac": 0.796,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 125-7071 + BOTTOM 126-439/Sky blue/947990095282_125-7071_126-439_sky-blue_r004_02-three-quarter.jpg": {
+  "frac": 0.737,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 125-7071 + BOTTOM 126-439/Sky blue/947990095282_125-7071_126-439_sky-blue_r004_03-back.jpg": {
+  "frac": 0.632,
+  "mode": "strict",
+  "leftover": 0.0065,
+  "ok": true
+ },
+ "output/On-Model/TOP 125-7071 + BOTTOM 126-439/Sky blue/947990095282_125-7071_126-439_sky-blue_r004_04-editorial-front.jpg": {
+  "frac": 0.752,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 125-7071 + BOTTOM 126-439/Sky blue/947990095282_125-7071_126-439_sky-blue_r004_05-editorial-back.jpg": {
+  "frac": 0.615,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Beige / stone/000676478967_126-427_126-439_beige-stone_r007_01-front.jpg": {
+  "frac": 0.739,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Beige / stone/000676478967_126-427_126-439_beige-stone_r007_02-three-quarter.jpg": {
+  "frac": 0.774,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Beige / stone/000676478967_126-427_126-439_beige-stone_r007_03-back.jpg": {
+  "frac": 0.744,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Beige / stone/000676478967_126-427_126-439_beige-stone_r007_04-editorial-front.jpg": {
+  "frac": 0.527,
+  "mode": "loose",
+  "leftover": 0.0017,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Beige / stone/000676478967_126-427_126-439_beige-stone_r007_05-editorial-back.jpg": {
+  "frac": 0.56,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Black/000676478967_126-427_126-439_black_r005_01-front.jpg": {
+  "frac": 0.737,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Black/000676478967_126-427_126-439_black_r005_02-three-quarter.jpg": {
+  "frac": 0.773,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Black/000676478967_126-427_126-439_black_r005_03-back.jpg": {
+  "frac": 0.737,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Black/000676478967_126-427_126-439_black_r005_04-editorial-front.jpg": {
+  "frac": 0.56,
+  "mode": "loose",
+  "leftover": 0.0016,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Black/000676478967_126-427_126-439_black_r005_05-editorial-back.jpg": {
+  "frac": 0.592,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Chocolate brown/000676478967_126-427_126-439_chocolate-brown_r006_01-front.jpg": {
+  "frac": 0.739,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Chocolate brown/000676478967_126-427_126-439_chocolate-brown_r006_02-three-quarter.jpg": {
+  "frac": 0.772,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Chocolate brown/000676478967_126-427_126-439_chocolate-brown_r006_03-back.jpg": {
+  "frac": 0.74,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Chocolate brown/000676478967_126-427_126-439_chocolate-brown_r006_04-editorial-front.jpg": {
+  "frac": 0.532,
+  "mode": "loose",
+  "leftover": 0.0018,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Chocolate brown/000676478967_126-427_126-439_chocolate-brown_r006_05-editorial-back.jpg": {
+  "frac": 0.729,
+  "mode": "loose",
+  "leftover": 0.0001,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Dusty rose/000676478967_126-427_126-439_dusty-rose_r008_01-front.jpg": {
+  "frac": 0.74,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Dusty rose/000676478967_126-427_126-439_dusty-rose_r008_02-three-quarter.jpg": {
+  "frac": 0.767,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Dusty rose/000676478967_126-427_126-439_dusty-rose_r008_03-back.jpg": {
+  "frac": 0.742,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Dusty rose/000676478967_126-427_126-439_dusty-rose_r008_04-editorial-front.jpg": {
+  "frac": 0.549,
+  "mode": "loose",
+  "leftover": 0.002,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Dusty rose/000676478967_126-427_126-439_dusty-rose_r008_05-editorial-back.jpg": {
+  "frac": 0.671,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Lavender/000676478967_126-427_126-439_lavender_r009_01-front.jpg": {
+  "frac": 0.743,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Lavender/000676478967_126-427_126-439_lavender_r009_02-three-quarter.jpg": {
+  "frac": 0.766,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Lavender/000676478967_126-427_126-439_lavender_r009_03-back.jpg": {
+  "frac": 0.739,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Lavender/000676478967_126-427_126-439_lavender_r009_04-editorial-front.jpg": {
+  "frac": 0.639,
+  "mode": "loose",
+  "leftover": 0.0002,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Lavender/000676478967_126-427_126-439_lavender_r009_05-editorial-back.jpg": {
+  "frac": 0.601,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Mustard - White Pants/000676478967_126-427_126-439_mustard_white-pants_r011_01-front.jpg": {
+  "frac": 0.573,
+  "mode": "strict",
+  "leftover": 0.0075,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Mustard - White Pants/000676478967_126-427_126-439_mustard_white-pants_r011_02-three-quarter.jpg": {
+  "frac": 0.597,
+  "mode": "strict",
+  "leftover": 0.0022,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Mustard - White Pants/000676478967_126-427_126-439_mustard_white-pants_r011_03-back.jpg": {
+  "frac": 0.844,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Mustard - White Pants/000676478967_126-427_126-439_mustard_white-pants_r011_04-editorial-front.jpg": {
+  "frac": 0.781,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Mustard - White Pants/000676478967_126-427_126-439_mustard_white-pants_r011_05-editorial-back.jpg": {
+  "frac": 0.571,
+  "mode": "loose",
+  "leftover": 0.0004,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Olive - White Pants/000676478967_126-427_126-439_olive_white-pants_r012_01-front.jpg": {
+  "frac": 0.575,
+  "mode": "strict",
+  "leftover": 0.009,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Olive - White Pants/000676478967_126-427_126-439_olive_white-pants_r012_02-three-quarter.jpg": {
+  "frac": 0.6,
+  "mode": "strict",
+  "leftover": 0.0085,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Olive - White Pants/000676478967_126-427_126-439_olive_white-pants_r012_03-back.jpg": {
+  "frac": 0.609,
+  "mode": "loose",
+  "leftover": 0.0012,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Olive - White Pants/000676478967_126-427_126-439_olive_white-pants_r012_04-editorial-front.jpg": {
+  "frac": 0.659,
+  "mode": "loose",
+  "leftover": 0.0002,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Olive - White Pants/000676478967_126-427_126-439_olive_white-pants_r012_05-editorial-back.jpg": {
+  "frac": 0.783,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Purple - White Pants/000676478967_126-427_126-439_purple_white-pants_r013_01-front.jpg": {
+  "frac": 0.573,
+  "mode": "strict",
+  "leftover": 0.0093,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Purple - White Pants/000676478967_126-427_126-439_purple_white-pants_r013_02-three-quarter.jpg": {
+  "frac": 0.601,
+  "mode": "strict",
+  "leftover": 0.0042,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Purple - White Pants/000676478967_126-427_126-439_purple_white-pants_r013_03-back.jpg": {
+  "frac": 0.582,
+  "mode": "strict",
+  "leftover": 0.0032,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Purple - White Pants/000676478967_126-427_126-439_purple_white-pants_r013_04-editorial-front.jpg": {
+  "frac": 0.629,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Purple - White Pants/000676478967_126-427_126-439_purple_white-pants_r013_05-editorial-back.jpg": {
+  "frac": 0.677,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Sage green - White Pants/000676478967_126-427_126-439_sage-green_white-pants_r010_01-front.jpg": {
+  "frac": 0.574,
+  "mode": "strict",
+  "leftover": 0.0086,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Sage green - White Pants/000676478967_126-427_126-439_sage-green_white-pants_r010_02-three-quarter.jpg": {
+  "frac": 0.599,
+  "mode": "strict",
+  "leftover": 0.0075,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Sage green - White Pants/000676478967_126-427_126-439_sage-green_white-pants_r010_03-back.jpg": {
+  "frac": 0.849,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Sage green - White Pants/000676478967_126-427_126-439_sage-green_white-pants_r010_04-editorial-front.jpg": {
+  "frac": 0.685,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Sage green - White Pants/000676478967_126-427_126-439_sage-green_white-pants_r010_05-editorial-back.jpg": {
+  "frac": 0.702,
+  "mode": "loose",
+  "leftover": 0.0002,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Sky blue - White Pants/000676478967_126-427_126-439_sky-blue_white-pants_r014_01-front.jpg": {
+  "frac": 0.572,
+  "mode": "strict",
+  "leftover": 0.0072,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Sky blue - White Pants/000676478967_126-427_126-439_sky-blue_white-pants_r014_02-three-quarter.jpg": {
+  "frac": 0.576,
+  "mode": "strict",
+  "leftover": 0.0038,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Sky blue - White Pants/000676478967_126-427_126-439_sky-blue_white-pants_r014_03-back.jpg": {
+  "frac": 0.581,
+  "mode": "strict",
+  "leftover": 0.0029,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Sky blue - White Pants/000676478967_126-427_126-439_sky-blue_white-pants_r014_04-editorial-front.jpg": {
+  "frac": 0.723,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/Sky blue - White Pants/000676478967_126-427_126-439_sky-blue_white-pants_r014_05-editorial-back.jpg": {
+  "frac": 0.686,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/White/000676478967_126-427_126-439_white_r015_01-front.jpg": {
+  "frac": 0.742,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/White/000676478967_126-427_126-439_white_r015_02-three-quarter.jpg": {
+  "frac": 0.776,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/White/000676478967_126-427_126-439_white_r015_03-back.jpg": {
+  "frac": 0.738,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/White/000676478967_126-427_126-439_white_r015_04-editorial-front.jpg": {
+  "frac": 0.55,
+  "mode": "loose",
+  "leftover": 0.0014,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-427 + BOTTOM 126-439/White/000676478967_126-427_126-439_white_r015_05-editorial-back.jpg": {
+  "frac": 0.62,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Brown check/004557713949_126-451a_126-451b_brown-check_r017_01-front.jpg": {
+  "frac": 0.74,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Brown check/004557713949_126-451a_126-451b_brown-check_r017_02-three-quarter.jpg": {
+  "frac": 0.772,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Brown check/004557713949_126-451a_126-451b_brown-check_r017_03-back.jpg": {
+  "frac": 0.734,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Brown check/004557713949_126-451a_126-451b_brown-check_r017_04-editorial-front.jpg": {
+  "frac": 0.596,
+  "mode": "loose",
+  "leftover": 0.0008,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Brown check/004557713949_126-451a_126-451b_brown-check_r017_05-editorial-back.jpg": {
+  "frac": 0.594,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Grey/004557713949_126-451a_126-451b_grey_r016_01-front.jpg": {
+  "frac": 0.74,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Grey/004557713949_126-451a_126-451b_grey_r016_02-three-quarter.jpg": {
+  "frac": 0.765,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Grey/004557713949_126-451a_126-451b_grey_r016_03-back.jpg": {
+  "frac": 0.738,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Grey/004557713949_126-451a_126-451b_grey_r016_04-editorial-front.jpg": {
+  "frac": 0.526,
+  "mode": "loose",
+  "leftover": 0.0021,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Grey/004557713949_126-451a_126-451b_grey_r016_05-editorial-back.jpg": {
+  "frac": 0.546,
+  "mode": "loose",
+  "leftover": 0.0023,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Slate blue/004557713949_126-451a_126-451b_slate-blue_r018_01-front.jpg": {
+  "frac": 0.743,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Slate blue/004557713949_126-451a_126-451b_slate-blue_r018_02-three-quarter.jpg": {
+  "frac": 0.773,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Slate blue/004557713949_126-451a_126-451b_slate-blue_r018_03-back.jpg": {
+  "frac": 0.737,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Slate blue/004557713949_126-451a_126-451b_slate-blue_r018_04-editorial-front.jpg": {
+  "frac": 0.544,
+  "mode": "loose",
+  "leftover": 0.0028,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Slate blue/004557713949_126-451a_126-451b_slate-blue_r018_05-editorial-back.jpg": {
+  "frac": 0.692,
+  "mode": "loose",
+  "leftover": 0.0012,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-451A + BOTTOM 126-451B/White with dots/004557713949_126-451a_126-451b_white-with-dots_r019_01-front.jpg": {
+  "frac": 0.74,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-451A + BOTTOM 126-451B/White with dots/004557713949_126-451a_126-451b_white-with-dots_r019_02-three-quarter.jpg": {
+  "frac": 0.779,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-451A + BOTTOM 126-451B/White with dots/004557713949_126-451a_126-451b_white-with-dots_r019_03-back.jpg": {
+  "frac": 0.738,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-451A + BOTTOM 126-451B/White with dots/004557713949_126-451a_126-451b_white-with-dots_r019_04-editorial-front.jpg": {
+  "frac": 0.529,
+  "mode": "loose",
+  "leftover": 0.0017,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Beige leaf print - White Pants/004557717602_126-474_bxx-smb115_beige-leaf-print_white-pants_r021_01-front.jpg": {
+  "frac": 0.786,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Beige leaf print - White Pants/004557717602_126-474_bxx-smb115_beige-leaf-print_white-pants_r021_02-three-quarter.jpg": {
+  "frac": 0.701,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Beige leaf print - White Pants/004557717602_126-474_bxx-smb115_beige-leaf-print_white-pants_r021_03-back.jpg": {
+  "frac": 0.608,
+  "mode": "strict",
+  "leftover": 0.0055,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Beige leaf print - White Pants/004557717602_126-474_bxx-smb115_beige-leaf-print_white-pants_r021_04-editorial-front.jpg": {
+  "frac": 0.765,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Black / white floral print/004557717602_126-474_bxx-smb115_black-white-floral-print_r020_01-front.jpg": {
+  "frac": 0.784,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Black / white floral print/004557717602_126-474_bxx-smb115_black-white-floral-print_r020_02-three-quarter.jpg": {
+  "frac": 0.804,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Black / white floral print/004557717602_126-474_bxx-smb115_black-white-floral-print_r020_03-back.jpg": {
+  "frac": 0.773,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Black / white floral print/004557717602_126-474_bxx-smb115_black-white-floral-print_r020_04-editorial-front.jpg": {
+  "frac": 0.585,
+  "mode": "loose",
+  "leftover": 0.0021,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Chocolate brown leaf print/004557717602_126-474_bxx-smb115_chocolate-brown-leaf-print_r022_01-front.jpg": {
+  "frac": 0.775,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Chocolate brown leaf print/004557717602_126-474_bxx-smb115_chocolate-brown-leaf-print_r022_02-three-quarter.jpg": {
+  "frac": 0.797,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Chocolate brown leaf print/004557717602_126-474_bxx-smb115_chocolate-brown-leaf-print_r022_03-back.jpg": {
+  "frac": 0.776,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Chocolate brown leaf print/004557717602_126-474_bxx-smb115_chocolate-brown-leaf-print_r022_04-editorial-front.jpg": {
+  "frac": 0.641,
+  "mode": "loose",
+  "leftover": 0.0004,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Olive green leaf print/004557717602_126-474_bxx-smb115_olive-green-leaf-print_r023_01-front.jpg": {
+  "frac": 0.775,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Olive green leaf print/004557717602_126-474_bxx-smb115_olive-green-leaf-print_r023_02-three-quarter.jpg": {
+  "frac": 0.789,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Olive green leaf print/004557717602_126-474_bxx-smb115_olive-green-leaf-print_r023_03-back.jpg": {
+  "frac": 0.773,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Olive green leaf print/004557717602_126-474_bxx-smb115_olive-green-leaf-print_r023_04-editorial-front.jpg": {
+  "frac": 0.578,
+  "mode": "loose",
+  "leftover": 0.0022,
+  "ok": true
+ },
+ "output/On-Model/TOP 1418 + BOTTOM 601/Black/947990090614_1418_601_black_r024_01-front.jpg": {
+  "frac": 0.755,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1418 + BOTTOM 601/Black/947990090614_1418_601_black_r024_02-three-quarter.jpg": {
+  "frac": 0.77,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1418 + BOTTOM 601/Black/947990090614_1418_601_black_r024_03-back.jpg": {
+  "frac": 0.784,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1418 + BOTTOM 601/Black/947990090614_1418_601_black_r024_04-editorial-front.jpg": {
+  "frac": 0.549,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1418 + BOTTOM 601/Cream - Black Pants/947990090614_1418_601_cream_black-pants_r025_01-front.jpg": {
+  "frac": 0.758,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1418 + BOTTOM 601/Cream - Black Pants/947990090614_1418_601_cream_black-pants_r025_02-three-quarter.jpg": {
+  "frac": 0.782,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1418 + BOTTOM 601/Cream - Black Pants/947990090614_1418_601_cream_black-pants_r025_03-back.jpg": {
+  "frac": 0.751,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1418 + BOTTOM 601/Cream - Black Pants/947990090614_1418_601_cream_black-pants_r025_04-editorial-front.jpg": {
+  "frac": 0.542,
+  "mode": "loose",
+  "leftover": 0.0023,
+  "ok": true
+ },
+ "output/On-Model/TOP 1418 + BOTTOM 601/Sand beige/947990090614_1418_601_sand-beige_r027_01-front.jpg": {
+  "frac": 0.761,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1418 + BOTTOM 601/Sand beige/947990090614_1418_601_sand-beige_r027_02-three-quarter.jpg": {
+  "frac": 0.779,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1418 + BOTTOM 601/Sand beige/947990090614_1418_601_sand-beige_r027_03-back.jpg": {
+  "frac": 0.756,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1418 + BOTTOM 601/Sand beige/947990090614_1418_601_sand-beige_r027_04-editorial-front.jpg": {
+  "frac": 0.597,
+  "mode": "loose",
+  "leftover": 0.001,
+  "ok": true
+ },
+ "output/On-Model/TOP 1418 + BOTTOM 601/White/947990090614_1418_601_white_r026_01-front.jpg": {
+  "frac": 0.756,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1418 + BOTTOM 601/White/947990090614_1418_601_white_r026_02-three-quarter.jpg": {
+  "frac": 0.773,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1418 + BOTTOM 601/White/947990090614_1418_601_white_r026_03-back.jpg": {
+  "frac": 0.753,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1418 + BOTTOM 601/White/947990090614_1418_601_white_r026_04-editorial-front.jpg": {
+  "frac": 0.537,
+  "mode": "loose",
+  "leftover": 0.0019,
+  "ok": true
+ },
+ "output/On-Model/TOP 1431 + BOTTOM NC024/Dark navy / charcoal/947990094452_1431_nc024_dark-navy-charcoal_r029_01-front.jpg": {
+  "frac": 0.751,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1431 + BOTTOM NC024/Dark navy / charcoal/947990094452_1431_nc024_dark-navy-charcoal_r029_02-three-quarter.jpg": {
+  "frac": 0.766,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1431 + BOTTOM NC024/Dark navy / charcoal/947990094452_1431_nc024_dark-navy-charcoal_r029_03-back.jpg": {
+  "frac": 0.748,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1431 + BOTTOM NC024/Dark navy / charcoal/947990094452_1431_nc024_dark-navy-charcoal_r029_04-editorial-front.jpg": {
+  "frac": 0.511,
+  "mode": "loose",
+  "leftover": 0.0007,
+  "ok": true
+ },
+ "output/On-Model/TOP 1431 + BOTTOM NC024/Grey/947990094452_1431_nc024_grey_r028_01-front.jpg": {
+  "frac": 0.747,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1431 + BOTTOM NC024/Grey/947990094452_1431_nc024_grey_r028_02-three-quarter.jpg": {
+  "frac": 0.748,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1431 + BOTTOM NC024/Grey/947990094452_1431_nc024_grey_r028_03-back.jpg": {
+  "frac": 0.742,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1431 + BOTTOM NC024/Grey/947990094452_1431_nc024_grey_r028_04-editorial-front.jpg": {
+  "frac": 0.63,
+  "mode": "loose",
+  "leftover": 0.0001,
+  "ok": true
+ },
+ "output/On-Model/TOP 1438 + BOTTOM N025/Mustard / camel/947990093677_1438_n025_mustard-camel_r031_01-front.jpg": {
+  "frac": 0.737,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1438 + BOTTOM N025/Mustard / camel/947990093677_1438_n025_mustard-camel_r031_02-three-quarter.jpg": {
+  "frac": 0.731,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1438 + BOTTOM N025/Mustard / camel/947990093677_1438_n025_mustard-camel_r031_03-back.jpg": {
+  "frac": 0.739,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 1438 + BOTTOM N025/Mustard / camel/947990093677_1438_n025_mustard-camel_r031_04-editorial-front.jpg": {
+  "frac": 0.574,
+  "mode": "loose",
+  "leftover": 0.002,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Black/094367000087_21008_n022_black_r035_01-front.jpg": {
+  "frac": 0.747,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Black/094367000087_21008_n022_black_r035_02-three-quarter.jpg": {
+  "frac": 0.792,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Black/094367000087_21008_n022_black_r035_03-back.jpg": {
+  "frac": 0.737,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Black/094367000087_21008_n022_black_r035_04-editorial-front.jpg": {
+  "frac": 0.491,
+  "mode": "loose",
+  "leftover": 0.0013,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Dusty rose - White Jeans/094367000087_21008_n022_dusty-rose_white-jeans_r041_01-front.jpg": {
+  "frac": 0.533,
+  "mode": "strict",
+  "leftover": 0.0088,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Dusty rose - White Jeans/094367000087_21008_n022_dusty-rose_white-jeans_r041_02-three-quarter.jpg": {
+  "frac": 0.562,
+  "mode": "strict",
+  "leftover": 0.0085,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Dusty rose - White Jeans/094367000087_21008_n022_dusty-rose_white-jeans_r041_03-back.jpg": {
+  "frac": 0.537,
+  "mode": "strict",
+  "leftover": 0.0041,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Dusty rose - White Jeans/094367000087_21008_n022_dusty-rose_white-jeans_r041_04-editorial-front.jpg": {
+  "frac": 0.579,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Dusty rose - White Jeans/094367000087_21008_n022_dusty-rose_white-jeans_r041_05-editorial-back.jpg": {
+  "frac": 0.711,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Grey/094367000087_21008_n022_grey_r037_01-front.jpg": {
+  "frac": 0.748,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Grey/094367000087_21008_n022_grey_r037_02-three-quarter.jpg": {
+  "frac": 0.776,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Grey/094367000087_21008_n022_grey_r037_03-back.jpg": {
+  "frac": 0.746,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Grey/094367000087_21008_n022_grey_r037_04-editorial-front.jpg": {
+  "frac": 0.656,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Mauve/094367000087_21008_n022_mauve_r043_01-front.jpg": {
+  "frac": 0.747,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Mauve/094367000087_21008_n022_mauve_r043_02-three-quarter.jpg": {
+  "frac": 0.783,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Mauve/094367000087_21008_n022_mauve_r043_03-back.jpg": {
+  "frac": 0.747,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Mauve/094367000087_21008_n022_mauve_r043_04-editorial-front.jpg": {
+  "frac": 0.494,
+  "mode": "loose",
+  "leftover": 0.0013,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Mauve/094367000087_21008_n022_mauve_r043_05-editorial-back.jpg": {
+  "frac": 0.64,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Pink - White Jeans/094367000087_21008_n022_pink_white-jeans_r042_01-front.jpg": {
+  "frac": 0.535,
+  "mode": "strict",
+  "leftover": 0.0035,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Pink - White Jeans/094367000087_21008_n022_pink_white-jeans_r042_02-three-quarter.jpg": {
+  "frac": 0.554,
+  "mode": "strict",
+  "leftover": 0.0034,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Pink - White Jeans/094367000087_21008_n022_pink_white-jeans_r042_03-back.jpg": {
+  "frac": 0.752,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Pink - White Jeans/094367000087_21008_n022_pink_white-jeans_r042_04-editorial-front.jpg": {
+  "frac": 0.633,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Pink - White Jeans/094367000087_21008_n022_pink_white-jeans_r042_05-editorial-back.jpg": {
+  "frac": 0.641,
+  "mode": "loose",
+  "leftover": 0.0004,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Plum - White Jeans/094367000087_21008_n022_plum_white-jeans_r038_01-front.jpg": {
+  "frac": 0.532,
+  "mode": "strict",
+  "leftover": 0.0078,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Plum - White Jeans/094367000087_21008_n022_plum_white-jeans_r038_02-three-quarter.jpg": {
+  "frac": 0.57,
+  "mode": "strict",
+  "leftover": 0.0036,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Plum - White Jeans/094367000087_21008_n022_plum_white-jeans_r038_03-back.jpg": {
+  "frac": 0.539,
+  "mode": "strict",
+  "leftover": 0.003,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Plum - White Jeans/094367000087_21008_n022_plum_white-jeans_r038_04-editorial-front.jpg": {
+  "frac": 0.62,
+  "mode": "loose",
+  "leftover": 0.0006,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Taupe beige/094367000087_21008_n022_taupe-beige_r039_01-front.jpg": {
+  "frac": 0.746,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Taupe beige/094367000087_21008_n022_taupe-beige_r039_02-three-quarter.jpg": {
+  "frac": 0.778,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Taupe beige/094367000087_21008_n022_taupe-beige_r039_03-back.jpg": {
+  "frac": 0.746,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Taupe beige/094367000087_21008_n022_taupe-beige_r039_04-editorial-front.jpg": {
+  "frac": 0.556,
+  "mode": "loose",
+  "leftover": 0.0003,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Turquoise - White Jeans/094367000087_21008_n022_turquoise_white-jeans_r040_01-front.jpg": {
+  "frac": 0.538,
+  "mode": "strict",
+  "leftover": 0.0036,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Turquoise - White Jeans/094367000087_21008_n022_turquoise_white-jeans_r040_02-three-quarter.jpg": {
+  "frac": 0.563,
+  "mode": "strict",
+  "leftover": 0.0032,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Turquoise - White Jeans/094367000087_21008_n022_turquoise_white-jeans_r040_03-back.jpg": {
+  "frac": 0.536,
+  "mode": "strict",
+  "leftover": 0.0044,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/Turquoise - White Jeans/094367000087_21008_n022_turquoise_white-jeans_r040_04-editorial-front.jpg": {
+  "frac": 0.698,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/White - Beige Jeans/094367000087_21008_n022_white_beige-jeans_r036_01-front.jpg": {
+  "frac": 0.753,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/White - Beige Jeans/094367000087_21008_n022_white_beige-jeans_r036_02-three-quarter.jpg": {
+  "frac": 0.786,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/White - Beige Jeans/094367000087_21008_n022_white_beige-jeans_r036_03-back.jpg": {
+  "frac": 0.753,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 21008 + BOTTOM N022/White - Beige Jeans/094367000087_21008_n022_white_beige-jeans_r036_04-editorial-front.jpg": {
+  "frac": 0.585,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2400A + BOTTOM N022 OFF WHITE/Cream / beige/947990087843_2400a_n022-off-white_cream-beige_r044_01-front.jpg": {
+  "frac": 0.756,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2400A + BOTTOM N022 OFF WHITE/Cream / beige/947990087843_2400a_n022-off-white_cream-beige_r044_02-three-quarter.jpg": {
+  "frac": 0.652,
+  "mode": "loose",
+  "leftover": 0.0006,
+  "ok": true
+ },
+ "output/On-Model/TOP 2400A + BOTTOM N022 OFF WHITE/Cream / beige/947990087843_2400a_n022-off-white_cream-beige_r044_03-back.jpg": {
+  "frac": 0.839,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2400A + BOTTOM N022 OFF WHITE/Cream / beige/947990087843_2400a_n022-off-white_cream-beige_r044_04-editorial-front.jpg": {
+  "frac": 0.662,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2400A + BOTTOM N022 OFF WHITE/Cream / beige/947990087843_2400a_n022-off-white_cream-beige_r044_05-editorial-back.jpg": {
+  "frac": 0.607,
+  "mode": "loose",
+  "leftover": 0.0003,
+  "ok": true
+ },
+ "output/On-Model/TOP 2400A + BOTTOM N022 OFF WHITE/Grey/947990087843_2400a_n022-off-white_grey_r045_01-front.jpg": {
+  "frac": 0.761,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2400A + BOTTOM N022 OFF WHITE/Grey/947990087843_2400a_n022-off-white_grey_r045_02-three-quarter.jpg": {
+  "frac": 0.667,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2400A + BOTTOM N022 OFF WHITE/Grey/947990087843_2400a_n022-off-white_grey_r045_03-back.jpg": {
+  "frac": 0.575,
+  "mode": "loose",
+  "leftover": 0.001,
+  "ok": true
+ },
+ "output/On-Model/TOP 2400A + BOTTOM N022 OFF WHITE/Grey/947990087843_2400a_n022-off-white_grey_r045_04-editorial-front.jpg": {
+  "frac": 0.694,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2400A + BOTTOM N022 OFF WHITE/Grey/947990087843_2400a_n022-off-white_grey_r045_05-editorial-back.jpg": {
+  "frac": 0.739,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2403 + BOTTOM N022/Burgundy - White Jeans/000676460573_2403_n022_burgundy_white-jeans_r047_01-front.jpg": {
+  "frac": 0.762,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2403 + BOTTOM N022/Burgundy - White Jeans/000676460573_2403_n022_burgundy_white-jeans_r047_02-three-quarter.jpg": {
+  "frac": 0.619,
+  "mode": "strict",
+  "leftover": 0.0095,
+  "ok": true
+ },
+ "output/On-Model/TOP 2403 + BOTTOM N022/Burgundy - White Jeans/000676460573_2403_n022_burgundy_white-jeans_r047_03-back.jpg": {
+  "frac": 0.581,
+  "mode": "strict",
+  "leftover": 0.0114,
+  "ok": false
+ },
+ "output/On-Model/TOP 2403 + BOTTOM N022/Burgundy - White Jeans/000676460573_2403_n022_burgundy_white-jeans_r047_04-editorial-front.jpg": {
+  "frac": 0.623,
+  "mode": "loose",
+  "leftover": 0.0002,
+  "ok": true
+ },
+ "output/On-Model/TOP 2403 + BOTTOM N022/Burgundy - White Jeans/000676460573_2403_n022_burgundy_white-jeans_r047_05-editorial-back.jpg": {
+  "frac": 0.72,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2403 + BOTTOM N022/Dusty rose - Grey jeans/000676460573_2403_n022_dusty-rose_grey-jeans_r048_01-front.jpg": {
+  "frac": 0.78,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2403 + BOTTOM N022/Dusty rose - Grey jeans/000676460573_2403_n022_dusty-rose_grey-jeans_r048_02-three-quarter.jpg": {
+  "frac": 0.8,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2403 + BOTTOM N022/Dusty rose - Grey jeans/000676460573_2403_n022_dusty-rose_grey-jeans_r048_03-back.jpg": {
+  "frac": 0.781,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2403 + BOTTOM N022/Dusty rose - Grey jeans/000676460573_2403_n022_dusty-rose_grey-jeans_r048_04-editorial-front.jpg": {
+  "frac": 0.594,
+  "mode": "loose",
+  "leftover": 0.0018,
+  "ok": true
+ },
+ "output/On-Model/TOP 2403 + BOTTOM N022/Dusty rose - Grey jeans/000676460573_2403_n022_dusty-rose_grey-jeans_r048_05-editorial-back.jpg": {
+  "frac": 0.511,
+  "mode": "loose",
+  "leftover": 0.0033,
+  "ok": true
+ },
+ "output/On-Model/TOP 2403 + BOTTOM N022/Grey - White Jeans/000676460573_2403_n022_grey_white-jeans_r049_01-front.jpg": {
+  "frac": 0.784,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2403 + BOTTOM N022/Grey - White Jeans/000676460573_2403_n022_grey_white-jeans_r049_02-three-quarter.jpg": {
+  "frac": 0.624,
+  "mode": "strict",
+  "leftover": 0.0086,
+  "ok": true
+ },
+ "output/On-Model/TOP 2403 + BOTTOM N022/Grey - White Jeans/000676460573_2403_n022_grey_white-jeans_r049_03-back.jpg": {
+  "frac": 0.789,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2403 + BOTTOM N022/Grey - White Jeans/000676460573_2403_n022_grey_white-jeans_r049_04-editorial-front.jpg": {
+  "frac": 0.628,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2403 + BOTTOM N022/Grey - White Jeans/000676460573_2403_n022_grey_white-jeans_r049_05-editorial-back.jpg": {
+  "frac": 0.702,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2403 + BOTTOM N022/White / cream - Grey Jeans/000676460573_2403_n022_white-cream_grey-jeans_r046_01-front.jpg": {
+  "frac": 0.845,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2403 + BOTTOM N022/White / cream - Grey Jeans/000676460573_2403_n022_white-cream_grey-jeans_r046_02-three-quarter.jpg": {
+  "frac": 0.796,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2403 + BOTTOM N022/White / cream - Grey Jeans/000676460573_2403_n022_white-cream_grey-jeans_r046_03-back.jpg": {
+  "frac": 0.757,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2403 + BOTTOM N022/White / cream - Grey Jeans/000676460573_2403_n022_white-cream_grey-jeans_r046_04-editorial-front.jpg": {
+  "frac": 0.767,
+  "mode": "loose",
+  "leftover": 0.0018,
+  "ok": true
+ },
+ "output/On-Model/TOP 2403 + BOTTOM N022/White / cream - Grey Jeans/000676460573_2403_n022_white-cream_grey-jeans_r046_05-editorial-back.jpg": {
+  "frac": 0.74,
+  "mode": "loose",
+  "leftover": 0.0017,
+  "ok": true
+ },
+ "output/On-Model/TOP 2408 + BOTTOM N024/Aqua / turquoise - White Jeans/000676476574_2408_n024_aqua-turquoise_white-jeans_r051_01-front.jpg": {
+  "frac": 0.778,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2408 + BOTTOM N024/Aqua / turquoise - White Jeans/000676476574_2408_n024_aqua-turquoise_white-jeans_r051_02-three-quarter.jpg": {
+  "frac": 0.615,
+  "mode": "strict",
+  "leftover": 0.006,
+  "ok": true
+ },
+ "output/On-Model/TOP 2408 + BOTTOM N024/Aqua / turquoise - White Jeans/000676476574_2408_n024_aqua-turquoise_white-jeans_r051_03-back.jpg": {
+  "frac": 0.668,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2408 + BOTTOM N024/Aqua / turquoise - White Jeans/000676476574_2408_n024_aqua-turquoise_white-jeans_r051_04-editorial-front.jpg": {
+  "frac": 0.488,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2408 + BOTTOM N024/Black/000676476574_2408_n024_black_r050_01-front.jpg": {
+  "frac": 0.758,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2408 + BOTTOM N024/Black/000676476574_2408_n024_black_r050_02-three-quarter.jpg": {
+  "frac": 0.774,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2408 + BOTTOM N024/Black/000676476574_2408_n024_black_r050_03-back.jpg": {
+  "frac": 0.745,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2408 + BOTTOM N024/Black/000676476574_2408_n024_black_r050_04-editorial-front.jpg": {
+  "frac": 0.506,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2408 + BOTTOM N024/Black/000676476574_2408_n024_black_r050_05-editorial-back.jpg": {
+  "frac": 0.646,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2408 + BOTTOM N024/Dusty rose - Grey Jeans/000676476574_2408_n024_dusty-rose_grey-jeans_r052_01-front.jpg": {
+  "frac": 0.766,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2408 + BOTTOM N024/Dusty rose - Grey Jeans/000676476574_2408_n024_dusty-rose_grey-jeans_r052_02-three-quarter.jpg": {
+  "frac": 0.786,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2408 + BOTTOM N024/Dusty rose - Grey Jeans/000676476574_2408_n024_dusty-rose_grey-jeans_r052_03-back.jpg": {
+  "frac": 0.772,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2408 + BOTTOM N024/Dusty rose - Grey Jeans/000676476574_2408_n024_dusty-rose_grey-jeans_r052_04-editorial-front.jpg": {
+  "frac": 0.581,
+  "mode": "loose",
+  "leftover": 0.0021,
+  "ok": true
+ },
+ "output/On-Model/TOP 2408 + BOTTOM N024/Lavender grey - Grey Jeans/000676476574_2408_n024_lavender-grey_grey-jeans_r053_01-front.jpg": {
+  "frac": 0.765,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2408 + BOTTOM N024/Lavender grey - Grey Jeans/000676476574_2408_n024_lavender-grey_grey-jeans_r053_02-three-quarter.jpg": {
+  "frac": 0.792,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2408 + BOTTOM N024/Lavender grey - Grey Jeans/000676476574_2408_n024_lavender-grey_grey-jeans_r053_03-back.jpg": {
+  "frac": 0.765,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2408 + BOTTOM N024/Lavender grey - Grey Jeans/000676476574_2408_n024_lavender-grey_grey-jeans_r053_04-editorial-front.jpg": {
+  "frac": 0.615,
+  "mode": "loose",
+  "leftover": 0.001,
+  "ok": true
+ },
+ "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Burgundy/947990098368_2410_n022-off-white_burgundy_r055_01-front.jpg": {
+  "frac": 0.576,
+  "mode": "strict",
+  "leftover": 0.0081,
+  "ok": true
+ },
+ "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Burgundy/947990098368_2410_n022-off-white_burgundy_r055_02-three-quarter.jpg": {
+  "frac": 0.611,
+  "mode": "strict",
+  "leftover": 0.0065,
+  "ok": true
+ },
+ "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Burgundy/947990098368_2410_n022-off-white_burgundy_r055_03-back.jpg": {
+  "frac": 0.814,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Burgundy/947990098368_2410_n022-off-white_burgundy_r055_04-editorial-front.jpg": {
+  "frac": 0.706,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Camel / tan/947990098368_2410_n022-off-white_camel-tan_r054_01-front.jpg": {
+  "frac": 0.82,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Camel / tan/947990098368_2410_n022-off-white_camel-tan_r054_02-three-quarter.jpg": {
+  "frac": 0.834,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Camel / tan/947990098368_2410_n022-off-white_camel-tan_r054_03-back.jpg": {
+  "frac": 0.815,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Camel / tan/947990098368_2410_n022-off-white_camel-tan_r054_04-editorial-front.jpg": {
+  "frac": 0.655,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Off-white - Grey Jeans/947990098368_2410_n022-off-white_off-white_grey-jeans_r056_01-front.jpg": {
+  "frac": 0.77,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Off-white - Grey Jeans/947990098368_2410_n022-off-white_off-white_grey-jeans_r056_02-three-quarter.jpg": {
+  "frac": 0.663,
+  "mode": "loose",
+  "leftover": 0.0021,
+  "ok": true
+ },
+ "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Off-white - Grey Jeans/947990098368_2410_n022-off-white_off-white_grey-jeans_r056_03-back.jpg": {
+  "frac": 0.784,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Off-white - Grey Jeans/947990098368_2410_n022-off-white_off-white_grey-jeans_r056_04-editorial-front.jpg": {
+  "frac": 0.61,
+  "mode": "loose",
+  "leftover": 0.0017,
+  "ok": true
+ },
+ "output/On-Model/TOP 2505 + BOTTOM N022/Burgundy - White Jeans/000455769903_2505_n022_burgundy_white-jeans_r065_01-front.jpg": {
+  "frac": 0.608,
+  "mode": "strict",
+  "leftover": 0.0072,
+  "ok": true
+ },
+ "output/On-Model/TOP 2505 + BOTTOM N022/Burgundy - White Jeans/000455769903_2505_n022_burgundy_white-jeans_r065_02-three-quarter.jpg": {
+  "frac": 0.642,
+  "mode": "strict",
+  "leftover": 0.0075,
+  "ok": true
+ },
+ "output/On-Model/TOP 2505 + BOTTOM N022/Burgundy - White Jeans/000455769903_2505_n022_burgundy_white-jeans_r065_03-back.jpg": {
+  "frac": 0.759,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2505 + BOTTOM N022/Burgundy - White Jeans/000455769903_2505_n022_burgundy_white-jeans_r065_04-editorial-front.jpg": {
+  "frac": 0.593,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2505 + BOTTOM N022/Chocolate brown - White Jeans/000455769903_2505_n022_chocolate-brown_white-jeans_r066_01-front.jpg": {
+  "frac": 0.605,
+  "mode": "strict",
+  "leftover": 0.0079,
+  "ok": true
+ },
+ "output/On-Model/TOP 2505 + BOTTOM N022/Chocolate brown - White Jeans/000455769903_2505_n022_chocolate-brown_white-jeans_r066_02-three-quarter.jpg": {
+  "frac": 0.637,
+  "mode": "strict",
+  "leftover": 0.0023,
+  "ok": true
+ },
+ "output/On-Model/TOP 2505 + BOTTOM N022/Chocolate brown - White Jeans/000455769903_2505_n022_chocolate-brown_white-jeans_r066_03-back.jpg": {
+  "frac": 0.609,
+  "mode": "strict",
+  "leftover": 0.0067,
+  "ok": true
+ },
+ "output/On-Model/TOP 2505 + BOTTOM N022/Chocolate brown - White Jeans/000455769903_2505_n022_chocolate-brown_white-jeans_r066_04-editorial-front.jpg": {
+  "frac": 0.753,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2505 + BOTTOM N022/White / cream - Beige/Olive Jeans/000455769903_2505_n022_white-cream_beige-olive-jeans_r064_01-front.jpg": {
+  "frac": 0.768,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 2505 + BOTTOM N022/White / cream - Beige/Olive Jeans/000455769903_2505_n022_white-cream_beige-olive-jeans_r064_02-three-quarter.jpg": {
+  "frac": 0.643,
+  "mode": "loose",
+  "leftover": 0.002,
+  "ok": true
+ },
+ "output/On-Model/TOP 2505 + BOTTOM N022/White / cream - Beige/Olive Jeans/000455769903_2505_n022_white-cream_beige-olive-jeans_r064_03-back.jpg": {
+  "frac": 0.55,
+  "mode": "loose",
+  "leftover": 0.0014,
+  "ok": true
+ },
+ "output/On-Model/TOP 2505 + BOTTOM N022/White / cream - Beige/Olive Jeans/000455769903_2505_n022_white-cream_beige-olive-jeans_r064_04-editorial-front.jpg": {
+  "frac": 0.61,
+  "mode": "loose",
+  "leftover": 0.0021,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/Black/004557710566_5003_2500b_black_r068_01-front.jpg": {
+  "frac": 0.777,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/Black/004557710566_5003_2500b_black_r068_02-three-quarter.jpg": {
+  "frac": 0.714,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/Black/004557710566_5003_2500b_black_r068_03-back.jpg": {
+  "frac": 0.649,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/Black/004557710566_5003_2500b_black_r068_04-editorial-front.jpg": {
+  "frac": 0.677,
+  "mode": "loose",
+  "leftover": 0.001,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/Dusty mauve/004557710566_5003_2500b_dusty-mauve_r067_01-front.jpg": {
+  "frac": 0.778,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/Dusty mauve/004557710566_5003_2500b_dusty-mauve_r067_02-three-quarter.jpg": {
+  "frac": 0.778,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/Dusty mauve/004557710566_5003_2500b_dusty-mauve_r067_03-back.jpg": {
+  "frac": 0.758,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/Dusty mauve/004557710566_5003_2500b_dusty-mauve_r067_04-editorial-front.jpg": {
+  "frac": 0.736,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/Lavender grey/004557710566_5003_2500b_lavender-grey_r070_01-front.jpg": {
+  "frac": 0.589,
+  "mode": "strict",
+  "leftover": 0.0093,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/Lavender grey/004557710566_5003_2500b_lavender-grey_r070_02-three-quarter.jpg": {
+  "frac": 0.603,
+  "mode": "strict",
+  "leftover": 0.0089,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/Lavender grey/004557710566_5003_2500b_lavender-grey_r070_03-back.jpg": {
+  "frac": 0.595,
+  "mode": "strict",
+  "leftover": 0.0031,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/Lavender grey/004557710566_5003_2500b_lavender-grey_r070_04-editorial-front.jpg": {
+  "frac": 0.722,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/Navy/004557710566_5003_2500b_navy_r072_01-front.jpg": {
+  "frac": 0.781,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/Navy/004557710566_5003_2500b_navy_r072_02-three-quarter.jpg": {
+  "frac": 0.612,
+  "mode": "strict",
+  "leftover": 0.0073,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/Navy/004557710566_5003_2500b_navy_r072_03-back.jpg": {
+  "frac": 0.602,
+  "mode": "strict",
+  "leftover": 0.0029,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/Navy/004557710566_5003_2500b_navy_r072_04-editorial-front.jpg": {
+  "frac": 0.71,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/Plum brown/004557710566_5003_2500b_plum-brown_r069_01-front.jpg": {
+  "frac": 0.778,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/Plum brown/004557710566_5003_2500b_plum-brown_r069_02-three-quarter.jpg": {
+  "frac": 0.677,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/Plum brown/004557710566_5003_2500b_plum-brown_r069_03-back.jpg": {
+  "frac": 0.777,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/Plum brown/004557710566_5003_2500b_plum-brown_r069_04-editorial-front.jpg": {
+  "frac": 0.664,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/White - Grey Jeans/004557710566_5003_2500b_white_grey-jeans_r071_01-front.jpg": {
+  "frac": 0.761,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/White - Grey Jeans/004557710566_5003_2500b_white_grey-jeans_r071_02-three-quarter.jpg": {
+  "frac": 0.775,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/White - Grey Jeans/004557710566_5003_2500b_white_grey-jeans_r071_03-back.jpg": {
+  "frac": 0.75,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5003 + BOTTOM 2500B/White - Grey Jeans/004557710566_5003_2500b_white_grey-jeans_r071_04-editorial-front.jpg": {
+  "frac": 0.779,
+  "mode": "loose",
+  "leftover": 0.0011,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Black/004557711105_5004_2500b-off-white_black_r079_01-front.jpg": {
+  "frac": 0.646,
+  "mode": "strict",
+  "leftover": 0.0075,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Black/004557711105_5004_2500b-off-white_black_r079_02-three-quarter.jpg": {
+  "frac": 0.785,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Black/004557711105_5004_2500b-off-white_black_r079_03-back.jpg": {
+  "frac": 0.631,
+  "mode": "strict",
+  "leftover": 0.0066,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Black/004557711105_5004_2500b-off-white_black_r079_04-editorial-front.jpg": {
+  "frac": 0.812,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Burgundy/004557711105_5004_2500b-off-white_burgundy_r074_01-front.jpg": {
+  "frac": 0.597,
+  "mode": "strict",
+  "leftover": 0.0072,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Burgundy/004557711105_5004_2500b-off-white_burgundy_r074_02-three-quarter.jpg": {
+  "frac": 0.628,
+  "mode": "strict",
+  "leftover": 0.0024,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Burgundy/004557711105_5004_2500b-off-white_burgundy_r074_03-back.jpg": {
+  "frac": 0.78,
+  "mode": "loose",
+  "leftover": 0.3425,
+  "ok": false
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Burgundy/004557711105_5004_2500b-off-white_burgundy_r074_04-editorial-front.jpg": {
+  "frac": 0.628,
+  "mode": "loose",
+  "leftover": 0.0002,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Dark brown/004557711105_5004_2500b-off-white_dark-brown_r077_01-front.jpg": {
+  "frac": 0.786,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Dark brown/004557711105_5004_2500b-off-white_dark-brown_r077_02-three-quarter.jpg": {
+  "frac": 0.639,
+  "mode": "strict",
+  "leftover": 0.0036,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Dark brown/004557711105_5004_2500b-off-white_dark-brown_r077_03-back.jpg": {
+  "frac": 0.602,
+  "mode": "strict",
+  "leftover": 0.0047,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Dark brown/004557711105_5004_2500b-off-white_dark-brown_r077_04-editorial-front.jpg": {
+  "frac": 0.641,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Dusty mauve (sleeveless, over white shirt)/004557711105_5004_2500b-off-white_dusty-mauve-sleeveless-over-white-shirt_r073_01-front.jpg": {
+  "frac": 0.594,
+  "mode": "strict",
+  "leftover": 0.0068,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Dusty mauve (sleeveless, over white shirt)/004557711105_5004_2500b-off-white_dusty-mauve-sleeveless-over-white-shirt_r073_02-three-quarter.jpg": {
+  "frac": 0.781,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Dusty mauve (sleeveless, over white shirt)/004557711105_5004_2500b-off-white_dusty-mauve-sleeveless-over-white-shirt_r073_03-back.jpg": {
+  "frac": 0.598,
+  "mode": "strict",
+  "leftover": 0.0059,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Dusty mauve (sleeveless, over white shirt)/004557711105_5004_2500b-off-white_dusty-mauve-sleeveless-over-white-shirt_r073_04-editorial-front.jpg": {
+  "frac": 0.734,
+  "mode": "loose",
+  "leftover": 0.0002,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Lavender grey/004557711105_5004_2500b-off-white_lavender-grey_r078_01-front.jpg": {
+  "frac": 0.65,
+  "mode": "strict",
+  "leftover": 0.0049,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Lavender grey/004557711105_5004_2500b-off-white_lavender-grey_r078_02-three-quarter.jpg": {
+  "frac": 0.673,
+  "mode": "loose",
+  "leftover": 0.0003,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Lavender grey/004557711105_5004_2500b-off-white_lavender-grey_r078_03-back.jpg": {
+  "frac": 0.605,
+  "mode": "strict",
+  "leftover": 0.0043,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Lavender grey/004557711105_5004_2500b-off-white_lavender-grey_r078_04-editorial-front.jpg": {
+  "frac": 0.74,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Navy/004557711105_5004_2500b-off-white_navy_r075_01-front.jpg": {
+  "frac": 0.764,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Navy/004557711105_5004_2500b-off-white_navy_r075_02-three-quarter.jpg": {
+  "frac": 0.618,
+  "mode": "strict",
+  "leftover": 0.0059,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Navy/004557711105_5004_2500b-off-white_navy_r075_03-back.jpg": {
+  "frac": 0.602,
+  "mode": "strict",
+  "leftover": 0.0066,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Navy/004557711105_5004_2500b-off-white_navy_r075_04-editorial-front.jpg": {
+  "frac": 0.74,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/White - Grey Pants/004557711105_5004_2500b-off-white_white_grey-pants_r076_01-front.jpg": {
+  "frac": 0.803,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/White - Grey Pants/004557711105_5004_2500b-off-white_white_grey-pants_r076_02-three-quarter.jpg": {
+  "frac": 0.796,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/White - Grey Pants/004557711105_5004_2500b-off-white_white_grey-pants_r076_03-back.jpg": {
+  "frac": 0.763,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/White - Grey Pants/004557711105_5004_2500b-off-white_white_grey-pants_r076_04-editorial-front.jpg": {
+  "frac": 0.848,
+  "mode": "loose",
+  "leftover": 0.0007,
+  "ok": true
+ },
+ "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Chocolate brown/004557711181_5005_n022-off-white_chocolate-brown_r081_01-front.jpg": {
+  "frac": 0.754,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Chocolate brown/004557711181_5005_n022-off-white_chocolate-brown_r081_02-three-quarter.jpg": {
+  "frac": 0.8,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Chocolate brown/004557711181_5005_n022-off-white_chocolate-brown_r081_03-back.jpg": {
+  "frac": 0.793,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Chocolate brown/004557711181_5005_n022-off-white_chocolate-brown_r081_04-editorial-front.jpg": {
+  "frac": 0.616,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Grey/004557711181_5005_n022-off-white_grey_r080_01-front.jpg": {
+  "frac": 0.76,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Grey/004557711181_5005_n022-off-white_grey_r080_02-three-quarter.jpg": {
+  "frac": 0.766,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Grey/004557711181_5005_n022-off-white_grey_r080_03-back.jpg": {
+  "frac": 0.796,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Grey/004557711181_5005_n022-off-white_grey_r080_04-editorial-front.jpg": {
+  "frac": 0.617,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Navy/004557711181_5005_n022-off-white_navy_r082_01-front.jpg": {
+  "frac": 0.755,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Navy/004557711181_5005_n022-off-white_navy_r082_02-three-quarter.jpg": {
+  "frac": 0.802,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Navy/004557711181_5005_n022-off-white_navy_r082_03-back.jpg": {
+  "frac": 0.757,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Navy/004557711181_5005_n022-off-white_navy_r082_04-editorial-front.jpg": {
+  "frac": 0.538,
+  "mode": "loose",
+  "leftover": 0.0005,
+  "ok": true
+ },
+ "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/White - Grey Pants/004557711181_5005_n022-off-white_white_grey-pants_r083_01-front.jpg": {
+  "frac": 0.757,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/White - Grey Pants/004557711181_5005_n022-off-white_white_grey-pants_r083_02-three-quarter.jpg": {
+  "frac": 0.634,
+  "mode": "strict",
+  "leftover": 0.0022,
+  "ok": true
+ },
+ "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/White - Grey Pants/004557711181_5005_n022-off-white_white_grey-pants_r083_03-back.jpg": {
+  "frac": 0.755,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/White - Grey Pants/004557711181_5005_n022-off-white_white_grey-pants_r083_04-editorial-front.jpg": {
+  "frac": 0.576,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/White - Grey Pants/004557711181_5005_n022-off-white_white_grey-pants_r083_05-editorial-back.jpg": {
+  "frac": 0.512,
+  "mode": "loose",
+  "leftover": 0.0017,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Black - Off White Pants/004557710672_5006_2400b_black_off-white-pants_r084_01-front.jpg": {
+  "frac": 0.761,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Black - Off White Pants/004557710672_5006_2400b_black_off-white-pants_r084_02-three-quarter.jpg": {
+  "frac": 0.763,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Black - Off White Pants/004557710672_5006_2400b_black_off-white-pants_r084_03-back.jpg": {
+  "frac": 0.751,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Black - Off White Pants/004557710672_5006_2400b_black_off-white-pants_r084_04-editorial-front.jpg": {
+  "frac": 0.696,
+  "mode": "loose",
+  "leftover": 0.0002,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Black - Off White Pants/004557710672_5006_2400b_black_off-white-pants_r084_05-editorial-back.jpg": {
+  "frac": 0.742,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Burgundy - White Pants/004557710672_5006_2400b_burgundy_white-pants_r086_01-front.jpg": {
+  "frac": 0.606,
+  "mode": "strict",
+  "leftover": 0.0078,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Burgundy - White Pants/004557710672_5006_2400b_burgundy_white-pants_r086_02-three-quarter.jpg": {
+  "frac": 0.676,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Burgundy - White Pants/004557710672_5006_2400b_burgundy_white-pants_r086_03-back.jpg": {
+  "frac": 0.656,
+  "mode": "strict",
+  "leftover": 0.0053,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Burgundy - White Pants/004557710672_5006_2400b_burgundy_white-pants_r086_04-editorial-front.jpg": {
+  "frac": 0.812,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Burgundy - White Pants/004557710672_5006_2400b_burgundy_white-pants_r086_05-editorial-back.jpg": {
+  "frac": 0.807,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Charcoal grey/004557710672_5006_2400b_charcoal-grey_r089_01-front.jpg": {
+  "frac": 0.764,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Charcoal grey/004557710672_5006_2400b_charcoal-grey_r089_02-three-quarter.jpg": {
+  "frac": 0.766,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Charcoal grey/004557710672_5006_2400b_charcoal-grey_r089_03-back.jpg": {
+  "frac": 0.748,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Charcoal grey/004557710672_5006_2400b_charcoal-grey_r089_04-editorial-front.jpg": {
+  "frac": 0.525,
+  "mode": "loose",
+  "leftover": 0.0001,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Charcoal grey/004557710672_5006_2400b_charcoal-grey_r089_05-editorial-back.jpg": {
+  "frac": 0.614,
+  "mode": "loose",
+  "leftover": 0.0006,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Light Brown - Black Pants/004557710672_5006_2400b_light-brown_black-pants_r087_01-front.jpg": {
+  "frac": 0.75,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Light Brown - Black Pants/004557710672_5006_2400b_light-brown_black-pants_r087_02-three-quarter.jpg": {
+  "frac": 0.752,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Light Brown - Black Pants/004557710672_5006_2400b_light-brown_black-pants_r087_03-back.jpg": {
+  "frac": 0.738,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Light Brown - Black Pants/004557710672_5006_2400b_light-brown_black-pants_r087_04-editorial-front.jpg": {
+  "frac": 0.65,
+  "mode": "loose",
+  "leftover": 0.0016,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Light Brown - Black Pants/004557710672_5006_2400b_light-brown_black-pants_r087_05-editorial-back.jpg": {
+  "frac": 0.538,
+  "mode": "loose",
+  "leftover": 0.0021,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Navy/004557710672_5006_2400b_navy_r085_01-front.jpg": {
+  "frac": 0.761,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Navy/004557710672_5006_2400b_navy_r085_02-three-quarter.jpg": {
+  "frac": 0.783,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Navy/004557710672_5006_2400b_navy_r085_03-back.jpg": {
+  "frac": 0.752,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Navy/004557710672_5006_2400b_navy_r085_04-editorial-front.jpg": {
+  "frac": 0.579,
+  "mode": "loose",
+  "leftover": 0.0012,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/Navy/004557710672_5006_2400b_navy_r085_05-editorial-back.jpg": {
+  "frac": 0.628,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/White/004557710672_5006_2400b_white_r088_01-front.jpg": {
+  "frac": 0.758,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/White/004557710672_5006_2400b_white_r088_02-three-quarter.jpg": {
+  "frac": 0.765,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/White/004557710672_5006_2400b_white_r088_03-back.jpg": {
+  "frac": 0.806,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/White/004557710672_5006_2400b_white_r088_04-editorial-front.jpg": {
+  "frac": 0.749,
+  "mode": "loose",
+  "leftover": 0.0009,
+  "ok": true
+ },
+ "output/On-Model/TOP 5006 + BOTTOM 2400B/White/004557710672_5006_2400b_white_r088_05-editorial-back.jpg": {
+  "frac": 0.637,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5008 + BOTTOM N022 OFF WHITE/Black vest over white shirt/004557711402_5008_n022-off-white_black-vest-over-white-shirt_r090_01-front.jpg": {
+  "frac": 0.749,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5008 + BOTTOM N022 OFF WHITE/Black vest over white shirt/004557711402_5008_n022-off-white_black-vest-over-white-shirt_r090_02-three-quarter.jpg": {
+  "frac": 0.636,
+  "mode": "strict",
+  "leftover": 0.0121,
+  "ok": false
+ },
+ "output/On-Model/TOP 5008 + BOTTOM N022 OFF WHITE/Black vest over white shirt/004557711402_5008_n022-off-white_black-vest-over-white-shirt_r090_03-back.jpg": {
+  "frac": 0.807,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5008 + BOTTOM N022 OFF WHITE/Black vest over white shirt/004557711402_5008_n022-off-white_black-vest-over-white-shirt_r090_04-editorial-front.jpg": {
+  "frac": 0.548,
+  "mode": "loose",
+  "leftover": 0.0019,
+  "ok": true
+ },
+ "output/On-Model/TOP 5008 + BOTTOM N022 OFF WHITE/Black vest over white shirt/004557711402_5008_n022-off-white_black-vest-over-white-shirt_r090_05-editorial-back.jpg": {
+  "frac": 0.821,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Black/004557711716_5010_2500b_black_r095_01-front.jpg": {
+  "frac": 0.757,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Black/004557711716_5010_2500b_black_r095_02-three-quarter.jpg": {
+  "frac": 0.773,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Black/004557711716_5010_2500b_black_r095_03-back.jpg": {
+  "frac": 0.702,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Black/004557711716_5010_2500b_black_r095_04-editorial-front.jpg": {
+  "frac": 0.762,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Brown/004557711716_5010_2500b_brown_r094_01-front.jpg": {
+  "frac": 0.613,
+  "mode": "strict",
+  "leftover": 0.0053,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Brown/004557711716_5010_2500b_brown_r094_02-three-quarter.jpg": {
+  "frac": 0.697,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Brown/004557711716_5010_2500b_brown_r094_03-back.jpg": {
+  "frac": 0.807,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Brown/004557711716_5010_2500b_brown_r094_04-editorial-front.jpg": {
+  "frac": 0.627,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Burgundy - Grey Pants/004557711716_5010_2500b_burgundy_grey-pants_r093_01-front.jpg": {
+  "frac": 0.757,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Burgundy - Grey Pants/004557711716_5010_2500b_burgundy_grey-pants_r093_02-three-quarter.jpg": {
+  "frac": 0.796,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Burgundy - Grey Pants/004557711716_5010_2500b_burgundy_grey-pants_r093_03-back.jpg": {
+  "frac": 0.762,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Burgundy - Grey Pants/004557711716_5010_2500b_burgundy_grey-pants_r093_04-editorial-front.jpg": {
+  "frac": 0.532,
+  "mode": "loose",
+  "leftover": 0.0023,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Dusty pink/004557711716_5010_2500b_dusty-pink_r092_01-front.jpg": {
+  "frac": 0.617,
+  "mode": "strict",
+  "leftover": 0.0058,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Dusty pink/004557711716_5010_2500b_dusty-pink_r092_02-three-quarter.jpg": {
+  "frac": 0.595,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Dusty pink/004557711716_5010_2500b_dusty-pink_r092_03-back.jpg": {
+  "frac": 0.623,
+  "mode": "strict",
+  "leftover": 0.0021,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Dusty pink/004557711716_5010_2500b_dusty-pink_r092_04-editorial-front.jpg": {
+  "frac": 0.641,
+  "mode": "loose",
+  "leftover": 0.0001,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Dusty pink/004557711716_5010_2500b_dusty-pink_r092_05-editorial-back.jpg": {
+  "frac": 0.654,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Grey/004557711716_5010_2500b_grey_r091_01-front.jpg": {
+  "frac": 0.61,
+  "mode": "strict",
+  "leftover": 0.005,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Grey/004557711716_5010_2500b_grey_r091_02-three-quarter.jpg": {
+  "frac": 0.63,
+  "mode": "strict",
+  "leftover": 0.0021,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Grey/004557711716_5010_2500b_grey_r091_03-back.jpg": {
+  "frac": 0.617,
+  "mode": "loose",
+  "leftover": 0.0006,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Grey/004557711716_5010_2500b_grey_r091_04-editorial-front.jpg": {
+  "frac": 0.64,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Grey/004557711716_5010_2500b_grey_r091_05-editorial-back.jpg": {
+  "frac": 0.677,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Navy - Light Blue Jeans/004557711716_5010_2500b_navy_light-blue-jeans_r096_01-front.jpg": {
+  "frac": 0.769,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Navy - Light Blue Jeans/004557711716_5010_2500b_navy_light-blue-jeans_r096_02-three-quarter.jpg": {
+  "frac": 0.79,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Navy - Light Blue Jeans/004557711716_5010_2500b_navy_light-blue-jeans_r096_03-back.jpg": {
+  "frac": 0.776,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/Navy - Light Blue Jeans/004557711716_5010_2500b_navy_light-blue-jeans_r096_04-editorial-front.jpg": {
+  "frac": 0.622,
+  "mode": "loose",
+  "leftover": 0.0012,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/White - Grey/Beige Jeans/004557711716_5010_2500b_white_grey-beige-jeans_r097_01-front.jpg": {
+  "frac": 0.764,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/White - Grey/Beige Jeans/004557711716_5010_2500b_white_grey-beige-jeans_r097_02-three-quarter.jpg": {
+  "frac": 0.763,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/White - Grey/Beige Jeans/004557711716_5010_2500b_white_grey-beige-jeans_r097_03-back.jpg": {
+  "frac": 0.768,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5010 + BOTTOM 2500B/White - Grey/Beige Jeans/004557711716_5010_2500b_white_grey-beige-jeans_r097_04-editorial-front.jpg": {
+  "frac": 0.817,
+  "mode": "loose",
+  "leftover": 0.0014,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Black - Grey Jeans/004557711730_5014_n023_black_grey-jeans_r104_01-front.jpg": {
+  "frac": 0.741,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Black - Grey Jeans/004557711730_5014_n023_black_grey-jeans_r104_02-three-quarter.jpg": {
+  "frac": 0.769,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Black - Grey Jeans/004557711730_5014_n023_black_grey-jeans_r104_03-back.jpg": {
+  "frac": 0.742,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Black - Grey Jeans/004557711730_5014_n023_black_grey-jeans_r104_04-editorial-front.jpg": {
+  "frac": 0.644,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Burgundy/004557711730_5014_n023_burgundy_r103_01-front.jpg": {
+  "frac": 0.745,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Burgundy/004557711730_5014_n023_burgundy_r103_02-three-quarter.jpg": {
+  "frac": 0.776,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Burgundy/004557711730_5014_n023_burgundy_r103_03-back.jpg": {
+  "frac": 0.748,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Burgundy/004557711730_5014_n023_burgundy_r103_04-editorial-front.jpg": {
+  "frac": 0.568,
+  "mode": "loose",
+  "leftover": 0.0024,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Camel - White/Beige/Black/004557711730_5014_n023_camel_white-beige-black_r102_01-front.jpg": {
+  "frac": 0.783,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Camel - White/Beige/Black/004557711730_5014_n023_camel_white-beige-black_r102_02-three-quarter.jpg": {
+  "frac": 0.8,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Camel - White/Beige/Black/004557711730_5014_n023_camel_white-beige-black_r102_03-back.jpg": {
+  "frac": 0.781,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Camel - White/Beige/Black/004557711730_5014_n023_camel_white-beige-black_r102_04-editorial-front.jpg": {
+  "frac": 0.502,
+  "mode": "loose",
+  "leftover": 0.0007,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Cobalt blue/004557711730_5014_n023_cobalt-blue_r100_01-front.jpg": {
+  "frac": 0.74,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Cobalt blue/004557711730_5014_n023_cobalt-blue_r100_02-three-quarter.jpg": {
+  "frac": 0.773,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Cobalt blue/004557711730_5014_n023_cobalt-blue_r100_03-back.jpg": {
+  "frac": 0.742,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Cobalt blue/004557711730_5014_n023_cobalt-blue_r100_04-editorial-front.jpg": {
+  "frac": 0.612,
+  "mode": "loose",
+  "leftover": 0.0001,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Cream/004557711730_5014_n023_cream_r098_01-front.jpg": {
+  "frac": 0.745,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Cream/004557711730_5014_n023_cream_r098_02-three-quarter.jpg": {
+  "frac": 0.769,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Cream/004557711730_5014_n023_cream_r098_03-back.jpg": {
+  "frac": 0.734,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Cream/004557711730_5014_n023_cream_r098_04-editorial-front.jpg": {
+  "frac": 0.559,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Olive/004557711730_5014_n023_olive_r099_01-front.jpg": {
+  "frac": 0.746,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Olive/004557711730_5014_n023_olive_r099_02-three-quarter.jpg": {
+  "frac": 0.765,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Olive/004557711730_5014_n023_olive_r099_03-back.jpg": {
+  "frac": 0.744,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Olive/004557711730_5014_n023_olive_r099_04-editorial-front.jpg": {
+  "frac": 0.518,
+  "mode": "loose",
+  "leftover": 0.0017,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Rose pink - White jeans/004557711730_5014_n023_rose-pink_white-jeans_r101_01-front.jpg": {
+  "frac": 0.564,
+  "mode": "strict",
+  "leftover": 0.0142,
+  "ok": false
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Rose pink - White jeans/004557711730_5014_n023_rose-pink_white-jeans_r101_02-three-quarter.jpg": {
+  "frac": 0.6,
+  "mode": "strict",
+  "leftover": 0.0115,
+  "ok": false
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Rose pink - White jeans/004557711730_5014_n023_rose-pink_white-jeans_r101_03-back.jpg": {
+  "frac": 0.553,
+  "mode": "loose",
+  "leftover": 0.0027,
+  "ok": true
+ },
+ "output/On-Model/TOP 5014 + BOTTOM N023/Rose pink - White jeans/004557711730_5014_n023_rose-pink_white-jeans_r101_04-editorial-front.jpg": {
+  "frac": 0.76,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Black/000455766933_603_601-black_black_r107_01-front.jpg": {
+  "frac": 0.795,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Black/000455766933_603_601-black_black_r107_02-three-quarter.jpg": {
+  "frac": 0.624,
+  "mode": "loose",
+  "leftover": 0.0012,
+  "ok": true
+ },
+ "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Black/000455766933_603_601-black_black_r107_03-back.jpg": {
+  "frac": 0.758,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Black/000455766933_603_601-black_black_r107_04-editorial-front.jpg": {
+  "frac": 0.531,
+  "mode": "loose",
+  "leftover": 0.0008,
+  "ok": true
+ },
+ "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Brown - White Jeans or sweatpants/000455766933_603_601-black_brown_white-jeans-or-sweatpants_r108_01-front.jpg": {
+  "frac": 0.404,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Brown - White Jeans or sweatpants/000455766933_603_601-black_brown_white-jeans-or-sweatpants_r108_02-three-quarter.jpg": {
+  "frac": 0.397,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Brown - White Jeans or sweatpants/000455766933_603_601-black_brown_white-jeans-or-sweatpants_r108_03-back.jpg": {
+  "frac": 0.589,
+  "mode": "loose",
+  "leftover": 0.0025,
+  "ok": true
+ },
+ "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Brown - White Jeans or sweatpants/000455766933_603_601-black_brown_white-jeans-or-sweatpants_r108_04-editorial-front.jpg": {
+  "frac": 0.539,
+  "mode": "loose",
+  "leftover": 0.0004,
+  "ok": true
+ },
+ "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Burgundy/000455766933_603_601-black_burgundy_r106_01-front.jpg": {
+  "frac": 0.768,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Burgundy/000455766933_603_601-black_burgundy_r106_02-three-quarter.jpg": {
+  "frac": 0.768,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Burgundy/000455766933_603_601-black_burgundy_r106_03-back.jpg": {
+  "frac": 0.745,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Burgundy/000455766933_603_601-black_burgundy_r106_04-editorial-front.jpg": {
+  "frac": 0.56,
+  "mode": "loose",
+  "leftover": 0.0021,
+  "ok": true
+ },
+ "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Sand beige - White Jeans or sweatpants/000455766933_603_601-black_sand-beige_white-jeans-or-sweatpants_r105_01-front.jpg": {
+  "frac": 0.611,
+  "mode": "strict",
+  "leftover": 0.0054,
+  "ok": true
+ },
+ "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Sand beige - White Jeans or sweatpants/000455766933_603_601-black_sand-beige_white-jeans-or-sweatpants_r105_02-three-quarter.jpg": {
+  "frac": 0.669,
+  "mode": "loose",
+  "leftover": 0.0008,
+  "ok": true
+ },
+ "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Sand beige - White Jeans or sweatpants/000455766933_603_601-black_sand-beige_white-jeans-or-sweatpants_r105_03-back.jpg": {
+  "frac": 0.607,
+  "mode": "strict",
+  "leftover": 0.0045,
+  "ok": true
+ },
+ "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Sand beige - White Jeans or sweatpants/000455766933_603_601-black_sand-beige_white-jeans-or-sweatpants_r105_04-editorial-front.jpg": {
+  "frac": 0.662,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 603 + BOTTOM 601 BLACK/White/000455766933_603_601-black_white_r109_01-front.jpg": {
+  "frac": 0.595,
+  "mode": "strict",
+  "leftover": 0.0054,
+  "ok": true
+ },
+ "output/On-Model/TOP 603 + BOTTOM 601 BLACK/White/000455766933_603_601-black_white_r109_02-three-quarter.jpg": {
+  "frac": 0.606,
+  "mode": "strict",
+  "leftover": 0.0065,
+  "ok": true
+ },
+ "output/On-Model/TOP 603 + BOTTOM 601 BLACK/White/000455766933_603_601-black_white_r109_03-back.jpg": {
+  "frac": 0.745,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 603 + BOTTOM 601 BLACK/White/000455766933_603_601-black_white_r109_04-editorial-front.jpg": {
+  "frac": 0.791,
+  "mode": "loose",
+  "leftover": 0.0009,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Black/000455767527_604_n022_black_r111_01-front.jpg": {
+  "frac": 0.749,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Black/000455767527_604_n022_black_r111_02-three-quarter.jpg": {
+  "frac": 0.787,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Black/000455767527_604_n022_black_r111_03-back.jpg": {
+  "frac": 0.803,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Black/000455767527_604_n022_black_r111_04-editorial-front.jpg": {
+  "frac": 0.615,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Blush taupe/000455767527_604_n022_blush-taupe_r110_01-front.jpg": {
+  "frac": 0.421,
+  "mode": "strict",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Blush taupe/000455767527_604_n022_blush-taupe_r110_02-three-quarter.jpg": {
+  "frac": 0.732,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Blush taupe/000455767527_604_n022_blush-taupe_r110_03-back.jpg": {
+  "frac": 0.843,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Blush taupe/000455767527_604_n022_blush-taupe_r110_04-editorial-front.jpg": {
+  "frac": 0.662,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Burgundy/000455767527_604_n022_burgundy_r113_01-front.jpg": {
+  "frac": 0.604,
+  "mode": "strict",
+  "leftover": 0.006,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Burgundy/000455767527_604_n022_burgundy_r113_02-three-quarter.jpg": {
+  "frac": 0.624,
+  "mode": "strict",
+  "leftover": 0.0059,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Burgundy/000455767527_604_n022_burgundy_r113_03-back.jpg": {
+  "frac": 0.666,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Burgundy/000455767527_604_n022_burgundy_r113_04-editorial-front.jpg": {
+  "frac": 0.701,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Camel/000455767527_604_n022_camel_r114_01-front.jpg": {
+  "frac": 0.602,
+  "mode": "strict",
+  "leftover": 0.0061,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Camel/000455767527_604_n022_camel_r114_02-three-quarter.jpg": {
+  "frac": 0.628,
+  "mode": "strict",
+  "leftover": 0.0058,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Camel/000455767527_604_n022_camel_r114_03-back.jpg": {
+  "frac": 0.609,
+  "mode": "strict",
+  "leftover": 0.0055,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Camel/000455767527_604_n022_camel_r114_04-editorial-front.jpg": {
+  "frac": 0.657,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Cream - Grey Jeans/000455767527_604_n022_cream_grey-jeans_r115_01-front.jpg": {
+  "frac": 0.751,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Cream - Grey Jeans/000455767527_604_n022_cream_grey-jeans_r115_02-three-quarter.jpg": {
+  "frac": 0.77,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Cream - Grey Jeans/000455767527_604_n022_cream_grey-jeans_r115_03-back.jpg": {
+  "frac": 0.607,
+  "mode": "strict",
+  "leftover": 0.0019,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Cream - Grey Jeans/000455767527_604_n022_cream_grey-jeans_r115_04-editorial-front.jpg": {
+  "frac": 0.546,
+  "mode": "loose",
+  "leftover": 0.002,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Dark brown/000455767527_604_n022_dark-brown_r112_01-front.jpg": {
+  "frac": 0.605,
+  "mode": "strict",
+  "leftover": 0.0048,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Dark brown/000455767527_604_n022_dark-brown_r112_02-three-quarter.jpg": {
+  "frac": 0.606,
+  "mode": "strict",
+  "leftover": 0.0033,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Dark brown/000455767527_604_n022_dark-brown_r112_03-back.jpg": {
+  "frac": 0.608,
+  "mode": "strict",
+  "leftover": 0.0056,
+  "ok": true
+ },
+ "output/On-Model/TOP 604 + BOTTOM N022/Dark brown/000455767527_604_n022_dark-brown_r112_04-editorial-front.jpg": {
+  "frac": 0.604,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Cafe pink/947990092861_7080-grey_n022-off-white_cafe-pink_r118_01-front.jpg": {
+  "frac": 0.599,
+  "mode": "strict",
+  "leftover": 0.0073,
+  "ok": true
+ },
+ "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Cafe pink/947990092861_7080-grey_n022-off-white_cafe-pink_r118_02-three-quarter.jpg": {
+  "frac": 0.621,
+  "mode": "strict",
+  "leftover": 0.0077,
+  "ok": true
+ },
+ "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Cafe pink/947990092861_7080-grey_n022-off-white_cafe-pink_r118_03-back.jpg": {
+  "frac": 0.596,
+  "mode": "strict",
+  "leftover": 0.0071,
+  "ok": true
+ },
+ "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Cafe pink/947990092861_7080-grey_n022-off-white_cafe-pink_r118_04-editorial-front.jpg": {
+  "frac": 0.536,
+  "mode": "loose",
+  "leftover": 0.0006,
+  "ok": true
+ },
+ "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Cafe pink/947990092861_7080-grey_n022-off-white_cafe-pink_r118_05-editorial-back.jpg": {
+  "frac": 0.564,
+  "mode": "loose",
+  "leftover": 0.002,
+  "ok": true
+ },
+ "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Chocolate brown/947990092861_7080-grey_n022-off-white_chocolate-brown_r117_01-front.jpg": {
+  "frac": 0.586,
+  "mode": "strict",
+  "leftover": 0.0103,
+  "ok": false
+ },
+ "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Chocolate brown/947990092861_7080-grey_n022-off-white_chocolate-brown_r117_02-three-quarter.jpg": {
+  "frac": 0.615,
+  "mode": "strict",
+  "leftover": 0.0091,
+  "ok": true
+ },
+ "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Chocolate brown/947990092861_7080-grey_n022-off-white_chocolate-brown_r117_03-back.jpg": {
+  "frac": 0.582,
+  "mode": "strict",
+  "leftover": 0.0107,
+  "ok": false
+ },
+ "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Chocolate brown/947990092861_7080-grey_n022-off-white_chocolate-brown_r117_04-editorial-front.jpg": {
+  "frac": 0.686,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Chocolate brown/947990092861_7080-grey_n022-off-white_chocolate-brown_r117_05-editorial-back.jpg": {
+  "frac": 0.579,
+  "mode": "loose",
+  "leftover": 0.0015,
+  "ok": true
+ },
+ "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Grey/947990092861_7080-grey_n022-off-white_grey_r116_01-front.jpg": {
+  "frac": 0.584,
+  "mode": "strict",
+  "leftover": 0.0073,
+  "ok": true
+ },
+ "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Grey/947990092861_7080-grey_n022-off-white_grey_r116_02-three-quarter.jpg": {
+  "frac": 0.6,
+  "mode": "strict",
+  "leftover": 0.0069,
+  "ok": true
+ },
+ "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Grey/947990092861_7080-grey_n022-off-white_grey_r116_03-back.jpg": {
+  "frac": 0.585,
+  "mode": "strict",
+  "leftover": 0.0084,
+  "ok": true
+ },
+ "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Grey/947990092861_7080-grey_n022-off-white_grey_r116_04-editorial-front.jpg": {
+  "frac": 0.684,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7088 + BOTTOM N022/Black/000455768661_7088_n022_black_r119_01-front.jpg": {
+  "frac": 0.752,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7088 + BOTTOM N022/Black/000455768661_7088_n022_black_r119_02-three-quarter.jpg": {
+  "frac": 0.752,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7088 + BOTTOM N022/Black/000455768661_7088_n022_black_r119_03-back.jpg": {
+  "frac": 0.826,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7088 + BOTTOM N022/Black/000455768661_7088_n022_black_r119_04-editorial-front.jpg": {
+  "frac": 0.673,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7088 + BOTTOM N022/Black/000455768661_7088_n022_black_r119_05-editorial-back.jpg": {
+  "frac": 0.703,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Beige/000455770596_7089_no23-as-in-folder-name_beige_r125_01-front.jpg": {
+  "frac": 0.737,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Beige/000455770596_7089_no23-as-in-folder-name_beige_r125_02-three-quarter.jpg": {
+  "frac": 0.761,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Beige/000455770596_7089_no23-as-in-folder-name_beige_r125_03-back.jpg": {
+  "frac": 0.741,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Beige/000455770596_7089_no23-as-in-folder-name_beige_r125_04-editorial-front.jpg": {
+  "frac": 0.555,
+  "mode": "loose",
+  "leftover": 0.002,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Beige/000455770596_7089_no23-as-in-folder-name_beige_r125_05-editorial-back.jpg": {
+  "frac": 0.643,
+  "mode": "loose",
+  "leftover": 0.0005,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Black - White Jeans/000455770596_7089_no23-as-in-folder-name_black_white-jeans_r120_01-front.jpg": {
+  "frac": 0.823,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Black - White Jeans/000455770596_7089_no23-as-in-folder-name_black_white-jeans_r120_02-three-quarter.jpg": {
+  "frac": 0.822,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Black - White Jeans/000455770596_7089_no23-as-in-folder-name_black_white-jeans_r120_03-back.jpg": {
+  "frac": 0.831,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Black - White Jeans/000455770596_7089_no23-as-in-folder-name_black_white-jeans_r120_04-editorial-front.jpg": {
+  "frac": 0.586,
+  "mode": "loose",
+  "leftover": 0.0004,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Black - White Jeans/000455770596_7089_no23-as-in-folder-name_black_white-jeans_r120_05-editorial-back.jpg": {
+  "frac": 0.601,
+  "mode": "loose",
+  "leftover": 0.0001,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Brown - White Jeans/000455770596_7089_no23-as-in-folder-name_brown_white-jeans_r123_01-front.jpg": {
+  "frac": 0.825,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Brown - White Jeans/000455770596_7089_no23-as-in-folder-name_brown_white-jeans_r123_02-three-quarter.jpg": {
+  "frac": 0.833,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Brown - White Jeans/000455770596_7089_no23-as-in-folder-name_brown_white-jeans_r123_03-back.jpg": {
+  "frac": 0.833,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Brown - White Jeans/000455770596_7089_no23-as-in-folder-name_brown_white-jeans_r123_04-editorial-front.jpg": {
+  "frac": 0.658,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Brown - White Jeans/000455770596_7089_no23-as-in-folder-name_brown_white-jeans_r123_05-editorial-back.jpg": {
+  "frac": 0.688,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Dark brown - White Jeans/000455770596_7089_no23-as-in-folder-name_dark-brown_white-jeans_r124_01-front.jpg": {
+  "frac": 0.826,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Dark brown - White Jeans/000455770596_7089_no23-as-in-folder-name_dark-brown_white-jeans_r124_02-three-quarter.jpg": {
+  "frac": 0.639,
+  "mode": "loose",
+  "leftover": 0.0004,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Dark brown - White Jeans/000455770596_7089_no23-as-in-folder-name_dark-brown_white-jeans_r124_03-back.jpg": {
+  "frac": 0.833,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Dark brown - White Jeans/000455770596_7089_no23-as-in-folder-name_dark-brown_white-jeans_r124_04-editorial-front.jpg": {
+  "frac": 0.718,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Dark brown - White Jeans/000455770596_7089_no23-as-in-folder-name_dark-brown_white-jeans_r124_05-editorial-back.jpg": {
+  "frac": 0.599,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Olive - White Jeans/000455770596_7089_no23-as-in-folder-name_olive_white-jeans_r126_01-front.jpg": {
+  "frac": 0.827,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Olive - White Jeans/000455770596_7089_no23-as-in-folder-name_olive_white-jeans_r126_02-three-quarter.jpg": {
+  "frac": 0.839,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Olive - White Jeans/000455770596_7089_no23-as-in-folder-name_olive_white-jeans_r126_03-back.jpg": {
+  "frac": 0.735,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Olive - White Jeans/000455770596_7089_no23-as-in-folder-name_olive_white-jeans_r126_04-editorial-front.jpg": {
+  "frac": 0.618,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Olive - White Jeans/000455770596_7089_no23-as-in-folder-name_olive_white-jeans_r126_05-editorial-back.jpg": {
+  "frac": 0.642,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Sage green - White Jeans/000455770596_7089_no23-as-in-folder-name_sage-green_white-jeans_r121_01-front.jpg": {
+  "frac": 0.822,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Sage green - White Jeans/000455770596_7089_no23-as-in-folder-name_sage-green_white-jeans_r121_02-three-quarter.jpg": {
+  "frac": 0.833,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Sage green - White Jeans/000455770596_7089_no23-as-in-folder-name_sage-green_white-jeans_r121_03-back.jpg": {
+  "frac": 0.832,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Sage green - White Jeans/000455770596_7089_no23-as-in-folder-name_sage-green_white-jeans_r121_04-editorial-front.jpg": {
+  "frac": 0.493,
+  "mode": "loose",
+  "leftover": 0.0003,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Sage green - White Jeans/000455770596_7089_no23-as-in-folder-name_sage-green_white-jeans_r121_05-editorial-back.jpg": {
+  "frac": 0.612,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/White - Black Jeans/000455770596_7089_no23-as-in-folder-name_white_black-jeans_r122_01-front.jpg": {
+  "frac": 0.56,
+  "mode": "strict",
+  "leftover": 0.0074,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/White - Black Jeans/000455770596_7089_no23-as-in-folder-name_white_black-jeans_r122_02-three-quarter.jpg": {
+  "frac": 0.741,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/White - Black Jeans/000455770596_7089_no23-as-in-folder-name_white_black-jeans_r122_03-back.jpg": {
+  "frac": 0.564,
+  "mode": "strict",
+  "leftover": 0.0074,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/White - Black Jeans/000455770596_7089_no23-as-in-folder-name_white_black-jeans_r122_04-editorial-front.jpg": {
+  "frac": 0.842,
+  "mode": "loose",
+  "leftover": 0.001,
+  "ok": true
+ },
+ "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/White - Black Jeans/000455770596_7089_no23-as-in-folder-name_white_black-jeans_r122_05-editorial-back.jpg": {
+  "frac": 0.651,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Cream/004557712164_7094_n022-off-white_cream_r128_01-front.jpg": {
+  "frac": 0.732,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Cream/004557712164_7094_n022-off-white_cream_r128_02-three-quarter.jpg": {
+  "frac": 0.758,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Cream/004557712164_7094_n022-off-white_cream_r128_03-back.jpg": {
+  "frac": 0.822,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Cream/004557712164_7094_n022-off-white_cream_r128_04-editorial-front.jpg": {
+  "frac": 0.46,
+  "mode": "loose",
+  "leftover": 0.0008,
+  "ok": true
+ },
+ "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Dusty mauve / lilac/004557712164_7094_n022-off-white_dusty-mauve-lilac_r129_01-front.jpg": {
+  "frac": 0.778,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Dusty mauve / lilac/004557712164_7094_n022-off-white_dusty-mauve-lilac_r129_02-three-quarter.jpg": {
+  "frac": 0.65,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Dusty mauve / lilac/004557712164_7094_n022-off-white_dusty-mauve-lilac_r129_03-back.jpg": {
+  "frac": 0.829,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Dusty mauve / lilac/004557712164_7094_n022-off-white_dusty-mauve-lilac_r129_04-editorial-front.jpg": {
+  "frac": 0.683,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Grey - Black Pants/004557712164_7094_n022-off-white_grey_black-pants_r131_01-front.jpg": {
+  "frac": 0.756,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Grey - Black Pants/004557712164_7094_n022-off-white_grey_black-pants_r131_02-three-quarter.jpg": {
+  "frac": 0.764,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Grey - Black Pants/004557712164_7094_n022-off-white_grey_black-pants_r131_03-back.jpg": {
+  "frac": 0.759,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Grey - Black Pants/004557712164_7094_n022-off-white_grey_black-pants_r131_04-editorial-front.jpg": {
+  "frac": 0.577,
+  "mode": "loose",
+  "leftover": 0.0007,
+  "ok": true
+ },
+ "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Khaki taupe/004557712164_7094_n022-off-white_khaki-taupe_r127_01-front.jpg": {
+  "frac": 0.738,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Khaki taupe/004557712164_7094_n022-off-white_khaki-taupe_r127_02-three-quarter.jpg": {
+  "frac": 0.738,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Khaki taupe/004557712164_7094_n022-off-white_khaki-taupe_r127_03-back.jpg": {
+  "frac": 0.828,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Khaki taupe/004557712164_7094_n022-off-white_khaki-taupe_r127_04-editorial-front.jpg": {
+  "frac": 0.623,
+  "mode": "loose",
+  "leftover": 0.0005,
+  "ok": true
+ },
+ "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Powder blue - White/Grey/Black Pants/004557712164_7094_n022-off-white_powder-blue_white-grey-black-pants_r130_01-front.jpg": {
+  "frac": 0.747,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Powder blue - White/Grey/Black Pants/004557712164_7094_n022-off-white_powder-blue_white-grey-black-pants_r130_02-three-quarter.jpg": {
+  "frac": 0.573,
+  "mode": "loose",
+  "leftover": 0.0024,
+  "ok": true
+ },
+ "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Powder blue - White/Grey/Black Pants/004557712164_7094_n022-off-white_powder-blue_white-grey-black-pants_r130_03-back.jpg": {
+  "frac": 0.752,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Powder blue - White/Grey/Black Pants/004557712164_7094_n022-off-white_powder-blue_white-grey-black-pants_r130_04-editorial-front.jpg": {
+  "frac": 0.501,
+  "mode": "loose",
+  "leftover": 0.0023,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Black - White Pants/004557714977_7095_n022_black_white-pants_r138_01-front.jpg": {
+  "frac": 0.787,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Black - White Pants/004557714977_7095_n022_black_white-pants_r138_02-three-quarter.jpg": {
+  "frac": 0.616,
+  "mode": "loose",
+  "leftover": 0.001,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Black - White Pants/004557714977_7095_n022_black_white-pants_r138_03-back.jpg": {
+  "frac": 0.829,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Black - White Pants/004557714977_7095_n022_black_white-pants_r138_04-editorial-front.jpg": {
+  "frac": 0.533,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Blush peach - White Pants/004557714977_7095_n022_blush-peach_white-pants_r133_01-front.jpg": {
+  "frac": 0.788,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Blush peach - White Pants/004557714977_7095_n022_blush-peach_white-pants_r133_02-three-quarter.jpg": {
+  "frac": 0.634,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Blush peach - White Pants/004557714977_7095_n022_blush-peach_white-pants_r133_03-back.jpg": {
+  "frac": 0.581,
+  "mode": "loose",
+  "leftover": 0.0009,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Blush peach - White Pants/004557714977_7095_n022_blush-peach_white-pants_r133_04-editorial-front.jpg": {
+  "frac": 0.487,
+  "mode": "loose",
+  "leftover": 0.0002,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Cream / beige - Black Pants/004557714977_7095_n022_cream-beige_black-pants_r132_01-front.jpg": {
+  "frac": 0.744,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Cream / beige - Black Pants/004557714977_7095_n022_cream-beige_black-pants_r132_02-three-quarter.jpg": {
+  "frac": 0.452,
+  "mode": "loose",
+  "leftover": 0.0071,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Cream / beige - Black Pants/004557714977_7095_n022_cream-beige_black-pants_r132_03-back.jpg": {
+  "frac": 0.746,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Cream / beige - Black Pants/004557714977_7095_n022_cream-beige_black-pants_r132_04-editorial-front.jpg": {
+  "frac": 0.65,
+  "mode": "loose",
+  "leftover": 0.001,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Grey - White Pants/004557714977_7095_n022_grey_white-pants_r136_01-front.jpg": {
+  "frac": 0.791,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Grey - White Pants/004557714977_7095_n022_grey_white-pants_r136_02-three-quarter.jpg": {
+  "frac": 0.636,
+  "mode": "loose",
+  "leftover": 0.0006,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Grey - White Pants/004557714977_7095_n022_grey_white-pants_r136_03-back.jpg": {
+  "frac": 0.829,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Grey - White Pants/004557714977_7095_n022_grey_white-pants_r136_04-editorial-front.jpg": {
+  "frac": 0.53,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Purple - White Pants/004557714977_7095_n022_purple_white-pants_r134_01-front.jpg": {
+  "frac": 0.788,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Purple - White Pants/004557714977_7095_n022_purple_white-pants_r134_02-three-quarter.jpg": {
+  "frac": 0.804,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Purple - White Pants/004557714977_7095_n022_purple_white-pants_r134_03-back.jpg": {
+  "frac": 0.83,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Purple - White Pants/004557714977_7095_n022_purple_white-pants_r134_04-editorial-front.jpg": {
+  "frac": 0.682,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Taupe - Black Pants/004557714977_7095_n022_taupe_black-pants_r137_01-front.jpg": {
+  "frac": 0.746,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Taupe - Black Pants/004557714977_7095_n022_taupe_black-pants_r137_02-three-quarter.jpg": {
+  "frac": 0.746,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Taupe - Black Pants/004557714977_7095_n022_taupe_black-pants_r137_03-back.jpg": {
+  "frac": 0.744,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Taupe - Black Pants/004557714977_7095_n022_taupe_black-pants_r137_04-editorial-front.jpg": {
+  "frac": 0.478,
+  "mode": "loose",
+  "leftover": 0.0008,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Yellow - White Pants/004557714977_7095_n022_yellow_white-pants_r135_01-front.jpg": {
+  "frac": 0.763,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Yellow - White Pants/004557714977_7095_n022_yellow_white-pants_r135_02-three-quarter.jpg": {
+  "frac": 0.819,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Yellow - White Pants/004557714977_7095_n022_yellow_white-pants_r135_03-back.jpg": {
+  "frac": 0.83,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7095 + BOTTOM N022/Yellow - White Pants/004557714977_7095_n022_yellow_white-pants_r135_04-editorial-front.jpg": {
+  "frac": 0.73,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Black/004557715738_7096_n022022-as-in-folder-name_black_r141_01-front.jpg": {
+  "frac": 0.732,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Black/004557715738_7096_n022022-as-in-folder-name_black_r141_02-three-quarter.jpg": {
+  "frac": 0.758,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Black/004557715738_7096_n022022-as-in-folder-name_black_r141_03-back.jpg": {
+  "frac": 0.723,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Black/004557715738_7096_n022022-as-in-folder-name_black_r141_04-editorial-front.jpg": {
+  "frac": 0.614,
+  "mode": "loose",
+  "leftover": 0.0007,
+  "ok": true
+ },
+ "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Blush beige - Grey jeans/004557715738_7096_n022022-as-in-folder-name_blush-beige_grey-jeans_r142_01-front.jpg": {
+  "frac": 0.729,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Blush beige - Grey jeans/004557715738_7096_n022022-as-in-folder-name_blush-beige_grey-jeans_r142_02-three-quarter.jpg": {
+  "frac": 0.752,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Blush beige - Grey jeans/004557715738_7096_n022022-as-in-folder-name_blush-beige_grey-jeans_r142_03-back.jpg": {
+  "frac": 0.565,
+  "mode": "loose",
+  "leftover": 0.0022,
+  "ok": true
+ },
+ "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Blush beige - Grey jeans/004557715738_7096_n022022-as-in-folder-name_blush-beige_grey-jeans_r142_04-editorial-front.jpg": {
+  "frac": 0.589,
+  "mode": "loose",
+  "leftover": 0.0017,
+  "ok": true
+ },
+ "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Cream / ivory/004557715738_7096_n022022-as-in-folder-name_cream-ivory_r139_01-front.jpg": {
+  "frac": 0.731,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Cream / ivory/004557715738_7096_n022022-as-in-folder-name_cream-ivory_r139_02-three-quarter.jpg": {
+  "frac": 0.732,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Cream / ivory/004557715738_7096_n022022-as-in-folder-name_cream-ivory_r139_03-back.jpg": {
+  "frac": 0.723,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Cream / ivory/004557715738_7096_n022022-as-in-folder-name_cream-ivory_r139_04-editorial-front.jpg": {
+  "frac": 0.666,
+  "mode": "loose",
+  "leftover": 0.0026,
+  "ok": true
+ },
+ "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Pink - White Jeans/004557715738_7096_n022022-as-in-folder-name_pink_white-jeans_r140_01-front.jpg": {
+  "frac": 0.803,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Pink - White Jeans/004557715738_7096_n022022-as-in-folder-name_pink_white-jeans_r140_02-three-quarter.jpg": {
+  "frac": 0.813,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Pink - White Jeans/004557715738_7096_n022022-as-in-folder-name_pink_white-jeans_r140_03-back.jpg": {
+  "frac": 0.638,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Pink - White Jeans/004557715738_7096_n022022-as-in-folder-name_pink_white-jeans_r140_04-editorial-front.jpg": {
+  "frac": 0.602,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7097 + BOTTOM N023/Beige / stone/004557715820_7097_n023_beige-stone_r145_01-front.jpg": {
+  "frac": 0.747,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7097 + BOTTOM N023/Beige / stone/004557715820_7097_n023_beige-stone_r145_02-three-quarter.jpg": {
+  "frac": 0.771,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7097 + BOTTOM N023/Beige / stone/004557715820_7097_n023_beige-stone_r145_03-back.jpg": {
+  "frac": 0.741,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7097 + BOTTOM N023/Beige / stone/004557715820_7097_n023_beige-stone_r145_04-editorial-front.jpg": {
+  "frac": 0.527,
+  "mode": "loose",
+  "leftover": 0.0023,
+  "ok": true
+ },
+ "output/On-Model/TOP 7097 + BOTTOM N023/Black/004557715820_7097_n023_black_r143_01-front.jpg": {
+  "frac": 0.741,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7097 + BOTTOM N023/Black/004557715820_7097_n023_black_r143_02-three-quarter.jpg": {
+  "frac": 0.764,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7097 + BOTTOM N023/Black/004557715820_7097_n023_black_r143_03-back.jpg": {
+  "frac": 0.739,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7097 + BOTTOM N023/Black/004557715820_7097_n023_black_r143_04-editorial-front.jpg": {
+  "frac": 0.578,
+  "mode": "loose",
+  "leftover": 0.002,
+  "ok": true
+ },
+ "output/On-Model/TOP 7097 + BOTTOM N023/Burgundy - White Jeans/004557715820_7097_n023_burgundy_white-jeans_r144_01-front.jpg": {
+  "frac": 0.773,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7097 + BOTTOM N023/Burgundy - White Jeans/004557715820_7097_n023_burgundy_white-jeans_r144_02-three-quarter.jpg": {
+  "frac": 0.631,
+  "mode": "strict",
+  "leftover": 0.0211,
+  "ok": false
+ },
+ "output/On-Model/TOP 7097 + BOTTOM N023/Burgundy - White Jeans/004557715820_7097_n023_burgundy_white-jeans_r144_03-back.jpg": {
+  "frac": 0.607,
+  "mode": "strict",
+  "leftover": 0.0175,
+  "ok": false
+ },
+ "output/On-Model/TOP 7097 + BOTTOM N023/Burgundy - White Jeans/004557715820_7097_n023_burgundy_white-jeans_r144_04-editorial-front.jpg": {
+  "frac": 0.604,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7097 + BOTTOM N023/Camel brown - White Jeans/004557715820_7097_n023_camel-brown_white-jeans_r146_01-front.jpg": {
+  "frac": 0.595,
+  "mode": "strict",
+  "leftover": 0.0267,
+  "ok": false
+ },
+ "output/On-Model/TOP 7097 + BOTTOM N023/Camel brown - White Jeans/004557715820_7097_n023_camel-brown_white-jeans_r146_02-three-quarter.jpg": {
+  "frac": 0.624,
+  "mode": "strict",
+  "leftover": 0.0233,
+  "ok": false
+ },
+ "output/On-Model/TOP 7097 + BOTTOM N023/Camel brown - White Jeans/004557715820_7097_n023_camel-brown_white-jeans_r146_03-back.jpg": {
+  "frac": 0.55,
+  "mode": "loose",
+  "leftover": 0.0026,
+  "ok": true
+ },
+ "output/On-Model/TOP 7097 + BOTTOM N023/Camel brown - White Jeans/004557715820_7097_n023_camel-brown_white-jeans_r146_04-editorial-front.jpg": {
+  "frac": 0.644,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7097 + BOTTOM N023/Dark brown/004557715820_7097_n023_dark-brown_r147_01-front.jpg": {
+  "frac": 0.758,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7097 + BOTTOM N023/Dark brown/004557715820_7097_n023_dark-brown_r147_02-three-quarter.jpg": {
+  "frac": 0.77,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7097 + BOTTOM N023/Dark brown/004557715820_7097_n023_dark-brown_r147_03-back.jpg": {
+  "frac": 0.742,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP 7097 + BOTTOM N023/Dark brown/004557715820_7097_n023_dark-brown_r147_04-editorial-front.jpg": {
+  "frac": 0.615,
+  "mode": "loose",
+  "leftover": 0.001,
+  "ok": true
+ },
+ "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Chocolate brown - White /Black Pants/000676478837_bxx-7039_bxx-1384_chocolate-brown_white-black-pants_r149_01-front.jpg": {
+  "frac": 0.739,
+  "mode": "loose",
+  "leftover": 0.0001,
+  "ok": true
+ },
+ "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Chocolate brown - White /Black Pants/000676478837_bxx-7039_bxx-1384_chocolate-brown_white-black-pants_r149_02-three-quarter.jpg": {
+  "frac": 0.739,
+  "mode": "loose",
+  "leftover": 0.0003,
+  "ok": true
+ },
+ "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Chocolate brown - White /Black Pants/000676478837_bxx-7039_bxx-1384_chocolate-brown_white-black-pants_r149_03-back.jpg": {
+  "frac": 0.739,
+  "mode": "loose",
+  "leftover": 0.0003,
+  "ok": true
+ },
+ "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Chocolate brown - White /Black Pants/000676478837_bxx-7039_bxx-1384_chocolate-brown_white-black-pants_r149_04-editorial-front.jpg": {
+  "frac": 0.62,
+  "mode": "loose",
+  "leftover": 0.0011,
+  "ok": true
+ },
+ "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Cream - Blue/Black/Pink/Brown/Beige Pants/000676478837_bxx-7039_bxx-1384_cream_blue-black-pink-brown-beige-pants_r148_01-front.jpg": {
+  "frac": 0.731,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Cream - Blue/Black/Pink/Brown/Beige Pants/000676478837_bxx-7039_bxx-1384_cream_blue-black-pink-brown-beige-pants_r148_02-three-quarter.jpg": {
+  "frac": 0.594,
+  "mode": "loose",
+  "leftover": 0.0024,
+  "ok": true
+ },
+ "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Cream - Blue/Black/Pink/Brown/Beige Pants/000676478837_bxx-7039_bxx-1384_cream_blue-black-pink-brown-beige-pants_r148_03-back.jpg": {
+  "frac": 0.743,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Cream - Blue/Black/Pink/Brown/Beige Pants/000676478837_bxx-7039_bxx-1384_cream_blue-black-pink-brown-beige-pants_r148_04-editorial-front.jpg": {
+  "frac": 0.534,
+  "mode": "loose",
+  "leftover": 0.002,
+  "ok": true
+ },
+ "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Kiwi green - White Pants/000676478837_bxx-7039_bxx-1384_kiwi-green_white-pants_r150_01-front.jpg": {
+  "frac": 0.829,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Kiwi green - White Pants/000676478837_bxx-7039_bxx-1384_kiwi-green_white-pants_r150_02-three-quarter.jpg": {
+  "frac": 0.653,
+  "mode": "strict",
+  "leftover": 0.0065,
+  "ok": true
+ },
+ "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Kiwi green - White Pants/000676478837_bxx-7039_bxx-1384_kiwi-green_white-pants_r150_03-back.jpg": {
+  "frac": 0.747,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Kiwi green - White Pants/000676478837_bxx-7039_bxx-1384_kiwi-green_white-pants_r150_04-editorial-front.jpg": {
+  "frac": 0.723,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Turquoise - White Pants/000676478837_bxx-7039_bxx-1384_turquoise_white-pants_r151_01-front.jpg": {
+  "frac": 0.753,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Turquoise - White Pants/000676478837_bxx-7039_bxx-1384_turquoise_white-pants_r151_02-three-quarter.jpg": {
+  "frac": 0.74,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Turquoise - White Pants/000676478837_bxx-7039_bxx-1384_turquoise_white-pants_r151_03-back.jpg": {
+  "frac": 0.75,
+  "mode": "loose",
+  "leftover": 0.0,
+  "ok": true
+ },
+ "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Turquoise - White Pants/000676478837_bxx-7039_bxx-1384_turquoise_white-pants_r151_04-editorial-front.jpg": {
+  "frac": 0.649,
+  "mode": "loose",
+  "leftover": 0.0002,
+  "ok": true
+ }
+}
