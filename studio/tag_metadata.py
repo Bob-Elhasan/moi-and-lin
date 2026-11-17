@@ -14,9 +14,11 @@ RIGHTS = f"(c) 2026 {BRAND}, HRB 21811, Amtsgericht Moenchengladbach. All rights
 
 def tag(path: Path):
     ghost = path.name.startswith("ghost_")
-    src = "trainedAlgorithmicMedia" if ghost else "compositeWithTrainedAlgorithmicMedia"
+    editorial = "_editorial-" in path.name
+    src = "trainedAlgorithmicMedia" if (ghost or editorial) else "compositeWithTrainedAlgorithmicMedia"
     desc = ("AI-generated ghost mannequin product image derived from a real studio photograph."
-            if ghost else "Real studio photograph, retouched and recolored with generative AI (Nano Banana Pro).")
+            if ghost else "AI-generated editorial pose of a real model, derived from a licensed studio photograph."
+            if editorial else "Real studio photograph, retouched and recolored with generative AI (Nano Banana Pro).")
     subprocess.run(["exiftool", "-q", "-overwrite_original",
         f"-XMP-iptcExt:DigitalSourceType={BASE}{src}",
         f"-XMP-dc:Description={desc}", f"-IPTC:Caption-Abstract={desc}", f"-EXIF:ImageDescription={desc}",
