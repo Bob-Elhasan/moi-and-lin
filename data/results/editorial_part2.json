@@ -611,6 +611,16 @@
   },
   {
     "row": 79,
+    "shot": "04-editorial-front",
+    "pose": "F02",
+    "folder": "On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Black",
+    "file": "004557711105_5004_2500b-off-white_black_r079_04-editorial-front.jpg",
+    "generation_id": "39BOMGXUWfftsOTX6dSY",
+    "status": "completed",
+    "error": null
+  },
+  {
+    "row": 79,
     "shot": "05-editorial-back",
     "pose": "B04",
     "folder": "On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Black",
@@ -618,6 +628,16 @@
     "generation_id": null,
     "status": "not_run",
     "error": "held: 2-ref cost"
+  },
+  {
+    "row": 80,
+    "shot": "04-editorial-front",
+    "pose": "F04",
+    "folder": "On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Grey",
+    "file": "004557711181_5005_n022-off-white_grey_r080_04-editorial-front.jpg",
+    "generation_id": "VLLg9OOLdCob5rcqeBQD",
+    "status": "completed",
+    "error": null
   },
   {
     "row": 80,
@@ -631,6 +651,16 @@
   },
   {
     "row": 81,
+    "shot": "04-editorial-front",
+    "pose": "F05",
+    "folder": "On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Chocolate brown",
+    "file": "004557711181_5005_n022-off-white_chocolate-brown_r081_04-editorial-front.jpg",
+    "generation_id": "ULRvxX9YaZQAMwgX1nAP",
+    "status": "completed",
+    "error": null
+  },
+  {
+    "row": 81,
     "shot": "05-editorial-back",
     "pose": "B02",
     "folder": "On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Chocolate brown",
@@ -638,6 +668,16 @@
     "generation_id": null,
     "status": "not_run",
     "error": "held: 2-ref cost"
+  },
+  {
+    "row": 82,
+    "shot": "04-editorial-front",
+    "pose": "F06",
+    "folder": "On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Navy",
+    "file": "004557711181_5005_n022-off-white_navy_r082_04-editorial-front.jpg",
+    "generation_id": "PxV6VbGoNu9Fj3mNkhny",
+    "status": "completed",
+    "error": null
   },
   {
     "row": 82,
