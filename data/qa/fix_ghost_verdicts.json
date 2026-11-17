@@ -1,0 +1,41 @@
+{
+ "accepted": [
+  "bottom_126-439_white-pants",
+  "bottom_126-451b_original",
+  "bottom_2400b_white-pants",
+  "bottom_2500b-off-white_grey-pants",
+  "bottom_2500b_grey-beige-jeans",
+  "bottom_2500b_grey-jeans",
+  "bottom_2500b_grey-pants",
+  "bottom_601-black_original",
+  "bottom_601-black_white-jeans-or-sweatpants",
+  "bottom_601_black-pants",
+  "bottom_n022-off-white_white-grey-black-pants",
+  "bottom_n022022-as-in-folder-name_grey-jeans",
+  "bottom_n022022-as-in-folder-name_original",
+  "bottom_n022022-as-in-folder-name_white-jeans",
+  "bottom_nc024_original",
+  "top_125-7071_black",
+  "top_126-451a_grey",
+  "top_126-451a_slate-blue",
+  "top_126-451a_white-with-dots",
+  "top_126-474_olive-green-leaf-print",
+  "top_21008_mauve",
+  "top_5004_burgundy",
+  "top_5004_lavender-grey",
+  "top_5006_charcoal-grey",
+  "top_604_camel",
+  "top_604_cream",
+  "top_7094_cream",
+  "top_7094_grey",
+  "top_7095_blush-peach",
+  "top_7097_camel-brown",
+  "top_bxx-7039_kiwi-green"
+ ],
+ "rejected": [
+  "bottom_bxx-1384_white-black-pants",
+  "bottom_n023_white-beige-black",
+  "top_2505_white-cream",
+  "top_5004_dusty-mauve-sleeveless-over-white-shirt"
+ ]
+}

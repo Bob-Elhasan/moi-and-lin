@@ -1,0 +1,226 @@
+[
+ {
+  "fix": 4,
+  "row": 16,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "NEW is a front view, not a back view (slot 03 must be back); looks like a copy of the REF front shot"
+ },
+ {
+  "fix": 5,
+  "row": 19,
+  "slot": "01",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 6,
+  "row": 19,
+  "slot": "02",
+  "verdict": "REJECT",
+  "reason": "NEW is a straight front view, not three-quarter; looks identical to the REF front shot"
+ },
+ {
+  "fix": 7,
+  "row": 21,
+  "slot": "02",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 12,
+  "row": 38,
+  "slot": "01",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 13,
+  "row": 39,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "NEW is a front view, not a back view (slot 03 must be back); looks like a copy of the REF front shot"
+ },
+ {
+  "fix": 14,
+  "row": 42,
+  "slot": "01",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 15,
+  "row": 42,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "NEW is a front view, not a back view (slot 03 must be back); looks like a copy of the REF front shot"
+ },
+ {
+  "fix": 20,
+  "row": 56,
+  "slot": "03",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 21,
+  "row": 65,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "NEW is a front view, not a back view (slot 03 must be back); looks like a copy of the REF front shot"
+ },
+ {
+  "fix": 22,
+  "row": 69,
+  "slot": "02",
+  "verdict": "ACCEPT",
+  "reason": "note: REF 'front' for this row is itself a three-quarter shot; NEW matches it"
+ },
+ {
+  "fix": 23,
+  "row": 71,
+  "slot": "01",
+  "verdict": "REJECT",
+  "reason": "NEW is a three-quarter/side-turned view, not a front view as slot 01 requires (OLD was front); jeans also look more tapered than OLD"
+ },
+ {
+  "fix": 28,
+  "row": 79,
+  "slot": "02",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 29,
+  "row": 84,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "NEW is a three-quarter/side view with face visible, not a back view"
+ },
+ {
+  "fix": 30,
+  "row": 87,
+  "slot": "01",
+  "verdict": "REJECT",
+  "reason": "eye area still looks dark/shadowed in NEW (only slightly lighter than OLD); original MAKEUP defect not clearly gone - low-res sheet, confirm at full size"
+ },
+ {
+  "fix": 31,
+  "row": 88,
+  "slot": "01",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 36,
+  "row": 98,
+  "slot": "02",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 37,
+  "row": 99,
+  "slot": "02",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 38,
+  "row": 100,
+  "slot": "02",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 39,
+  "row": 101,
+  "slot": "03",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 44,
+  "row": 108,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "NEW is a front view, not a back view (slot 03 must be back); straight front shot"
+ },
+ {
+  "fix": 45,
+  "row": 109,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "NEW is a front view, not a back view (slot 03 must be back); looks like a copy of the REF front shot"
+ },
+ {
+  "fix": 46,
+  "row": 111,
+  "slot": "03",
+  "verdict": "ACCEPT",
+  "reason": "note: back hem is curved and sits lower than the straight hem in REF front; same as OLD, plausible back design"
+ },
+ {
+  "fix": 47,
+  "row": 113,
+  "slot": "03",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 52,
+  "row": 126,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "NEW is a front view, not a back view (slot 03 must be back); looks like a copy of the REF front shot"
+ },
+ {
+  "fix": 53,
+  "row": 128,
+  "slot": "01",
+  "verdict": "REJECT",
+  "reason": "top is taupe/greige, not Cream; same color as OLD, so the COLOR_MISMATCH defect is still present"
+ },
+ {
+  "fix": 54,
+  "row": 132,
+  "slot": "01",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 55,
+  "row": 132,
+  "slot": "02",
+  "verdict": "REJECT",
+  "reason": "NEW is a straight front view, not three-quarter; looks identical to the REF front shot"
+ },
+ {
+  "fix": 60,
+  "row": 138,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "NEW is a front view, not a back view (slot 03 must be back); looks like a copy of the REF front shot"
+ },
+ {
+  "fix": 61,
+  "row": 141,
+  "slot": "01",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 62,
+  "row": 146,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "NEW is a three-quarter front view with face visible, not a back view"
+ },
+ {
+  "fix": 63,
+  "row": 148,
+  "slot": "02",
+  "verdict": "REJECT",
+  "reason": "NEW is a straight front view, not three-quarter; shirt shows a visible button row and shorter length vs concealed placket/long tail in OLD and REF; REF here is a back shot so identity cannot be confirmed"
+ }
+]
