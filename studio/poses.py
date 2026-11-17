@@ -54,10 +54,14 @@ def assign(rows):
 COMMON = ("Use the reference photo as the exact source for the woman and the outfit: same face, eyes, natural makeup, "
           "hair, skin tone, and every garment and the shoes exactly as in the reference (same colors, fabric, texture, "
           "seams, buttons, length and fit). Do not add or remove any garment or accessory. ")
-TAIL = (" Full body head to toe, 2:3 vertical. Pure white seamless studio background, soft diffused light, gentle floor "
-        "shadow, 85mm lens. Real skin texture, natural matte makeup. Looks like a real photograph from a premium brand "
-        "catalog, not AI.")
+TAIL = (" Natural, effortless body language, a candid moment rather than a stiff pose. Pure white seamless studio "
+        "background (#FFFFFF), soft natural window-like light, subtle gentle shadows, true-to-life colors, 85mm lens. "
+        "Real skin texture with pores, natural minimal makeup, no retouched or glossy look. Looks like an authentic "
+        "candid photo from a premium brand lookbook, not AI.")
 
 def prompt(pose, side):
-    view = "front-facing" if side == "front" else "showing the back and side of the outfit"
-    return COMMON + f"New lively, fashionable e-commerce pose, {view}: {pose[1]}." + TAIL
+    frame = ("Close editorial framing from just above the head to the hips, the top filling most of the frame, camera at "
+             "chest height, natural slightly off-center composition. Front-facing pose: " if side == "front" else
+             "Close editorial framing from just above the head to the hips, the back and side of the top filling most of "
+             "the frame, camera at shoulder height, showing back details (yoke, seams, hood, belt) clearly. Pose: ")
+    return COMMON + frame + pose[1] + "." + TAIL
