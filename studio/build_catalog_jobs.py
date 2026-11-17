@@ -11,8 +11,13 @@ from studio.generate import footwear_prompt
 
 def slug(s): return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
 
-NATURAL = ("Real skin texture with pores, natural matte makeup (no shine, no highlighter, no contouring), no smoothing, "
-           "no plastic look. Pure white background, same soft studio light. Indistinguishable from an untouched real photograph.")
+BEAUTY = ("MAKEUP: remove any dark or smoky eye makeup completely: no dark eyeshadow, no black eyeliner, no smudged liner under "
+          "the eyes, no dark circles. Clean 'no-makeup' fashion-model look: bare-looking soft eyelids in a light neutral tone, a touch "
+          "of soft brown mascara, natural groomed brows, fresh nude-pink lips, light natural blush. No shine, no highlighter, no contouring. "
+          "SKIN: smoother, even, luminous but matte, softened under-eye area, fine natural skin texture kept (no plastic, no blur). "
+          "Hair neat and glossy. ")
+NATURAL = (BEAUTY + "Pure white background, same soft studio light. Looks like a real photo from a premium brand catalog "
+           "(COS, Massimo Dutti), indistinguishable from an untouched real photograph.")
 
 def front_prompt(m, outfit):
     return ("Light professional retouch of this real fashion e-commerce photo, like a high-end retoucher would do. "
