@@ -1,0 +1,254 @@
+[
+ {
+  "fix": 0,
+  "row": 3,
+  "slot": "03",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 1,
+  "row": 9,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "NEW is a front view (same as REF), not the back view of OLD; angle not kept"
+ },
+ {
+  "fix": 2,
+  "row": 15,
+  "slot": "02",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 3,
+  "row": 15,
+  "slot": "03",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 8,
+  "row": 22,
+  "slot": "02",
+  "verdict": "REJECT",
+  "reason": "shoes fixed to flats, but NEW is a straight front view, OLD was three-quarter; angle not kept"
+ },
+ {
+  "fix": 9,
+  "row": 26,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "NEW is a three-quarter front view, OLD was back; angle not kept (color is fixed)"
+ },
+ {
+  "fix": 10,
+  "row": 35,
+  "slot": "02",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 11,
+  "row": 37,
+  "slot": "03",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 16,
+  "row": 42,
+  "slot": "04",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 17,
+  "row": 45,
+  "slot": "01",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 18,
+  "row": 46,
+  "slot": "03",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 19,
+  "row": 55,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "color fixed, but cardigan is still long (mid-thigh) with shawl-like collar; REF is hip-length; garment mismatch still present"
+ },
+ {
+  "fix": 24,
+  "row": 72,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "NEW is a front view, OLD was back; angle not kept"
+ },
+ {
+  "fix": 25,
+  "row": 73,
+  "slot": "03",
+  "verdict": "ACCEPT",
+  "reason": "note: OLD and NEW are both front views although slot is 03"
+ },
+ {
+  "fix": 26,
+  "row": 74,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "NEW is a front view, OLD was back; angle not kept"
+ },
+ {
+  "fix": 27,
+  "row": 76,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "NEW is a front view, OLD was back; angle not kept (garment itself now matches)"
+ },
+ {
+  "fix": 32,
+  "row": 88,
+  "slot": "02",
+  "verdict": "REJECT",
+  "reason": "color fixed, but NEW is a back view, OLD was three-quarter; angle not kept"
+ },
+ {
+  "fix": 33,
+  "row": 89,
+  "slot": "04",
+  "verdict": "ACCEPT",
+  "reason": "note: only 1 hem button visible vs 3 in REF, others may be hidden by the arm"
+ },
+ {
+  "fix": 34,
+  "row": 90,
+  "slot": "03",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 35,
+  "row": 90,
+  "slot": "05",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 40,
+  "row": 102,
+  "slot": "01",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 41,
+  "row": 105,
+  "slot": "01",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 42,
+  "row": 105,
+  "slot": "02",
+  "verdict": "REJECT",
+  "reason": "garment fixed, but NEW is a full back view, OLD was three-quarter front; angle not kept"
+ },
+ {
+  "fix": 43,
+  "row": 107,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "NEW is a front view, OLD was back; angle not kept"
+ },
+ {
+  "fix": 48,
+  "row": 115,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "colors fixed, but NEW is a front view (same as REF), OLD was back; angle not kept"
+ },
+ {
+  "fix": 49,
+  "row": 116,
+  "slot": "04",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 50,
+  "row": 121,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "NEW is a front view (same as REF), OLD was back; angle not kept"
+ },
+ {
+  "fix": 51,
+  "row": 121,
+  "slot": "05",
+  "verdict": "REJECT",
+  "reason": "jacket has a hood and back storm flap not present in REF (lapel collar, no hood); garment design differs"
+ },
+ {
+  "fix": 56,
+  "row": 133,
+  "slot": "01",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 57,
+  "row": 133,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "single person and color fixed, but NEW is a front view (same as REF), OLD was back; angle not kept"
+ },
+ {
+  "fix": 58,
+  "row": 135,
+  "slot": "01",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 59,
+  "row": 137,
+  "slot": "01",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 64,
+  "row": 148,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "pants color fixed, but NEW is a three-quarter/side front view, OLD was back; angle not kept"
+ },
+ {
+  "fix": 65,
+  "row": 150,
+  "slot": "03",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 66,
+  "row": 151,
+  "slot": "02",
+  "verdict": "ACCEPT",
+  "reason": ""
+ },
+ {
+  "fix": 67,
+  "row": 151,
+  "slot": "03",
+  "verdict": "REJECT",
+  "reason": "colors, shoes, identity fixed, but NEW is a front view, OLD was back; angle not kept (near-duplicate of slot 02 NEW)"
+ }
+]
