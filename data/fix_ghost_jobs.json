@@ -1,0 +1,387 @@
+[
+ {
+  "key": "bottom_126-439_white-pants",
+  "kind": "bottom",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160823_85e73e61-ead6-46b9-9291-294e4cd7d843.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161421_40c04fe0-58ff-44a3-915a-29e711e5176c.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the bottom garment (trousers/jeans) (product 126-439) worn by the woman in the reference photos, in the color: White Pants. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/BOTTOM 126-439/White Pants/ghost_bottom_126-439_white-pants_front.jpg",
+  "out_back": "output/Ghost Mannequin/BOTTOM 126-439/White Pants/ghost_bottom_126-439_white-pants_back.jpg"
+ },
+ {
+  "key": "bottom_126-451b_original",
+  "kind": "bottom",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160928_07de6e2b-6ff6-4abb-8942-05f28a46bd97.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161736_cdef9523-3b2a-427e-8a7c-258c352cb2f9.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the bottom garment (trousers/jeans) (product 126-451B) worn by the woman in the reference photos, in the color: its original color as worn in image 1. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/BOTTOM 126-451B/Original/ghost_bottom_126-451b_original_front.jpg",
+  "out_back": "output/Ghost Mannequin/BOTTOM 126-451B/Original/ghost_bottom_126-451b_original_back.jpg"
+ },
+ {
+  "key": "bottom_2400b_white-pants",
+  "kind": "bottom",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161635_a02e8dca-3f94-4d85-bd62-49f80c8bf484.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162118_2abb4f0f-6a4d-4296-b3f7-5cde9785d848.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the bottom garment (trousers/jeans) (product 2400B) worn by the woman in the reference photos, in the color: White Pants. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/BOTTOM 2400B/White Pants/ghost_bottom_2400b_white-pants_front.jpg",
+  "out_back": "output/Ghost Mannequin/BOTTOM 2400B/White Pants/ghost_bottom_2400b_white-pants_back.jpg"
+ },
+ {
+  "key": "bottom_2500b-off-white_grey-pants",
+  "kind": "bottom",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160932_19fa0217-8d30-4773-93ac-c6e0e8f7fad1.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161452_e1ed71ea-e939-4f15-a45f-e360b143ebfb.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the bottom garment (trousers/jeans) (product 2500B OFF WHITE) worn by the woman in the reference photos, in the color: Grey Pants. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/BOTTOM 2500B OFF WHITE/Grey Pants/ghost_bottom_2500b-off-white_grey-pants_front.jpg",
+  "out_back": "output/Ghost Mannequin/BOTTOM 2500B OFF WHITE/Grey Pants/ghost_bottom_2500b-off-white_grey-pants_back.jpg"
+ },
+ {
+  "key": "bottom_2500b_grey-beige-jeans",
+  "kind": "bottom",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161947_f1db735e-4586-44f7-8eee-b5acaecbaee6.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162414_fe79a348-d25b-4769-acfb-c7834177937f.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the bottom garment (trousers/jeans) (product 2500B) worn by the woman in the reference photos, in the color: Grey/Beige Jeans. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/BOTTOM 2500B/Grey/Beige Jeans/ghost_bottom_2500b_grey-beige-jeans_front.jpg",
+  "out_back": "output/Ghost Mannequin/BOTTOM 2500B/Grey/Beige Jeans/ghost_bottom_2500b_grey-beige-jeans_back.jpg"
+ },
+ {
+  "key": "bottom_2500b_grey-jeans",
+  "kind": "bottom",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160823_6b185885-ae48-4d73-a21f-f7a47034846c.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161325_7cfdd5fc-21c3-4e89-8971-c68db6a47232.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the bottom garment (trousers/jeans) (product 2500B) worn by the woman in the reference photos, in the color: Grey Jeans. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/BOTTOM 2500B/Grey Jeans/ghost_bottom_2500b_grey-jeans_front.jpg",
+  "out_back": "output/Ghost Mannequin/BOTTOM 2500B/Grey Jeans/ghost_bottom_2500b_grey-jeans_back.jpg"
+ },
+ {
+  "key": "bottom_2500b_grey-pants",
+  "kind": "bottom",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161635_6ce2acb4-e150-4fc5-b404-08229031f002.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162248_2976fb57-9f33-460e-8095-1645c8c6b242.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the bottom garment (trousers/jeans) (product 2500B) worn by the woman in the reference photos, in the color: Grey Pants. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/BOTTOM 2500B/Grey Pants/ghost_bottom_2500b_grey-pants_front.jpg",
+  "out_back": "output/Ghost Mannequin/BOTTOM 2500B/Grey Pants/ghost_bottom_2500b_grey-pants_back.jpg"
+ },
+ {
+  "key": "bottom_601-black_original",
+  "kind": "bottom",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160826_c9285ef7-4a25-49c9-96b1-9b0d5b092f15.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161121_246b49f0-7d27-4d9d-8aa7-ee074446a1da.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the bottom garment (trousers/jeans) (product 601 BLACK) worn by the woman in the reference photos, in the color: its original color as worn in image 1. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/BOTTOM 601 BLACK/Original/ghost_bottom_601-black_original_front.jpg",
+  "out_back": "output/Ghost Mannequin/BOTTOM 601 BLACK/Original/ghost_bottom_601-black_original_back.jpg"
+ },
+ {
+  "key": "bottom_601-black_white-jeans-or-sweatpants",
+  "kind": "bottom",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161947_d9c88adf-c01a-441f-83d6-0fa65fd06a8a.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162518_e337c878-8138-4084-a082-6b6368d5f9db.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the bottom garment (trousers/jeans) (product 601 BLACK) worn by the woman in the reference photos, in the color: White Jeans or sweatpants. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/BOTTOM 601 BLACK/White Jeans or sweatpants/ghost_bottom_601-black_white-jeans-or-sweatpants_front.jpg",
+  "out_back": "output/Ghost Mannequin/BOTTOM 601 BLACK/White Jeans or sweatpants/ghost_bottom_601-black_white-jeans-or-sweatpants_back.jpg"
+ },
+ {
+  "key": "bottom_601_black-pants",
+  "kind": "bottom",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162803_991b0eea-46ac-4cf5-af6f-0d3ea8db99b3.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_163008_b6e1bcb9-1213-4a11-999a-a4c1200646b1.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the bottom garment (trousers/jeans) (product 601) worn by the woman in the reference photos, in the color: Black Pants. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/BOTTOM 601/Black Pants/ghost_bottom_601_black-pants_front.jpg",
+  "out_back": "output/Ghost Mannequin/BOTTOM 601/Black Pants/ghost_bottom_601_black-pants_back.jpg"
+ },
+ {
+  "key": "bottom_bxx-1384_white-black-pants",
+  "kind": "bottom",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161920_364daff9-510e-40e9-904c-389b8085c26a.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162451_b8fc836f-b5d8-48a4-ad9f-8dfef5f65dcd.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the bottom garment (trousers/jeans) (product BXX-1384) worn by the woman in the reference photos, in the color: White /Black Pants. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/BOTTOM BXX-1384/White /Black Pants/ghost_bottom_bxx-1384_white-black-pants_front.jpg",
+  "out_back": "output/Ghost Mannequin/BOTTOM BXX-1384/White /Black Pants/ghost_bottom_bxx-1384_white-black-pants_back.jpg"
+ },
+ {
+  "key": "bottom_n022-off-white_white-grey-black-pants",
+  "kind": "bottom",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161741_263a8002-f5bc-41e4-af4c-7d51fcc4045d.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162048_2eba8ea0-0aa9-4e41-adf6-567193d18060.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the bottom garment (trousers/jeans) (product N022 OFF WHITE) worn by the woman in the reference photos, in the color: White/Grey/Black Pants. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/BOTTOM N022 OFF WHITE/White/Grey/Black Pants/ghost_bottom_n022-off-white_white-grey-black-pants_front.jpg",
+  "out_back": "output/Ghost Mannequin/BOTTOM N022 OFF WHITE/White/Grey/Black Pants/ghost_bottom_n022-off-white_white-grey-black-pants_back.jpg"
+ },
+ {
+  "key": "bottom_n022022-as-in-folder-name_grey-jeans",
+  "kind": "bottom",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161920_b2eb02ae-95a1-4bc7-bc26-b2483bf03ae5.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162337_0a7f635d-1d39-4d75-af8d-c21b422d4bf7.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the bottom garment (trousers/jeans) (product N022022 (as in folder name)) worn by the woman in the reference photos, in the color: Grey jeans. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/BOTTOM N022022 (as in folder name)/Grey jeans/ghost_bottom_n022022-as-in-folder-name_grey-jeans_front.jpg",
+  "out_back": "output/Ghost Mannequin/BOTTOM N022022 (as in folder name)/Grey jeans/ghost_bottom_n022022-as-in-folder-name_grey-jeans_back.jpg"
+ },
+ {
+  "key": "bottom_n022022-as-in-folder-name_original",
+  "kind": "bottom",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161740_61b97d8b-c64a-41d6-a98b-21a505c99b5b.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162212_03fc94fa-68a5-4c99-a1c4-eba32f6fb4de.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the bottom garment (trousers/jeans) (product N022022 (as in folder name)) worn by the woman in the reference photos, in the color: its original color as worn in image 1. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/BOTTOM N022022 (as in folder name)/Original/ghost_bottom_n022022-as-in-folder-name_original_front.jpg",
+  "out_back": "output/Ghost Mannequin/BOTTOM N022022 (as in folder name)/Original/ghost_bottom_n022022-as-in-folder-name_original_back.jpg"
+ },
+ {
+  "key": "bottom_n022022-as-in-folder-name_white-jeans",
+  "kind": "bottom",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161741_3999c043-6dbb-4558-bb07-3785441e96d4.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162211_a63a9098-61e6-4bf4-8bc6-cae89369f52b.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the bottom garment (trousers/jeans) (product N022022 (as in folder name)) worn by the woman in the reference photos, in the color: White Jeans. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/BOTTOM N022022 (as in folder name)/White Jeans/ghost_bottom_n022022-as-in-folder-name_white-jeans_front.jpg",
+  "out_back": "output/Ghost Mannequin/BOTTOM N022022 (as in folder name)/White Jeans/ghost_bottom_n022022-as-in-folder-name_white-jeans_back.jpg"
+ },
+ {
+  "key": "bottom_n023_white-beige-black",
+  "kind": "bottom",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161947_a4f62803-bfd3-4a5c-87d8-eed9a82d2a92.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162416_08c44189-2ac2-4115-bd4f-555c3c0ebfe3.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the bottom garment (trousers/jeans) (product N023) worn by the woman in the reference photos, in the color: White/Beige/Black. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/BOTTOM N023/White/Beige/Black/ghost_bottom_n023_white-beige-black_front.jpg",
+  "out_back": "output/Ghost Mannequin/BOTTOM N023/White/Beige/Black/ghost_bottom_n023_white-beige-black_back.jpg"
+ },
+ {
+  "key": "bottom_nc024_original",
+  "kind": "bottom",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161252_bc8e823c-ae3a-432e-8904-2b1e59b1ebc3.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162033_e23b60f2-b899-414d-82e4-f2d418422901.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the bottom garment (trousers/jeans) (product NC024) worn by the woman in the reference photos, in the color: its original color as worn in image 1. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/BOTTOM NC024/Original/ghost_bottom_nc024_original_front.jpg",
+  "out_back": "output/Ghost Mannequin/BOTTOM NC024/Original/ghost_bottom_nc024_original_back.jpg"
+ },
+ {
+  "key": "top_125-7071_black",
+  "kind": "top",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160825_02257452-b09a-4f9a-9629-17b14e17b605.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161110_262ae7c5-d32d-4dc6-8765-5ab4d30df959.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the top garment (upper-body piece) (product 125-7071) worn by the woman in the reference photos, in the color: Black. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/TOP 125-7071/Black/ghost_top_125-7071_black_front.jpg",
+  "out_back": "output/Ghost Mannequin/TOP 125-7071/Black/ghost_top_125-7071_black_back.jpg"
+ },
+ {
+  "key": "top_126-451a_grey",
+  "kind": "top",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160928_07de6e2b-6ff6-4abb-8942-05f28a46bd97.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161736_cdef9523-3b2a-427e-8a7c-258c352cb2f9.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the top garment (upper-body piece) (product 126-451A) worn by the woman in the reference photos, in the color: Grey. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/TOP 126-451A/Grey/ghost_top_126-451a_grey_front.jpg",
+  "out_back": "output/Ghost Mannequin/TOP 126-451A/Grey/ghost_top_126-451a_grey_back.jpg"
+ },
+ {
+  "key": "top_126-451a_slate-blue",
+  "kind": "top",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160928_9e8c060f-9d59-45fc-9a2f-6e553d191358.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161738_f829297b-ed62-45d2-93ac-ab178ba43c7d.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the top garment (upper-body piece) (product 126-451A) worn by the woman in the reference photos, in the color: Slate blue. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/TOP 126-451A/Slate blue/ghost_top_126-451a_slate-blue_front.jpg",
+  "out_back": "output/Ghost Mannequin/TOP 126-451A/Slate blue/ghost_top_126-451a_slate-blue_back.jpg"
+ },
+ {
+  "key": "top_126-451a_white-with-dots",
+  "kind": "top",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160928_46086a71-d5bd-426b-bc9f-702c9d764723.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161739_0e9891e3-42cf-430a-89fe-df8d98bdde98.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the top garment (upper-body piece) (product 126-451A) worn by the woman in the reference photos, in the color: White with dots. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/TOP 126-451A/White with dots/ghost_top_126-451a_white-with-dots_front.jpg",
+  "out_back": "output/Ghost Mannequin/TOP 126-451A/White with dots/ghost_top_126-451a_white-with-dots_back.jpg"
+ },
+ {
+  "key": "top_126-474_olive-green-leaf-print",
+  "kind": "top",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160928_17d10cd3-86e4-4618-acaa-b839a5304205.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161904_0cb8c907-078a-4613-adff-aa2d5208a1f8.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the top garment (upper-body piece) (product 126-474) worn by the woman in the reference photos, in the color: Olive green leaf print. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/TOP 126-474/Olive green leaf print/ghost_top_126-474_olive-green-leaf-print_front.jpg",
+  "out_back": "output/Ghost Mannequin/TOP 126-474/Olive green leaf print/ghost_top_126-474_olive-green-leaf-print_back.jpg"
+ },
+ {
+  "key": "top_21008_mauve",
+  "kind": "top",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161550_85e0f3a8-6ebf-452c-94ca-033c9704618a.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162336_eb1fd344-be19-4c6e-b082-081d5e097fad.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the top garment (upper-body piece) (product 21008) worn by the woman in the reference photos, in the color: Mauve. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/TOP 21008/Mauve/ghost_top_21008_mauve_front.jpg",
+  "out_back": "output/Ghost Mannequin/TOP 21008/Mauve/ghost_top_21008_mauve_back.jpg"
+ },
+ {
+  "key": "top_2505_white-cream",
+  "kind": "top",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160824_5693b5d2-5a35-4a26-adcf-2c32da642a9d.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161114_dbac400d-1180-491e-9109-0a528a388c8d.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the top garment (upper-body piece) (product 2505) worn by the woman in the reference photos, in the color: White / cream. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/TOP 2505/White / cream/ghost_top_2505_white-cream_front.jpg",
+  "out_back": "output/Ghost Mannequin/TOP 2505/White / cream/ghost_top_2505_white-cream_back.jpg"
+ },
+ {
+  "key": "top_5004_burgundy",
+  "kind": "top",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160934_fb678fd5-9ee5-4600-b784-45fcb0b3ece3.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161453_66158882-8901-4fb1-967f-baa64896da06.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the top garment (upper-body piece) (product 5004) worn by the woman in the reference photos, in the color: Burgundy. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/TOP 5004/Burgundy/ghost_top_5004_burgundy_front.jpg",
+  "out_back": "output/Ghost Mannequin/TOP 5004/Burgundy/ghost_top_5004_burgundy_back.jpg"
+ },
+ {
+  "key": "top_5004_dusty-mauve-sleeveless-over-white-shirt",
+  "kind": "top",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160931_936bf267-d4bb-407a-ba71-b345e730f815.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161454_cf17438e-84c0-4409-b44c-666d01235021.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the top garment (upper-body piece) (product 5004) worn by the woman in the reference photos, in the color: Dusty mauve (sleeveless, over white shirt). Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/TOP 5004/Dusty mauve (sleeveless, over white shirt)/ghost_top_5004_dusty-mauve-sleeveless-over-white-shirt_front.jpg",
+  "out_back": "output/Ghost Mannequin/TOP 5004/Dusty mauve (sleeveless, over white shirt)/ghost_top_5004_dusty-mauve-sleeveless-over-white-shirt_back.jpg"
+ },
+ {
+  "key": "top_5004_lavender-grey",
+  "kind": "top",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160932_63c33ced-38fb-45d8-b144-25473bfdfc32.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161807_eb7ff374-9152-44bd-b514-e33419cd045a.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the top garment (upper-body piece) (product 5004) worn by the woman in the reference photos, in the color: Lavender grey. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/TOP 5004/Lavender grey/ghost_top_5004_lavender-grey_front.jpg",
+  "out_back": "output/Ghost Mannequin/TOP 5004/Lavender grey/ghost_top_5004_lavender-grey_back.jpg"
+ },
+ {
+  "key": "top_5006_charcoal-grey",
+  "kind": "top",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161636_c7d39eb9-2ad8-429c-bc39-62d5b03e3f4c.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162117_15d6c20a-f16c-4526-a4b9-0879a3f36a1d.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the top garment (upper-body piece) (product 5006) worn by the woman in the reference photos, in the color: Charcoal grey. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/TOP 5006/Charcoal grey/ghost_top_5006_charcoal-grey_front.jpg",
+  "out_back": "output/Ghost Mannequin/TOP 5006/Charcoal grey/ghost_top_5006_charcoal-grey_back.jpg"
+ },
+ {
+  "key": "top_604_camel",
+  "kind": "top",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160827_6345b217-3d5e-4ef4-afa7-6b630db4ce8d.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161302_b0a37bb9-cf91-4329-854d-39379b425f61.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the top garment (upper-body piece) (product 604) worn by the woman in the reference photos, in the color: Camel. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/TOP 604/Camel/ghost_top_604_camel_front.jpg",
+  "out_back": "output/Ghost Mannequin/TOP 604/Camel/ghost_top_604_camel_back.jpg"
+ },
+ {
+  "key": "top_604_cream",
+  "kind": "top",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160828_9491983c-e7ca-4ad3-b5f6-94234d8ff40a.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161303_4e05b5bc-3f76-41fe-8e0e-e50a2d2b88ea.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the top garment (upper-body piece) (product 604) worn by the woman in the reference photos, in the color: Cream. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/TOP 604/Cream/ghost_top_604_cream_front.jpg",
+  "out_back": "output/Ghost Mannequin/TOP 604/Cream/ghost_top_604_cream_back.jpg"
+ },
+ {
+  "key": "top_7094_cream",
+  "kind": "top",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_160935_8fe7731f-ac00-4159-9429-7461dc04799e.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161604_6282b6c6-7640-4d58-bd9a-6fc694bdeb59.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the top garment (upper-body piece) (product 7094) worn by the woman in the reference photos, in the color: Cream. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/TOP 7094/Cream/ghost_top_7094_cream_front.jpg",
+  "out_back": "output/Ghost Mannequin/TOP 7094/Cream/ghost_top_7094_cream_back.jpg"
+ },
+ {
+  "key": "top_7094_grey",
+  "kind": "top",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161740_f99c4c56-8833-4249-9519-33e47920c609.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162048_bed26fcb-66ea-4d9a-88d2-8002f6840ebc.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the top garment (upper-body piece) (product 7094) worn by the woman in the reference photos, in the color: Grey. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/TOP 7094/Grey/ghost_top_7094_grey_front.jpg",
+  "out_back": "output/Ghost Mannequin/TOP 7094/Grey/ghost_top_7094_grey_back.jpg"
+ },
+ {
+  "key": "top_7095_blush-peach",
+  "kind": "top",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161742_41202695-9801-4382-86cb-fc32e34b4af5.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162049_1af3d6d6-eb03-40a1-90cc-5aac0e71e06c.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the top garment (upper-body piece) (product 7095) worn by the woman in the reference photos, in the color: Blush peach. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/TOP 7095/Blush peach/ghost_top_7095_blush-peach_front.jpg",
+  "out_back": "output/Ghost Mannequin/TOP 7095/Blush peach/ghost_top_7095_blush-peach_back.jpg"
+ },
+ {
+  "key": "top_7097_camel-brown",
+  "kind": "top",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161919_ce2cda12-7f9e-4a2e-bed0-6905e9437617.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162336_b32b6c9b-4c46-4ab5-a615-bd75afce6b41.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the top garment (upper-body piece) (product 7097) worn by the woman in the reference photos, in the color: Camel brown. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/TOP 7097/Camel brown/ghost_top_7097_camel-brown_front.jpg",
+  "out_back": "output/Ghost Mannequin/TOP 7097/Camel brown/ghost_top_7097_camel-brown_back.jpg"
+ },
+ {
+  "key": "top_bxx-7039_kiwi-green",
+  "kind": "top",
+  "refs": [
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_161920_3517557f-db00-4ae1-a21b-a2dce05d96f9.png",
+   "https://d8j0ntlcm91z4.cloudfront.net/user_3JmJXZm59FSrQePLbcVUBiDE0uj/hf_20261117_162451_a75b1036-9805-4169-b2ff-7247f5d07c5c.png"
+  ],
+  "prompt": "Create ONE image showing two ghost mannequin (invisible mannequin) product views side by side on a pure white (#FFFFFF) background: LEFT half = FRONT view, RIGHT half = BACK view, of the SAME single garment: ONLY the top garment (upper-body piece) (product BXX-7039) worn by the woman in the reference photos, in the color: Kiwi green. Image 1 shows the garment from the front, image 2 from the back (use image 2 only for back construction details). Both views must be the identical garment: exactly the same color, fabric texture, length, sleeves, collar, pockets, hems and trims; the back view has no front closures. Each view centered in its half with equal size, symmetrical, natural 3D volume as if worn by an invisible body, closures (zips, flies, buttons, waistbands) neatly closed, hoods lying flat. No person, no body parts, no mannequin, no hanger, no other garments, no text. Soft even studio light, subtle shadow. Looks like real product photography, not AI.",
+  "out_front": "output/Ghost Mannequin/TOP BXX-7039/Kiwi green/ghost_top_bxx-7039_kiwi-green_front.jpg",
+  "out_back": "output/Ghost Mannequin/TOP BXX-7039/Kiwi green/ghost_top_bxx-7039_kiwi-green_back.jpg"
+ }
+]

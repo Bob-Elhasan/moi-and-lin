@@ -1,0 +1,776 @@
+[
+ {
+  "row": 3,
+  "slot": "03",
+  "issues": [
+   "ANATOMY"
+  ],
+  "sev": "high",
+  "notes": [
+   "Lower legs/trousers are broken: trouser edges fade out and legs look cut very short above the shoes."
+  ]
+ },
+ {
+  "row": 9,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Jacket is black in the back shot; it is lavender in all other shots."
+  ]
+ },
+ {
+  "row": 15,
+  "slot": "02",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Top is black; caption and 01/04/05 show a white top."
+  ]
+ },
+ {
+  "row": 15,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Top is black; caption and 01/04/05 show a white top."
+  ]
+ },
+ {
+  "row": 16,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Jacket is black polka-dot (same print as trousers) instead of plain grey."
+  ]
+ },
+ {
+  "row": 19,
+  "slot": "01",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Caption says 'White with dots' but the jacket and trousers are black with white dots (only the inner top is white); consistent across shots, check caption vs garment."
+  ]
+ },
+ {
+  "row": 19,
+  "slot": "02",
+  "issues": [
+   "SHOES"
+  ],
+  "sev": "high",
+  "notes": [
+   "Pointed black pumps that look heeled, unlike the round black ballerinas in 01 and 03."
+  ]
+ },
+ {
+  "row": 21,
+  "slot": "02",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Dark smoky eye makeup, unlike 01-front."
+  ]
+ },
+ {
+  "row": 22,
+  "slot": "02",
+  "issues": [
+   "SHOES"
+  ],
+  "sev": "high",
+  "notes": [
+   "White heeled pumps here, flat ballerinas in 01 and 03."
+  ]
+ },
+ {
+  "row": 26,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Top is black in the back shot; it is white in all other shots."
+  ]
+ },
+ {
+  "row": 35,
+  "slot": "02",
+  "issues": [
+   "SHOES"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Shoes look like chunky white sneakers, while 01 and caption show white flats."
+  ]
+ },
+ {
+  "row": 37,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Sweater is black from the back while it is grey in all other shots."
+  ]
+ },
+ {
+  "row": 38,
+  "slot": "01",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Dark smoky eye makeup (also visible in 02 and 04)."
+  ]
+ },
+ {
+  "row": 39,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Sweater is black from the back while it is taupe beige in all other shots."
+  ]
+ },
+ {
+  "row": 42,
+  "slot": "01",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Dark purple-smoky eye makeup."
+  ]
+ },
+ {
+  "row": 42,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Black sweater and grey jeans instead of pink sweater and white jeans."
+  ]
+ },
+ {
+  "row": 42,
+  "slot": "04",
+  "issues": [
+   "IDENTITY"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Face looks like a different, older woman than 01-front."
+  ]
+ },
+ {
+  "row": 45,
+  "slot": "01",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Eye makeup is noticeably dark/smoky compared with the other rows."
+  ]
+ },
+ {
+  "row": 46,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Trousers are beige wide-leg pants instead of the grey jeans seen in the other shots and caption."
+  ]
+ },
+ {
+  "row": 55,
+  "slot": "03",
+  "issues": [
+   "GARMENT_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Long beige cardigan-coat shown instead of the short burgundy cardigan."
+  ]
+ },
+ {
+  "row": 56,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Coat is beige instead of off-white and trousers are white instead of grey jeans."
+  ]
+ },
+ {
+  "row": 65,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Trousers are dark olive in the back shot; white jeans in the other shots and the caption."
+  ]
+ },
+ {
+  "row": 69,
+  "slot": "02",
+  "issues": [
+   "ANATOMY"
+  ],
+  "sev": "high",
+  "notes": [
+   "AI-broken: half-body crop with the white shoes floating at hip level directly under the sweater, legs missing."
+  ]
+ },
+ {
+  "row": 71,
+  "slot": "01",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Dark smoky eye makeup (also in 02 and lighter in 04)."
+  ]
+ },
+ {
+  "row": 72,
+  "slot": "03",
+  "issues": [
+   "IDENTITY"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Hair is much longer and wavy in the back shot versus shoulder-length straight in other shots."
+  ]
+ },
+ {
+  "row": 73,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH",
+   "SHOES"
+  ],
+  "sev": "high",
+  "notes": [
+   "Vest is a lighter beige-taupe instead of the dusty mauve in other shots.",
+   "White sneakers instead of the beige ballerinas in 01/02."
+  ]
+ },
+ {
+  "row": 74,
+  "slot": "03",
+  "issues": [
+   "IDENTITY"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Hair is clearly redder/auburn, longer and wavier than the brown hair in 01/02/04."
+  ]
+ },
+ {
+  "row": 76,
+  "slot": "03",
+  "issues": [
+   "GARMENT_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Top is sleeveless with bare arms from the back, while the other shots show long white sleeves."
+  ]
+ },
+ {
+  "row": 79,
+  "slot": "02",
+  "issues": [
+   "COLOR_MISMATCH",
+   "SHOES"
+  ],
+  "sev": "high",
+  "notes": [
+   "Vest is taupe/lavender-grey instead of black.",
+   "White sneakers here, black ballerinas in 01 and 03."
+  ]
+ },
+ {
+  "row": 84,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH",
+   "IDENTITY"
+  ],
+  "sev": "high",
+  "notes": [
+   "Pants are grey marl instead of the off-white pants in the other shots and caption.",
+   "Hair is much longer (mid-back) than the shoulder-length hair in 01-front."
+  ]
+ },
+ {
+  "row": 87,
+  "slot": "01",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Dark smoky eye makeup in 01, 02 and 04."
+  ]
+ },
+ {
+  "row": 88,
+  "slot": "01",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Dark smoky eye makeup in 01 and 02."
+  ]
+ },
+ {
+  "row": 88,
+  "slot": "02",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Sweater is black; caption and other shots are white."
+  ]
+ },
+ {
+  "row": 89,
+  "slot": "04",
+  "issues": [
+   "ANATOMY"
+  ],
+  "sev": "high",
+  "notes": [
+   "An extra empty sleeve hangs down below the folded arm (third arm/sleeve artifact)."
+  ]
+ },
+ {
+  "row": 90,
+  "slot": "03",
+  "issues": [
+   "GARMENT_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Vest has grey ribbed trim at neck, armholes and hem (also in 05), while it is all black in 01/02/04."
+  ]
+ },
+ {
+  "row": 90,
+  "slot": "05",
+  "issues": [
+   "GARMENT_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Vest shows grey trim with cream piping at armholes and hem, not present on the all-black vest in front shots."
+  ]
+ },
+ {
+  "row": 98,
+  "slot": "02",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Dark smoky eye makeup, unlike the natural look in 01-front."
+  ]
+ },
+ {
+  "row": 99,
+  "slot": "02",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Hoodie is cream instead of olive."
+  ]
+ },
+ {
+  "row": 100,
+  "slot": "02",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Smoky eyeshadow and a heavy blush patch on the cheek."
+  ]
+ },
+ {
+  "row": 101,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Bottom is dark navy jeans; caption and other shots show white jeans."
+  ]
+ },
+ {
+  "row": 102,
+  "slot": "01",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Dark smoky eye makeup in 01 and 04."
+  ]
+ },
+ {
+  "row": 105,
+  "slot": "01",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Fairly dark eye makeup in the front shot."
+  ]
+ },
+ {
+  "row": 105,
+  "slot": "02",
+  "issues": [
+   "GARMENT_MISMATCH"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Hoodie looks longer (hip/thigh length) than the waist-length hoodie in 01 and 03."
+  ]
+ },
+ {
+  "row": 107,
+  "slot": "03",
+  "issues": [
+   "IDENTITY"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Hair is blonde here, auburn-brown in the other shots."
+  ]
+ },
+ {
+  "row": 108,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Beige hoodie and black trousers instead of brown hoodie and white trousers."
+  ]
+ },
+ {
+  "row": 109,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Hoodie is beige instead of white."
+  ]
+ },
+ {
+  "row": 111,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Hoodie is beige in the back shot; it is black in all other shots."
+  ]
+ },
+ {
+  "row": 113,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Hoodie is beige/sand instead of burgundy."
+  ]
+ },
+ {
+  "row": 115,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Pants are white/cream instead of the grey jeans in the other shots and caption."
+  ]
+ },
+ {
+  "row": 116,
+  "slot": "04",
+  "issues": [
+   "IDENTITY"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Hair is lighter blond-brown and curly, versus straight auburn in 01-03."
+  ]
+ },
+ {
+  "row": 121,
+  "slot": "03",
+  "issues": [
+   "IDENTITY"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Hair is clearly red/auburn from the back (also in 05) vs brown in 01/02/04."
+  ]
+ },
+ {
+  "row": 121,
+  "slot": "05",
+  "issues": [
+   "IDENTITY"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Hair is red/auburn, not the brown of the front shots."
+  ]
+ },
+ {
+  "row": 126,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH",
+   "IDENTITY",
+   "SHOES"
+  ],
+  "sev": "high",
+  "notes": [
+   "Coat is black and jeans are dark grey in the back shot; olive coat and white jeans elsewhere.",
+   "Chunky light sneakers in the back shot; white ballerinas in 01 and 02.",
+   "Hair is shorter and redder than in 01-front."
+  ]
+ },
+ {
+  "row": 128,
+  "slot": "01",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Caption says Cream but the coat is a taupe/grey-beige herringbone in all shots."
+  ]
+ },
+ {
+  "row": 132,
+  "slot": "01",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Dark eye makeup in 01 and 04."
+  ]
+ },
+ {
+  "row": 132,
+  "slot": "02",
+  "issues": [
+   "ANATOMY",
+   "GARMENT_MISMATCH",
+   "IDENTITY"
+  ],
+  "sev": "high",
+  "notes": [
+   "Two women in the frame (duplicate person).",
+   "Coat is knee-length here but hip-length in other shots; trousers are cropped.",
+   "Different-looking woman with hair tied back."
+  ]
+ },
+ {
+  "row": 133,
+  "slot": "01",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Dark eye makeup in 01, 02 and 04."
+  ]
+ },
+ {
+  "row": 133,
+  "slot": "03",
+  "issues": [
+   "ANATOMY",
+   "COLOR_MISMATCH",
+   "IDENTITY"
+  ],
+  "sev": "high",
+  "notes": [
+   "Two women in the frame (duplicate person).",
+   "Coat is a darker orange-peach than the blush peach in other shots.",
+   "Hair is long and curled, unlike the straighter hair in 01."
+  ]
+ },
+ {
+  "row": 135,
+  "slot": "01",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Dark smoky eye makeup (also in 02 and 04)."
+  ]
+ },
+ {
+  "row": 137,
+  "slot": "01",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Dark smoky eye makeup (same in 02)."
+  ]
+ },
+ {
+  "row": 138,
+  "slot": "03",
+  "issues": [
+   "IDENTITY"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Hair is much longer and wavy from behind, shoulder-length straight in 01."
+  ]
+ },
+ {
+  "row": 141,
+  "slot": "01",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium",
+  "notes": [
+   "Dark smoky eye makeup (also visible in 02)."
+  ]
+ },
+ {
+  "row": 146,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Jacket is black and jeans are grey; caption says camel brown jacket and white jeans."
+  ]
+ },
+ {
+  "row": 148,
+  "slot": "02",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Trousers are solid navy; 01 and 04 show the blue multicolor print."
+  ]
+ },
+ {
+  "row": 148,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high",
+  "notes": [
+   "Trousers are solid navy; 01 and 04 show the blue multicolor print."
+  ]
+ },
+ {
+  "row": 150,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH",
+   "SHOES"
+  ],
+  "sev": "high",
+  "notes": [
+   "Cream shirt and navy trousers instead of kiwi green shirt and white pants.",
+   "Tan sandal-like shoes instead of white ballerinas."
+  ]
+ },
+ {
+  "row": 151,
+  "slot": "02",
+  "issues": [
+   "COLOR_MISMATCH",
+   "SHOES"
+  ],
+  "sev": "high",
+  "notes": [
+   "Cream shirt and navy trousers instead of turquoise shirt and white pants.",
+   "Open-toe sandals."
+  ]
+ },
+ {
+  "row": 151,
+  "slot": "03",
+  "issues": [
+   "COLOR_MISMATCH",
+   "IDENTITY",
+   "SHOES"
+  ],
+  "sev": "high",
+  "notes": [
+   "Cream shirt and navy trousers instead of turquoise shirt and white pants.",
+   "Blonde hair from the back, a different woman from the brown-haired model in 01/04.",
+   "Tan sandal-like shoes instead of white ballerinas."
+  ]
+ }
+]

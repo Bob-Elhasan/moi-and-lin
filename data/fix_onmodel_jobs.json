@@ -1,0 +1,1083 @@
+[
+ {
+  "stage": 2,
+  "refs": [
+   "3735459a-2dab-46e5-97aa-d3ece400ac67",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 125-7071) MUST be Black. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe black leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 3,
+  "slot": "03",
+  "out": "output/On-Model/TOP 125-7071 + BOTTOM 126-439/Black/000676478967_125-7071_126-439_black_r003_03-back.jpg",
+  "front_job": "02257452-b09a-4f9a-9629-17b14e17b605",
+  "issues": [
+   "ANATOMY"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "3735459a-2dab-46e5-97aa-d3ece400ac67",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 126-427) MUST be Lavender. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 9,
+  "slot": "03",
+  "out": "output/On-Model/TOP 126-427 + BOTTOM 126-439/Lavender/000676478967_126-427_126-439_lavender_r009_03-back.jpg",
+  "front_job": "cc18f4e5-c9c1-4324-a7d7-9e8042a84856",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "8a78d923-b4ae-4cd3-92c0-780a1cf2497a",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 126-427) MUST be White. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 15,
+  "slot": "02",
+  "out": "output/On-Model/TOP 126-427 + BOTTOM 126-439/White/000676478967_126-427_126-439_white_r015_02-three-quarter.jpg",
+  "front_job": "a9e917d0-c1ca-465d-9133-57c42b90675d",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "3735459a-2dab-46e5-97aa-d3ece400ac67",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 126-427) MUST be White. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 15,
+  "slot": "03",
+  "out": "output/On-Model/TOP 126-427 + BOTTOM 126-439/White/000676478967_126-427_126-439_white_r015_03-back.jpg",
+  "front_job": "a9e917d0-c1ca-465d-9133-57c42b90675d",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "ff1166dd-e0fc-4afa-99b0-6a5d936f8569",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 126-451A) MUST be Grey. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe black leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 16,
+  "slot": "03",
+  "out": "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Grey/004557713949_126-451a_126-451b_grey_r016_03-back.jpg",
+  "front_job": "07de6e2b-6ff6-4abb-8942-05f28a46bd97",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 1,
+  "refs": [
+   "1d5c22ab-521e-4f61-a41d-f279da9756ec"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Light professional retouch of this real fashion e-commerce photo, like a high-end retoucher would do. Keep the SAME real woman and her identity. Refine subtly: balance eye symmetry (both eyes equally open, same size and level, irises centered, gaze direct), even and harmonious facial features, without changing her face shape or who she is. Calm, confident, relaxed fashion-model expression, lips softly closed. Relax the shoulders and hands very slightly; same pose, framing and camera angle. Change the top garment (product 126-451A) to White with dots.  Replace any footwear with closed-toe black leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Keep every garment's exact cut, fabric weave, seams, stitching and buttons. MAKEUP: remove any dark or smoky eye makeup completely: no dark eyeshadow, no black eyeliner, no smudged liner under the eyes, no dark circles. Clean 'no-makeup' fashion-model look: bare-looking soft eyelids in a light neutral tone, a touch of soft brown mascara, natural groomed brows, fresh nude-pink lips, light natural blush. No shine, no highlighter, no contouring. SKIN: smoother, even, luminous but matte, softened under-eye area, fine natural skin texture kept (no plastic, no blur). Hair neat and glossy. Pure white background, same soft studio light. Looks like a real photo from a premium brand catalog (COS, Massimo Dutti), indistinguishable from an untouched real photograph.",
+  "row": 19,
+  "slot": "01",
+  "out": "output/On-Model/TOP 126-451A + BOTTOM 126-451B/White with dots/004557713949_126-451a_126-451b_white-with-dots_r019_01-front.jpg",
+  "front_job": "46086a71-d5bd-426b-bc9f-702c9d764723",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "f51e95c8-b287-4eb0-a9d2-315e638adcec",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 126-451A) MUST be White with dots. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe black leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 19,
+  "slot": "02",
+  "out": "output/On-Model/TOP 126-451A + BOTTOM 126-451B/White with dots/004557713949_126-451a_126-451b_white-with-dots_r019_02-three-quarter.jpg",
+  "front_job": "46086a71-d5bd-426b-bc9f-702c9d764723",
+  "issues": [
+   "SHOES"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "5686e066-c400-4046-abc3-2a9603bf6d4d",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 126-474) MUST be Beige leaf print. The bottom garment (product BXX-SMB115) MUST be White Pants. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 21,
+  "slot": "02",
+  "out": "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Beige leaf print - White Pants/004557717602_126-474_bxx-smb115_beige-leaf-print_white-pants_r021_02-three-quarter.jpg",
+  "front_job": "2f0ac73c-410a-4f56-a308-569103ebaf33",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "5686e066-c400-4046-abc3-2a9603bf6d4d",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 126-474) MUST be Chocolate brown leaf print. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 22,
+  "slot": "02",
+  "out": "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Chocolate brown leaf print/004557717602_126-474_bxx-smb115_chocolate-brown-leaf-print_r022_02-three-quarter.jpg",
+  "front_job": "29a6bf6d-7c94-4f04-a61b-3c3370aa532f",
+  "issues": [
+   "SHOES"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "675e4b45-0bf5-420e-8156-05e3b59e8b7a",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 1418) MUST be White. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 26,
+  "slot": "03",
+  "out": "output/On-Model/TOP 1418 + BOTTOM 601/White/947990090614_1418_601_white_r026_03-back.jpg",
+  "front_job": "ced7c01c-3f85-41f8-9f51-c84e6d24ee8d",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "34e68fc6-931e-4fa2-99dc-c4c65f666251",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 21008) MUST be Black. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 35,
+  "slot": "02",
+  "out": "output/On-Model/TOP 21008 + BOTTOM N022/Black/094367000087_21008_n022_black_r035_02-three-quarter.jpg",
+  "front_job": "8c7cee0b-1b21-4044-84d1-8b438d0d365c",
+  "issues": [
+   "SHOES"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "3e8df195-7aa1-4f38-8d3d-dea5ced65328",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 21008) MUST be Grey. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 37,
+  "slot": "03",
+  "out": "output/On-Model/TOP 21008 + BOTTOM N022/Grey/094367000087_21008_n022_grey_r037_03-back.jpg",
+  "front_job": "6a351608-6d39-4711-bdc0-6e803987e245",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 1,
+  "refs": [
+   "9a187b77-70c3-417f-a28b-905c7e6d7c89"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Light professional retouch of this real fashion e-commerce photo, like a high-end retoucher would do. Keep the SAME real woman and her identity. Refine subtly: balance eye symmetry (both eyes equally open, same size and level, irises centered, gaze direct), even and harmonious facial features, without changing her face shape or who she is. Calm, confident, relaxed fashion-model expression, lips softly closed. Relax the shoulders and hands very slightly; same pose, framing and camera angle. Change the top garment (product 21008) to Plum. Change the bottom garment (product N022) to White Jeans.  Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Keep every garment's exact cut, fabric weave, seams, stitching and buttons. MAKEUP: remove any dark or smoky eye makeup completely: no dark eyeshadow, no black eyeliner, no smudged liner under the eyes, no dark circles. Clean 'no-makeup' fashion-model look: bare-looking soft eyelids in a light neutral tone, a touch of soft brown mascara, natural groomed brows, fresh nude-pink lips, light natural blush. No shine, no highlighter, no contouring. SKIN: smoother, even, luminous but matte, softened under-eye area, fine natural skin texture kept (no plastic, no blur). Hair neat and glossy. Pure white background, same soft studio light. Looks like a real photo from a premium brand catalog (COS, Massimo Dutti), indistinguishable from an untouched real photograph.",
+  "row": 38,
+  "slot": "01",
+  "out": "output/On-Model/TOP 21008 + BOTTOM N022/Plum - White Jeans/094367000087_21008_n022_plum_white-jeans_r038_01-front.jpg",
+  "front_job": "9629e46b-7223-4de6-915a-a102150be4a5",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "3e8df195-7aa1-4f38-8d3d-dea5ced65328",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 21008) MUST be Taupe beige. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 39,
+  "slot": "03",
+  "out": "output/On-Model/TOP 21008 + BOTTOM N022/Taupe beige/094367000087_21008_n022_taupe-beige_r039_03-back.jpg",
+  "front_job": "1cd155db-037f-4dbe-8ce5-d66281869377",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 1,
+  "refs": [
+   "9a187b77-70c3-417f-a28b-905c7e6d7c89"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Light professional retouch of this real fashion e-commerce photo, like a high-end retoucher would do. Keep the SAME real woman and her identity. Refine subtly: balance eye symmetry (both eyes equally open, same size and level, irises centered, gaze direct), even and harmonious facial features, without changing her face shape or who she is. Calm, confident, relaxed fashion-model expression, lips softly closed. Relax the shoulders and hands very slightly; same pose, framing and camera angle. Change the top garment (product 21008) to Pink. Change the bottom garment (product N022) to White Jeans.  Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Keep every garment's exact cut, fabric weave, seams, stitching and buttons. MAKEUP: remove any dark or smoky eye makeup completely: no dark eyeshadow, no black eyeliner, no smudged liner under the eyes, no dark circles. Clean 'no-makeup' fashion-model look: bare-looking soft eyelids in a light neutral tone, a touch of soft brown mascara, natural groomed brows, fresh nude-pink lips, light natural blush. No shine, no highlighter, no contouring. SKIN: smoother, even, luminous but matte, softened under-eye area, fine natural skin texture kept (no plastic, no blur). Hair neat and glossy. Pure white background, same soft studio light. Looks like a real photo from a premium brand catalog (COS, Massimo Dutti), indistinguishable from an untouched real photograph.",
+  "row": 42,
+  "slot": "01",
+  "out": "output/On-Model/TOP 21008 + BOTTOM N022/Pink - White Jeans/094367000087_21008_n022_pink_white-jeans_r042_01-front.jpg",
+  "front_job": "fef1016b-6a7b-4d77-867b-3d10ffc4442f",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "3e8df195-7aa1-4f38-8d3d-dea5ced65328",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 21008) MUST be Pink. The bottom garment (product N022) MUST be White Jeans. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 42,
+  "slot": "03",
+  "out": "output/On-Model/TOP 21008 + BOTTOM N022/Pink - White Jeans/094367000087_21008_n022_pink_white-jeans_r042_03-back.jpg",
+  "front_job": "fef1016b-6a7b-4d77-867b-3d10ffc4442f",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame. The top garment (product 21008) MUST be Pink. The bottom garment (product N022) MUST be White Jeans. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Image 1 is the approved photo of this exact woman in this exact outfit. Keep her identity IDENTICAL to image 1: same face shape, eyes, eye color, brows, nose, lips, jawline, skin tone and complexion, same natural minimal makeup (no added eyeliner, eyeshadow, contour, highlighter or lipstick), same hair color, length and texture. Do not beautify, slim, age or change her in any way. Keep every garment exactly as in the reference images (same colors, fabric, texture, seams, buttons, length and fit). Do not add or remove any garment or accessory. Close editorial framing from just above the head to the hips, the top filling most of the frame, camera at chest height, natural slightly off-center composition. Front-facing pose: arms loosely crossed at the waist, head slightly tilted, warm relaxed smile. Natural, effortless body language, a candid moment rather than a stiff pose. Pure white seamless studio background (#FFFFFF), soft natural window-like light, subtle gentle shadows, true-to-life colors, 85mm lens. Real skin texture with pores, natural minimal makeup, no retouched or glossy look. Looks like an authentic candid photo from a premium brand lookbook, not AI.",
+  "row": 42,
+  "slot": "04",
+  "out": "output/On-Model/TOP 21008 + BOTTOM N022/Pink - White Jeans/094367000087_21008_n022_pink_white-jeans_r042_04-editorial-front.jpg",
+  "front_job": "fef1016b-6a7b-4d77-867b-3d10ffc4442f",
+  "issues": [
+   "IDENTITY"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 1,
+  "refs": [
+   "ff989218-1c18-4c4f-a930-dc25cdc4d8da"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Light professional retouch of this real fashion e-commerce photo, like a high-end retoucher would do. Keep the SAME real woman and her identity. Refine subtly: balance eye symmetry (both eyes equally open, same size and level, irises centered, gaze direct), even and harmonious facial features, without changing her face shape or who she is. Calm, confident, relaxed fashion-model expression, lips softly closed. Relax the shoulders and hands very slightly; same pose, framing and camera angle. Change the top garment (product 2400A) to Grey.  Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Keep every garment's exact cut, fabric weave, seams, stitching and buttons. MAKEUP: remove any dark or smoky eye makeup completely: no dark eyeshadow, no black eyeliner, no smudged liner under the eyes, no dark circles. Clean 'no-makeup' fashion-model look: bare-looking soft eyelids in a light neutral tone, a touch of soft brown mascara, natural groomed brows, fresh nude-pink lips, light natural blush. No shine, no highlighter, no contouring. SKIN: smoother, even, luminous but matte, softened under-eye area, fine natural skin texture kept (no plastic, no blur). Hair neat and glossy. Pure white background, same soft studio light. Looks like a real photo from a premium brand catalog (COS, Massimo Dutti), indistinguishable from an untouched real photograph.",
+  "row": 45,
+  "slot": "01",
+  "out": "output/On-Model/TOP 2400A + BOTTOM N022 OFF WHITE/Grey/947990087843_2400a_n022-off-white_grey_r045_01-front.jpg",
+  "front_job": "7e400026-61b9-44b1-b6ea-3d690efd20fb",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "90b43bd9-8521-4b16-950e-db667ec76a18",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 2403) MUST be White / cream. The bottom garment (product N022) MUST be Grey Jeans. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 46,
+  "slot": "03",
+  "out": "output/On-Model/TOP 2403 + BOTTOM N022/White / cream - Grey Jeans/000676460573_2403_n022_white-cream_grey-jeans_r046_03-back.jpg",
+  "front_job": "32ac0ff9-77a4-40ac-92b7-86cc25697580",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "436aa831-6014-4326-bcb1-febfca9fa631",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 2410) MUST be Burgundy. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 55,
+  "slot": "03",
+  "out": "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Burgundy/947990098368_2410_n022-off-white_burgundy_r055_03-back.jpg",
+  "front_job": "655bcac2-0e86-48d4-8468-fd3a7c304ff3",
+  "issues": [
+   "GARMENT_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "436aa831-6014-4326-bcb1-febfca9fa631",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 2410) MUST be Off-white. The bottom garment (product N022 OFF WHITE) MUST be Grey Jeans. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 56,
+  "slot": "03",
+  "out": "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Off-white - Grey Jeans/947990098368_2410_n022-off-white_off-white_grey-jeans_r056_03-back.jpg",
+  "front_job": "c506fee4-b574-4c3c-a8db-e87ba4084bcf",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "973d5180-b80c-40af-b51c-6f7c7c26cc3f",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 2505) MUST be Burgundy. The bottom garment (product N022) MUST be White Jeans. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 65,
+  "slot": "03",
+  "out": "output/On-Model/TOP 2505 + BOTTOM N022/Burgundy - White Jeans/000455769903_2505_n022_burgundy_white-jeans_r065_03-back.jpg",
+  "front_job": "bd0b7b06-eb79-4598-b3b6-79ba9405a8d2",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "3b3b26ab-d2c0-4dea-acc3-9c1dd2cbe726",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 5003) MUST be Plum brown. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 69,
+  "slot": "02",
+  "out": "output/On-Model/TOP 5003 + BOTTOM 2500B/Plum brown/004557710566_5003_2500b_plum-brown_r069_02-three-quarter.jpg",
+  "front_job": "427167a7-bdc1-405a-8f00-c16a39d0d896",
+  "issues": [
+   "ANATOMY"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 1,
+  "refs": [
+   "093b57af-6ebc-4f50-85e4-e6df8edabf47"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Light professional retouch of this real fashion e-commerce photo, like a high-end retoucher would do. Keep the SAME real woman and her identity. Refine subtly: balance eye symmetry (both eyes equally open, same size and level, irises centered, gaze direct), even and harmonious facial features, without changing her face shape or who she is. Calm, confident, relaxed fashion-model expression, lips softly closed. Relax the shoulders and hands very slightly; same pose, framing and camera angle. Change the top garment (product 5003) to White. Change the bottom garment (product 2500B) to Grey Jeans.  Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Keep every garment's exact cut, fabric weave, seams, stitching and buttons. MAKEUP: remove any dark or smoky eye makeup completely: no dark eyeshadow, no black eyeliner, no smudged liner under the eyes, no dark circles. Clean 'no-makeup' fashion-model look: bare-looking soft eyelids in a light neutral tone, a touch of soft brown mascara, natural groomed brows, fresh nude-pink lips, light natural blush. No shine, no highlighter, no contouring. SKIN: smoother, even, luminous but matte, softened under-eye area, fine natural skin texture kept (no plastic, no blur). Hair neat and glossy. Pure white background, same soft studio light. Looks like a real photo from a premium brand catalog (COS, Massimo Dutti), indistinguishable from an untouched real photograph.",
+  "row": 71,
+  "slot": "01",
+  "out": "output/On-Model/TOP 5003 + BOTTOM 2500B/White - Grey Jeans/004557710566_5003_2500b_white_grey-jeans_r071_01-front.jpg",
+  "front_job": "6b185885-ae48-4d73-a21f-f7a47034846c",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "7fa61629-2079-477f-af4e-05e5ee543c5a",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 5003) MUST be Navy. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 72,
+  "slot": "03",
+  "out": "output/On-Model/TOP 5003 + BOTTOM 2500B/Navy/004557710566_5003_2500b_navy_r072_03-back.jpg",
+  "front_job": "c6351cea-fb02-402b-a608-12cbdeb20808",
+  "issues": [
+   "IDENTITY"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "1e9a1394-8757-47d7-90cd-b3a7ba1df318",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 5004) MUST be Dusty mauve (sleeveless, over white shirt). The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe beige leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 73,
+  "slot": "03",
+  "out": "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Dusty mauve (sleeveless, over white shirt)/004557711105_5004_2500b-off-white_dusty-mauve-sleeveless-over-white-shirt_r073_03-back.jpg",
+  "front_job": "936bf267-d4bb-407a-ba71-b345e730f815",
+  "issues": [
+   "COLOR_MISMATCH",
+   "SHOES"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "1e9a1394-8757-47d7-90cd-b3a7ba1df318",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 5004) MUST be Burgundy. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 74,
+  "slot": "03",
+  "out": "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Burgundy/004557711105_5004_2500b-off-white_burgundy_r074_03-back.jpg",
+  "front_job": "fb678fd5-9ee5-4600-b784-45fcb0b3ece3",
+  "issues": [
+   "IDENTITY"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "1e9a1394-8757-47d7-90cd-b3a7ba1df318",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 5004) MUST be White. The bottom garment (product 2500B OFF WHITE) MUST be Grey Pants. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 76,
+  "slot": "03",
+  "out": "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/White - Grey Pants/004557711105_5004_2500b-off-white_white_grey-pants_r076_03-back.jpg",
+  "front_job": "19fa0217-8d30-4773-93ac-c6e0e8f7fad1",
+  "issues": [
+   "GARMENT_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "dfbcfa08-8e08-49c7-a083-319093b7cfc2",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 5004) MUST be Black. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe black leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 79,
+  "slot": "02",
+  "out": "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Black/004557711105_5004_2500b-off-white_black_r079_02-three-quarter.jpg",
+  "front_job": "b2d9b12e-e342-4f02-8f7b-9b99b8a31841",
+  "issues": [
+   "COLOR_MISMATCH",
+   "SHOES"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "23ce6b08-c8ec-4a04-94d3-65230ae11ddb",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 5006) MUST be Black. The bottom garment (product 2400B) MUST be Off White Pants. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with clean minimal black leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 84,
+  "slot": "03",
+  "out": "output/On-Model/TOP 5006 + BOTTOM 2400B/Black - Off White Pants/004557710672_5006_2400b_black_off-white-pants_r084_03-back.jpg",
+  "front_job": "73545f2f-1794-4136-961c-a929c1f49692",
+  "issues": [
+   "COLOR_MISMATCH",
+   "IDENTITY"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 1,
+  "refs": [
+   "06872072-8d28-48af-99c5-f3226a2baeb1"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Light professional retouch of this real fashion e-commerce photo, like a high-end retoucher would do. Keep the SAME real woman and her identity. Refine subtly: balance eye symmetry (both eyes equally open, same size and level, irises centered, gaze direct), even and harmonious facial features, without changing her face shape or who she is. Calm, confident, relaxed fashion-model expression, lips softly closed. Relax the shoulders and hands very slightly; same pose, framing and camera angle. Change the top garment (product 5006) to Light Brown. Change the bottom garment (product 2400B) to Black Pants.  Replace any footwear with clean minimal black leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Keep every garment's exact cut, fabric weave, seams, stitching and buttons. MAKEUP: remove any dark or smoky eye makeup completely: no dark eyeshadow, no black eyeliner, no smudged liner under the eyes, no dark circles. Clean 'no-makeup' fashion-model look: bare-looking soft eyelids in a light neutral tone, a touch of soft brown mascara, natural groomed brows, fresh nude-pink lips, light natural blush. No shine, no highlighter, no contouring. SKIN: smoother, even, luminous but matte, softened under-eye area, fine natural skin texture kept (no plastic, no blur). Hair neat and glossy. Pure white background, same soft studio light. Looks like a real photo from a premium brand catalog (COS, Massimo Dutti), indistinguishable from an untouched real photograph.",
+  "row": 87,
+  "slot": "01",
+  "out": "output/On-Model/TOP 5006 + BOTTOM 2400B/Light Brown - Black Pants/004557710672_5006_2400b_light-brown_black-pants_r087_01-front.jpg",
+  "front_job": "44d133d9-2e33-43bc-952f-5c9c22452022",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 1,
+  "refs": [
+   "06872072-8d28-48af-99c5-f3226a2baeb1"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Light professional retouch of this real fashion e-commerce photo, like a high-end retoucher would do. Keep the SAME real woman and her identity. Refine subtly: balance eye symmetry (both eyes equally open, same size and level, irises centered, gaze direct), even and harmonious facial features, without changing her face shape or who she is. Calm, confident, relaxed fashion-model expression, lips softly closed. Relax the shoulders and hands very slightly; same pose, framing and camera angle. Change the top garment (product 5006) to White.  Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Keep every garment's exact cut, fabric weave, seams, stitching and buttons. MAKEUP: remove any dark or smoky eye makeup completely: no dark eyeshadow, no black eyeliner, no smudged liner under the eyes, no dark circles. Clean 'no-makeup' fashion-model look: bare-looking soft eyelids in a light neutral tone, a touch of soft brown mascara, natural groomed brows, fresh nude-pink lips, light natural blush. No shine, no highlighter, no contouring. SKIN: smoother, even, luminous but matte, softened under-eye area, fine natural skin texture kept (no plastic, no blur). Hair neat and glossy. Pure white background, same soft studio light. Looks like a real photo from a premium brand catalog (COS, Massimo Dutti), indistinguishable from an untouched real photograph.",
+  "row": 88,
+  "slot": "01",
+  "out": "output/On-Model/TOP 5006 + BOTTOM 2400B/White/004557710672_5006_2400b_white_r088_01-front.jpg",
+  "front_job": "43b49797-49d6-4dd1-9159-6472301faef2",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "782261e2-4ebc-4774-82b0-ad61ef16a377",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 5006) MUST be White. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 88,
+  "slot": "02",
+  "out": "output/On-Model/TOP 5006 + BOTTOM 2400B/White/004557710672_5006_2400b_white_r088_02-three-quarter.jpg",
+  "front_job": "43b49797-49d6-4dd1-9159-6472301faef2",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame. The top garment (product 5006) MUST be Charcoal grey. The bottom garment keeps exactly the color it has in image 1. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Image 1 is the approved photo of this exact woman in this exact outfit. Keep her identity IDENTICAL to image 1: same face shape, eyes, eye color, brows, nose, lips, jawline, skin tone and complexion, same natural minimal makeup (no added eyeliner, eyeshadow, contour, highlighter or lipstick), same hair color, length and texture. Do not beautify, slim, age or change her in any way. Keep every garment exactly as in the reference images (same colors, fabric, texture, seams, buttons, length and fit). Do not add or remove any garment or accessory. Close editorial framing from just above the head to the hips, the top filling most of the frame, camera at chest height, natural slightly off-center composition. Front-facing pose: arms loosely crossed at the waist, head slightly tilted, warm relaxed smile. Natural, effortless body language, a candid moment rather than a stiff pose. Pure white seamless studio background (#FFFFFF), soft natural window-like light, subtle gentle shadows, true-to-life colors, 85mm lens. Real skin texture with pores, natural minimal makeup, no retouched or glossy look. Looks like an authentic candid photo from a premium brand lookbook, not AI.",
+  "row": 89,
+  "slot": "04",
+  "out": "output/On-Model/TOP 5006 + BOTTOM 2400B/Charcoal grey/004557710672_5006_2400b_charcoal-grey_r089_04-editorial-front.jpg",
+  "front_job": "c7d39eb9-2ad8-429c-bc39-62d5b03e3f4c",
+  "issues": [
+   "ANATOMY"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "fc79a60d-c4a6-4875-9a7f-34772d9dc419",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 5008) MUST be Black vest over white shirt. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with clean minimal black leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 90,
+  "slot": "03",
+  "out": "output/On-Model/TOP 5008 + BOTTOM N022 OFF WHITE/Black vest over white shirt/004557711402_5008_n022-off-white_black-vest-over-white-shirt_r090_03-back.jpg",
+  "front_job": "245163bc-9d02-45a4-a3b6-29f95ed0f431",
+  "issues": [
+   "GARMENT_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame. The top garment (product 5008) MUST be Black vest over white shirt. The bottom garment keeps exactly the color it has in image 1. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Image 1 is the approved photo of this exact woman in this exact outfit. Keep her identity IDENTICAL to image 1: same face shape, eyes, eye color, brows, nose, lips, jawline, skin tone and complexion, same natural minimal makeup (no added eyeliner, eyeshadow, contour, highlighter or lipstick), same hair color, length and texture. Do not beautify, slim, age or change her in any way. Keep every garment exactly as in the reference images (same colors, fabric, texture, seams, buttons, length and fit). Do not add or remove any garment or accessory. Close editorial framing from just above the head to the hips, the back and side of the top filling most of the frame, camera at shoulder height, showing back details (yoke, seams, hood, belt) clearly. Image 2 shows the real back of the outfit: match its back details exactly. Pose: side step to the right, glancing back with a playful smile, arms loose. Natural, effortless body language, a candid moment rather than a stiff pose. Pure white seamless studio background (#FFFFFF), soft natural window-like light, subtle gentle shadows, true-to-life colors, 85mm lens. Real skin texture with pores, natural minimal makeup, no retouched or glossy look. Looks like an authentic candid photo from a premium brand lookbook, not AI.",
+  "row": 90,
+  "slot": "05",
+  "out": "output/On-Model/TOP 5008 + BOTTOM N022 OFF WHITE/Black vest over white shirt/004557711402_5008_n022-off-white_black-vest-over-white-shirt_r090_05-editorial-back.jpg",
+  "front_job": "245163bc-9d02-45a4-a3b6-29f95ed0f431",
+  "issues": [
+   "GARMENT_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "3d53b14b-1fe3-4cb3-9c08-11a3a8582261",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 5014) MUST be Cream. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 98,
+  "slot": "02",
+  "out": "output/On-Model/TOP 5014 + BOTTOM N023/Cream/004557711730_5014_n023_cream_r098_02-three-quarter.jpg",
+  "front_job": "27cb4b51-7ae0-459c-9db0-7f171834564d",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "3d53b14b-1fe3-4cb3-9c08-11a3a8582261",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 5014) MUST be Olive. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 99,
+  "slot": "02",
+  "out": "output/On-Model/TOP 5014 + BOTTOM N023/Olive/004557711730_5014_n023_olive_r099_02-three-quarter.jpg",
+  "front_job": "280d7740-5c3b-476e-8158-2a18c01c9ea0",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "3d53b14b-1fe3-4cb3-9c08-11a3a8582261",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 5014) MUST be Cobalt blue. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 100,
+  "slot": "02",
+  "out": "output/On-Model/TOP 5014 + BOTTOM N023/Cobalt blue/004557711730_5014_n023_cobalt-blue_r100_02-three-quarter.jpg",
+  "front_job": "2bbdaac0-92a0-47ea-8e6a-402b50693f31",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "dca71904-a041-4fde-ba35-9533141718ce",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 5014) MUST be Rose pink. The bottom garment (product N023) MUST be White jeans. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 101,
+  "slot": "03",
+  "out": "output/On-Model/TOP 5014 + BOTTOM N023/Rose pink - White jeans/004557711730_5014_n023_rose-pink_white-jeans_r101_03-back.jpg",
+  "front_job": "7d3039c5-778f-4e5a-8ad9-5b65a50e3019",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 1,
+  "refs": [
+   "e68af149-9547-44f5-901a-c891fef20d83"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Light professional retouch of this real fashion e-commerce photo, like a high-end retoucher would do. Keep the SAME real woman and her identity. Refine subtly: balance eye symmetry (both eyes equally open, same size and level, irises centered, gaze direct), even and harmonious facial features, without changing her face shape or who she is. Calm, confident, relaxed fashion-model expression, lips softly closed. Relax the shoulders and hands very slightly; same pose, framing and camera angle. Change the top garment (product 5014) to Camel. Change the bottom garment (product N023) to White/Beige/Black.  Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Keep every garment's exact cut, fabric weave, seams, stitching and buttons. MAKEUP: remove any dark or smoky eye makeup completely: no dark eyeshadow, no black eyeliner, no smudged liner under the eyes, no dark circles. Clean 'no-makeup' fashion-model look: bare-looking soft eyelids in a light neutral tone, a touch of soft brown mascara, natural groomed brows, fresh nude-pink lips, light natural blush. No shine, no highlighter, no contouring. SKIN: smoother, even, luminous but matte, softened under-eye area, fine natural skin texture kept (no plastic, no blur). Hair neat and glossy. Pure white background, same soft studio light. Looks like a real photo from a premium brand catalog (COS, Massimo Dutti), indistinguishable from an untouched real photograph.",
+  "row": 102,
+  "slot": "01",
+  "out": "output/On-Model/TOP 5014 + BOTTOM N023/Camel - White/Beige/Black/004557711730_5014_n023_camel_white-beige-black_r102_01-front.jpg",
+  "front_job": "a4f62803-bfd3-4a5c-87d8-eed9a82d2a92",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 1,
+  "refs": [
+   "d93d6cd6-3016-4ac4-aeb1-8d4598edfc85"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Light professional retouch of this real fashion e-commerce photo, like a high-end retoucher would do. Keep the SAME real woman and her identity. Refine subtly: balance eye symmetry (both eyes equally open, same size and level, irises centered, gaze direct), even and harmonious facial features, without changing her face shape or who she is. Calm, confident, relaxed fashion-model expression, lips softly closed. Relax the shoulders and hands very slightly; same pose, framing and camera angle. Change the top garment (product 603) to Sand beige. Change the bottom garment (product 601 BLACK) to White Jeans or sweatpants.  Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Keep every garment's exact cut, fabric weave, seams, stitching and buttons. MAKEUP: remove any dark or smoky eye makeup completely: no dark eyeshadow, no black eyeliner, no smudged liner under the eyes, no dark circles. Clean 'no-makeup' fashion-model look: bare-looking soft eyelids in a light neutral tone, a touch of soft brown mascara, natural groomed brows, fresh nude-pink lips, light natural blush. No shine, no highlighter, no contouring. SKIN: smoother, even, luminous but matte, softened under-eye area, fine natural skin texture kept (no plastic, no blur). Hair neat and glossy. Pure white background, same soft studio light. Looks like a real photo from a premium brand catalog (COS, Massimo Dutti), indistinguishable from an untouched real photograph.",
+  "row": 105,
+  "slot": "01",
+  "out": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Sand beige - White Jeans or sweatpants/000455766933_603_601-black_sand-beige_white-jeans-or-sweatpants_r105_01-front.jpg",
+  "front_job": "d9c88adf-c01a-441f-83d6-0fa65fd06a8a",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "ef551758-2c64-4d3a-9fba-54a78a975d6d",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 603) MUST be Sand beige. The bottom garment (product 601 BLACK) MUST be White Jeans or sweatpants. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 105,
+  "slot": "02",
+  "out": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Sand beige - White Jeans or sweatpants/000455766933_603_601-black_sand-beige_white-jeans-or-sweatpants_r105_02-three-quarter.jpg",
+  "front_job": "d9c88adf-c01a-441f-83d6-0fa65fd06a8a",
+  "issues": [
+   "GARMENT_MISMATCH"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "67c5b13b-6610-4d21-b814-dcb9a988210d",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 603) MUST be Black. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 107,
+  "slot": "03",
+  "out": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Black/000455766933_603_601-black_black_r107_03-back.jpg",
+  "front_job": "d1da90ff-c5ed-4015-bbda-82e8eadb193f",
+  "issues": [
+   "IDENTITY"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "67c5b13b-6610-4d21-b814-dcb9a988210d",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 603) MUST be Brown. The bottom garment (product 601 BLACK) MUST be White Jeans or sweatpants. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 108,
+  "slot": "03",
+  "out": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Brown - White Jeans or sweatpants/000455766933_603_601-black_brown_white-jeans-or-sweatpants_r108_03-back.jpg",
+  "front_job": "95ecf7a1-1da1-41df-8a81-b4c9e0a07ca0",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "67c5b13b-6610-4d21-b814-dcb9a988210d",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 603) MUST be White. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with clean minimal black leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 109,
+  "slot": "03",
+  "out": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/White/000455766933_603_601-black_white_r109_03-back.jpg",
+  "front_job": "0c29766e-5724-4a1b-8af8-47b3e50dc93c",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "48f58f17-e280-43af-a0b6-8bf7ef94fec7",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 604) MUST be Black. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with clean minimal black leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 111,
+  "slot": "03",
+  "out": "output/On-Model/TOP 604 + BOTTOM N022/Black/000455767527_604_n022_black_r111_03-back.jpg",
+  "front_job": "50143254-e047-447b-bf42-e81990b563be",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "48f58f17-e280-43af-a0b6-8bf7ef94fec7",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 604) MUST be Burgundy. The bottom garment keeps exactly the color it has in image 2. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 113,
+  "slot": "03",
+  "out": "output/On-Model/TOP 604 + BOTTOM N022/Burgundy/000455767527_604_n022_burgundy_r113_03-back.jpg",
+  "front_job": "081a848c-60b7-4863-9efe-251c4d12e012",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "48f58f17-e280-43af-a0b6-8bf7ef94fec7",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 604) MUST be Cream. The bottom garment (product N022) MUST be Grey Jeans. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 115,
+  "slot": "03",
+  "out": "output/On-Model/TOP 604 + BOTTOM N022/Cream - Grey Jeans/000455767527_604_n022_cream_grey-jeans_r115_03-back.jpg",
+  "front_job": "9491983c-e7ca-4ad3-b5f6-94234d8ff40a",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame. The top garment (product 7080 GREY) MUST be Grey. The bottom garment keeps exactly the color it has in image 1. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Image 1 is the approved photo of this exact woman in this exact outfit. Keep her identity IDENTICAL to image 1: same face shape, eyes, eye color, brows, nose, lips, jawline, skin tone and complexion, same natural minimal makeup (no added eyeliner, eyeshadow, contour, highlighter or lipstick), same hair color, length and texture. Do not beautify, slim, age or change her in any way. Keep every garment exactly as in the reference images (same colors, fabric, texture, seams, buttons, length and fit). Do not add or remove any garment or accessory. Close editorial framing from just above the head to the hips, the top filling most of the frame, camera at chest height, natural slightly off-center composition. Front-facing pose: a light natural laugh while looking down to the side, one knee softly bent, arms loose. Natural, effortless body language, a candid moment rather than a stiff pose. Pure white seamless studio background (#FFFFFF), soft natural window-like light, subtle gentle shadows, true-to-life colors, 85mm lens. Real skin texture with pores, natural minimal makeup, no retouched or glossy look. Looks like an authentic candid photo from a premium brand lookbook, not AI.",
+  "row": 116,
+  "slot": "04",
+  "out": "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Grey/947990092861_7080-grey_n022-off-white_grey_r116_04-editorial-front.jpg",
+  "front_job": "ba3499cf-7145-48c7-8d03-9d169d29cbc0",
+  "issues": [
+   "IDENTITY"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "1c6d001c-f628-4095-a972-a6a35d43d5c3",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 7089) MUST be Sage green. The bottom garment (product NO23 (as in folder name)) MUST be White Jeans. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 121,
+  "slot": "03",
+  "out": "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Sage green - White Jeans/000455770596_7089_no23-as-in-folder-name_sage-green_white-jeans_r121_03-back.jpg",
+  "front_job": "7fd6a1b5-b846-48d6-9e5f-26fc3ad249f0",
+  "issues": [
+   "IDENTITY"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame. The top garment (product 7089) MUST be Sage green. The bottom garment (product NO23 (as in folder name)) MUST be White Jeans. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Image 1 is the approved photo of this exact woman in this exact outfit. Keep her identity IDENTICAL to image 1: same face shape, eyes, eye color, brows, nose, lips, jawline, skin tone and complexion, same natural minimal makeup (no added eyeliner, eyeshadow, contour, highlighter or lipstick), same hair color, length and texture. Do not beautify, slim, age or change her in any way. Keep every garment exactly as in the reference images (same colors, fabric, texture, seams, buttons, length and fit). Do not add or remove any garment or accessory. Close editorial framing from just above the head to the hips, the back and side of the top filling most of the frame, camera at shoulder height, showing back details (yoke, seams, hood, belt) clearly. Image 2 shows the real back of the outfit: match its back details exactly. Pose: side profile facing right, looking down at her sleeve cuff, relaxed shoulders. Natural, effortless body language, a candid moment rather than a stiff pose. Pure white seamless studio background (#FFFFFF), soft natural window-like light, subtle gentle shadows, true-to-life colors, 85mm lens. Real skin texture with pores, natural minimal makeup, no retouched or glossy look. Looks like an authentic candid photo from a premium brand lookbook, not AI.",
+  "row": 121,
+  "slot": "05",
+  "out": "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Sage green - White Jeans/000455770596_7089_no23-as-in-folder-name_sage-green_white-jeans_r121_05-editorial-back.jpg",
+  "front_job": "7fd6a1b5-b846-48d6-9e5f-26fc3ad249f0",
+  "issues": [
+   "IDENTITY"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "1c6d001c-f628-4095-a972-a6a35d43d5c3",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 7089) MUST be Olive. The bottom garment (product NO23 (as in folder name)) MUST be White Jeans. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 126,
+  "slot": "03",
+  "out": "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Olive - White Jeans/000455770596_7089_no23-as-in-folder-name_olive_white-jeans_r126_03-back.jpg",
+  "front_job": "94d41a9b-9a5f-4c1a-9258-8625ce139fe5",
+  "issues": [
+   "COLOR_MISMATCH",
+   "IDENTITY",
+   "SHOES"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 1,
+  "refs": [
+   "5f14125d-6efa-4fc5-a680-dd30530ea6bf"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Light professional retouch of this real fashion e-commerce photo, like a high-end retoucher would do. Keep the SAME real woman and her identity. Refine subtly: balance eye symmetry (both eyes equally open, same size and level, irises centered, gaze direct), even and harmonious facial features, without changing her face shape or who she is. Calm, confident, relaxed fashion-model expression, lips softly closed. Relax the shoulders and hands very slightly; same pose, framing and camera angle. Change the top garment (product 7094) to Cream.  Replace any footwear with closed-toe black leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Keep every garment's exact cut, fabric weave, seams, stitching and buttons. MAKEUP: remove any dark or smoky eye makeup completely: no dark eyeshadow, no black eyeliner, no smudged liner under the eyes, no dark circles. Clean 'no-makeup' fashion-model look: bare-looking soft eyelids in a light neutral tone, a touch of soft brown mascara, natural groomed brows, fresh nude-pink lips, light natural blush. No shine, no highlighter, no contouring. SKIN: smoother, even, luminous but matte, softened under-eye area, fine natural skin texture kept (no plastic, no blur). Hair neat and glossy. Pure white background, same soft studio light. Looks like a real photo from a premium brand catalog (COS, Massimo Dutti), indistinguishable from an untouched real photograph.",
+  "row": 128,
+  "slot": "01",
+  "out": "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Cream/004557712164_7094_n022-off-white_cream_r128_01-front.jpg",
+  "front_job": "8fe7731f-ac00-4159-9429-7461dc04799e",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 1,
+  "refs": [
+   "678b72ce-d0ad-45b1-84ef-6e5b004fa1be"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Light professional retouch of this real fashion e-commerce photo, like a high-end retoucher would do. Keep the SAME real woman and her identity. Refine subtly: balance eye symmetry (both eyes equally open, same size and level, irises centered, gaze direct), even and harmonious facial features, without changing her face shape or who she is. Calm, confident, relaxed fashion-model expression, lips softly closed. Relax the shoulders and hands very slightly; same pose, framing and camera angle. Change the top garment (product 7095) to Cream / beige. Change the bottom garment (product N022) to Black Pants.  Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Keep every garment's exact cut, fabric weave, seams, stitching and buttons. MAKEUP: remove any dark or smoky eye makeup completely: no dark eyeshadow, no black eyeliner, no smudged liner under the eyes, no dark circles. Clean 'no-makeup' fashion-model look: bare-looking soft eyelids in a light neutral tone, a touch of soft brown mascara, natural groomed brows, fresh nude-pink lips, light natural blush. No shine, no highlighter, no contouring. SKIN: smoother, even, luminous but matte, softened under-eye area, fine natural skin texture kept (no plastic, no blur). Hair neat and glossy. Pure white background, same soft studio light. Looks like a real photo from a premium brand catalog (COS, Massimo Dutti), indistinguishable from an untouched real photograph.",
+  "row": 132,
+  "slot": "01",
+  "out": "output/On-Model/TOP 7095 + BOTTOM N022/Cream / beige - Black Pants/004557714977_7095_n022_cream-beige_black-pants_r132_01-front.jpg",
+  "front_job": "6a98be02-0b7d-4709-ac55-eb813c9a5bfd",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "815e1ba8-7e02-4d91-a2cc-4969cdaaae4b",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 7095) MUST be Cream / beige. The bottom garment (product N022) MUST be Black Pants. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 132,
+  "slot": "02",
+  "out": "output/On-Model/TOP 7095 + BOTTOM N022/Cream / beige - Black Pants/004557714977_7095_n022_cream-beige_black-pants_r132_02-three-quarter.jpg",
+  "front_job": "6a98be02-0b7d-4709-ac55-eb813c9a5bfd",
+  "issues": [
+   "ANATOMY",
+   "GARMENT_MISMATCH",
+   "IDENTITY"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 1,
+  "refs": [
+   "678b72ce-d0ad-45b1-84ef-6e5b004fa1be"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Light professional retouch of this real fashion e-commerce photo, like a high-end retoucher would do. Keep the SAME real woman and her identity. Refine subtly: balance eye symmetry (both eyes equally open, same size and level, irises centered, gaze direct), even and harmonious facial features, without changing her face shape or who she is. Calm, confident, relaxed fashion-model expression, lips softly closed. Relax the shoulders and hands very slightly; same pose, framing and camera angle. Change the top garment (product 7095) to Blush peach. Change the bottom garment (product N022) to White Pants.  Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Keep every garment's exact cut, fabric weave, seams, stitching and buttons. MAKEUP: remove any dark or smoky eye makeup completely: no dark eyeshadow, no black eyeliner, no smudged liner under the eyes, no dark circles. Clean 'no-makeup' fashion-model look: bare-looking soft eyelids in a light neutral tone, a touch of soft brown mascara, natural groomed brows, fresh nude-pink lips, light natural blush. No shine, no highlighter, no contouring. SKIN: smoother, even, luminous but matte, softened under-eye area, fine natural skin texture kept (no plastic, no blur). Hair neat and glossy. Pure white background, same soft studio light. Looks like a real photo from a premium brand catalog (COS, Massimo Dutti), indistinguishable from an untouched real photograph.",
+  "row": 133,
+  "slot": "01",
+  "out": "output/On-Model/TOP 7095 + BOTTOM N022/Blush peach - White Pants/004557714977_7095_n022_blush-peach_white-pants_r133_01-front.jpg",
+  "front_job": "41202695-9801-4382-86cb-fc32e34b4af5",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "2092e762-48ee-41c1-96a9-c3d055502ae3",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 7095) MUST be Blush peach. The bottom garment (product N022) MUST be White Pants. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 133,
+  "slot": "03",
+  "out": "output/On-Model/TOP 7095 + BOTTOM N022/Blush peach - White Pants/004557714977_7095_n022_blush-peach_white-pants_r133_03-back.jpg",
+  "front_job": "41202695-9801-4382-86cb-fc32e34b4af5",
+  "issues": [
+   "ANATOMY",
+   "COLOR_MISMATCH",
+   "IDENTITY"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 1,
+  "refs": [
+   "678b72ce-d0ad-45b1-84ef-6e5b004fa1be"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Light professional retouch of this real fashion e-commerce photo, like a high-end retoucher would do. Keep the SAME real woman and her identity. Refine subtly: balance eye symmetry (both eyes equally open, same size and level, irises centered, gaze direct), even and harmonious facial features, without changing her face shape or who she is. Calm, confident, relaxed fashion-model expression, lips softly closed. Relax the shoulders and hands very slightly; same pose, framing and camera angle. Change the top garment (product 7095) to Yellow. Change the bottom garment (product N022) to White Pants.  Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Keep every garment's exact cut, fabric weave, seams, stitching and buttons. MAKEUP: remove any dark or smoky eye makeup completely: no dark eyeshadow, no black eyeliner, no smudged liner under the eyes, no dark circles. Clean 'no-makeup' fashion-model look: bare-looking soft eyelids in a light neutral tone, a touch of soft brown mascara, natural groomed brows, fresh nude-pink lips, light natural blush. No shine, no highlighter, no contouring. SKIN: smoother, even, luminous but matte, softened under-eye area, fine natural skin texture kept (no plastic, no blur). Hair neat and glossy. Pure white background, same soft studio light. Looks like a real photo from a premium brand catalog (COS, Massimo Dutti), indistinguishable from an untouched real photograph.",
+  "row": 135,
+  "slot": "01",
+  "out": "output/On-Model/TOP 7095 + BOTTOM N022/Yellow - White Pants/004557714977_7095_n022_yellow_white-pants_r135_01-front.jpg",
+  "front_job": "a5d1b87f-71c5-4a28-a9e8-2e07af9a69d3",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 1,
+  "refs": [
+   "678b72ce-d0ad-45b1-84ef-6e5b004fa1be"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Light professional retouch of this real fashion e-commerce photo, like a high-end retoucher would do. Keep the SAME real woman and her identity. Refine subtly: balance eye symmetry (both eyes equally open, same size and level, irises centered, gaze direct), even and harmonious facial features, without changing her face shape or who she is. Calm, confident, relaxed fashion-model expression, lips softly closed. Relax the shoulders and hands very slightly; same pose, framing and camera angle. Change the top garment (product 7095) to Taupe. Change the bottom garment (product N022) to Black Pants.  Replace any footwear with closed-toe black leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Keep every garment's exact cut, fabric weave, seams, stitching and buttons. MAKEUP: remove any dark or smoky eye makeup completely: no dark eyeshadow, no black eyeliner, no smudged liner under the eyes, no dark circles. Clean 'no-makeup' fashion-model look: bare-looking soft eyelids in a light neutral tone, a touch of soft brown mascara, natural groomed brows, fresh nude-pink lips, light natural blush. No shine, no highlighter, no contouring. SKIN: smoother, even, luminous but matte, softened under-eye area, fine natural skin texture kept (no plastic, no blur). Hair neat and glossy. Pure white background, same soft studio light. Looks like a real photo from a premium brand catalog (COS, Massimo Dutti), indistinguishable from an untouched real photograph.",
+  "row": 137,
+  "slot": "01",
+  "out": "output/On-Model/TOP 7095 + BOTTOM N022/Taupe - Black Pants/004557714977_7095_n022_taupe_black-pants_r137_01-front.jpg",
+  "front_job": "1765317b-e620-4852-8c04-5f2aff1b3582",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "2092e762-48ee-41c1-96a9-c3d055502ae3",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 7095) MUST be Black. The bottom garment (product N022) MUST be White Pants. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe black leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 138,
+  "slot": "03",
+  "out": "output/On-Model/TOP 7095 + BOTTOM N022/Black - White Pants/004557714977_7095_n022_black_white-pants_r138_03-back.jpg",
+  "front_job": "5ab7d05c-fc08-43e5-aacf-dcdd58fcd79a",
+  "issues": [
+   "IDENTITY"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 1,
+  "refs": [
+   "e76953f7-f4b9-4c25-a87e-a7a3a15f0d67"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Light professional retouch of this real fashion e-commerce photo, like a high-end retoucher would do. Keep the SAME real woman and her identity. Refine subtly: balance eye symmetry (both eyes equally open, same size and level, irises centered, gaze direct), even and harmonious facial features, without changing her face shape or who she is. Calm, confident, relaxed fashion-model expression, lips softly closed. Relax the shoulders and hands very slightly; same pose, framing and camera angle. Change the top garment (product 7096) to Black.  Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Keep every garment's exact cut, fabric weave, seams, stitching and buttons. MAKEUP: remove any dark or smoky eye makeup completely: no dark eyeshadow, no black eyeliner, no smudged liner under the eyes, no dark circles. Clean 'no-makeup' fashion-model look: bare-looking soft eyelids in a light neutral tone, a touch of soft brown mascara, natural groomed brows, fresh nude-pink lips, light natural blush. No shine, no highlighter, no contouring. SKIN: smoother, even, luminous but matte, softened under-eye area, fine natural skin texture kept (no plastic, no blur). Hair neat and glossy. Pure white background, same soft studio light. Looks like a real photo from a premium brand catalog (COS, Massimo Dutti), indistinguishable from an untouched real photograph.",
+  "row": 141,
+  "slot": "01",
+  "out": "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Black/004557715738_7096_n022022-as-in-folder-name_black_r141_01-front.jpg",
+  "front_job": "743edeea-b866-41c1-acfc-86f8cc8b65d7",
+  "issues": [
+   "MAKEUP"
+  ],
+  "sev": "medium"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "7b3dce71-3efc-4775-a699-b91e8d169621",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product 7097) MUST be Camel brown. The bottom garment (product N023) MUST be White Jeans. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with clean minimal white leather low-top sneakers with flat soles. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 146,
+  "slot": "03",
+  "out": "output/On-Model/TOP 7097 + BOTTOM N023/Camel brown - White Jeans/004557715820_7097_n023_camel-brown_white-jeans_r146_03-back.jpg",
+  "front_job": "ce2cda12-7f9e-4a2e-bed0-6905e9437617",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "a2c67559-a439-45b7-964d-06a42bf4589e",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product BXX-7039) MUST be Cream. The bottom garment (product BXX-1384) MUST be Blue/Black/Pink/Brown/Beige Pants. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe cream leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 148,
+  "slot": "02",
+  "out": "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Cream - Blue/Black/Pink/Brown/Beige Pants/000676478837_bxx-7039_bxx-1384_cream_blue-black-pink-brown-beige-pants_r148_02-three-quarter.jpg",
+  "front_job": "66288872-765d-4d62-89a0-99a30f48d340",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "60e69174-14ed-43ed-aa58-3d9824668869",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product BXX-7039) MUST be Cream. The bottom garment (product BXX-1384) MUST be Blue/Black/Pink/Brown/Beige Pants. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe cream leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 148,
+  "slot": "03",
+  "out": "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Cream - Blue/Black/Pink/Brown/Beige Pants/000676478837_bxx-7039_bxx-1384_cream_blue-black-pink-brown-beige-pants_r148_03-back.jpg",
+  "front_job": "66288872-765d-4d62-89a0-99a30f48d340",
+  "issues": [
+   "COLOR_MISMATCH"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "60e69174-14ed-43ed-aa58-3d9824668869",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product BXX-7039) MUST be Kiwi green. The bottom garment (product BXX-1384) MUST be White Pants. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 150,
+  "slot": "03",
+  "out": "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Kiwi green - White Pants/000676478837_bxx-7039_bxx-1384_kiwi-green_white-pants_r150_03-back.jpg",
+  "front_job": "3517557f-db00-4ae1-a21b-a2dce05d96f9",
+  "issues": [
+   "COLOR_MISMATCH",
+   "SHOES"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "a2c67559-a439-45b7-964d-06a42bf4589e",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product BXX-7039) MUST be Turquoise. The bottom garment (product BXX-1384) MUST be White Pants. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 151,
+  "slot": "02",
+  "out": "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Turquoise - White Pants/000676478837_bxx-7039_bxx-1384_turquoise_white-pants_r151_02-three-quarter.jpg",
+  "front_job": "ee48a312-025b-470a-9d87-54518c1ba8e0",
+  "issues": [
+   "COLOR_MISMATCH",
+   "SHOES"
+  ],
+  "sev": "high"
+ },
+ {
+  "stage": 2,
+  "refs": [
+   "60e69174-14ed-43ed-aa58-3d9824668869",
+   "FRONT"
+  ],
+  "prompt": "Exactly ONE woman in the frame, no duplicate, no mirror, no reflection. Image 1 is a real fashion e-commerce photo to retouch; keep its pose, camera angle and framing exactly, with natural complete anatomy. Image 2 is the approved shot of the same woman in the same outfit. The top garment (product BXX-7039) MUST be Turquoise. The bottom garment (product BXX-1384) MUST be White Pants. Every garment's design (length, collar, buttons, sleeves, print, layers) must match image 2 exactly. Replace any footwear with closed-toe white leather ballet flats: round toe, completely flat sole, no heel, no straps, toes fully covered. Both feet fully visible and correctly proportioned. Never sandals, heels, or open toes. Her hair color, length and texture and her skin tone must match image 2 exactly. IMPORTANT: remove any dark or smoky eye makeup entirely: the eyelids and under-eye area show only clean natural skin, as if she wears no eye makeup except light brown mascara. Real skin texture, matte. Pure white background, soft studio light. Indistinguishable from an untouched real photograph.",
+  "row": 151,
+  "slot": "03",
+  "out": "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Turquoise - White Pants/000676478837_bxx-7039_bxx-1384_turquoise_white-pants_r151_03-back.jpg",
+  "front_job": "ee48a312-025b-470a-9d87-54518c1ba8e0",
+  "issues": [
+   "COLOR_MISMATCH",
+   "IDENTITY",
+   "SHOES"
+  ],
+  "sev": "high"
+ }
+]
