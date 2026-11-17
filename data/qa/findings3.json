@@ -1,0 +1,578 @@
+[
+ {
+  "sheet": "onmodel_03.jpg",
+  "row": 9,
+  "item": "03-back",
+  "issue": "COLOR_MISMATCH",
+  "severity": "high",
+  "note": "Jacket is black in the back shot; it is lavender in all other shots."
+ },
+ {
+  "sheet": "onmodel_03.jpg",
+  "row": 9,
+  "item": "05-editorial-back",
+  "issue": "IDENTITY",
+  "severity": "low",
+  "note": "Hair looks shorter and straighter than in 01-front."
+ },
+ {
+  "sheet": "onmodel_08.jpg",
+  "row": 24,
+  "item": "03-back",
+  "issue": "WRONG_ANGLE",
+  "severity": "medium",
+  "note": "Body is turned three-quarter with the face in profile, not a straight back view."
+ },
+ {
+  "sheet": "onmodel_08.jpg",
+  "row": 24,
+  "item": "03-back",
+  "issue": "IDENTITY",
+  "severity": "low",
+  "note": "Hair looks shorter (shoulder length) than in 01-front."
+ },
+ {
+  "sheet": "onmodel_08.jpg",
+  "row": 26,
+  "item": "03-back",
+  "issue": "COLOR_MISMATCH",
+  "severity": "high",
+  "note": "Top is black in the back shot; it is white in all other shots."
+ },
+ {
+  "sheet": "onmodel_08.jpg",
+  "row": 26,
+  "item": "03-back",
+  "issue": "IDENTITY",
+  "severity": "low",
+  "note": "Hair is a short bob in the back shot, longer in 01-front."
+ },
+ {
+  "sheet": "onmodel_13.jpg",
+  "row": 44,
+  "item": "02-three-quarter",
+  "issue": "FRAMING",
+  "severity": "high",
+  "note": "Shot is cropped at the thighs (feet cut off) and is a near-front view, not a full-body three-quarter."
+ },
+ {
+  "sheet": "onmodel_13.jpg",
+  "row": 45,
+  "item": "02-three-quarter",
+  "issue": "FRAMING",
+  "severity": "high",
+  "note": "Cropped at the thighs, feet cut off; must be full body."
+ },
+ {
+  "sheet": "onmodel_13.jpg",
+  "row": 45,
+  "item": "03-back",
+  "issue": "FRAMING",
+  "severity": "high",
+  "note": "Close crop from head to hips, feet cut off; must be full body."
+ },
+ {
+  "sheet": "onmodel_13.jpg",
+  "row": 45,
+  "item": "05-editorial-back",
+  "issue": "WRONG_ANGLE",
+  "severity": "medium",
+  "note": "Shows a side profile, not the back."
+ },
+ {
+  "sheet": "onmodel_13.jpg",
+  "row": 45,
+  "item": "01-front",
+  "issue": "MAKEUP",
+  "severity": "medium",
+  "note": "Eye makeup is noticeably dark/smoky compared with the other rows."
+ },
+ {
+  "sheet": "onmodel_13.jpg",
+  "row": 45,
+  "item": "03-back",
+  "issue": "GARMENT_MISMATCH",
+  "severity": "low",
+  "note": "Back shows a centre seam like the front; row 44 back of the same model has none."
+ },
+ {
+  "sheet": "onmodel_18.jpg",
+  "row": 65,
+  "item": "03-back",
+  "issue": "COLOR_MISMATCH",
+  "severity": "high",
+  "note": "Trousers are dark olive in the back shot; white jeans in the other shots and the caption."
+ },
+ {
+  "sheet": "onmodel_18.jpg",
+  "row": 67,
+  "item": "01-front",
+  "issue": "WRONG_ANGLE",
+  "severity": "high",
+  "note": "Shot is a three-quarter view, not a straight front."
+ },
+ {
+  "sheet": "onmodel_18.jpg",
+  "row": 67,
+  "item": "03-back",
+  "issue": "WRONG_ANGLE",
+  "severity": "high",
+  "note": "Shot shows the front of the model, not the back."
+ },
+ {
+  "sheet": "onmodel_28.jpg",
+  "row": 95,
+  "item": "03-back",
+  "issue": "FRAMING",
+  "severity": "high",
+  "note": "Close crop from head to thighs, feet cut off; must be full body."
+ },
+ {
+  "sheet": "onmodel_28.jpg",
+  "row": 95,
+  "item": "04-editorial-front",
+  "issue": "FRAMING",
+  "severity": "low",
+  "note": "Almost full body instead of a closer crop."
+ },
+ {
+  "sheet": "onmodel_28.jpg",
+  "row": 97,
+  "item": "02-three-quarter",
+  "issue": "WRONG_ANGLE",
+  "severity": "high",
+  "note": "Plain front view, nearly identical to 01-front."
+ },
+ {
+  "sheet": "onmodel_33.jpg",
+  "row": 110,
+  "item": "01-front",
+  "issue": "BACKGROUND",
+  "severity": "medium",
+  "note": "Grey cast on the background (01, 02 and 03 are all grey, 04 is white)."
+ },
+ {
+  "sheet": "onmodel_33.jpg",
+  "row": 110,
+  "item": "02-three-quarter",
+  "issue": "FRAMING",
+  "severity": "high",
+  "note": "Cropped at the thighs, feet cut off; must be full body."
+ },
+ {
+  "sheet": "onmodel_33.jpg",
+  "row": 110,
+  "item": "02-three-quarter",
+  "issue": "BACKGROUND",
+  "severity": "medium",
+  "note": "Grey background cast."
+ },
+ {
+  "sheet": "onmodel_33.jpg",
+  "row": 110,
+  "item": "03-back",
+  "issue": "BACKGROUND",
+  "severity": "medium",
+  "note": "Grey background cast."
+ },
+ {
+  "sheet": "onmodel_33.jpg",
+  "row": 110,
+  "item": "03-back",
+  "issue": "IDENTITY",
+  "severity": "low",
+  "note": "Hair looks shorter and darker than in 01-front."
+ },
+ {
+  "sheet": "onmodel_33.jpg",
+  "row": 111,
+  "item": "03-back",
+  "issue": "COLOR_MISMATCH",
+  "severity": "high",
+  "note": "Hoodie is beige in the back shot; it is black in all other shots."
+ },
+ {
+  "sheet": "onmodel_33.jpg",
+  "row": 111,
+  "item": "02-three-quarter",
+  "issue": "MAKEUP",
+  "severity": "low",
+  "note": "Eye makeup looks somewhat dark."
+ },
+ {
+  "sheet": "onmodel_33.jpg",
+  "row": 112,
+  "item": "02-three-quarter",
+  "issue": "WRONG_ANGLE",
+  "severity": "high",
+  "note": "Plain front view, nearly identical to 01-front."
+ },
+ {
+  "sheet": "onmodel_38.jpg",
+  "row": 125,
+  "item": "03-back",
+  "issue": "IDENTITY",
+  "severity": "low",
+  "note": "Hair is much longer and straighter in the back shot than in 01-front."
+ },
+ {
+  "sheet": "onmodel_38.jpg",
+  "row": 126,
+  "item": "03-back",
+  "issue": "COLOR_MISMATCH",
+  "severity": "high",
+  "note": "Coat is black and jeans are dark grey in the back shot; olive coat and white jeans elsewhere."
+ },
+ {
+  "sheet": "onmodel_38.jpg",
+  "row": 126,
+  "item": "03-back",
+  "issue": "SHOES",
+  "severity": "high",
+  "note": "Chunky light sneakers in the back shot; white ballerinas in 01 and 02."
+ },
+ {
+  "sheet": "onmodel_38.jpg",
+  "row": 126,
+  "item": "03-back",
+  "issue": "IDENTITY",
+  "severity": "medium",
+  "note": "Hair is shorter and redder than in 01-front."
+ },
+ {
+  "sheet": "onmodel_38.jpg",
+  "row": 126,
+  "item": "05-editorial-back",
+  "issue": "IDENTITY",
+  "severity": "low",
+  "note": "Hair is a shorter bob than in 01-front."
+ },
+ {
+  "sheet": "onmodel_38.jpg",
+  "row": 127,
+  "item": "02-three-quarter",
+  "issue": "WRONG_ANGLE",
+  "severity": "high",
+  "note": "Plain front view, nearly identical to 01-front."
+ },
+ {
+  "sheet": "onmodel_38.jpg",
+  "row": 127,
+  "item": "03-back",
+  "issue": "IDENTITY",
+  "severity": "low",
+  "note": "Hair is much longer and straighter in the back shot than in 01-front."
+ },
+ {
+  "sheet": "onmodel_43.jpg",
+  "row": 140,
+  "item": "03-back",
+  "issue": "FRAMING",
+  "severity": "high",
+  "note": "Close crop from head to thighs, feet cut off; must be full body."
+ },
+ {
+  "sheet": "onmodel_43.jpg",
+  "row": 141,
+  "item": "01-front",
+  "issue": "MAKEUP",
+  "severity": "medium",
+  "note": "Dark smoky eye makeup (also visible in 02)."
+ },
+ {
+  "sheet": "onmodel_43.jpg",
+  "row": 141,
+  "item": "03-back",
+  "issue": "IDENTITY",
+  "severity": "low",
+  "note": "Hair is a short bob in the back shot, long in 01-front."
+ },
+ {
+  "sheet": "onmodel_43.jpg",
+  "row": 142,
+  "item": "03-back",
+  "issue": "FRAMING",
+  "severity": "high",
+  "note": "Close crop from head to thighs, feet cut off; must be full body."
+ },
+ {
+  "sheet": "ghost_02.jpg",
+  "row": null,
+  "item": "bottom_2500b_grey-pants_front",
+  "issue": "OTHER",
+  "severity": "high",
+  "note": "Waistband is unbuttoned and gaping open, and it is a darker twill jean while the back is a smooth light grey wide-leg trouser."
+ },
+ {
+  "sheet": "ghost_02.jpg",
+  "row": null,
+  "item": "bottom_2500b_grey-beige-jeans_back",
+  "issue": "OTHER",
+  "severity": "high",
+  "note": "Back is cream/off-white; front is washed grey-beige denim, so they look like different garments."
+ },
+ {
+  "sheet": "ghost_02.jpg",
+  "row": null,
+  "item": "bottom_2500b_grey-beige-jeans_front",
+  "issue": "OTHER",
+  "severity": "medium",
+  "note": "Waist has a deep hollow cut-out shape that looks deformed."
+ },
+ {
+  "sheet": "ghost_02.jpg",
+  "row": null,
+  "item": "bottom_2500b_light-blue-jeans_front",
+  "issue": "BACKGROUND",
+  "severity": "medium",
+  "note": "Grey floor/shadow patch in the lower left, background not clean white."
+ },
+ {
+  "sheet": "ghost_02.jpg",
+  "row": null,
+  "item": "bottom_2500b_original_front",
+  "issue": "OTHER",
+  "severity": "low",
+  "note": "Front looks almost identical to the back (no fly or front detail visible)."
+ },
+ {
+  "sheet": "ghost_02.jpg",
+  "row": null,
+  "item": "bottom_601-black_original_front",
+  "issue": "OTHER",
+  "severity": "high",
+  "note": "Baggy shape with cuffed hems and an odd waistband; back is a slim straight trouser, so front and back look like different garments."
+ },
+ {
+  "sheet": "ghost_02.jpg",
+  "row": null,
+  "item": "bottom_601-black_white-jeans-or-sweatpants_front",
+  "issue": "OTHER",
+  "severity": "high",
+  "note": "Front is an elastic-waist sweatpant; back is a five-pocket jean with belt loops."
+ },
+ {
+  "sheet": "ghost_02.jpg",
+  "row": null,
+  "item": "bottom_601_black-pants_front",
+  "issue": "OTHER",
+  "severity": "high",
+  "note": "Front is slim and tapered; back is a wide-leg high-waist trouser."
+ },
+ {
+  "sheet": "ghost_02.jpg",
+  "row": null,
+  "item": "bottom_601_original_front",
+  "issue": "OTHER",
+  "severity": "medium",
+  "note": "Front is a tapered cropped chino; back is a longer straight leg; background also has a slight grey cast."
+ },
+ {
+  "sheet": "ghost_02.jpg",
+  "row": null,
+  "item": "bottom_bxx-1384_blue-black-pink-brown-beige-pant (1st tile)",
+  "issue": "OTHER",
+  "severity": "medium",
+  "note": "Near-black in this tile but clearly navy in the paired tile; label is truncated so side cannot be confirmed."
+ },
+ {
+  "sheet": "ghost_02.jpg",
+  "row": null,
+  "item": "bottom_bxx-1384_white-black-pants_back",
+  "issue": "COLOR_MISMATCH",
+  "severity": "high",
+  "note": "Trousers are solid navy; name says white-black and the front is white with black trim."
+ },
+ {
+  "sheet": "ghost_07.jpg",
+  "row": null,
+  "item": "top_126-451a_grey_back",
+  "issue": "OTHER",
+  "severity": "high",
+  "note": "Back has white polka dots and a shirt collar; front is plain solid grey."
+ },
+ {
+  "sheet": "ghost_07.jpg",
+  "row": null,
+  "item": "top_126-451a_slate-blue_back",
+  "issue": "OTHER",
+  "severity": "high",
+  "note": "Back has a dotted print and shirt collar; front is plain solid slate blue."
+ },
+ {
+  "sheet": "ghost_07.jpg",
+  "row": null,
+  "item": "top_126-451a_white-with-dots_back",
+  "issue": "COLOR_MISMATCH",
+  "severity": "high",
+  "note": "Back is black with white dots; front is white with black dots."
+ },
+ {
+  "sheet": "ghost_07.jpg",
+  "row": null,
+  "item": "top_126-474_chocolate-brown-leaf-print_front",
+  "issue": "OTHER",
+  "severity": "medium",
+  "note": "Leaf print is white/grey on the front but beige on the back; brown shade also differs."
+ },
+ {
+  "sheet": "ghost_07.jpg",
+  "row": null,
+  "item": "top_126-474_beige-leaf-print_front",
+  "issue": "OTHER",
+  "severity": "low",
+  "note": "Print is white leaves on beige; back is tan leaves on cream."
+ },
+ {
+  "sheet": "ghost_07.jpg",
+  "row": null,
+  "item": "top_126-451a_brown-check_front",
+  "issue": "BACKGROUND",
+  "severity": "low",
+  "note": "Grey drop shadow under the garment."
+ },
+ {
+  "sheet": "ghost_12.jpg",
+  "row": null,
+  "item": "top_5004_burgundy_back",
+  "issue": "OTHER",
+  "severity": "high",
+  "note": "Shows the fold-over collar and centre seam, so it looks like a front view."
+ },
+ {
+  "sheet": "ghost_12.jpg",
+  "row": null,
+  "item": "top_5004_burgundy_front",
+  "issue": "OTHER",
+  "severity": "high",
+  "note": "Vest is open down the front like a zip cardigan; other colors are closed pullovers."
+ },
+ {
+  "sheet": "ghost_12.jpg",
+  "row": null,
+  "item": "top_5004_dark-brown_back",
+  "issue": "OTHER",
+  "severity": "medium",
+  "note": "Back has a plain crew neck with no collar; front has a high fold-over collar."
+ },
+ {
+  "sheet": "ghost_12.jpg",
+  "row": null,
+  "item": "top_5004_dusty-mauve-sleeveless-over-white-shirt (1st tile)",
+  "issue": "OTHER",
+  "severity": "high",
+  "note": "White long shirt sleeves are attached to the vest; the paired tile has no sleeves."
+ },
+ {
+  "sheet": "ghost_12.jpg",
+  "row": null,
+  "item": "top_5004_lavender-grey_back",
+  "issue": "COLOR_MISMATCH",
+  "severity": "high",
+  "note": "Back is dusty mauve/beige, front is lavender-grey."
+ },
+ {
+  "sheet": "ghost_12.jpg",
+  "row": null,
+  "item": "top_5004_lavender-grey_front",
+  "issue": "OTHER",
+  "severity": "medium",
+  "note": "Has a keyhole cut-out under the collar that no other color of this vest has."
+ },
+ {
+  "sheet": "ghost_12.jpg",
+  "row": null,
+  "item": "top_5004_navy_back",
+  "issue": "OTHER",
+  "severity": "medium",
+  "note": "Back shows the fold-over collar and centre seam while the front is a plain turtleneck; sides look swapped."
+ },
+ {
+  "sheet": "ghost_12.jpg",
+  "row": null,
+  "item": "top_5004_white_back",
+  "issue": "OTHER",
+  "severity": "medium",
+  "note": "Back shows a fold-over collar with a tab, looks like a second front."
+ },
+ {
+  "sheet": "ghost_12.jpg",
+  "row": null,
+  "item": "top_5005_chocolate-brown_front",
+  "issue": "OTHER",
+  "severity": "low",
+  "note": "Front has a cable texture at the hem that the back and other colors do not have."
+ },
+ {
+  "sheet": "ghost_12.jpg",
+  "row": null,
+  "item": "top_5005_grey_back",
+  "issue": "COLOR_MISMATCH",
+  "severity": "low",
+  "note": "Back is cool light grey; front is a warmer lilac-grey."
+ },
+ {
+  "sheet": "ghost_12.jpg",
+  "row": null,
+  "item": "top_5005_white_back",
+  "issue": "OTHER",
+  "severity": "low",
+  "note": "Back neckline looks like an open shirt collar instead of a mock neck."
+ },
+ {
+  "sheet": "ghost_17.jpg",
+  "row": null,
+  "item": "top_7094_cream_front",
+  "issue": "COLOR_MISMATCH",
+  "severity": "high",
+  "note": "Front is taupe/grey-beige, not cream; back is cream."
+ },
+ {
+  "sheet": "ghost_17.jpg",
+  "row": null,
+  "item": "top_7094_grey_front",
+  "issue": "COLOR_MISMATCH",
+  "severity": "high",
+  "note": "Front is taupe-beige (same as khaki-taupe), back is dark herringbone grey."
+ },
+ {
+  "sheet": "ghost_17.jpg",
+  "row": null,
+  "item": "top_7095_blush-peach_front",
+  "issue": "COLOR_MISMATCH",
+  "severity": "high",
+  "note": "Front is cream/ivory; back is peach."
+ },
+ {
+  "sheet": "ghost_17.jpg",
+  "row": null,
+  "item": "top_7095_blush-peach_back",
+  "issue": "OTHER",
+  "severity": "low",
+  "note": "Belt ends hang below the hem at the back."
+ },
+ {
+  "sheet": "ghost_17.jpg",
+  "row": null,
+  "item": "top_7094_powder-blue_back",
+  "issue": "COLOR_MISMATCH",
+  "severity": "low",
+  "note": "Back is a darker dusty blue than the light front."
+ },
+ {
+  "sheet": "ghost_17.jpg",
+  "row": null,
+  "item": "top_7094_powder-blue_front",
+  "issue": "OTHER",
+  "severity": "low",
+  "note": "Belt end curls oddly at the lower left hem."
+ },
+ {
+  "sheet": "ghost_17.jpg",
+  "row": null,
+  "item": "top_7094_cream_front",
+  "issue": "BACKGROUND",
+  "severity": "low",
+  "note": "Grey drop shadow under the garment."
+ }
+]
