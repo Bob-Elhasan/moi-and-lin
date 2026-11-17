@@ -198,5 +198,495 @@
   "generation_id": "2TR6yymPM2QjscC9GdBg",
   "status": "completed",
   "error": null
+ },
+ {
+  "row": 127,
+  "shot": "05-editorial-back",
+  "pose": "B08",
+  "folder": "On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Khaki taupe",
+  "file": "004557712164_7094_n022-off-white_khaki-taupe_r127_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 128,
+  "shot": "04-editorial-front",
+  "pose": "F03",
+  "folder": "On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Cream",
+  "file": "004557712164_7094_n022-off-white_cream_r128_04-editorial-front.jpg",
+  "generation_id": "UAKa6fsBUOboLFzxkGtr",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 128,
+  "shot": "05-editorial-back",
+  "pose": "B01",
+  "folder": "On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Cream",
+  "file": "004557712164_7094_n022-off-white_cream_r128_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 129,
+  "shot": "04-editorial-front",
+  "pose": "F04",
+  "folder": "On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Dusty mauve / lilac",
+  "file": "004557712164_7094_n022-off-white_dusty-mauve-lilac_r129_04-editorial-front.jpg",
+  "generation_id": "IPcySSIe9PD3Nem4xJOQ",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 129,
+  "shot": "05-editorial-back",
+  "pose": "B04",
+  "folder": "On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Dusty mauve / lilac",
+  "file": "004557712164_7094_n022-off-white_dusty-mauve-lilac_r129_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 130,
+  "shot": "04-editorial-front",
+  "pose": "F06",
+  "folder": "On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Powder blue - White/Grey/Black Pants",
+  "file": "004557712164_7094_n022-off-white_powder-blue_white-grey-black-pants_r130_04-editorial-front.jpg",
+  "generation_id": "b7qDX2sFDwtTU5NYq9CO",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 130,
+  "shot": "05-editorial-back",
+  "pose": "B09",
+  "folder": "On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Powder blue - White/Grey/Black Pants",
+  "file": "004557712164_7094_n022-off-white_powder-blue_white-grey-black-pants_r130_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 131,
+  "shot": "04-editorial-front",
+  "pose": "F07",
+  "folder": "On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Grey - Black Pants",
+  "file": "004557712164_7094_n022-off-white_grey_black-pants_r131_04-editorial-front.jpg",
+  "generation_id": "6L6m1f7GwSungttjDNEc",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 131,
+  "shot": "05-editorial-back",
+  "pose": "B02",
+  "folder": "On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Grey - Black Pants",
+  "file": "004557712164_7094_n022-off-white_grey_black-pants_r131_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 132,
+  "shot": "04-editorial-front",
+  "pose": "F08",
+  "folder": "On-Model/TOP 7095 + BOTTOM N022/Cream / beige - Black Pants",
+  "file": "004557714977_7095_n022_cream-beige_black-pants_r132_04-editorial-front.jpg",
+  "generation_id": "8uuDyaNN7FMJx0RhdUTK",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 132,
+  "shot": "05-editorial-back",
+  "pose": "B04",
+  "folder": "On-Model/TOP 7095 + BOTTOM N022/Cream / beige - Black Pants",
+  "file": "004557714977_7095_n022_cream-beige_black-pants_r132_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 133,
+  "shot": "04-editorial-front",
+  "pose": "F10",
+  "folder": "On-Model/TOP 7095 + BOTTOM N022/Blush peach - White Pants",
+  "file": "004557714977_7095_n022_blush-peach_white-pants_r133_04-editorial-front.jpg",
+  "generation_id": "z9TpVlhFMjLbmWSRuWYy",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 133,
+  "shot": "05-editorial-back",
+  "pose": "B08",
+  "folder": "On-Model/TOP 7095 + BOTTOM N022/Blush peach - White Pants",
+  "file": "004557714977_7095_n022_blush-peach_white-pants_r133_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 134,
+  "shot": "04-editorial-front",
+  "pose": "F01",
+  "folder": "On-Model/TOP 7095 + BOTTOM N022/Purple - White Pants",
+  "file": "004557714977_7095_n022_purple_white-pants_r134_04-editorial-front.jpg",
+  "generation_id": "yeqXi2dJ3X5jOQrTphM1",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 134,
+  "shot": "05-editorial-back",
+  "pose": "B01",
+  "folder": "On-Model/TOP 7095 + BOTTOM N022/Purple - White Pants",
+  "file": "004557714977_7095_n022_purple_white-pants_r134_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 135,
+  "shot": "04-editorial-front",
+  "pose": "F02",
+  "folder": "On-Model/TOP 7095 + BOTTOM N022/Yellow - White Pants",
+  "file": "004557714977_7095_n022_yellow_white-pants_r135_04-editorial-front.jpg",
+  "generation_id": "lbC2UvjuLoTQKk6WtuYs",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 135,
+  "shot": "05-editorial-back",
+  "pose": "B05",
+  "folder": "On-Model/TOP 7095 + BOTTOM N022/Yellow - White Pants",
+  "file": "004557714977_7095_n022_yellow_white-pants_r135_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 136,
+  "shot": "04-editorial-front",
+  "pose": "F03",
+  "folder": "On-Model/TOP 7095 + BOTTOM N022/Grey - White Pants",
+  "file": "004557714977_7095_n022_grey_white-pants_r136_04-editorial-front.jpg",
+  "generation_id": "V5rS477TjZ9uX5xneYza",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 136,
+  "shot": "05-editorial-back",
+  "pose": "B09",
+  "folder": "On-Model/TOP 7095 + BOTTOM N022/Grey - White Pants",
+  "file": "004557714977_7095_n022_grey_white-pants_r136_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 137,
+  "shot": "04-editorial-front",
+  "pose": "F04",
+  "folder": "On-Model/TOP 7095 + BOTTOM N022/Taupe - Black Pants",
+  "file": "004557714977_7095_n022_taupe_black-pants_r137_04-editorial-front.jpg",
+  "generation_id": "6eBbnaFu4ncfQXWClFdp",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 137,
+  "shot": "05-editorial-back",
+  "pose": "B02",
+  "folder": "On-Model/TOP 7095 + BOTTOM N022/Taupe - Black Pants",
+  "file": "004557714977_7095_n022_taupe_black-pants_r137_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 138,
+  "shot": "04-editorial-front",
+  "pose": "F06",
+  "folder": "On-Model/TOP 7095 + BOTTOM N022/Black - White Pants",
+  "file": "004557714977_7095_n022_black_white-pants_r138_04-editorial-front.jpg",
+  "generation_id": "CQzjFUsEHVyIpP3oU8lI",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 138,
+  "shot": "05-editorial-back",
+  "pose": "B06",
+  "folder": "On-Model/TOP 7095 + BOTTOM N022/Black - White Pants",
+  "file": "004557714977_7095_n022_black_white-pants_r138_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 139,
+  "shot": "04-editorial-front",
+  "pose": "F10",
+  "folder": "On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Cream / ivory",
+  "file": "004557715738_7096_n022022-as-in-folder-name_cream-ivory_r139_04-editorial-front.jpg",
+  "generation_id": "x4AO9Kz0nYvGo2yFltKE",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 139,
+  "shot": "05-editorial-back",
+  "pose": "B08",
+  "folder": "On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Cream / ivory",
+  "file": "004557715738_7096_n022022-as-in-folder-name_cream-ivory_r139_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 140,
+  "shot": "04-editorial-front",
+  "pose": "F01",
+  "folder": "On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Pink - White Jeans",
+  "file": "004557715738_7096_n022022-as-in-folder-name_pink_white-jeans_r140_04-editorial-front.jpg",
+  "generation_id": "ldnXVkXsQkDXK9GAUPQQ",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 140,
+  "shot": "05-editorial-back",
+  "pose": "B01",
+  "folder": "On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Pink - White Jeans",
+  "file": "004557715738_7096_n022022-as-in-folder-name_pink_white-jeans_r140_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 141,
+  "shot": "04-editorial-front",
+  "pose": "F02",
+  "folder": "On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Black",
+  "file": "004557715738_7096_n022022-as-in-folder-name_black_r141_04-editorial-front.jpg",
+  "generation_id": "JcpOLywyfUBi1ljvuNTm",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 141,
+  "shot": "05-editorial-back",
+  "pose": "B04",
+  "folder": "On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Black",
+  "file": "004557715738_7096_n022022-as-in-folder-name_black_r141_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 142,
+  "shot": "04-editorial-front",
+  "pose": "F04",
+  "folder": "On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Blush beige - Grey jeans",
+  "file": "004557715738_7096_n022022-as-in-folder-name_blush-beige_grey-jeans_r142_04-editorial-front.jpg",
+  "generation_id": "Y6O1KTenbQWN1K6ouGVA",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 142,
+  "shot": "05-editorial-back",
+  "pose": "B09",
+  "folder": "On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Blush beige - Grey jeans",
+  "file": "004557715738_7096_n022022-as-in-folder-name_blush-beige_grey-jeans_r142_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 143,
+  "shot": "04-editorial-front",
+  "pose": "F02",
+  "folder": "On-Model/TOP 7097 + BOTTOM N023/Black",
+  "file": "004557715820_7097_n023_black_r143_04-editorial-front.jpg",
+  "generation_id": "eIsA2TYqXnRwG0zJzwxS",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 143,
+  "shot": "05-editorial-back",
+  "pose": "B01",
+  "folder": "On-Model/TOP 7097 + BOTTOM N023/Black",
+  "file": "004557715820_7097_n023_black_r143_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 144,
+  "shot": "04-editorial-front",
+  "pose": "F03",
+  "folder": "On-Model/TOP 7097 + BOTTOM N023/Burgundy - White Jeans",
+  "file": "004557715820_7097_n023_burgundy_white-jeans_r144_04-editorial-front.jpg",
+  "generation_id": "a7YaU9dSw8cMAtCHroYt",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 144,
+  "shot": "05-editorial-back",
+  "pose": "B04",
+  "folder": "On-Model/TOP 7097 + BOTTOM N023/Burgundy - White Jeans",
+  "file": "004557715820_7097_n023_burgundy_white-jeans_r144_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 145,
+  "shot": "04-editorial-front",
+  "pose": "F04",
+  "folder": "On-Model/TOP 7097 + BOTTOM N023/Beige / stone",
+  "file": "004557715820_7097_n023_beige-stone_r145_04-editorial-front.jpg",
+  "generation_id": "LPJaGAYIw6gjHiOPr2Sa",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 145,
+  "shot": "05-editorial-back",
+  "pose": "B08",
+  "folder": "On-Model/TOP 7097 + BOTTOM N023/Beige / stone",
+  "file": "004557715820_7097_n023_beige-stone_r145_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 146,
+  "shot": "04-editorial-front",
+  "pose": "F06",
+  "folder": "On-Model/TOP 7097 + BOTTOM N023/Camel brown - White Jeans",
+  "file": "004557715820_7097_n023_camel-brown_white-jeans_r146_04-editorial-front.jpg",
+  "generation_id": "uIp15dACIc3x2BzJYizX",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 146,
+  "shot": "05-editorial-back",
+  "pose": "B02",
+  "folder": "On-Model/TOP 7097 + BOTTOM N023/Camel brown - White Jeans",
+  "file": "004557715820_7097_n023_camel-brown_white-jeans_r146_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 147,
+  "shot": "04-editorial-front",
+  "pose": "F07",
+  "folder": "On-Model/TOP 7097 + BOTTOM N023/Dark brown",
+  "file": "004557715820_7097_n023_dark-brown_r147_04-editorial-front.jpg",
+  "generation_id": "Xx5WAPFvKtZy9Vwr4Tod",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 147,
+  "shot": "05-editorial-back",
+  "pose": "B05",
+  "folder": "On-Model/TOP 7097 + BOTTOM N023/Dark brown",
+  "file": "004557715820_7097_n023_dark-brown_r147_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 148,
+  "shot": "04-editorial-front",
+  "pose": "F09",
+  "folder": "On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Cream - Blue/Black/Pink/Brown/Beige Pants",
+  "file": "000676478837_bxx-7039_bxx-1384_cream_blue-black-pink-brown-beige-pants_r148_04-editorial-front.jpg",
+  "generation_id": "5mEse27bX9YyVfbq4OiL",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 148,
+  "shot": "05-editorial-back",
+  "pose": "B07",
+  "folder": "On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Cream - Blue/Black/Pink/Brown/Beige Pants",
+  "file": "000676478837_bxx-7039_bxx-1384_cream_blue-black-pink-brown-beige-pants_r148_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 149,
+  "shot": "04-editorial-front",
+  "pose": "F01",
+  "folder": "On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Chocolate brown - White /Black Pants",
+  "file": "000676478837_bxx-7039_bxx-1384_chocolate-brown_white-black-pants_r149_04-editorial-front.jpg",
+  "generation_id": "1YbsI1nX43kp861KQ2VX",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 149,
+  "shot": "05-editorial-back",
+  "pose": "B01",
+  "folder": "On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Chocolate brown - White /Black Pants",
+  "file": "000676478837_bxx-7039_bxx-1384_chocolate-brown_white-black-pants_r149_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 150,
+  "shot": "04-editorial-front",
+  "pose": "F02",
+  "folder": "On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Kiwi green - White Pants",
+  "file": "000676478837_bxx-7039_bxx-1384_kiwi-green_white-pants_r150_04-editorial-front.jpg",
+  "generation_id": "cTugSWC4hTvovl6nO9wq",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 150,
+  "shot": "05-editorial-back",
+  "pose": "B04",
+  "folder": "On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Kiwi green - White Pants",
+  "file": "000676478837_bxx-7039_bxx-1384_kiwi-green_white-pants_r150_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
+ },
+ {
+  "row": 151,
+  "shot": "04-editorial-front",
+  "pose": "F03",
+  "folder": "On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Turquoise - White Pants",
+  "file": "000676478837_bxx-7039_bxx-1384_turquoise_white-pants_r151_04-editorial-front.jpg",
+  "generation_id": "xTdoTNR5SftaSs4bV46T",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "row": 151,
+  "shot": "05-editorial-back",
+  "pose": "B08",
+  "folder": "On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Turquoise - White Pants",
+  "file": "000676478837_bxx-7039_bxx-1384_turquoise_white-pants_r151_05-editorial-back.jpg",
+  "generation_id": null,
+  "status": "not_run",
+  "error": "held: 2-ref cost"
  }
 ]
