@@ -1,0 +1,58 @@
+Product code,Type,Description (EN),Description (AR),Number of colours,Colours,Shown paired with (PDF),Code in existing photo catalog,Studio photos exist,PDF page,Notes
+5004,Top,Sleeveless turtle-neck knit pullover,هاي كول كت ساده,7,"Café, Burgundy, Navy, White, Brown, Gray, Black",2500B,5004,Yes,1,
+2500B,Bottom,Plain knit trousers,بنطلون تريكو ساده,6,"Off White, Black, Burgundy, Rose, Café, Beige","5003, 5004, 5010",2500B,Yes,1,
+5006,Top,Knit pullover with button hem detail,بلوفر ساده 3 زراير اسفل,7,"Black, Navy, Brown, Burgundy, Gray, Café, White",2400B,5006,Yes,1,
+2400B,Bottom,Plain knit trousers,بنطلون تريكو ساده,3,"Gray, Off White, Beige",5006,2400B,Yes,1,
+5005,Top,Plain oversized mock-neck knit pullover,هاف كول اوفر سايز ساده,5,"Gray, Brown, Café, Navy, White",N022,5005,Yes,1,
+N022,Bottom,,,5,"Off White, Black, Burgundy, Beige, Olive","21008, 2400A, 2403, 2410, 2505, 5005, 5008, 5010, 604, 7080, 7088, 7094, 7095",N022 / N022 OFF WHITE,Yes,1,Bottom 'not in catalogue' in the PDF: no description given.
+2505,Top,Plain knit vest,فيست تريكو ساده,3,"White, Burgundy, Brown",N022,2505,Yes,2,
+5003,Top,Plain v-neck pullover,بلوفر تريكو ساده,6,"Café, Black, Brown, Gray, Navy, White",2500B,5003,Yes,2,
+2500A,Top,Hooded pullover with pockets,بلوفر كابيشو وجيوب,3,"Off White, Black, Burgundy",N025,,No,2,
+N025,Bottom,,,4,"Navy, Black, Blue, Dark Blue","1438, 2500A",N025,Yes,2,Bottom 'not in catalogue': no description.
+25003,Top,Plain crew-neck pullover,بلوفر روند كتف ساقط ساده,4,"Burgundy, Black, Gray, Rose",N023,,No,2,
+N023,Bottom,,,5,"Blue, Black, Dark Blue, Dark Navy, Gray","25003, 5014, 7089, 7097, 7098",N023 / NO23,Yes,2,Bottom 'not in catalogue': no description.
+2408,Top,High-neck oversized pullover with diagonal cable knit,بلوفر واسع ضفاير مايله,4,"Black, Aqua, Beige, Gray",N024,2408,Yes,3,
+N024,Bottom,,,2,"Beige, Off White",2408,N024,Yes,3,Bottom 'not in catalogue': no description.
+2403,Top,U-neck pullover,بلوفر اجور ياقه محفوره V,6,"White, Black, Burgundy, Café, Dark Gray, Navy",N022,2403,Yes,3,
+5010,Top,Zip-up knit hoodie,سويت شيرت تريكو سوسته,7,"White, Café, Navy, Burgundy, Brown, Gray, Black","2500B, N022",5010,Yes,3,Appears twice in the PDF (with 2500B and with N022); first entry has no description.
+7097,Top,Oversized suede bomber jacket with hidden placket,جاكت سويد بانده مسحوره,4,"Black, Beige, Brown, Burgundy",N023,7097,Yes,3,
+1438,Top,,,4,"Café, Olive, Mauve, Dark Gray",N025,1438,Yes,4,No description in the PDF.
+1431,Top,Wool bomber jacket with contrasting trim,سويت شيرت صوف,2,"Gray, Dark Gray",NC024,1431,Yes,4,
+NC024,Bottom,,,3,"Dark Gray, Gray, Dark Navy",1431,NC024,Yes,4,Bottom 'not in catalogue': no description.
+7095,Top,Belted wool trench coat,بالطو ساده برباط,7,"Off White, Mauve, Lemon, Gray, Café, Black, Beige",N022,7095,Yes,4,
+7096,Top,Oversized mid-length boucle jacket,جاكيت اوفر سايز بكابشو,4,"Off White, Rose, Black, Beige",N022022,7096,Yes,4,
+N022022,Bottom,,,3,"Black, Blue, Gray",7096,N022022,Yes,4,Bottom 'not in catalogue': no description.
+2410,Top,Knit cardigan with pockets,كارديجان تريكو بجيوب,3,"Beige, Burgundy, Off White",N022,2410,Yes,5,
+603,Top,Zip-up milton hoodie with pockets,سويت شيرت سوسته كابشو,5,"Beige, Black, Brown, Burgundy, White",601/1,603,Yes,5,
+601/1,Bottom,Plain milton trousers,بنطلون ميلتون ساده,3,"Black, White, Beige","1418, 603",601 / 601 BLACK,Yes,5,
+604,Top,Zip-up milton hoodie with pockets,سويت شيرت 2 جيب شق,6,"Beige, Off White, Café, Burgundy, Brown, Black",N022,604,Yes,5,
+7098,Top,Wool jacket with fur cuffs,جاكت جوخ بفرو على الكم,4,"Beige, Black, Camel, Olive",N023,,No,5,
+21008,Top,Basic knit mock-neck pullover,هاف كول ساده طويل,9,"Black, Rose, Pink, Light Mauve, Gray, Dark Mauve, Café, Beige, Aqua",N022,21008,Yes,6,
+5014,Top,Hooded knit sweatshirt,سويت شيرت تريكو كابشو,8,"Beige, Olive, Indigo, Dark Rose, Camel, Burgundy, Brown, Black",N023,5014,Yes,6,
+2400A,Top,Plain knit pullover,بلوفر تريكو ساده,2,"Beige, Gray",N022,2400A,Yes,6,
+1418,Top,Milton half-zip sweatshirt,سويت شيرت ساده,3,"Black, Beige, White",601/1,1418,Yes,7,
+5008,Top,Oversized V-neck knit vest,فيست تريكو بياقة V,7,"Black, Beige, Burgundy, Café, Gray, Navy, Rose",N022,5008,Yes,7,
+7080,Top,Wool shirt with two pockets,قميص صوف 2 جيب بانده عادي,3,"Gray, Café, Brown",N022,7080 GREY,Yes,7,
+7088,Top,Belted waterproof trench coat,جاكيت وتر بروف بزراير,1,Black,N022,7088,Yes,7,Colour list in the PDF is incomplete: 'Black -' then nothing.
+7089,Top,Belted leather trench coat,بالطو ترنش كوت جلد,7,"Black, White, Light Olive, Havana, Dark Olive, Brown, Beige",N023,7089,Yes,8,
+7094,Top,Belted wool trench coat,بالطو جوخ ساده 6 زراير,3,"Beige, Café, Gray",N022,7094,Yes,8,
+125/7071,Top,Blouse with statement collar,بلوزه بانده وكالونه ياقه,2,"Turquoise, Blue",126/439,125-7071,Yes,8,
+126/439,Bottom,Plain pants with drawstring,بنطلون ساده برباط,1,Café,"125/1380, 125/7064, 125/7071, 126/427",126-439,Yes,8,
+126/427,Top,Plain linen-blend cardigan,كاردجن ساده,11,"Black, Beige, B.Rose, Brown, Lavender, Light Green, Mustard, Olive, Purple, Sky Blue, White",126/439,126-427,Yes,8,
+126/451A,Top,Mini polka-dot print cardigan,كاردجن نقشه كور صغيره,4,"Black, Café, Navy, White",126/451B,126-451A,Yes,9,
+126/451B,Bottom,Mini polka-dot print trousers,بنطلون نقشات كور صغيره,4,"Black, Café, Navy, White",126/451A,126-451B,Yes,9,
+126/474,Top,Long-sleeve blouse and elastic waist,بلوزه بكم مع خصر مطاط,4,"Black, Beige, Brown, Olive",BXX/SMB115,126-474,Yes,9,
+BXX/SMB115,Bottom,Wide-leg leggings,ليجن رجل واسعه,1,Black,126/474,BXX-SMB115,Yes,9,
+BXX/7039,Top,Collared blouse with concealed button placket,قميص ساده بانده,5,"Light Beige, Turquoise, Kiwi, Brown, Beige",BXX/1384,BXX-7039,Yes,9,
+BXX/1384,Bottom,Wide-leg trousers with button-front closure,بنطلون قماش بزرار,8,"Navy, Black, White, Light Beige, Café, Dark Navy, B.Rose, Dark Beige","125/7082, 126/1372, 126/425, 126/433, BXX/7039",BXX-1384,Yes,9,
+125/7082,Top,Plain blouse with bow,بلوزه ساده فيونكه,5,"Black, Beige, Canary, Fuchsia, Mauve",BXX/1384,,No,9,
+125/7064,Top,Plain chiffon shirt,قميص ساده شيفون,8,"Black, Brown, Fuchsia, Green, Lavender, Lemon, Rose, Sky Blue",126/439,,No,10,
+126/1336,Top,Plain half-sleeve blouse,بلوزه نصف كم ساده,6,"White, Black, Fuchsia, Navy, Petrol, Turquoise",126/SMO101/1,,No,10,
+126/SMO101/1,Bottom,Tiered maxi-skirt,جيبة ماكسي أدوار,4,"Blue, Fuchsia, Kiwi, Purple",126/1336,,No,10,
+126/1372,Top,Open-neck half-sleeve blouse,بلوزه نصف كم ساده فتحه ام,3,"Black, Beige, White",BXX/1384,,No,10,
+126/425,Top,Sleeveless blouse,بلوزه كت كشكشه,6,"Black, Beige, Canary, Fuchsia, Mauve, White",BXX/1384,,No,10,
+126/433,Top,Printed sleeveless blouse,بلوزه كت مشجر,3,"Navy, Blue, Red",BXX/1384,,No,11,
+125/1380,Top,Plain blouse with shoulder buttons,بلوزه ساده زراير / الكتف,4,"Black, Havana, Mint, Rose",126/439,,No,11,
+126/461,Dress,Contrast maxi dress with patterned hem,فستان ماكسي بدون اكمام,2,"Olive, Burgundy",,,No,11,PDF cell reads 'no photo supplied' although a photo is shown.
+125/415,Dress,Short ruffled-sleeve maxi dress,فستان ساده,5,"Beige, Brown, Navy, Purple, White",,,No,11,
+126/486,Dress,Tiered dress with smocked waist and button detail,فستان طويل باكمام قصيره,4,"Cream, Brown, Camel, Mauve",,,No,12,
