@@ -8,7 +8,8 @@ from pathlib import Path
 import requests
 from PIL import Image
 
-ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions"
+ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+KEYFILE = os.environ.get("GEMINI_KEY_FILE", "")      # key is read from a file outside the repo, never committed
 OUT = Path("output/SKU Photos 2026")
 COST = {"gemini-2.5-flash-image": 0.039, "gemini-3-pro-image-preview": 0.134, "gemini-3.1-flash-image-preview": 0.067}
 
@@ -54,21 +55,13 @@ def refs(j):
 def b64(path, maxside=1280):
     im = Image.open(path).convert("RGB"); im.thumbnail((maxside, maxside))
     buf = io.BytesIO(); im.save(buf, "JPEG", quality=90)
-    return "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode()
+    return base64.b64encode(buf.getvalue()).decode()
 
 def extract_image(resp):
-    m = resp["choices"][0]["message"]
-    for im in m.get("images") or []:
-        u = (im.get("image_url") or {}).get("url") or im.get("url", "")
-        if u.startswith("data:"): return base64.b64decode(u.split(",", 1)[1])
-    c = m.get("content")
-    if isinstance(c, list):
-        for p in c:
-            u = (p.get("image_url") or {}).get("url", "") if isinstance(p, dict) else ""
-            if u.startswith("data:"): return base64.b64decode(u.split(",", 1)[1])
-    if isinstance(c, str):
-        mm = re.search(r"data:image/[a-z]+;base64,([A-Za-z0-9+/=]+)", c)
-        if mm: return base64.b64decode(mm.group(1))
+    for c in resp.get("candidates", []):
+        for p in (c.get("content") or {}).get("parts", []):
+            d = p.get("inlineData") or p.get("inline_data")
+            if d and d.get("data"): return base64.b64decode(d["data"])
     return None
 
 def out_path(j):
@@ -77,16 +70,17 @@ def out_path(j):
 def run_one(j, model, tries=3):
     p = out_path(j)
     if p.exists(): return j["sku"], "exists", 0.0
-    content = [{"type": "text", "text": prompt(j)}] + [{"type": "image_url", "image_url": {"url": b64(x)}} for x in refs(j)]
-    body = {"model": model, "messages": [{"role": "user", "content": content}]}
+    parts = [{"text": prompt(j)}] + [{"inline_data": {"mime_type": "image/jpeg", "data": b64(x)}} for x in refs(j)]
+    body = {"contents": [{"role": "user", "parts": parts}], "generationConfig": {"responseModalities": ["IMAGE"], "imageConfig": {"aspectRatio": "2:3"}}}
+    hdr = {"x-goog-api-key": open(KEYFILE).read().strip()} if KEYFILE else {}
     for t in range(tries):
         try:
-            r = requests.post(ENDPOINT, json=body, timeout=240)
+            r = requests.post(ENDPOINT.format(model=model), json=body, headers=hdr, timeout=240)
             if r.status_code == 402: return j["sku"], "STOP: credits depleted (402)", 0.0
             if r.status_code == 429: time.sleep(20 * (t + 1)); continue
-            r.raise_for_status()
+            if r.status_code >= 400: return j["sku"], f"http {r.status_code}: " + r.text[:300], 0.0
             img = extract_image(r.json())
-            if img is None: return j["sku"], "no image in response: " + json.dumps(r.json())[:200], 0.0
+            if img is None: return j["sku"], "no image in response: " + json.dumps(r.json())[:300], 0.0
             p.parent.mkdir(parents=True, exist_ok=True); Image.open(io.BytesIO(img)).convert("RGB").save(p, quality=93)
             return j["sku"], "ok", COST.get(model, 0.05)
         except Exception as e:
