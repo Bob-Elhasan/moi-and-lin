@@ -14,12 +14,13 @@ RIGHTS = f"(c) 2026 {BRAND}, HRB 21811, Amtsgericht Moenchengladbach. All rights
 
 def tag(path: Path):
     ghost = path.name.startswith("ghost_")
-    editorial = "_editorial-" in path.name or "_08-detail-pose" in path.name
+    editorial = "_editorial-" in path.name or "_08-detail-pose" in path.name or "_model-front" in path.name
     crop = "-detail-top" in path.name or "-detail-bottom" in path.name
     tool = "Canva AI" if "_08-detail-pose" in path.name else "Higgsfield Nano Banana Pro"
     src = "trainedAlgorithmicMedia" if (ghost or editorial) else "compositeWithTrainedAlgorithmicMedia"
     desc = ("AI-generated ghost mannequin product image derived from a real studio photograph."
-            if ghost else "AI-generated editorial pose of a real model, derived from a licensed studio photograph."
+            if ghost else "AI-generated on-model product photo of the brand model, derived from a licensed studio photograph."
+            if "_model-front" in path.name else "AI-generated editorial pose of a real model, derived from a licensed studio photograph."
             if editorial else "Close-up crop of a real studio photograph that was retouched and recolored with generative AI."
             if crop else "Real studio photograph, retouched and recolored with generative AI (Nano Banana Pro).")
     subprocess.run(["exiftool", "-q", "-overwrite_original",
