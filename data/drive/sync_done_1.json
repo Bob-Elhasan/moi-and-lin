@@ -782,5 +782,148 @@
   "status": "ok",
   "error": null,
   "viewUrl": "https://drive.google.com/file/d/1XNT-XNCvihA3q_pKWPRY1ZP40KyGprU3/view?usp=drivesdk"
+ },
+ {
+  "op": "trash",
+  "title": "004557714977_7095_n022_blush-peach_white-pants_r133_03-back.jpg",
+  "id": "1EG9BRO2pzxmeomGAn9FyWGDdT7J_N8-d",
+  "status": "ok",
+  "error": null
+ },
+ {
+  "op": "upload",
+  "title": "004557714977_7095_n022_blush-peach_white-pants_r133_03-back.jpg",
+  "id": "1rF3HihUKGX_gf6_V6-FmjQ-MktYpXxd5",
+  "status": "ok",
+  "error": null,
+  "viewUrl": "https://drive.google.com/file/d/1rF3HihUKGX_gf6_V6-FmjQ-MktYpXxd5/view?usp=drivesdk"
+ },
+ {
+  "op": "trash",
+  "title": "004557714977_7095_n022_yellow_white-pants_r135_01-front.jpg",
+  "id": "11Zjnk6iSO0USqCWZW0phbz4HQiHfj3Iw",
+  "status": "ok",
+  "error": null
+ },
+ {
+  "op": "upload",
+  "title": "004557714977_7095_n022_yellow_white-pants_r135_01-front.jpg",
+  "id": "1dmYw4rm_kL8SLma0-MI6rlF7D-ZwKuva",
+  "status": "ok",
+  "error": null,
+  "viewUrl": "https://drive.google.com/file/d/1dmYw4rm_kL8SLma0-MI6rlF7D-ZwKuva/view?usp=drivesdk"
+ },
+ {
+  "op": "trash",
+  "title": "004557714977_7095_n022_taupe_black-pants_r137_01-front.jpg",
+  "id": "1NJGDrzZ9ewRMcybcrDhqPzPR78UGBYuD",
+  "status": "ok",
+  "error": null
+ },
+ {
+  "op": "upload",
+  "title": "004557714977_7095_n022_taupe_black-pants_r137_01-front.jpg",
+  "id": "1gWhWDbpaHzhyMulACQI3nYLdTQVNhF2u",
+  "status": "ok",
+  "error": null,
+  "viewUrl": "https://drive.google.com/file/d/1gWhWDbpaHzhyMulACQI3nYLdTQVNhF2u/view?usp=drivesdk"
+ },
+ {
+  "op": "upload",
+  "title": "004557715738_7096_n022022-as-in-folder-name_cream-ivory_r139_04-editorial-front.jpg",
+  "id": "1_NyD2t6frjRx7U9LAI1w5Y1hqpuORKQI",
+  "status": "ok",
+  "error": null,
+  "viewUrl": "https://drive.google.com/file/d/1_NyD2t6frjRx7U9LAI1w5Y1hqpuORKQI/view?usp=drivesdk"
+ },
+ {
+  "op": "upload",
+  "title": "004557715738_7096_n022022-as-in-folder-name_black_r141_04-editorial-front.jpg",
+  "id": "1o6ENaxTvf1a4hlwVcRKk7l7ie_XLdMoM",
+  "status": "ok",
+  "error": null,
+  "viewUrl": "https://drive.google.com/file/d/1o6ENaxTvf1a4hlwVcRKk7l7ie_XLdMoM/view?usp=drivesdk"
+ },
+ {
+  "op": "upload",
+  "title": "004557715820_7097_n023_burgundy_white-jeans_r144_04-editorial-front.jpg",
+  "id": "1E5KP3thQdlPdiLLb4p-9-LjLsxPQIVlM",
+  "status": "ok",
+  "error": null,
+  "viewUrl": "https://drive.google.com/file/d/1E5KP3thQdlPdiLLb4p-9-LjLsxPQIVlM/view?usp=drivesdk"
+ },
+ {
+  "op": "upload",
+  "title": "004557715820_7097_n023_dark-brown_r147_04-editorial-front.jpg",
+  "id": "1h7qVTXScHwnRWo3L3F_9yW6LQB2T9fyB",
+  "status": "ok",
+  "error": null,
+  "viewUrl": "https://drive.google.com/file/d/1h7qVTXScHwnRWo3L3F_9yW6LQB2T9fyB/view?usp=drivesdk"
+ },
+ {
+  "op": "rename",
+  "title": "000676478837_bxx-7039_bxx-1384_cream_blue-black-pink-brown-beige-pants_r148_03-back.jpg",
+  "id": "1G2dPCWv7H2C8CukjhwBWSyrTlwgcc8VG",
+  "status": "ok",
+  "error": null
+ },
+ {
+  "op": "rename",
+  "title": "000676478837_bxx-7039_bxx-1384_chocolate-brown_white-black-pants_r149_03-back-alt.jpg",
+  "id": "1yCkkMxz_C4aqq-uYasliSW4CDNBtNP6R",
+  "status": "ok",
+  "error": null
+ },
+ {
+  "op": "rename",
+  "title": "000676478837_bxx-7039_bxx-1384_kiwi-green_white-pants_r150_01-front-detail.jpg",
+  "id": "1SEOeGhQGr3oB6BbVfsfUPFUjSW3RQVoH",
+  "status": "ok",
+  "error": null
+ },
+ {
+  "op": "upload",
+  "title": "000676478837_bxx-7039_bxx-1384_kiwi-green_white-pants_r150_04-editorial-front.jpg",
+  "id": "1qnykkIispoy4XKn2WovQFaEwOaNKN34j",
+  "status": "ok",
+  "error": null,
+  "viewUrl": "https://drive.google.com/file/d/1qnykkIispoy4XKn2WovQFaEwOaNKN34j/view?usp=drivesdk"
+ },
+ {
+  "op": "rename",
+  "title": "000676478837_bxx-7039_bxx-1384_turquoise_white-pants_r151_03-back.jpg",
+  "id": "1YUUZrgduA3utQ5z1LSPjzADDkOOKrXvM",
+  "status": "ok",
+  "error": null
+ },
+ {
+  "op": "trash",
+  "title": "ghost_top_125-7071_black_back.jpg",
+  "id": "1hWC1jeK55ZTyKGp7XVdG4cHvCA4pLd3H",
+  "status": "ok",
+  "error": null
+ },
+ {
+  "op": "upload",
+  "title": "ghost_top_125-7071_black_back.jpg",
+  "id": "1KOo0xSOpYZ8lUZ5I28VQUXA2uPMHilJM",
+  "status": "ok",
+  "error": null,
+  "viewUrl": "https://drive.google.com/file/d/1KOo0xSOpYZ8lUZ5I28VQUXA2uPMHilJM/view?usp=drivesdk"
+ },
+ {
+  "op": "trash",
+  "title": "ghost_top_126-451a_grey_front.jpg",
+  "id": "1ts6o4hrXtOxfOETkvlcnGUKY_lkoa0jg",
+  "status": "ok",
+  "error": null
+ },
+ {
+  "op": "upload",
+  "title": "ghost_top_126-451a_grey_front.jpg",
+  "id": "13oWWb0Q-vh9Qrn0e5FJKqrYU-gS0KyG7",
+  "status": "ok",
+  "error": null,
+  "viewUrl": "https://drive.google.com/file/d/13oWWb0Q-vh9Qrn0e5FJKqrYU-gS0KyG7/view?usp=drivesdk"
  }
 ]
