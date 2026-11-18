@@ -2,26 +2,26 @@
 import csv, glob, json, re
 from pathlib import Path
 
-url = {}   # filename -> viewUrl
-byid = {}  # drive id -> filename
+files = {}  # drive id -> [filename, viewUrl]
 for f in sorted(glob.glob("data/drive/*_ids.json")):
     for name, v in json.load(open(f))["files"].items():
-        url[name] = v["viewUrl"]; byid[v["id"]] = name
+        files[v["id"]] = [name, v["viewUrl"]]
 for i in (1, 2, 3):
     ops = json.load(open(f"data/drive/sync_ops_{i}.json"))
     done = json.load(open(f"data/drive/sync_done_{i}.json"))
-    for op, d in zip(ops, done):
-        if d.get("status") != "ok": continue
-        if op["op"] == "trash":
-            n = byid.pop(op["id"], None)
-            if n and url.get(n, "").find(op["id"]) >= 0: url.pop(n)
+    ok_up = {d["title"]: d for d in done if d["op"] == "upload" and d.get("status") == "ok"}
+    ok_id = {(d["op"], d["id"]) for d in done if d["op"] != "upload" and d.get("status") == "ok"}
+    for op in ops:
+        d = ok_up.get(op["title"]) if op["op"] == "upload" else ((op["op"], op["id"]) in ok_id or None)
+        if not d: print("NOT DONE", op["op"], op["title"]); continue
+        if op["op"] == "trash": files.pop(op["id"], None)
         elif op["op"] == "upload":
-            url[op["title"]] = d.get("viewUrl") or f"https://drive.google.com/file/d/{d['id']}/view"
-            byid[d["id"]] = op["title"]
-        elif op["op"] == "rename":
-            old = byid.get(op["id"])
-            if old and old in url: url[op["title"]] = url.pop(old)
-            byid[op["id"]] = op["title"]
+            files[d["id"]] = [op["title"], d.get("viewUrl") or f"https://drive.google.com/file/d/{d['id']}/view"]
+        else: files[op["id"]][0] = op["title"]
+names = [n for n, _ in files.values()]
+dup = {n for n in names if names.count(n) > 1}
+if dup: print("DUPLICATE NAMES ON DRIVE", sorted(dup))
+url = {n: u for n, u in files.values()}
 
 local = {p.name for p in Path("output").rglob("*.jpg") if "_up" not in p.parts and "_fix" not in p.parts}
 missing = sorted(local - set(url)); extra = sorted(set(url) - local)

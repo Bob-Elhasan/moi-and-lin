@@ -1,0 +1,183 @@
+Type,Excel row,Shot / item,Severity,Issue,Status
+On-model,19,Three-quarter,high,"Pointed black pumps that look heeled, unlike the round black ballerinas in 01 and 03.","Re-roll failed again, needs another attempt"
+On-model,76,Back,high,"Top is sleeveless with bare arms from the back, while the other shots show long white sleeves.","Re-roll failed again, needs another attempt"
+On-model,108,Back,high,Beige hoodie and black trousers instead of brown hoodie and white trousers.,"Re-roll failed again, needs another attempt"
+On-model,132,Three-quarter,high,Two women in the frame (duplicate person). Coat is knee-length here but hip-length in other shots; trousers are cropped. Different-looking woman with hair tied back.,"Re-roll failed again, needs another attempt"
+On-model,148,Back,high,Trousers are solid navy; 01 and 04 show the blue multicolor print.,"Re-roll failed again, needs another attempt"
+On-model,146,Back,high,Jacket is black and jeans are grey; caption says camel brown jacket and white jeans.,Not re-rolled yet (credits ran out)
+On-model,151,Back,high,"Cream shirt and navy trousers instead of turquoise shirt and white pants. Blonde hair from the back, a different woman from the brown-haired model in 01/04. Tan sandal-like shoes instead of white ballerinas.",Not re-rolled yet (credits ran out)
+On-model,71,Front,medium,Dark smoky eye makeup (also in 02 and lighter in 04).,Not re-rolled yet (credits ran out)
+On-model,72,Back,medium,Hair is much longer and wavy in the back shot versus shoulder-length straight in other shots.,Not re-rolled yet (credits ran out)
+On-model,74,Back,medium,"Hair is clearly redder/auburn, longer and wavier than the brown hair in 01/02/04.",Not re-rolled yet (credits ran out)
+On-model,87,Front,medium,"Dark smoky eye makeup in 01, 02 and 04.",Not re-rolled yet (credits ran out)
+On-model,105,Three-quarter,medium,Hoodie looks longer (hip/thigh length) than the waist-length hoodie in 01 and 03.,Not re-rolled yet (credits ran out)
+On-model,107,Back,medium,"Hair is blonde here, auburn-brown in the other shots.",Not re-rolled yet (credits ran out)
+On-model,121,Back,medium,Hair is clearly red/auburn from the back (also in 05) vs brown in 01/02/04.,Not re-rolled yet (credits ran out)
+On-model,128,Front,medium,Caption says Cream but the coat is a taupe/grey-beige herringbone in all shots.,Not re-rolled yet (credits ran out)
+On-model,138,Back,medium,"Hair is much longer and wavy from behind, shoulder-length straight in 01.",Not re-rolled yet (credits ran out)
+On-model,55,Back,high,"color fixed, but cardigan is still long (mid-thigh) with shawl-like collar; REF is hip-length; garment mismatch still present",Two re-rolls failed; source photo likely needs a manual retouch or reshoot
+On-model,121,Editorial back,high,"jacket has a hood and back storm flap not present in REF (lapel collar, no hood); garment design differs",Two re-rolls failed; source photo likely needs a manual retouch or reshoot
+On-model,148,Three-quarter,high,"NEW is a straight front view, not three-quarter; shirt shows a visible button row and shorter length vs concealed placket/long tail in OLD and REF; REF here is a back shot so identity cannot be confirmed",Two re-rolls failed; source photo likely needs a manual retouch or reshoot
+Ghost mannequin,,bottom_n023_white-beige-black_back,high,Back is plain white jeans while the front is a white/beige/black patchwork.,Re-roll rejected
+Ghost mannequin,,top_2505_white-cream_back,high,Back includes white long sleeves of an under-layer; front is a sleeveless vest.,Re-roll rejected
+Ghost mannequin,,bottom_bxx-1384_white-black-pants_back,high,Trousers are solid navy; name says white-black and the front is white with black trim.,Re-roll rejected
+Ghost mannequin,,top_5004_dusty-mauve-sleeveless-over-white-shirt (1st tile),high,White long shirt sleeves are attached to the vest; the paired tile has no sleeves.,Re-roll rejected
+Ghost mannequin,,bottom_n024_grey-jeans_back,medium,"Back is a slim tapered, darker washed grey jean while the front is a wide-leg lighter flat grey.",Not attempted yet
+Ghost mannequin,,bottom_n025_original_front,medium,"Front is narrower with bunched hems and a floating drop shadow, while the back is a longer wide-leg black jean.",Not attempted yet
+Ghost mannequin,,top_2408_aqua-turquoise_front,medium,"Front has diagonal seams, no centre seam and a stand collar, unlike the centre-seam roll-neck fronts of the other 2408 colors; back has a straight ribbed hem vs curved front hem.",Not attempted yet
+Ghost mannequin,,top_5014_rose-pink_back,medium,"Back is a darker dusty rose and more cropped, while the front is light pink.",Not attempted yet
+Ghost mannequin,,top_603_brown_back,medium,"Back is a darker chocolate brown with ribbed hem band and cuffs, while the front is a lighter tan-brown with a curved hem and no ribbing.",Not attempted yet
+Ghost mannequin,,bottom_126-439_original_back,medium,"Grey floor gradient at the bottom, not pure white.",Not attempted yet
+Ghost mannequin,,bottom_2400b_black-pants_front,medium,"Back has turn-up cuffs, front has plain pooling hems; front also reads like a back view.",Not attempted yet
+Ghost mannequin,,bottom_2400b_off-white-pants_back,medium,Grey floor gradient at the bottom.,Not attempted yet
+Ghost mannequin,,bottom_2500b-off-white_original_back,medium,"Back has gathered cuffed hems, front has straight open hems.",Not attempted yet
+Ghost mannequin,,top_126-427_dusty-rose_back,medium,Back is pale pink while front is a darker terracotta rose.,Not attempted yet
+Ghost mannequin,,top_126-427_dusty-rose_back,medium,Back shows a pointed shirt collar; front is a collarless kimono band.,Not attempted yet
+Ghost mannequin,,top_5003_black_front,medium,Garment is tilted and lopsided with an uneven hem; smaller scale than the back.,Not attempted yet
+Ghost mannequin,,top_5003_lavender-grey_back,medium,"Back is cool grey-lilac, front is warm mauve-pink.",Not attempted yet
+Ghost mannequin,,top_5004_black_back,medium,Back shows a pointed shirt collar; front has a ribbed turtleneck fold-over.,Not attempted yet
+Ghost mannequin,,top_7080-grey_cafe-pink_back,medium,"Back is dusty mauve, front is a brighter pink.",Not attempted yet
+Ghost mannequin,,top_7080-grey_cafe-pink_back,medium,"Back is long with a curved hem, front is cropped.",Not attempted yet
+Ghost mannequin,,bottom_2500b_light-blue-jeans_front,medium,"Grey floor/shadow patch in the lower left, background not clean white.",Not attempted yet
+Ghost mannequin,,bottom_601_original_front,medium,Front is a tapered cropped chino; back is a longer straight leg; background also has a slight grey cast.,Not attempted yet
+Ghost mannequin,,bottom_bxx-1384_blue-black-pink-brown-beige-pant (1st tile),medium,Near-black in this tile but clearly navy in the paired tile; label is truncated so side cannot be confirmed.,Not attempted yet
+Ghost mannequin,,top_126-474_chocolate-brown-leaf-print_front,medium,Leaf print is white/grey on the front but beige on the back; brown shade also differs.,Not attempted yet
+Ghost mannequin,,top_5004_dark-brown_back,medium,Back has a plain crew neck with no collar; front has a high fold-over collar.,Not attempted yet
+Ghost mannequin,,top_5004_navy_back,medium,Back shows the fold-over collar and centre seam while the front is a plain turtleneck; sides look swapped.,Not attempted yet
+Ghost mannequin,,top_5004_white_back,medium,"Back shows a fold-over collar with a tab, looks like a second front.",Not attempted yet
+Ghost mannequin,,bottom_bxx-1384_white-pants_front,medium,"Grey gradient background with a visible floor, not pure white.",Not attempted yet
+Ghost mannequin,,bottom_n022-off-white_grey-jeans_front,medium,"Grey gradient background with a visible floor, not pure white.",Not attempted yet
+Ghost mannequin,,bottom_n022-off-white_black-pants_back,medium,"Deformed hems: legs balloon out and curl at the bottom, unlike the straight front.",Not attempted yet
+Ghost mannequin,,bottom_n022-off-white_original_back,medium,Back has no back pockets or yoke although the front is a five-pocket jean.,Not attempted yet
+Ghost mannequin,,bottom_n022_beige-jeans_front,medium,Waistband gapes open and the shape is baggy/deformed compared with the straight back view.,Not attempted yet
+Ghost mannequin,,top_1418_cream_back,medium,Back view shows a zipper on the collar and no back yoke; looks like a front-ish view.,Not attempted yet
+Ghost mannequin,,top_1418_white_back,medium,Zipper pull visible on the back of the collar.,Not attempted yet
+Ghost mannequin,,top_21008_dusty-rose_back,medium,"Back is a saturated coral pink, front is a muted dusty rose.",Not attempted yet
+Ghost mannequin,,top_5006_black_back,medium,Back shows the hem buttons that belong on the front; smaller scale than front.,Not attempted yet
+Ghost mannequin,,top_5006_navy_back,medium,"Back has a center seam and buttons at the hem, unlike the plain backs of burgundy/light-brown.",Not attempted yet
+Ghost mannequin,,top_5006_white_back,medium,"Back has a center seam and buttons at the hem, unlike the plain backs of burgundy/light-brown.",Not attempted yet
+Ghost mannequin,,top_5010_brown_front,medium,Hood stands upright as if on an invisible head and the garment is narrower than the other fronts.,Not attempted yet
+Ghost mannequin,,top_7096_pink_back,medium,Back is smooth bright-pink felt while the front is dusty-pink teddy/boucle fabric.,Not attempted yet
+Ghost mannequin,,bottom_n022_grey-jeans_front,medium,"Background is off-white/grey, not pure white.",Not attempted yet
+Ghost mannequin,,bottom_n022_grey-jeans_front,medium,Front is wide-leg while the back shot is a narrower straight leg.,Not attempted yet
+Ghost mannequin,,bottom_n022_original_front,medium,Fly is unbuttoned and gaping open at the waist.,Not attempted yet
+Ghost mannequin,,bottom_n022_white-jeans_back,medium,Grey cast background.,Not attempted yet
+Ghost mannequin,,bottom_n022_white-jeans_front,medium,Waistband is open and folded apart at the fly.,Not attempted yet
+Ghost mannequin,,bottom_n022_white-pants_back,medium,Grey cast background.,Not attempted yet
+Ghost mannequin,,bottom_n022_white-pants_front,medium,"Waistband is open and spread apart, showing the inside.",Not attempted yet
+Ghost mannequin,,bottom_n023_original_back,medium,Grey cast background.,Not attempted yet
+Ghost mannequin,,top_21008_pink_back,medium,Back is lighter pink than the hot-pink front.,Not attempted yet
+Ghost mannequin,,top_21008_grey_back,medium,"Backs of 21008 (grey, mauve, pink, taupe, turquoise, white) have a gathered ribbed hem and folded collar; fronts have a straight hi-low hem with side slits.",Not attempted yet
+Ghost mannequin,,top_2400a_cream-beige_back,medium,"Neck label visible inside the neckline, so it reads as a front view; deep ribbed hem differs from the front shot.",Not attempted yet
+Ghost mannequin,,top_5010_grey_front,medium,Front is a lilac-tinted light grey; back is neutral mid grey.,Not attempted yet
+Ghost mannequin,,top_5014_burgundy_front,medium,Hood stands upright as if on an invisible head; other colors have the hood down.,Not attempted yet
+Ghost mannequin,,top_7097_black_back,medium,Back has snap studs and a flat hem band; front has an elastic gathered hem. Drop shadow below.,Not attempted yet
+Ghost mannequin,,top_7097_burgundy_back,medium,Grey band along the bottom of the image.,Not attempted yet
+Ghost mannequin,,top_bxx-7039_turquoise_back,medium,Back is deep teal; front is a much lighter aqua.,Not attempted yet
+Ghost mannequin,,top_bxx-7039_cream_front,medium,"Front design varies by color: cream has two chest pockets, kiwi one, chocolate and turquoise none (chocolate has a hidden placket).",Not attempted yet
+Editorial,19,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,20,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,21,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,22,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,23,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,24,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,25,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,26,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,27,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,28,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,29,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,31,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,35,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,36,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,37,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,38,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,39,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,40,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,51,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,52,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,53,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,54,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,55,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,56,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,64,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,65,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,66,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,67,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,68,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,69,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,70,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,71,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,72,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,73,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,74,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,75,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,76,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,77,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,78,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,79,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,80,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,81,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,82,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,93,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,94,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,95,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,96,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,97,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,98,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,99,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,100,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,101,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,102,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,103,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,104,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,105,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,106,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,107,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,108,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,109,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,110,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,111,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,112,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,113,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,114,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,115,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,116,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,127,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,128,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,129,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,130,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,131,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,132,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,133,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,134,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,135,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,136,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,137,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,138,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,139,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,140,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,141,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,142,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,143,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,144,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,145,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,146,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,147,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,148,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,149,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,150,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+Editorial,151,Editorial back,missing,Second lively shot (side/back) not generated,Waiting on credits
+No photoshoot,30,1438 + N025,missing,No studio photos found for barcode 000676460719,Needs a shoot or the photos added to Drive
+No photoshoot,32,1438 + N025,missing,No studio photos found for barcode 000676460719,Needs a shoot or the photos added to Drive
+No photoshoot,33,1438 + N025,missing,No studio photos found for barcode 000676460719,Needs a shoot or the photos added to Drive
+No photoshoot,34,1438 + N025,missing,No studio photos found for barcode 000676460719,Needs a shoot or the photos added to Drive
+No photoshoot,57,25003 + N023 BLUE,missing,No studio photos found for barcode No original photo (files m__91712 to m__91735),Needs a shoot or the photos added to Drive
+No photoshoot,58,25003 + N023 BLUE,missing,No studio photos found for barcode No original photo (files m__91712 to m__91735),Needs a shoot or the photos added to Drive
+No photoshoot,59,25003 + N023 BLUE,missing,No studio photos found for barcode No original photo (files m__91712 to m__91735),Needs a shoot or the photos added to Drive
+No photoshoot,60,25003 + N023 BLUE,missing,No studio photos found for barcode No original photo (files m__91712 to m__91735),Needs a shoot or the photos added to Drive
+No photoshoot,61,2500A + N025,missing,No studio photos found for barcode 000676460719,Needs a shoot or the photos added to Drive
+No photoshoot,62,2500A + N025,missing,No studio photos found for barcode 000676460719,Needs a shoot or the photos added to Drive
+No photoshoot,63,2500A + N025,missing,No studio photos found for barcode 000676460719,Needs a shoot or the photos added to Drive
+No photoshoot,154,125-415 + White Ballerinas for both Purple & Navy dresses,missing,No studio photos found for barcode ,Needs a shoot or the photos added to Drive
+No photoshoot,156,126-461 + White Ballerinas for both Burgundy & Green,missing,No studio photos found for barcode ,Needs a shoot or the photos added to Drive
+No photoshoot,158,126-486 + Beige Ballerinas on OffWhite & Brown boho dress,missing,No studio photos found for barcode ,Needs a shoot or the photos added to Drive
