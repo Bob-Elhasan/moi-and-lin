@@ -1,0 +1,47 @@
+[
+ {
+  "fix": 64,
+  "row": "r148",
+  "file": "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Cream - Blue/Black/Pink/Brown/Beige Pants/000676478837_bxx-7039_bxx-1384_cream_blue-black-pink-brown-beige-pants_r148_03-back.jpg",
+  "status": "already_ok",
+  "staged": null,
+  "canva_media": null,
+  "note": "03-back now shows the blue/black/pink/brown/beige print trousers, cream shirt, brown hair, cream flats. NOTE: 01-front-detail and 03-back-alt of this look show SOLID NAVY trousers (inconsistent with 03-back; not in my list, untouched)."
+ },
+ {
+  "fix": 67,
+  "row": "r151",
+  "file": "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Turquoise - White Pants/000676478837_bxx-7039_bxx-1384_turquoise_white-pants_r151_03-back.jpg",
+  "status": "already_ok",
+  "staged": null,
+  "canva_media": null,
+  "note": "03-back shows turquoise shirt, white pants, brown hair, white flats. NOTE: sibling 03-back-alt still shows cream shirt/navy trousers/blonde hair (not in my list, untouched)."
+ },
+ {
+  "fix": 24,
+  "row": "r072",
+  "file": "output/On-Model/TOP 5003 + BOTTOM 2500B/Navy/004557710566_5003_2500b_navy_r072_03-three-quarter-alt.jpg",
+  "status": "already_ok",
+  "staged": null,
+  "canva_media": null,
+  "note": "03-three-quarter-alt now shows straight roughly shoulder/chest-length blonde hair consistent with 02. NOTE: the file named 01-front of r072 is actually a BACK view with long wavy hair (not in my list, untouched)."
+ },
+ {
+  "fix": 42,
+  "row": "r105",
+  "file": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Sand beige - White Jeans or sweatpants/000455766933_603_601-black_sand-beige_white-jeans-or-sweatpants_r105_02-three-quarter-detail.jpg",
+  "status": "already_ok",
+  "staged": null,
+  "canva_media": null,
+  "note": "Close-crop detail; hoodie hem sits at hip/wrist level, same as in 01-front. No clear length mismatch visible. Hoodie tone slightly more tan than in 01 (minor)."
+ },
+ {
+  "fix": 53,
+  "row": "r128",
+  "file": "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Cream/004557712164_7094_n022-off-white_cream_r128_01-front.jpg",
+  "status": "skipped",
+  "staged": null,
+  "canva_media": null,
+  "note": "Not edited (labeling question). Coat is a taupe / grey-beige (greige) herringbone in 01, 02 (and all shots viewed), not cream; worn with white trousers and black flats."
+ }
+]
