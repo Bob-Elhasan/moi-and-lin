@@ -83,13 +83,14 @@ CATALOG = {"125/7071":"125-7071","126/427":"126-427","126/439":"126-439","126/45
  "BXX/SMB115":"BXX-SMB115","BXX/7039":"BXX-7039","BXX/1384":"BXX-1384","601/1":"601 / 601 BLACK","7080":"7080 GREY",
  "N022":"N022 / N022 OFF WHITE","N022022":"N022022","N023":"N023 / NO23","N024":"N024","N025":"N025","NC024":"NC024",
  **{c:c for c in "1418 1431 1438 21008 2400A 2403 2408 2410 2505 5003 5004 5005 5006 5008 5010 5014 603 604 7088 7089 7094 7095 7096 7097 2400B 2500B".split()}}
-PNOTE = {"7088":"Colour list in the PDF is incomplete: 'Black -' then nothing.","1438":"No description in the PDF.",
+PNOTE = {"7098":"NO studio photos in Drive: only the hanger photo in the PDF.","125/7064":"Only 1 studio photo in Drive (other products have 3 or more).","7088":"Colour list in the PDF is incomplete: 'Black -' then nothing.","1438":"No description in the PDF.",
  "N022":"Bottom 'not in catalogue' in the PDF: no description given.","N023":"Bottom 'not in catalogue': no description.",
  "N024":"Bottom 'not in catalogue': no description.","N025":"Bottom 'not in catalogue': no description.",
  "NC024":"Bottom 'not in catalogue': no description.","N022022":"Bottom 'not in catalogue': no description.",
  "126/461":"PDF cell reads 'no photo supplied' although a photo is shown.",
  "5010":"Appears twice in the PDF (with 2500B and with N022); first entry has no description."}
 
+CHECK = {r[0]: r for r in json.load(open("data/drive/pdf_photo_check.json"))}  # code -> (code, type, originals, files, folders)
 slug = lambda s: re.sub(r"[^A-Z0-9]+", "-", s.upper()).strip("-")
 prod, skus = [], []
 for typ, code, en, ar, cols, page in P:
@@ -99,19 +100,21 @@ for typ, code, en, ar, cols, page in P:
     prod.append(OrderedDict([("Product code", code), ("Type", typ), ("Description (EN)", en), ("Description (AR)", ar),
         ("Number of colours", len(colors)), ("Colours", ", ".join(NORM.get(c.upper(), c.title()) for c in colors)),
         ("Shown paired with (PDF)", ", ".join(paired)), ("Code in existing photo catalog", cat),
-        ("Studio photos exist", "Yes" if cat else "No"), ("PDF page", page), ("Notes", PNOTE.get(code, ""))]))
+        ("Studio photos in Drive", CHECK[code][2]), ("Drive shoot folders", "; ".join(CHECK[code][4])),
+        ("Already in AI catalog (Nov run)", "Yes" if cat else "No"), ("PDF page", page), ("Notes", PNOTE.get(code, ""))]))
     for c in colors:
         n = NORM.get(c.upper(), c.title())
         skus.append(OrderedDict([("SKU ID", f"{slug(code)}-{slug(n)}"), ("Product code", code), ("Type", typ),
             ("Description (EN)", en), ("Description (AR)", ar), ("Colour", n), ("Colour as written in PDF", c),
-            ("Barcode (EAN)", ""), ("Studio photos exist for product", "Yes" if cat else "No"),
+            ("Barcode (EAN)", ""), ("Studio photos in Drive for product", CHECK[code][2]),
+            ("Product already in AI catalog (Nov run)", "Yes" if cat else "No"),
             ("Recolour status", ""), ("On-model status", ""), ("PDF page", page), ("Notes", NOTE.get(c.upper(), ""))]))
 assert len({s["SKU ID"] for s in skus}) == len(skus), "duplicate SKU ids"
 for name, rows in (("data/skus.csv", skus), ("data/sku_products.csv", prod)):
     w = csv.DictWriter(open(name, "w", newline="", encoding="utf-8"), fieldnames=list(rows[0])); w.writeheader(); w.writerows(rows)
 import collections
 print(len(prod), "products", collections.Counter(p["Type"] for p in prod), "|", len(skus), "SKUs", collections.Counter(s["Type"] for s in skus))
-print("new products (no studio photos):", [p["Product code"] for p in prod if not p["Code in existing photo catalog"]])
+print("no studio photos:", [p["Product code"] for p in prod if not p["Studio photos in Drive"]])
 
 if len(sys.argv) > 1:
     import openpyxl

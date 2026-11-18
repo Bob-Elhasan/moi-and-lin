@@ -1,0 +1,541 @@
+[
+ [
+  "5004",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 5004 BOTTOM 2500B OFF WHITE"
+  ]
+ ],
+ [
+  "2500B",
+  "Bottom",
+  9,
+  9,
+  [
+   "TOP 5003 BOTTOM 2500B",
+   "TOP 5004 BOTTOM 2500B OFF WHITE",
+   "TOP 5015 BOTTOM 2500B"
+  ]
+ ],
+ [
+  "5006",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 5006 BOTTOM 2400B"
+  ]
+ ],
+ [
+  "2400B",
+  "Bottom",
+  3,
+  3,
+  [
+   "TOP 5006 BOTTOM 2400B"
+  ]
+ ],
+ [
+  "5005",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 5005 BOTTOM N022 OFF WHITE"
+  ]
+ ],
+ [
+  "N022",
+  "Bottom",
+  43,
+  43,
+  [
+   "TOP 21008 BOTTOM N022",
+   "TOP 2400A BOTTOM N022 OFF WHITE",
+   "TOP 2403 BOTTOM N022",
+   "TOP 2410 BOTTOM N022 OFF WHITE",
+   "TOP 2505 BOTTOM N022",
+   "TOP 5005 BOTTOM N022 OFF WHITE",
+   "TOP 5008 BOTTOM N022 OFF WHITE",
+   "TOP 5010 BOTTOM N022",
+   "TOP 604 BOTTOM N022",
+   "TOP 7080 GREY BOTTOM N022 OFF WHITE",
+   "TOP 7088 BOTTOM N022",
+   "TOP 7094 BOTTOM N022 OFF WHITE",
+   "TOP 7095 BOTTOM N022"
+  ]
+ ],
+ [
+  "2505",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 2505 BOTTOM N022"
+  ]
+ ],
+ [
+  "5003",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 5003 BOTTOM 2500B"
+  ]
+ ],
+ [
+  "2500A",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 2500A BOTTOM N025"
+  ]
+ ],
+ [
+  "N025",
+  "Bottom",
+  8,
+  8,
+  [
+   "TOP 1438 BOTTOM N025",
+   "TOP 2500A BOTTOM N025"
+  ]
+ ],
+ [
+  "25003",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 25003 BOTTOM N023 BLUE"
+  ]
+ ],
+ [
+  "N023",
+  "Bottom",
+  15,
+  15,
+  [
+   "TOP 25003 BOTTOM N023 BLUE",
+   "TOP 5014 BOTTOM N023",
+   "TOP 7089 BOTTOM N023",
+   "TOP 7089 BOTTOM NO23",
+   "TOP 7097 BOTTOM N023"
+  ]
+ ],
+ [
+  "2408",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 2408 BOTTOM N024"
+  ]
+ ],
+ [
+  "N024",
+  "Bottom",
+  3,
+  3,
+  [
+   "TOP 2408 BOTTOM N024"
+  ]
+ ],
+ [
+  "2403",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 2403 BOTTOM N022"
+  ]
+ ],
+ [
+  "5010",
+  "Top",
+  4,
+  4,
+  [
+   "TOP 5010 BOTTOM N022"
+  ]
+ ],
+ [
+  "7097",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 7097 BOTTOM N023"
+  ]
+ ],
+ [
+  "1438",
+  "Top",
+  5,
+  5,
+  [
+   "TOP 1438 BOTTOM N025"
+  ]
+ ],
+ [
+  "1431",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 1431 BOTTOM NC024"
+  ]
+ ],
+ [
+  "NC024",
+  "Bottom",
+  3,
+  3,
+  [
+   "TOP 1431 BOTTOM NC024"
+  ]
+ ],
+ [
+  "7095",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 7095 BOTTOM N022"
+  ]
+ ],
+ [
+  "7096",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 7096 BOTTOM N022022"
+  ]
+ ],
+ [
+  "N022022",
+  "Bottom",
+  3,
+  3,
+  [
+   "TOP 7096 BOTTOM N022022"
+  ]
+ ],
+ [
+  "2410",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 2410 BOTTOM N022 OFF WHITE"
+  ]
+ ],
+ [
+  "603",
+  "Top",
+  5,
+  33,
+  [
+   "TOP 603 BOTTOM 601 BLACK"
+  ]
+ ],
+ [
+  "601/1",
+  "Bottom",
+  8,
+  36,
+  [
+   "TOP 1418 BOTTOM 601",
+   "TOP 603 BOTTOM 601 BLACK"
+  ]
+ ],
+ [
+  "604",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 604 BOTTOM N022"
+  ]
+ ],
+ [
+  "7098",
+  "Top",
+  0,
+  0,
+  []
+ ],
+ [
+  "21008",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 21008 BOTTOM N022"
+  ]
+ ],
+ [
+  "5014",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 5014 BOTTOM N023"
+  ]
+ ],
+ [
+  "2400A",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 2400A BOTTOM N022 OFF WHITE"
+  ]
+ ],
+ [
+  "1418",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 1418 BOTTOM 601"
+  ]
+ ],
+ [
+  "5008",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 5008 BOTTOM N022 OFF WHITE"
+  ]
+ ],
+ [
+  "7080",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 7080 GREY BOTTOM N022 OFF WHITE"
+  ]
+ ],
+ [
+  "7088",
+  "Top",
+  4,
+  4,
+  [
+   "TOP 7088 BOTTOM N022"
+  ]
+ ],
+ [
+  "7089",
+  "Top",
+  6,
+  6,
+  [
+   "TOP 7089 BOTTOM N023",
+   "TOP 7089 BOTTOM NO23"
+  ]
+ ],
+ [
+  "7094",
+  "Top",
+  5,
+  5,
+  [
+   "TOP 7094 BOTTOM N022 OFF WHITE"
+  ]
+ ],
+ [
+  "125/7071",
+  "Top",
+  3,
+  9,
+  [
+   "TOP 125-7071 BOTTOM 126-439"
+  ]
+ ],
+ [
+  "126/439",
+  "Bottom",
+  14,
+  93,
+  [
+   "TOP 125-1380 BOTTOM 126-439",
+   "TOP 125-7064 BOTTOM 126-439",
+   "TOP 125-7071 BOTTOM 126-439",
+   "TOP 126-427 BOTTOM 126-439"
+  ]
+ ],
+ [
+  "126/427",
+  "Top",
+  3,
+  36,
+  [
+   "TOP 126-427 BOTTOM 126-439"
+  ]
+ ],
+ [
+  "126/451A",
+  "Top",
+  3,
+  15,
+  [
+   "TOP 126-451A BOTTOM 126-451B"
+  ]
+ ],
+ [
+  "126/451B",
+  "Bottom",
+  3,
+  15,
+  [
+   "TOP 126-451A BOTTOM 126-451B"
+  ]
+ ],
+ [
+  "126/474",
+  "Top",
+  3,
+  15,
+  [
+   "Top 126-474 Bottom BXX-SMB115"
+  ]
+ ],
+ [
+  "BXX/SMB115",
+  "Bottom",
+  3,
+  15,
+  [
+   "Top 126-474 Bottom BXX-SMB115"
+  ]
+ ],
+ [
+  "BXX/7039",
+  "Top",
+  3,
+  3,
+  [
+   "TOP BXX-7039 BOTTOM BXX-1384"
+  ]
+ ],
+ [
+  "BXX/1384",
+  "Bottom",
+  15,
+  114,
+  [
+   "TOP 125-7082 BOTTOM BXX-1384",
+   "TOP 126-1372 BOTTOM BXX-1384",
+   "TOP 126-425 BOTTOM BXX-1384",
+   "TOP 126-433 Bottom bxx-1384",
+   "TOP BXX-7039 BOTTOM BXX-1384"
+  ]
+ ],
+ [
+  "125/7082",
+  "Top",
+  3,
+  36,
+  [
+   "TOP 125-7082 BOTTOM BXX-1384"
+  ]
+ ],
+ [
+  "125/7064",
+  "Top",
+  1,
+  27,
+  [
+   "TOP 125-7064 BOTTOM 126-439"
+  ]
+ ],
+ [
+  "126/1336",
+  "Top",
+  3,
+  30,
+  [
+   "TOP 126-1336 BOTTOM 126-SMO101"
+  ]
+ ],
+ [
+  "126/SMO101/1",
+  "Bottom",
+  3,
+  30,
+  [
+   "TOP 126-1336 BOTTOM 126-SMO101"
+  ]
+ ],
+ [
+  "126/1372",
+  "Top",
+  3,
+  30,
+  [
+   "TOP 126-1372 BOTTOM BXX-1384"
+  ]
+ ],
+ [
+  "126/425",
+  "Top",
+  3,
+  42,
+  [
+   "TOP 126-425 BOTTOM BXX-1384"
+  ]
+ ],
+ [
+  "126/433",
+  "Top",
+  3,
+  3,
+  [
+   "TOP 126-433 Bottom bxx-1384"
+  ]
+ ],
+ [
+  "125/1380",
+  "Top",
+  7,
+  21,
+  [
+   "TOP 125-1380 BOTTOM 126-439"
+  ]
+ ],
+ [
+  "126/461",
+  "Dress",
+  7,
+  10,
+  [
+   "126-461"
+  ]
+ ],
+ [
+  "125/415",
+  "Dress",
+  6,
+  18,
+  [
+   "125-415"
+  ]
+ ],
+ [
+  "126/486",
+  "Dress",
+  6,
+  15,
+  [
+   "126-486"
+  ]
+ ]
+]
