@@ -60,12 +60,13 @@ P = [
  ("Top","126/425","Sleeveless blouse","بلوزه كت كشكشه","BLACK - BEIGE - CANARY - FUCHSIA - MOVE - WHITE",10),
  ("Top","126/433","Printed sleeveless blouse","بلوزه كت مشجر","NAVY - BLUE - RED",11),
  ("Top","125/1380","Plain blouse with shoulder buttons","بلوزه ساده زراير / الكتف","BLACK - HAVAN - MINT - ROSE",11),
+ ("Top","5015","","","TBC",0),
  ("Dress","126/461","Contrast maxi dress with patterned hem","فستان ماكسي بدون اكمام","OLVIE - BURGUNDY",11),
  ("Dress","125/415","Short ruffled-sleeve maxi dress","فستان ساده","BEIGE - BROWN - NAVY - PURPLE - WHITE",11),
  ("Dress","126/486","Tiered dress with smocked waist and button detail","فستان طويل باكمام قصيره","CREAMY - BROWN - CAMEL - MOVE",12),
 ]
 # (top/dress code, bottom code) as shown in the PDF
-PAIRS = [("5004","2500B"),("5006","2400B"),("5005","N022"),("2505","N022"),("5003","2500B"),("2500A","N025"),("25003","N023"),
+PAIRS = [("5015","2500B"),("5004","2500B"),("5006","2400B"),("5005","N022"),("2505","N022"),("5003","2500B"),("2500A","N025"),("25003","N023"),
  ("2408","N024"),("2403","N022"),("5010","2500B"),("7097","N023"),("1438","N025"),("1431","NC024"),("7095","N022"),("7096","N022022"),
  ("2410","N022"),("603","601/1"),("604","N022"),("7098","N023"),("21008","N022"),("5014","N023"),("5010","N022"),("2400A","N022"),
  ("1418","601/1"),("5008","N022"),("7080","N022"),("7088","N022"),("7089","N023"),("7094","N022"),("125/7071","126/439"),
@@ -76,14 +77,14 @@ NORM = {"CAFFE":"Café","CAFEE":"Café","OF WHITE":"Off White","MOVE":"Mauve","L
  "D GRAY":"Dark Gray","D.GRAY":"Dark Gray","D.BLUE":"Dark Blue","D.NAVY":"Dark Navy","D NAVY":"Dark Navy","D ROSE":"Dark Rose",
  "L.OLIVE":"Light Olive","D.OLIVE":"Dark Olive","HAVAN":"Havana","L.GREEN":"Light Green","LAVANDER":"Lavender","TURQUOIS":"Turquoise",
  "L BEIGE":"Light Beige","L.BEIGE":"Light Beige","D.BEIGE":"Dark Beige","FUSCHIA":"Fuchsia","PETROLY":"Petrol","OLVIE":"Olive",
- "CREAMY":"Cream","B.ROSE":"B.Rose"}
+ "CREAMY":"Cream","TBC":"TBC (colour list needed)","B.ROSE":"B.Rose"}
 NOTE = {"B.ROSE":"'B.' prefix unclear in source (Baby / Blush / Bright Rose?)"}
 # product code as used in the existing photo catalog (Excel / Drive folders), where it exists
 CATALOG = {"125/7071":"125-7071","126/427":"126-427","126/439":"126-439","126/451A":"126-451A","126/451B":"126-451B","126/474":"126-474",
  "BXX/SMB115":"BXX-SMB115","BXX/7039":"BXX-7039","BXX/1384":"BXX-1384","601/1":"601 / 601 BLACK","7080":"7080 GREY",
  "N022":"N022 / N022 OFF WHITE","N022022":"N022022","N023":"N023 / NO23","N024":"N024","N025":"N025","NC024":"NC024",
  **{c:c for c in "1418 1431 1438 21008 2400A 2403 2408 2410 2505 5003 5004 5005 5006 5008 5010 5014 603 604 7088 7089 7094 7095 7096 7097 2400B 2500B".split()}}
-PNOTE = {"7098":"NO studio photos in Drive: only the hanger photo in the PDF.","125/7064":"Only 1 studio photo in Drive (other products have 3 or more).","7088":"Colour list in the PDF is incomplete: 'Black -' then nothing.","1438":"No description in the PDF.",
+PNOTE = {"5015":"Not in the PDF; added on request (18 Nov). Studio photos exist (shot with 2500B). Description and colour list still needed.","7098":"NO studio photos in Drive: only the hanger photo in the PDF.","125/7064":"Only 1 studio photo in Drive (other products have 3 or more).","7088":"Colour list in the PDF is incomplete: 'Black -' then nothing.","1438":"No description in the PDF.",
  "N022":"Bottom 'not in catalogue' in the PDF: no description given.","N023":"Bottom 'not in catalogue': no description.",
  "N024":"Bottom 'not in catalogue': no description.","N025":"Bottom 'not in catalogue': no description.",
  "NC024":"Bottom 'not in catalogue': no description.","N022022":"Bottom 'not in catalogue': no description.",

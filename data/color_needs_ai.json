@@ -1,0 +1,534 @@
+[
+ {
+  "SKU ID": "2500A-OFF-WHITE",
+  "Product code": "2500A",
+  "Type": "Top",
+  "Colour": "Off White",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "2500A-BLACK",
+  "Product code": "2500A",
+  "Type": "Top",
+  "Colour": "Black",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "2500A-BURGUNDY",
+  "Product code": "2500A",
+  "Type": "Top",
+  "Colour": "Burgundy",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "25003-BURGUNDY",
+  "Product code": "25003",
+  "Type": "Top",
+  "Colour": "Burgundy",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "25003-BLACK",
+  "Product code": "25003",
+  "Type": "Top",
+  "Colour": "Black",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "25003-GRAY",
+  "Product code": "25003",
+  "Type": "Top",
+  "Colour": "Gray",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "25003-ROSE",
+  "Product code": "25003",
+  "Type": "Top",
+  "Colour": "Rose",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "5008-BLACK",
+  "Product code": "5008",
+  "Type": "Top",
+  "Colour": "Black",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "5008-BEIGE",
+  "Product code": "5008",
+  "Type": "Top",
+  "Colour": "Beige",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "5008-BURGUNDY",
+  "Product code": "5008",
+  "Type": "Top",
+  "Colour": "Burgundy",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "5008-CAF",
+  "Product code": "5008",
+  "Type": "Top",
+  "Colour": "Café",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "5008-GRAY",
+  "Product code": "5008",
+  "Type": "Top",
+  "Colour": "Gray",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "5008-NAVY",
+  "Product code": "5008",
+  "Type": "Top",
+  "Colour": "Navy",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "5008-ROSE",
+  "Product code": "5008",
+  "Type": "Top",
+  "Colour": "Rose",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-451A-BLACK",
+  "Product code": "126/451A",
+  "Type": "Top",
+  "Colour": "Black",
+  "why": "printed / patterned fabric"
+ },
+ {
+  "SKU ID": "126-451A-CAF",
+  "Product code": "126/451A",
+  "Type": "Top",
+  "Colour": "Café",
+  "why": "printed / patterned fabric"
+ },
+ {
+  "SKU ID": "126-451A-NAVY",
+  "Product code": "126/451A",
+  "Type": "Top",
+  "Colour": "Navy",
+  "why": "printed / patterned fabric"
+ },
+ {
+  "SKU ID": "126-451A-WHITE",
+  "Product code": "126/451A",
+  "Type": "Top",
+  "Colour": "White",
+  "why": "printed / patterned fabric"
+ },
+ {
+  "SKU ID": "126-451B-BLACK",
+  "Product code": "126/451B",
+  "Type": "Bottom",
+  "Colour": "Black",
+  "why": "printed / patterned fabric"
+ },
+ {
+  "SKU ID": "126-451B-CAF",
+  "Product code": "126/451B",
+  "Type": "Bottom",
+  "Colour": "Café",
+  "why": "printed / patterned fabric"
+ },
+ {
+  "SKU ID": "126-451B-NAVY",
+  "Product code": "126/451B",
+  "Type": "Bottom",
+  "Colour": "Navy",
+  "why": "printed / patterned fabric"
+ },
+ {
+  "SKU ID": "126-451B-WHITE",
+  "Product code": "126/451B",
+  "Type": "Bottom",
+  "Colour": "White",
+  "why": "printed / patterned fabric"
+ },
+ {
+  "SKU ID": "126-474-BLACK",
+  "Product code": "126/474",
+  "Type": "Top",
+  "Colour": "Black",
+  "why": "printed / patterned fabric"
+ },
+ {
+  "SKU ID": "126-474-BEIGE",
+  "Product code": "126/474",
+  "Type": "Top",
+  "Colour": "Beige",
+  "why": "printed / patterned fabric"
+ },
+ {
+  "SKU ID": "126-474-BROWN",
+  "Product code": "126/474",
+  "Type": "Top",
+  "Colour": "Brown",
+  "why": "printed / patterned fabric"
+ },
+ {
+  "SKU ID": "126-474-OLIVE",
+  "Product code": "126/474",
+  "Type": "Top",
+  "Colour": "Olive",
+  "why": "printed / patterned fabric"
+ },
+ {
+  "SKU ID": "125-7082-BLACK",
+  "Product code": "125/7082",
+  "Type": "Top",
+  "Colour": "Black",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "125-7082-BEIGE",
+  "Product code": "125/7082",
+  "Type": "Top",
+  "Colour": "Beige",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "125-7082-CANARY",
+  "Product code": "125/7082",
+  "Type": "Top",
+  "Colour": "Canary",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "125-7082-FUCHSIA",
+  "Product code": "125/7082",
+  "Type": "Top",
+  "Colour": "Fuchsia",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "125-7082-MAUVE",
+  "Product code": "125/7082",
+  "Type": "Top",
+  "Colour": "Mauve",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "125-7064-BLACK",
+  "Product code": "125/7064",
+  "Type": "Top",
+  "Colour": "Black",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "125-7064-BROWN",
+  "Product code": "125/7064",
+  "Type": "Top",
+  "Colour": "Brown",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "125-7064-FUCHSIA",
+  "Product code": "125/7064",
+  "Type": "Top",
+  "Colour": "Fuchsia",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "125-7064-GREEN",
+  "Product code": "125/7064",
+  "Type": "Top",
+  "Colour": "Green",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "125-7064-LAVENDER",
+  "Product code": "125/7064",
+  "Type": "Top",
+  "Colour": "Lavender",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "125-7064-LEMON",
+  "Product code": "125/7064",
+  "Type": "Top",
+  "Colour": "Lemon",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "125-7064-ROSE",
+  "Product code": "125/7064",
+  "Type": "Top",
+  "Colour": "Rose",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "125-7064-SKY-BLUE",
+  "Product code": "125/7064",
+  "Type": "Top",
+  "Colour": "Sky Blue",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-1336-WHITE",
+  "Product code": "126/1336",
+  "Type": "Top",
+  "Colour": "White",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-1336-BLACK",
+  "Product code": "126/1336",
+  "Type": "Top",
+  "Colour": "Black",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-1336-FUCHSIA",
+  "Product code": "126/1336",
+  "Type": "Top",
+  "Colour": "Fuchsia",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-1336-NAVY",
+  "Product code": "126/1336",
+  "Type": "Top",
+  "Colour": "Navy",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-1336-PETROL",
+  "Product code": "126/1336",
+  "Type": "Top",
+  "Colour": "Petrol",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-1336-TURQUOISE",
+  "Product code": "126/1336",
+  "Type": "Top",
+  "Colour": "Turquoise",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-SMO101-1-BLUE",
+  "Product code": "126/SMO101/1",
+  "Type": "Bottom",
+  "Colour": "Blue",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-SMO101-1-FUCHSIA",
+  "Product code": "126/SMO101/1",
+  "Type": "Bottom",
+  "Colour": "Fuchsia",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-SMO101-1-KIWI",
+  "Product code": "126/SMO101/1",
+  "Type": "Bottom",
+  "Colour": "Kiwi",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-SMO101-1-PURPLE",
+  "Product code": "126/SMO101/1",
+  "Type": "Bottom",
+  "Colour": "Purple",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-1372-BLACK",
+  "Product code": "126/1372",
+  "Type": "Top",
+  "Colour": "Black",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-1372-BEIGE",
+  "Product code": "126/1372",
+  "Type": "Top",
+  "Colour": "Beige",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-1372-WHITE",
+  "Product code": "126/1372",
+  "Type": "Top",
+  "Colour": "White",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-425-BLACK",
+  "Product code": "126/425",
+  "Type": "Top",
+  "Colour": "Black",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-425-BEIGE",
+  "Product code": "126/425",
+  "Type": "Top",
+  "Colour": "Beige",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-425-CANARY",
+  "Product code": "126/425",
+  "Type": "Top",
+  "Colour": "Canary",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-425-FUCHSIA",
+  "Product code": "126/425",
+  "Type": "Top",
+  "Colour": "Fuchsia",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-425-MAUVE",
+  "Product code": "126/425",
+  "Type": "Top",
+  "Colour": "Mauve",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-425-WHITE",
+  "Product code": "126/425",
+  "Type": "Top",
+  "Colour": "White",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-433-NAVY",
+  "Product code": "126/433",
+  "Type": "Top",
+  "Colour": "Navy",
+  "why": "printed / patterned fabric"
+ },
+ {
+  "SKU ID": "126-433-BLUE",
+  "Product code": "126/433",
+  "Type": "Top",
+  "Colour": "Blue",
+  "why": "printed / patterned fabric"
+ },
+ {
+  "SKU ID": "126-433-RED",
+  "Product code": "126/433",
+  "Type": "Top",
+  "Colour": "Red",
+  "why": "printed / patterned fabric"
+ },
+ {
+  "SKU ID": "125-1380-BLACK",
+  "Product code": "125/1380",
+  "Type": "Top",
+  "Colour": "Black",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "125-1380-HAVANA",
+  "Product code": "125/1380",
+  "Type": "Top",
+  "Colour": "Havana",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "125-1380-MINT",
+  "Product code": "125/1380",
+  "Type": "Top",
+  "Colour": "Mint",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "125-1380-ROSE",
+  "Product code": "125/1380",
+  "Type": "Top",
+  "Colour": "Rose",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-461-OLIVE",
+  "Product code": "126/461",
+  "Type": "Dress",
+  "Colour": "Olive",
+  "why": "printed / patterned fabric"
+ },
+ {
+  "SKU ID": "126-461-BURGUNDY",
+  "Product code": "126/461",
+  "Type": "Dress",
+  "Colour": "Burgundy",
+  "why": "printed / patterned fabric"
+ },
+ {
+  "SKU ID": "125-415-BEIGE",
+  "Product code": "125/415",
+  "Type": "Dress",
+  "Colour": "Beige",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "125-415-BROWN",
+  "Product code": "125/415",
+  "Type": "Dress",
+  "Colour": "Brown",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "125-415-NAVY",
+  "Product code": "125/415",
+  "Type": "Dress",
+  "Colour": "Navy",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "125-415-PURPLE",
+  "Product code": "125/415",
+  "Type": "Dress",
+  "Colour": "Purple",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "125-415-WHITE",
+  "Product code": "125/415",
+  "Type": "Dress",
+  "Colour": "White",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-486-CREAM",
+  "Product code": "126/486",
+  "Type": "Dress",
+  "Colour": "Cream",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-486-BROWN",
+  "Product code": "126/486",
+  "Type": "Dress",
+  "Colour": "Brown",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-486-CAMEL",
+  "Product code": "126/486",
+  "Type": "Dress",
+  "Colour": "Camel",
+  "why": "no usable product cut-out yet"
+ },
+ {
+  "SKU ID": "126-486-MAUVE",
+  "Product code": "126/486",
+  "Type": "Dress",
+  "Colour": "Mauve",
+  "why": "no usable product cut-out yet"
+ }
+]

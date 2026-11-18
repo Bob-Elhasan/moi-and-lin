@@ -1,6 +1,6 @@
 Product code,Type,Description (EN),Description (AR),Number of colours,Colours,Shown paired with (PDF),Code in existing photo catalog,Studio photos in Drive,Drive shoot folders,Already in AI catalog (Nov run),PDF page,Notes
 5004,Top,Sleeveless turtle-neck knit pullover,هاي كول كت ساده,7,"Café, Burgundy, Navy, White, Brown, Gray, Black",2500B,5004,3,TOP 5004 BOTTOM 2500B OFF WHITE,Yes,1,
-2500B,Bottom,Plain knit trousers,بنطلون تريكو ساده,6,"Off White, Black, Burgundy, Rose, Café, Beige","5003, 5004, 5010",2500B,9,TOP 5003 BOTTOM 2500B; TOP 5004 BOTTOM 2500B OFF WHITE; TOP 5015 BOTTOM 2500B,Yes,1,
+2500B,Bottom,Plain knit trousers,بنطلون تريكو ساده,6,"Off White, Black, Burgundy, Rose, Café, Beige","5003, 5004, 5010, 5015",2500B,9,TOP 5003 BOTTOM 2500B; TOP 5004 BOTTOM 2500B OFF WHITE; TOP 5015 BOTTOM 2500B,Yes,1,
 5006,Top,Knit pullover with button hem detail,بلوفر ساده 3 زراير اسفل,7,"Black, Navy, Brown, Burgundy, Gray, Café, White",2400B,5006,3,TOP 5006 BOTTOM 2400B,Yes,1,
 2400B,Bottom,Plain knit trousers,بنطلون تريكو ساده,3,"Gray, Off White, Beige",5006,2400B,3,TOP 5006 BOTTOM 2400B,Yes,1,
 5005,Top,Plain oversized mock-neck knit pullover,هاف كول اوفر سايز ساده,5,"Gray, Brown, Café, Navy, White",N022,5005,3,TOP 5005 BOTTOM N022 OFF WHITE,Yes,1,
@@ -53,6 +53,7 @@ BXX/1384,Bottom,Wide-leg trousers with button-front closure,بنطلون قما�
 126/425,Top,Sleeveless blouse,بلوزه كت كشكشه,6,"Black, Beige, Canary, Fuchsia, Mauve, White",BXX/1384,,3,TOP 126-425 BOTTOM BXX-1384,No,10,
 126/433,Top,Printed sleeveless blouse,بلوزه كت مشجر,3,"Navy, Blue, Red",BXX/1384,,3,TOP 126-433 Bottom bxx-1384,No,11,
 125/1380,Top,Plain blouse with shoulder buttons,بلوزه ساده زراير / الكتف,4,"Black, Havana, Mint, Rose",126/439,,7,TOP 125-1380 BOTTOM 126-439,No,11,
+5015,Top,,,1,TBC (colour list needed),2500B,,3,TOP 5015 BOTTOM 2500B,No,0,Not in the PDF; added on request (18 Nov). Studio photos exist (shot with 2500B). Description and colour list still needed.
 126/461,Dress,Contrast maxi dress with patterned hem,فستان ماكسي بدون اكمام,2,"Olive, Burgundy",,,7,126-461,No,11,PDF cell reads 'no photo supplied' although a photo is shown.
 125/415,Dress,Short ruffled-sleeve maxi dress,فستان ساده,5,"Beige, Brown, Navy, Purple, White",,,6,125-415,No,11,
 126/486,Dress,Tiered dress with smocked waist and button detail,فستان طويل باكمام قصيره,4,"Cream, Brown, Camel, Mauve",,,6,126-486,No,12,
