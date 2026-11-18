@@ -99,6 +99,8 @@ _url = {}
 for _f in sorted(__import__("glob").glob("data/drive/sku_done_*.json")):
     for d in json.load(open(_f))["files"]:
         if d["status"] == "ok": _url[d["title"]] = d["viewUrl"]
+_fold = {}
+for _f in sorted(__import__("glob").glob("data/drive/sku_done_*.json")): _fold.update(json.load(open(_f))["folders"])
 _ai = {t["SKU ID"]: t["why"] for t in json.load(open("data/color_needs_ai.json"))}
 STATUS_AI = {"printed / patterned fabric": "Waiting: printed fabric needs an AI recolour (Canva quota)",
              "no usable product cut-out yet": "Waiting: product cut-out not made yet (Canva quota)",
@@ -121,12 +123,14 @@ for typ, code, en, ar, cols, page in P:
             ("Description (EN)", en), ("Description (AR)", ar), ("Colour", n), ("Colour as written in PDF", c),
             ("Barcode (EAN)", ""), ("Studio photos in Drive for product", CHECK[code][2]),
             ("Product already in AI catalog (Nov run)", "Yes" if cat else "No"),
-            ("Recolour status", ""), ("Front image (Drive)", ""), ("Back image (Drive)", ""), ("On-model status", ""), ("PDF page", page), ("Notes", NOTE.get(c.upper(), ""))]))
+            ("Recolour status", ""), ("Folder with this product's images (Drive)", ""), ("Front image (Drive)", ""), ("Back image (Drive)", ""), ("On-model status", ""), ("PDF page", page), ("Notes", NOTE.get(c.upper(), ""))]))
 assert len({s["SKU ID"] for s in skus}) == len(skus), "duplicate SKU ids"
 for r in skus:
     sid = r["SKU ID"]
     if sid in _plan:
         r["Recolour status"] = "Done (local recolour, front + back)"
+        _fid = _fold.get(f'{r["Type"].upper()} {r["Product code"].replace("/", "-")}')
+        r["Folder with this product's images (Drive)"] = f'=HYPERLINK("https://drive.google.com/drive/folders/{_fid}","Open folder")' if _fid else ""
         r["Front image (Drive)"] = _url.get(_plan[sid]["front"], ""); r["Back image (Drive)"] = _url.get(_plan[sid]["back"], "")
     elif r["Product code"] == "7098": r["Recolour status"] = "Skipped (client request)"
     else: r["Recolour status"] = STATUS_AI.get(_ai.get(sid, ""), "Waiting")

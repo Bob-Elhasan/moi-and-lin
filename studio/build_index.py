@@ -26,7 +26,7 @@ dup = {n for n in names if names.count(n) > 1}
 if dup: print("DUPLICATE NAMES ON DRIVE", sorted(dup))
 url = {n: u for n, u in files.values()}
 
-local = {p.name for p in Path("output").rglob("*.jpg") if "_up" not in p.parts and "_fix" not in p.parts}
+local = {p.name for p in Path("output").rglob("*.jpg") if "_up" not in p.parts and "_up2" not in p.parts and "_fix" not in p.parts and "SKU Colors 2026" not in p.parts}
 missing = sorted(local - set(url)); extra = sorted(set(url) - local)
 print(len(local), "local,", len(url), "on drive,", len(missing), "not on drive,", len(extra), "drive-only")
 for m in missing[:15]: print("  missing", m)
@@ -39,14 +39,34 @@ gfile = {(g["kind"], g["code"], g["color"].lower(), g["side"]): g["file"] for g 
 def gurl(kind, code, color, side):
     n = gfile.get((kind, code, (color or "Original").lower(), side))
     return url.get(n, "NOT ON DRIVE" if n else "") if n else ""
+FOLD = {}
+for _f in glob.glob("data/drive/*_ids.json"): FOLD.update(json.load(open(_f))["folders"])
+_clean = lambda seg: re.sub(r"\s*/\s*", "-", seg).strip()
+furl = lambda i: f"https://drive.google.com/drive/folders/{i}" if i else ""
+def onmodel_folder(j):
+    parts = j["folder"].split("/")                   # On-Model/<look>/<colour, may contain '/'>
+    return FOLD.get(f"{_clean(parts[1])}/{_clean('/'.join(parts[2:]))}")
+def ghost_folder(kind, code, color):
+    c = (color or "Original")
+    for g in ghost:
+        if g["kind"] == kind and g["code"] == code and g["color"].lower() == c.lower():
+            parts = g["folder"].split("/")           # Ghost Mannequin/TOP x/colour
+            return FOLD.get(f"{_clean(parts[1])}/{_clean('/'.join(parts[2:]))}")
+    return None
+misses = []
 rows = []
 for j in jobs:
     pre = f"_r{int(j['row']):03d}_"
     mine = sorted(n for n in local if pre in n and not n.startswith("ghost_"))
     def pick(*keys):
         return " | ".join(url.get(n, "NOT ON DRIVE") for n in mine if any(k in n for k in keys))
+    fo, gt, gb = onmodel_folder(j), ghost_folder("top", j["top"], j["top_color"]), ghost_folder("bottom", j["bottom"], j["bottom_color"])
+    if not (fo and gt and gb): misses.append((j["row"], bool(fo), bool(gt), bool(gb)))
+    mk = lambda i, label: f'=HYPERLINK("{furl(i)}","{label}")' if i else "NO FOLDER FOUND"
     r = {"Excel row": j["row"], "Barcode": f'="{j["code"]}"', "Top": j["top"], "Bottom": j["bottom"],
          "Top color": j["top_color"], "Bottom color": j["bottom_color"], "Footwear": j["footwear"],
+         "All photos of this look (folder)": mk(fo, "Open folder"),
+         "Ghost mannequin top (folder)": mk(gt, "Open folder"), "Ghost mannequin bottom (folder)": mk(gb, "Open folder"),
          "Front": pick("_01-"), "Three-quarter / detail": pick("_02-"), "Back / side": pick("_03-"),
          "Editorial front": pick("_04-"), "Editorial back": pick("_05-") or "not generated yet",
          "Detail crop top (real photo)": pick("_06-"), "Detail crop bottom (real photo)": pick("_07-"),
@@ -58,4 +78,4 @@ for j in jobs:
 json.dump({"rows": rows, "url": url}, open("data/drive/index_data.json", "w"), indent=1)
 with open("data/drive/index.csv", "w", newline="") as f:
     w = csv.DictWriter(f, fieldnames=list(rows[0])); w.writeheader(); w.writerows(rows)
-print(len(rows), "rows")
+print(len(rows), "rows;", "rows with a missing folder:", misses[:10], len(misses))
