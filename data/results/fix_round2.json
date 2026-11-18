@@ -1,0 +1,292 @@
+[
+ {
+  "fix": 1,
+  "row": 9,
+  "slot": "03",
+  "out": "output/On-Model/TOP 126-427 + BOTTOM 126-439/Lavender/000676478967_126-427_126-439_lavender_r009_03-back.jpg",
+  "service": "higgsfield",
+  "id": "f22aee9f-07f1-448b-b5fe-4b9782b9b747",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "fix": 4,
+  "row": 16,
+  "slot": "03",
+  "out": "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Grey/004557713949_126-451a_126-451b_grey_r016_03-back.jpg",
+  "service": "higgsfield",
+  "id": "80898c5d-d477-44ca-902e-d0224797055c",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "fix": 6,
+  "row": 19,
+  "slot": "02",
+  "out": "output/On-Model/TOP 126-451A + BOTTOM 126-451B/White with dots/004557713949_126-451a_126-451b_white-with-dots_r019_02-three-quarter.jpg",
+  "service": "higgsfield",
+  "id": "9144a7e2-12cf-4b78-85ca-15c2a10c879c",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "fix": 8,
+  "row": 22,
+  "slot": "02",
+  "out": "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Chocolate brown leaf print/004557717602_126-474_bxx-smb115_chocolate-brown-leaf-print_r022_02-three-quarter.jpg",
+  "service": "higgsfield",
+  "id": "0528507c-2b6e-4fcd-ba0d-0572edaf493d",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "fix": 9,
+  "row": 26,
+  "slot": "03",
+  "out": "output/On-Model/TOP 1418 + BOTTOM 601/White/947990090614_1418_601_white_r026_03-back.jpg",
+  "service": "elevenlabs",
+  "id": "G4UJZdf2QG4mlvwnidPU",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "fix": 13,
+  "row": 39,
+  "slot": "03",
+  "out": "output/On-Model/TOP 21008 + BOTTOM N022/Taupe beige/094367000087_21008_n022_taupe-beige_r039_03-back.jpg",
+  "service": "elevenlabs",
+  "id": "swXjfADTmTnAq3HvtODz",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "fix": 15,
+  "row": 42,
+  "slot": "03",
+  "out": "output/On-Model/TOP 21008 + BOTTOM N022/Pink - White Jeans/094367000087_21008_n022_pink_white-jeans_r042_03-back.jpg",
+  "service": "elevenlabs",
+  "id": "tdc8zmBc94XmHhRgQXOt",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "fix": 21,
+  "row": 65,
+  "slot": "03",
+  "out": "output/On-Model/TOP 2505 + BOTTOM N022/Burgundy - White Jeans/000455769903_2505_n022_burgundy_white-jeans_r065_03-back.jpg",
+  "service": "elevenlabs",
+  "id": "69EW9C6pQLUnD8INGTtR",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "fix": 27,
+  "row": 76,
+  "slot": "03",
+  "out": "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/White - Grey Pants/004557711105_5004_2500b-off-white_white_grey-pants_r076_03-back.jpg",
+  "service": "elevenlabs",
+  "id": "Z0PQju1CgrlMCt5TohfY",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "fix": 29,
+  "row": 84,
+  "slot": "03",
+  "out": "output/On-Model/TOP 5006 + BOTTOM 2400B/Black - Off White Pants/004557710672_5006_2400b_black_off-white-pants_r084_03-back.jpg",
+  "service": "elevenlabs",
+  "id": "tGgSKC6eXQm9mZUS07hb",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "fix": 32,
+  "row": 88,
+  "slot": "02",
+  "out": "output/On-Model/TOP 5006 + BOTTOM 2400B/White/004557710672_5006_2400b_white_r088_02-three-quarter.jpg",
+  "service": "elevenlabs",
+  "id": "u7DurqKgMdch6Kn1JWGD",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "fix": 44,
+  "row": 108,
+  "slot": "03",
+  "out": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Brown - White Jeans or sweatpants/000455766933_603_601-black_brown_white-jeans-or-sweatpants_r108_03-back.jpg",
+  "service": "elevenlabs",
+  "id": "eCdqy9OQll1b8GXM7Piu",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "fix": 45,
+  "row": 109,
+  "slot": "03",
+  "out": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/White/000455766933_603_601-black_white_r109_03-back.jpg",
+  "service": "elevenlabs",
+  "id": "MM85u7FmVxwaEQGRFeIE",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "fix": 48,
+  "row": 115,
+  "slot": "03",
+  "out": "output/On-Model/TOP 604 + BOTTOM N022/Cream - Grey Jeans/000455767527_604_n022_cream_grey-jeans_r115_03-back.jpg",
+  "service": "elevenlabs",
+  "id": "CKZutgLwZzEvobm1MrlU",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "fix": 52,
+  "row": 126,
+  "slot": "03",
+  "out": "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Olive - White Jeans/000455770596_7089_no23-as-in-folder-name_olive_white-jeans_r126_03-back.jpg",
+  "service": "elevenlabs",
+  "id": "TnKkhETnIEmncBd7fFlW",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "fix": 55,
+  "row": 132,
+  "slot": "02",
+  "out": "output/On-Model/TOP 7095 + BOTTOM N022/Cream / beige - Black Pants/004557714977_7095_n022_cream-beige_black-pants_r132_02-three-quarter.jpg",
+  "service": "elevenlabs",
+  "id": "zOducCmGNJzQpfnOXcxq",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "fix": 57,
+  "row": 133,
+  "slot": "03",
+  "out": "output/On-Model/TOP 7095 + BOTTOM N022/Blush peach - White Pants/004557714977_7095_n022_blush-peach_white-pants_r133_03-back.jpg",
+  "service": "elevenlabs",
+  "id": "ULg4wwR6pKV6BMHumGsl",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "fix": 62,
+  "row": 146,
+  "slot": "03",
+  "out": "output/On-Model/TOP 7097 + BOTTOM N023/Camel brown - White Jeans/004557715820_7097_n023_camel-brown_white-jeans_r146_03-back.jpg",
+  "service": "elevenlabs",
+  "id": null,
+  "status": "not_run",
+  "error": "401: {'type': 'invalid_request', 'code': 'quota_exceeded', 'message': 'This request exceeds your quota of 121174. You have 43 credits remaining, while 458 credits are required for this request.', 'status': 'quota_exceeded', 'request_id': '0b969d997952528b3a5d1e6b9dd80256'}"
+ },
+ {
+  "fix": 64,
+  "row": 148,
+  "slot": "03",
+  "out": "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Cream - Blue/Black/Pink/Brown/Beige Pants/000676478837_bxx-7039_bxx-1384_cream_blue-black-pink-brown-beige-pants_r148_03-back.jpg",
+  "service": "elevenlabs",
+  "id": "QbUPA6ld3jTlLiSjnzWI",
+  "status": "completed",
+  "error": null
+ },
+ {
+  "fix": 67,
+  "row": 151,
+  "slot": "03",
+  "out": "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Turquoise - White Pants/000676478837_bxx-7039_bxx-1384_turquoise_white-pants_r151_03-back.jpg",
+  "service": "elevenlabs",
+  "id": null,
+  "status": "not_run",
+  "error": "401: {'type': 'invalid_request', 'code': 'quota_exceeded', 'message': 'This request exceeds your quota of 121174. You have 0 credits remaining, while 458 credits are required for this request.', 'status': 'quota_exceeded', 'request_id': '0b969d997952528b3a5d1e6b9dd80256'}"
+ },
+ {
+  "fix": 23,
+  "row": 71,
+  "slot": "01",
+  "out": "output/On-Model/TOP 5003 + BOTTOM 2500B/White - Grey Jeans/004557710566_5003_2500b_white_grey-jeans_r071_01-front.jpg",
+  "service": "elevenlabs",
+  "id": null,
+  "status": "not_run",
+  "error": "not attempted: ElevenLabs credits exhausted (quota_exceeded on fixes 62 and 67)"
+ },
+ {
+  "fix": 24,
+  "row": 72,
+  "slot": "03",
+  "out": "output/On-Model/TOP 5003 + BOTTOM 2500B/Navy/004557710566_5003_2500b_navy_r072_03-back.jpg",
+  "service": "elevenlabs",
+  "id": null,
+  "status": "not_run",
+  "error": "not attempted: ElevenLabs credits exhausted (quota_exceeded on fixes 62 and 67)"
+ },
+ {
+  "fix": 26,
+  "row": 74,
+  "slot": "03",
+  "out": "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Burgundy/004557711105_5004_2500b-off-white_burgundy_r074_03-back.jpg",
+  "service": "elevenlabs",
+  "id": null,
+  "status": "not_run",
+  "error": "not attempted: ElevenLabs credits exhausted (quota_exceeded on fixes 62 and 67)"
+ },
+ {
+  "fix": 30,
+  "row": 87,
+  "slot": "01",
+  "out": "output/On-Model/TOP 5006 + BOTTOM 2400B/Light Brown - Black Pants/004557710672_5006_2400b_light-brown_black-pants_r087_01-front.jpg",
+  "service": "elevenlabs",
+  "id": null,
+  "status": "not_run",
+  "error": "not attempted: ElevenLabs credits exhausted (quota_exceeded on fixes 62 and 67)"
+ },
+ {
+  "fix": 42,
+  "row": 105,
+  "slot": "02",
+  "out": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Sand beige - White Jeans or sweatpants/000455766933_603_601-black_sand-beige_white-jeans-or-sweatpants_r105_02-three-quarter.jpg",
+  "service": "elevenlabs",
+  "id": null,
+  "status": "not_run",
+  "error": "not attempted: ElevenLabs credits exhausted (quota_exceeded on fixes 62 and 67)"
+ },
+ {
+  "fix": 43,
+  "row": 107,
+  "slot": "03",
+  "out": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Black/000455766933_603_601-black_black_r107_03-back.jpg",
+  "service": "elevenlabs",
+  "id": null,
+  "status": "not_run",
+  "error": "not attempted: ElevenLabs credits exhausted (quota_exceeded on fixes 62 and 67)"
+ },
+ {
+  "fix": 50,
+  "row": 121,
+  "slot": "03",
+  "out": "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Sage green - White Jeans/000455770596_7089_no23-as-in-folder-name_sage-green_white-jeans_r121_03-back.jpg",
+  "service": "elevenlabs",
+  "id": null,
+  "status": "not_run",
+  "error": "not attempted: ElevenLabs credits exhausted (quota_exceeded on fixes 62 and 67)"
+ },
+ {
+  "fix": 53,
+  "row": 128,
+  "slot": "01",
+  "out": "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Cream/004557712164_7094_n022-off-white_cream_r128_01-front.jpg",
+  "service": "elevenlabs",
+  "id": null,
+  "status": "not_run",
+  "error": "not attempted: ElevenLabs credits exhausted (quota_exceeded on fixes 62 and 67)"
+ },
+ {
+  "fix": 60,
+  "row": 138,
+  "slot": "03",
+  "out": "output/On-Model/TOP 7095 + BOTTOM N022/Black - White Pants/004557714977_7095_n022_black_white-pants_r138_03-back.jpg",
+  "service": "elevenlabs",
+  "id": null,
+  "status": "not_run",
+  "error": "not attempted: ElevenLabs credits exhausted (quota_exceeded on fixes 62 and 67)"
+ }
+]
