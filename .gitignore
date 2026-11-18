@@ -3,3 +3,4 @@ __pycache__/
 .env
 output_grey/
 fix_staging/
+pose_staging/

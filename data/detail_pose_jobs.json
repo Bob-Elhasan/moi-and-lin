@@ -1,0 +1,1606 @@
+[
+ {
+  "row": 3,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 125-7071 + BOTTOM 126-439/Black/000676478967_125-7071_126-439_black_r003_01-front.jpg",
+   "output/On-Model/TOP 125-7071 + BOTTOM 126-439/Black/000676478967_125-7071_126-439_black_r003_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 125-7071) in Black, bottom (product 126-439) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. both hands lightly holding and adjusting the open front edges of the top at chest height, showing the fabric drape, sleeve tabs and buttons.",
+  "out": "pose_staging/On-Model/TOP 125-7071 + BOTTOM 126-439/Black/000676478967_125-7071_126-439_black_r003_08-detail-pose.jpg"
+ },
+ {
+  "row": 4,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 125-7071 + BOTTOM 126-439/Sky blue/947990095282_125-7071_126-439_sky-blue_r004_01-front.jpg",
+   "output/On-Model/TOP 125-7071 + BOTTOM 126-439/Sky blue/947990095282_125-7071_126-439_sky-blue_r004_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 125-7071) in Sky blue, bottom (product 126-439) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 125-7071 + BOTTOM 126-439/Sky blue/947990095282_125-7071_126-439_sky-blue_r004_08-detail-pose.jpg"
+ },
+ {
+  "row": 5,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/Black/000676478967_126-427_126-439_black_r005_01-front.jpg",
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/Black/000676478967_126-427_126-439_black_r005_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 126-427) in Black, bottom (product 126-439) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. both hands lightly holding and adjusting the open front edges of the top at chest height, showing the fabric drape, sleeve tabs and buttons.",
+  "out": "pose_staging/On-Model/TOP 126-427 + BOTTOM 126-439/Black/000676478967_126-427_126-439_black_r005_08-detail-pose.jpg"
+ },
+ {
+  "row": 6,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/Chocolate brown/000676478967_126-427_126-439_chocolate-brown_r006_01-front.jpg",
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/Chocolate brown/000676478967_126-427_126-439_chocolate-brown_r006_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 126-427) in Chocolate brown, bottom (product 126-439) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 126-427 + BOTTOM 126-439/Chocolate brown/000676478967_126-427_126-439_chocolate-brown_r006_08-detail-pose.jpg"
+ },
+ {
+  "row": 7,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/Beige / stone/000676478967_126-427_126-439_beige-stone_r007_01-front.jpg",
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/Beige / stone/000676478967_126-427_126-439_beige-stone_r007_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 126-427) in Beige / stone, bottom (product 126-439) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 126-427 + BOTTOM 126-439/Beige / stone/000676478967_126-427_126-439_beige-stone_r007_08-detail-pose.jpg"
+ },
+ {
+  "row": 8,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/Dusty rose/000676478967_126-427_126-439_dusty-rose_r008_01-front.jpg",
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/Dusty rose/000676478967_126-427_126-439_dusty-rose_r008_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 126-427) in Dusty rose, bottom (product 126-439) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. both hands lightly holding and adjusting the open front edges of the top at chest height, showing the fabric drape, sleeve tabs and buttons.",
+  "out": "pose_staging/On-Model/TOP 126-427 + BOTTOM 126-439/Dusty rose/000676478967_126-427_126-439_dusty-rose_r008_08-detail-pose.jpg"
+ },
+ {
+  "row": 9,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/Lavender/000676478967_126-427_126-439_lavender_r009_01-front.jpg",
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/Lavender/000676478967_126-427_126-439_lavender_r009_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 126-427) in Lavender, bottom (product 126-439) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 126-427 + BOTTOM 126-439/Lavender/000676478967_126-427_126-439_lavender_r009_08-detail-pose.jpg"
+ },
+ {
+  "row": 10,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/Sage green - White Pants/000676478967_126-427_126-439_sage-green_white-pants_r010_01-front.jpg",
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/Sage green - White Pants/000676478967_126-427_126-439_sage-green_white-pants_r010_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 126-427) in Sage green, bottom (product 126-439) in White Pants",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 126-427 + BOTTOM 126-439/Sage green - White Pants/000676478967_126-427_126-439_sage-green_white-pants_r010_08-detail-pose.jpg"
+ },
+ {
+  "row": 11,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/Mustard - White Pants/000676478967_126-427_126-439_mustard_white-pants_r011_01-front.jpg",
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/Mustard - White Pants/000676478967_126-427_126-439_mustard_white-pants_r011_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 126-427) in Mustard, bottom (product 126-439) in White Pants",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. both hands lightly holding and adjusting the open front edges of the top at chest height, showing the fabric drape, sleeve tabs and buttons.",
+  "out": "pose_staging/On-Model/TOP 126-427 + BOTTOM 126-439/Mustard - White Pants/000676478967_126-427_126-439_mustard_white-pants_r011_08-detail-pose.jpg"
+ },
+ {
+  "row": 12,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/Olive - White Pants/000676478967_126-427_126-439_olive_white-pants_r012_01-front.jpg",
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/Olive - White Pants/000676478967_126-427_126-439_olive_white-pants_r012_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 126-427) in Olive, bottom (product 126-439) in White Pants",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 126-427 + BOTTOM 126-439/Olive - White Pants/000676478967_126-427_126-439_olive_white-pants_r012_08-detail-pose.jpg"
+ },
+ {
+  "row": 13,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/Purple - White Pants/000676478967_126-427_126-439_purple_white-pants_r013_01-front.jpg",
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/Purple - White Pants/000676478967_126-427_126-439_purple_white-pants_r013_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 126-427) in Purple, bottom (product 126-439) in White Pants",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 126-427 + BOTTOM 126-439/Purple - White Pants/000676478967_126-427_126-439_purple_white-pants_r013_08-detail-pose.jpg"
+ },
+ {
+  "row": 14,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/Sky blue - White Pants/000676478967_126-427_126-439_sky-blue_white-pants_r014_01-front.jpg",
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/Sky blue - White Pants/000676478967_126-427_126-439_sky-blue_white-pants_r014_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 126-427) in Sky blue, bottom (product 126-439) in White Pants",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. both hands lightly holding and adjusting the open front edges of the top at chest height, showing the fabric drape, sleeve tabs and buttons.",
+  "out": "pose_staging/On-Model/TOP 126-427 + BOTTOM 126-439/Sky blue - White Pants/000676478967_126-427_126-439_sky-blue_white-pants_r014_08-detail-pose.jpg"
+ },
+ {
+  "row": 15,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/White/000676478967_126-427_126-439_white_r015_01-front.jpg",
+   "output/On-Model/TOP 126-427 + BOTTOM 126-439/White/000676478967_126-427_126-439_white_r015_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 126-427) in White, bottom (product 126-439) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 126-427 + BOTTOM 126-439/White/000676478967_126-427_126-439_white_r015_08-detail-pose.jpg"
+ },
+ {
+  "row": 16,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Grey/004557713949_126-451a_126-451b_grey_r016_01-front.jpg",
+   "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Grey/004557713949_126-451a_126-451b_grey_r016_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 126-451A) in Grey, bottom (product 126-451B) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. both hands lightly holding and adjusting the open front edges of the top at chest height, showing the fabric drape, sleeve tabs and buttons.",
+  "out": "pose_staging/On-Model/TOP 126-451A + BOTTOM 126-451B/Grey/004557713949_126-451a_126-451b_grey_r016_08-detail-pose.jpg"
+ },
+ {
+  "row": 17,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Brown check/004557713949_126-451a_126-451b_brown-check_r017_01-front.jpg",
+   "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Brown check/004557713949_126-451a_126-451b_brown-check_r017_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 126-451A) in Brown check, bottom (product 126-451B) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 126-451A + BOTTOM 126-451B/Brown check/004557713949_126-451a_126-451b_brown-check_r017_08-detail-pose.jpg"
+ },
+ {
+  "row": 18,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Slate blue/004557713949_126-451a_126-451b_slate-blue_r018_01-front.jpg",
+   "output/On-Model/TOP 126-451A + BOTTOM 126-451B/Slate blue/004557713949_126-451a_126-451b_slate-blue_r018_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 126-451A) in Slate blue, bottom (product 126-451B) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 126-451A + BOTTOM 126-451B/Slate blue/004557713949_126-451a_126-451b_slate-blue_r018_08-detail-pose.jpg"
+ },
+ {
+  "row": 19,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 126-451A + BOTTOM 126-451B/White with dots/004557713949_126-451a_126-451b_white-with-dots_r019_01-front.jpg",
+   "output/On-Model/TOP 126-451A + BOTTOM 126-451B/White with dots/004557713949_126-451a_126-451b_white-with-dots_r019_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 126-451A) in White with dots, bottom (product 126-451B) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. both hands lightly holding and adjusting the open front edges of the top at chest height, showing the fabric drape, sleeve tabs and buttons.",
+  "out": "pose_staging/On-Model/TOP 126-451A + BOTTOM 126-451B/White with dots/004557713949_126-451a_126-451b_white-with-dots_r019_08-detail-pose.jpg"
+ },
+ {
+  "row": 20,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Black / white floral print/004557717602_126-474_bxx-smb115_black-white-floral-print_r020_01-front.jpg",
+   "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Black / white floral print/004557717602_126-474_bxx-smb115_black-white-floral-print_r020_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 126-474) in Black / white floral print, bottom (product BXX-SMB115) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand fastening the cuff button of the other sleeve at waist height, showing the collar, placket, buttons and fabric.",
+  "out": "pose_staging/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Black / white floral print/004557717602_126-474_bxx-smb115_black-white-floral-print_r020_08-detail-pose.jpg"
+ },
+ {
+  "row": 21,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Beige leaf print - White Pants/004557717602_126-474_bxx-smb115_beige-leaf-print_white-pants_r021_01-front.jpg",
+   "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Beige leaf print - White Pants/004557717602_126-474_bxx-smb115_beige-leaf-print_white-pants_r021_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 126-474) in Beige leaf print, bottom (product BXX-SMB115) in White Pants",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Beige leaf print - White Pants/004557717602_126-474_bxx-smb115_beige-leaf-print_white-pants_r021_08-detail-pose.jpg"
+ },
+ {
+  "row": 22,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Chocolate brown leaf print/004557717602_126-474_bxx-smb115_chocolate-brown-leaf-print_r022_01-front.jpg",
+   "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Chocolate brown leaf print/004557717602_126-474_bxx-smb115_chocolate-brown-leaf-print_r022_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 126-474) in Chocolate brown leaf print, bottom (product BXX-SMB115) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Chocolate brown leaf print/004557717602_126-474_bxx-smb115_chocolate-brown-leaf-print_r022_08-detail-pose.jpg"
+ },
+ {
+  "row": 23,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Olive green leaf print/004557717602_126-474_bxx-smb115_olive-green-leaf-print_r023_01-front.jpg",
+   "output/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Olive green leaf print/004557717602_126-474_bxx-smb115_olive-green-leaf-print_r023_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 126-474) in Olive green leaf print, bottom (product BXX-SMB115) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand fastening the cuff button of the other sleeve at waist height, showing the collar, placket, buttons and fabric.",
+  "out": "pose_staging/On-Model/TOP 126-474 + BOTTOM BXX-SMB115/Olive green leaf print/004557717602_126-474_bxx-smb115_olive-green-leaf-print_r023_08-detail-pose.jpg"
+ },
+ {
+  "row": 24,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 1418 + BOTTOM 601/Black/947990090614_1418_601_black_r024_01-front.jpg",
+   "output/On-Model/TOP 1418 + BOTTOM 601/Black/947990090614_1418_601_black_r024_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 1418) in Black, bottom (product 601) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the top has a hood, both hands lifting the hood up over the back of her head; if it has no hood, both hands pushing the sleeves up to the forearms; showing the zip or buttons, drawstrings, cuffs and fabric.",
+  "out": "pose_staging/On-Model/TOP 1418 + BOTTOM 601/Black/947990090614_1418_601_black_r024_08-detail-pose.jpg"
+ },
+ {
+  "row": 25,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 1418 + BOTTOM 601/Cream - Black Pants/947990090614_1418_601_cream_black-pants_r025_01-front.jpg",
+   "output/On-Model/TOP 1418 + BOTTOM 601/Cream - Black Pants/947990090614_1418_601_cream_black-pants_r025_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 1418) in Cream, bottom (product 601) in Black Pants",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 1418 + BOTTOM 601/Cream - Black Pants/947990090614_1418_601_cream_black-pants_r025_08-detail-pose.jpg"
+ },
+ {
+  "row": 26,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 1418 + BOTTOM 601/White/947990090614_1418_601_white_r026_01-front.jpg",
+   "output/On-Model/TOP 1418 + BOTTOM 601/White/947990090614_1418_601_white_r026_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 1418) in White, bottom (product 601) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 1418 + BOTTOM 601/White/947990090614_1418_601_white_r026_08-detail-pose.jpg"
+ },
+ {
+  "row": 27,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 1418 + BOTTOM 601/Sand beige/947990090614_1418_601_sand-beige_r027_01-front.jpg",
+   "output/On-Model/TOP 1418 + BOTTOM 601/Sand beige/947990090614_1418_601_sand-beige_r027_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 1418) in Sand beige, bottom (product 601) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the top has a hood, both hands lifting the hood up over the back of her head; if it has no hood, both hands pushing the sleeves up to the forearms; showing the zip or buttons, drawstrings, cuffs and fabric.",
+  "out": "pose_staging/On-Model/TOP 1418 + BOTTOM 601/Sand beige/947990090614_1418_601_sand-beige_r027_08-detail-pose.jpg"
+ },
+ {
+  "row": 28,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 1431 + BOTTOM NC024/Grey/947990094452_1431_nc024_grey_r028_01-front.jpg",
+   "output/On-Model/TOP 1431 + BOTTOM NC024/Grey/947990094452_1431_nc024_grey_r028_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 1431) in Grey, bottom (product NC024) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the coat has a belt, both hands tying the belt at the waist; if it has no belt, both hands holding the lapels or fastening the front closure; showing lapels, buttons, pockets and fabric.",
+  "out": "pose_staging/On-Model/TOP 1431 + BOTTOM NC024/Grey/947990094452_1431_nc024_grey_r028_08-detail-pose.jpg"
+ },
+ {
+  "row": 29,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 1431 + BOTTOM NC024/Dark navy / charcoal/947990094452_1431_nc024_dark-navy-charcoal_r029_01-front.jpg",
+   "output/On-Model/TOP 1431 + BOTTOM NC024/Dark navy / charcoal/947990094452_1431_nc024_dark-navy-charcoal_r029_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 1431) in Dark navy / charcoal, bottom (product NC024) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 1431 + BOTTOM NC024/Dark navy / charcoal/947990094452_1431_nc024_dark-navy-charcoal_r029_08-detail-pose.jpg"
+ },
+ {
+  "row": 31,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 1438 + BOTTOM N025/Mustard / camel/947990093677_1438_n025_mustard-camel_r031_01-front.jpg",
+   "output/On-Model/TOP 1438 + BOTTOM N025/Mustard / camel/947990093677_1438_n025_mustard-camel_r031_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 1438) in Mustard / camel, bottom (product N025) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand gently pulling the sleeve cuff of the other arm down over the wrist, arms relaxed in front of the body, showing the knit texture, neckline and ribbing.",
+  "out": "pose_staging/On-Model/TOP 1438 + BOTTOM N025/Mustard / camel/947990093677_1438_n025_mustard-camel_r031_08-detail-pose.jpg"
+ },
+ {
+  "row": 35,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 21008 + BOTTOM N022/Black/094367000087_21008_n022_black_r035_01-front.jpg",
+   "output/On-Model/TOP 21008 + BOTTOM N022/Black/094367000087_21008_n022_black_r035_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 21008) in Black, bottom (product N022) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand gently pulling the sleeve cuff of the other arm down over the wrist, arms relaxed in front of the body, showing the knit texture, neckline and ribbing.",
+  "out": "pose_staging/On-Model/TOP 21008 + BOTTOM N022/Black/094367000087_21008_n022_black_r035_08-detail-pose.jpg"
+ },
+ {
+  "row": 36,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 21008 + BOTTOM N022/White - Beige Jeans/094367000087_21008_n022_white_beige-jeans_r036_01-front.jpg",
+   "output/On-Model/TOP 21008 + BOTTOM N022/White - Beige Jeans/094367000087_21008_n022_white_beige-jeans_r036_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 21008) in White, bottom (product N022) in Beige Jeans",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 21008 + BOTTOM N022/White - Beige Jeans/094367000087_21008_n022_white_beige-jeans_r036_08-detail-pose.jpg"
+ },
+ {
+  "row": 37,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 21008 + BOTTOM N022/Grey/094367000087_21008_n022_grey_r037_01-front.jpg",
+   "output/On-Model/TOP 21008 + BOTTOM N022/Grey/094367000087_21008_n022_grey_r037_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 21008) in Grey, bottom (product N022) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 21008 + BOTTOM N022/Grey/094367000087_21008_n022_grey_r037_08-detail-pose.jpg"
+ },
+ {
+  "row": 38,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 21008 + BOTTOM N022/Plum - White Jeans/094367000087_21008_n022_plum_white-jeans_r038_01-front.jpg",
+   "output/On-Model/TOP 21008 + BOTTOM N022/Plum - White Jeans/094367000087_21008_n022_plum_white-jeans_r038_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 21008) in Plum, bottom (product N022) in White Jeans",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand gently pulling the sleeve cuff of the other arm down over the wrist, arms relaxed in front of the body, showing the knit texture, neckline and ribbing.",
+  "out": "pose_staging/On-Model/TOP 21008 + BOTTOM N022/Plum - White Jeans/094367000087_21008_n022_plum_white-jeans_r038_08-detail-pose.jpg"
+ },
+ {
+  "row": 39,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 21008 + BOTTOM N022/Taupe beige/094367000087_21008_n022_taupe-beige_r039_01-front.jpg",
+   "output/On-Model/TOP 21008 + BOTTOM N022/Taupe beige/094367000087_21008_n022_taupe-beige_r039_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 21008) in Taupe beige, bottom (product N022) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 21008 + BOTTOM N022/Taupe beige/094367000087_21008_n022_taupe-beige_r039_08-detail-pose.jpg"
+ },
+ {
+  "row": 40,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 21008 + BOTTOM N022/Turquoise - White Jeans/094367000087_21008_n022_turquoise_white-jeans_r040_01-front.jpg",
+   "output/On-Model/TOP 21008 + BOTTOM N022/Turquoise - White Jeans/094367000087_21008_n022_turquoise_white-jeans_r040_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 21008) in Turquoise, bottom (product N022) in White Jeans",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 21008 + BOTTOM N022/Turquoise - White Jeans/094367000087_21008_n022_turquoise_white-jeans_r040_08-detail-pose.jpg"
+ },
+ {
+  "row": 41,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 21008 + BOTTOM N022/Dusty rose - White Jeans/094367000087_21008_n022_dusty-rose_white-jeans_r041_01-front.jpg",
+   "output/On-Model/TOP 21008 + BOTTOM N022/Dusty rose - White Jeans/094367000087_21008_n022_dusty-rose_white-jeans_r041_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 21008) in Dusty rose, bottom (product N022) in White Jeans",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand gently pulling the sleeve cuff of the other arm down over the wrist, arms relaxed in front of the body, showing the knit texture, neckline and ribbing.",
+  "out": "pose_staging/On-Model/TOP 21008 + BOTTOM N022/Dusty rose - White Jeans/094367000087_21008_n022_dusty-rose_white-jeans_r041_08-detail-pose.jpg"
+ },
+ {
+  "row": 42,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 21008 + BOTTOM N022/Pink - White Jeans/094367000087_21008_n022_pink_white-jeans_r042_01-front.jpg",
+   "output/On-Model/TOP 21008 + BOTTOM N022/Pink - White Jeans/094367000087_21008_n022_pink_white-jeans_r042_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 21008) in Pink, bottom (product N022) in White Jeans",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 21008 + BOTTOM N022/Pink - White Jeans/094367000087_21008_n022_pink_white-jeans_r042_08-detail-pose.jpg"
+ },
+ {
+  "row": 43,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 21008 + BOTTOM N022/Mauve/094367000087_21008_n022_mauve_r043_01-front.jpg",
+   "output/On-Model/TOP 21008 + BOTTOM N022/Mauve/094367000087_21008_n022_mauve_r043_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 21008) in Mauve, bottom (product N022) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 21008 + BOTTOM N022/Mauve/094367000087_21008_n022_mauve_r043_08-detail-pose.jpg"
+ },
+ {
+  "row": 44,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 2400A + BOTTOM N022 OFF WHITE/Cream / beige/947990087843_2400a_n022-off-white_cream-beige_r044_01-front.jpg",
+   "output/On-Model/TOP 2400A + BOTTOM N022 OFF WHITE/Cream / beige/947990087843_2400a_n022-off-white_cream-beige_r044_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 2400A) in Cream / beige, bottom (product N022 OFF WHITE) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand gently pulling the sleeve cuff of the other arm down over the wrist, arms relaxed in front of the body, showing the knit texture, neckline and ribbing.",
+  "out": "pose_staging/On-Model/TOP 2400A + BOTTOM N022 OFF WHITE/Cream / beige/947990087843_2400a_n022-off-white_cream-beige_r044_08-detail-pose.jpg"
+ },
+ {
+  "row": 45,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 2400A + BOTTOM N022 OFF WHITE/Grey/947990087843_2400a_n022-off-white_grey_r045_01-front.jpg",
+   "output/On-Model/TOP 2400A + BOTTOM N022 OFF WHITE/Grey/947990087843_2400a_n022-off-white_grey_r045_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 2400A) in Grey, bottom (product N022 OFF WHITE) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 2400A + BOTTOM N022 OFF WHITE/Grey/947990087843_2400a_n022-off-white_grey_r045_08-detail-pose.jpg"
+ },
+ {
+  "row": 46,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 2403 + BOTTOM N022/White / cream - Grey Jeans/000676460573_2403_n022_white-cream_grey-jeans_r046_01-front.jpg",
+   "output/On-Model/TOP 2403 + BOTTOM N022/White / cream - Grey Jeans/000676460573_2403_n022_white-cream_grey-jeans_r046_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 2403) in White / cream, bottom (product N022) in Grey Jeans",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand gently pulling the sleeve cuff of the other arm down over the wrist, arms relaxed in front of the body, showing the knit texture, neckline and ribbing.",
+  "out": "pose_staging/On-Model/TOP 2403 + BOTTOM N022/White / cream - Grey Jeans/000676460573_2403_n022_white-cream_grey-jeans_r046_08-detail-pose.jpg"
+ },
+ {
+  "row": 47,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 2403 + BOTTOM N022/Burgundy - White Jeans/000676460573_2403_n022_burgundy_white-jeans_r047_01-front.jpg",
+   "output/On-Model/TOP 2403 + BOTTOM N022/Burgundy - White Jeans/000676460573_2403_n022_burgundy_white-jeans_r047_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 2403) in Burgundy, bottom (product N022) in White Jeans",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 2403 + BOTTOM N022/Burgundy - White Jeans/000676460573_2403_n022_burgundy_white-jeans_r047_08-detail-pose.jpg"
+ },
+ {
+  "row": 48,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 2403 + BOTTOM N022/Dusty rose - Grey jeans/000676460573_2403_n022_dusty-rose_grey-jeans_r048_01-front.jpg",
+   "output/On-Model/TOP 2403 + BOTTOM N022/Dusty rose - Grey jeans/000676460573_2403_n022_dusty-rose_grey-jeans_r048_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 2403) in Dusty rose, bottom (product N022) in Grey jeans",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 2403 + BOTTOM N022/Dusty rose - Grey jeans/000676460573_2403_n022_dusty-rose_grey-jeans_r048_08-detail-pose.jpg"
+ },
+ {
+  "row": 49,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 2403 + BOTTOM N022/Grey - White Jeans/000676460573_2403_n022_grey_white-jeans_r049_01-front.jpg",
+   "output/On-Model/TOP 2403 + BOTTOM N022/Grey - White Jeans/000676460573_2403_n022_grey_white-jeans_r049_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 2403) in Grey, bottom (product N022) in White Jeans",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand gently pulling the sleeve cuff of the other arm down over the wrist, arms relaxed in front of the body, showing the knit texture, neckline and ribbing.",
+  "out": "pose_staging/On-Model/TOP 2403 + BOTTOM N022/Grey - White Jeans/000676460573_2403_n022_grey_white-jeans_r049_08-detail-pose.jpg"
+ },
+ {
+  "row": 50,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 2408 + BOTTOM N024/Black/000676476574_2408_n024_black_r050_01-front.jpg",
+   "output/On-Model/TOP 2408 + BOTTOM N024/Black/000676476574_2408_n024_black_r050_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 2408) in Black, bottom (product N024) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand gently pulling the sleeve cuff of the other arm down over the wrist, arms relaxed in front of the body, showing the knit texture, neckline and ribbing.",
+  "out": "pose_staging/On-Model/TOP 2408 + BOTTOM N024/Black/000676476574_2408_n024_black_r050_08-detail-pose.jpg"
+ },
+ {
+  "row": 51,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 2408 + BOTTOM N024/Aqua / turquoise - White Jeans/000676476574_2408_n024_aqua-turquoise_white-jeans_r051_01-front.jpg",
+   "output/On-Model/TOP 2408 + BOTTOM N024/Aqua / turquoise - White Jeans/000676476574_2408_n024_aqua-turquoise_white-jeans_r051_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 2408) in Aqua / turquoise, bottom (product N024) in White Jeans",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 2408 + BOTTOM N024/Aqua / turquoise - White Jeans/000676476574_2408_n024_aqua-turquoise_white-jeans_r051_08-detail-pose.jpg"
+ },
+ {
+  "row": 52,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 2408 + BOTTOM N024/Dusty rose - Grey Jeans/000676476574_2408_n024_dusty-rose_grey-jeans_r052_01-front.jpg",
+   "output/On-Model/TOP 2408 + BOTTOM N024/Dusty rose - Grey Jeans/000676476574_2408_n024_dusty-rose_grey-jeans_r052_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 2408) in Dusty rose, bottom (product N024) in Grey Jeans",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 2408 + BOTTOM N024/Dusty rose - Grey Jeans/000676476574_2408_n024_dusty-rose_grey-jeans_r052_08-detail-pose.jpg"
+ },
+ {
+  "row": 53,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 2408 + BOTTOM N024/Lavender grey - Grey Jeans/000676476574_2408_n024_lavender-grey_grey-jeans_r053_01-front.jpg",
+   "output/On-Model/TOP 2408 + BOTTOM N024/Lavender grey - Grey Jeans/000676476574_2408_n024_lavender-grey_grey-jeans_r053_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 2408) in Lavender grey, bottom (product N024) in Grey Jeans",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand gently pulling the sleeve cuff of the other arm down over the wrist, arms relaxed in front of the body, showing the knit texture, neckline and ribbing.",
+  "out": "pose_staging/On-Model/TOP 2408 + BOTTOM N024/Lavender grey - Grey Jeans/000676476574_2408_n024_lavender-grey_grey-jeans_r053_08-detail-pose.jpg"
+ },
+ {
+  "row": 54,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Camel / tan/947990098368_2410_n022-off-white_camel-tan_r054_01-front.jpg",
+   "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Camel / tan/947990098368_2410_n022-off-white_camel-tan_r054_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 2410) in Camel / tan, bottom (product N022 OFF WHITE) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. both hands lightly holding and adjusting the open front edges of the top at chest height, showing the fabric drape, sleeve tabs and buttons.",
+  "out": "pose_staging/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Camel / tan/947990098368_2410_n022-off-white_camel-tan_r054_08-detail-pose.jpg"
+ },
+ {
+  "row": 55,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Burgundy/947990098368_2410_n022-off-white_burgundy_r055_01-front.jpg",
+   "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Burgundy/947990098368_2410_n022-off-white_burgundy_r055_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 2410) in Burgundy, bottom (product N022 OFF WHITE) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Burgundy/947990098368_2410_n022-off-white_burgundy_r055_08-detail-pose.jpg"
+ },
+ {
+  "row": 56,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Off-white - Grey Jeans/947990098368_2410_n022-off-white_off-white_grey-jeans_r056_01-front.jpg",
+   "output/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Off-white - Grey Jeans/947990098368_2410_n022-off-white_off-white_grey-jeans_r056_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 2410) in Off-white, bottom (product N022 OFF WHITE) in Grey Jeans",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 2410 + BOTTOM N022 OFF WHITE/Off-white - Grey Jeans/947990098368_2410_n022-off-white_off-white_grey-jeans_r056_08-detail-pose.jpg"
+ },
+ {
+  "row": 64,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 2505 + BOTTOM N022/White / cream - Beige/Olive Jeans/000455769903_2505_n022_white-cream_beige-olive-jeans_r064_01-front.jpg",
+   "output/On-Model/TOP 2505 + BOTTOM N022/White / cream - Beige/Olive Jeans/000455769903_2505_n022_white-cream_beige-olive-jeans_r064_02-three-quarter-detail.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 2505) in White / cream, bottom (product N022) in Beige/Olive Jeans",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand gently pulling the sleeve cuff of the other arm down over the wrist, arms relaxed in front of the body, showing the knit texture, neckline and ribbing.",
+  "out": "pose_staging/On-Model/TOP 2505 + BOTTOM N022/White / cream - Beige/Olive Jeans/000455769903_2505_n022_white-cream_beige-olive-jeans_r064_08-detail-pose.jpg"
+ },
+ {
+  "row": 65,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 2505 + BOTTOM N022/Burgundy - White Jeans/000455769903_2505_n022_burgundy_white-jeans_r065_01-front.jpg",
+   "output/On-Model/TOP 2505 + BOTTOM N022/Burgundy - White Jeans/000455769903_2505_n022_burgundy_white-jeans_r065_02-three-quarter-detail.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 2505) in Burgundy, bottom (product N022) in White Jeans",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 2505 + BOTTOM N022/Burgundy - White Jeans/000455769903_2505_n022_burgundy_white-jeans_r065_08-detail-pose.jpg"
+ },
+ {
+  "row": 66,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 2505 + BOTTOM N022/Chocolate brown - White Jeans/000455769903_2505_n022_chocolate-brown_white-jeans_r066_01-front.jpg",
+   "output/On-Model/TOP 2505 + BOTTOM N022/Chocolate brown - White Jeans/000455769903_2505_n022_chocolate-brown_white-jeans_r066_02-three-quarter-detail.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 2505) in Chocolate brown, bottom (product N022) in White Jeans",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 2505 + BOTTOM N022/Chocolate brown - White Jeans/000455769903_2505_n022_chocolate-brown_white-jeans_r066_08-detail-pose.jpg"
+ },
+ {
+  "row": 67,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 5003 + BOTTOM 2500B/Dusty mauve/004557710566_5003_2500b_dusty-mauve_r067_01-front.jpg",
+   "output/On-Model/TOP 5003 + BOTTOM 2500B/Dusty mauve/004557710566_5003_2500b_dusty-mauve_r067_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 5003) in Dusty mauve, bottom (product 2500B) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand gently pulling the sleeve cuff of the other arm down over the wrist, arms relaxed in front of the body, showing the knit texture, neckline and ribbing.",
+  "out": "pose_staging/On-Model/TOP 5003 + BOTTOM 2500B/Dusty mauve/004557710566_5003_2500b_dusty-mauve_r067_08-detail-pose.jpg"
+ },
+ {
+  "row": 68,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 5003 + BOTTOM 2500B/Black/004557710566_5003_2500b_black_r068_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 5003) in Black, bottom (product 2500B) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 5003 + BOTTOM 2500B/Black/004557710566_5003_2500b_black_r068_08-detail-pose.jpg"
+ },
+ {
+  "row": 69,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 5003 + BOTTOM 2500B/Plum brown/004557710566_5003_2500b_plum-brown_r069_01-front.jpg",
+   "output/On-Model/TOP 5003 + BOTTOM 2500B/Plum brown/004557710566_5003_2500b_plum-brown_r069_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 5003) in Plum brown, bottom (product 2500B) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 5003 + BOTTOM 2500B/Plum brown/004557710566_5003_2500b_plum-brown_r069_08-detail-pose.jpg"
+ },
+ {
+  "row": 70,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 5003 + BOTTOM 2500B/Lavender grey/004557710566_5003_2500b_lavender-grey_r070_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 5003) in Lavender grey, bottom (product 2500B) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand gently pulling the sleeve cuff of the other arm down over the wrist, arms relaxed in front of the body, showing the knit texture, neckline and ribbing.",
+  "out": "pose_staging/On-Model/TOP 5003 + BOTTOM 2500B/Lavender grey/004557710566_5003_2500b_lavender-grey_r070_08-detail-pose.jpg"
+ },
+ {
+  "row": 71,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 5003 + BOTTOM 2500B/White - Grey Jeans/004557710566_5003_2500b_white_grey-jeans_r071_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 5003) in White, bottom (product 2500B) in Grey Jeans",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 5003 + BOTTOM 2500B/White - Grey Jeans/004557710566_5003_2500b_white_grey-jeans_r071_08-detail-pose.jpg"
+ },
+ {
+  "row": 72,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 5003 + BOTTOM 2500B/Navy/004557710566_5003_2500b_navy_r072_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 5003) in Navy, bottom (product 2500B) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 5003 + BOTTOM 2500B/Navy/004557710566_5003_2500b_navy_r072_08-detail-pose.jpg"
+ },
+ {
+  "row": 73,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Dusty mauve (sleeveless, over white shirt)/004557711105_5004_2500b-off-white_dusty-mauve-sleeveless-over-white-shirt_r073_01-front.jpg",
+   "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Dusty mauve (sleeveless, over white shirt)/004557711105_5004_2500b-off-white_dusty-mauve-sleeveless-over-white-shirt_r073_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 5004) in Dusty mauve (sleeveless, over white shirt), bottom (product 2500B OFF WHITE) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand gently pulling the sleeve cuff of the other arm down over the wrist, arms relaxed in front of the body, showing the knit texture, neckline and ribbing.",
+  "out": "pose_staging/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Dusty mauve (sleeveless, over white shirt)/004557711105_5004_2500b-off-white_dusty-mauve-sleeveless-over-white-shirt_r073_08-detail-pose.jpg"
+ },
+ {
+  "row": 74,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Burgundy/004557711105_5004_2500b-off-white_burgundy_r074_01-front.jpg",
+   "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Burgundy/004557711105_5004_2500b-off-white_burgundy_r074_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 5004) in Burgundy, bottom (product 2500B OFF WHITE) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Burgundy/004557711105_5004_2500b-off-white_burgundy_r074_08-detail-pose.jpg"
+ },
+ {
+  "row": 75,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Navy/004557711105_5004_2500b-off-white_navy_r075_01-front.jpg",
+   "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Navy/004557711105_5004_2500b-off-white_navy_r075_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 5004) in Navy, bottom (product 2500B OFF WHITE) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Navy/004557711105_5004_2500b-off-white_navy_r075_08-detail-pose.jpg"
+ },
+ {
+  "row": 76,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/White - Grey Pants/004557711105_5004_2500b-off-white_white_grey-pants_r076_01-front.jpg",
+   "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/White - Grey Pants/004557711105_5004_2500b-off-white_white_grey-pants_r076_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 5004) in White, bottom (product 2500B OFF WHITE) in Grey Pants",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand gently pulling the sleeve cuff of the other arm down over the wrist, arms relaxed in front of the body, showing the knit texture, neckline and ribbing.",
+  "out": "pose_staging/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/White - Grey Pants/004557711105_5004_2500b-off-white_white_grey-pants_r076_08-detail-pose.jpg"
+ },
+ {
+  "row": 77,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Dark brown/004557711105_5004_2500b-off-white_dark-brown_r077_01-front.jpg",
+   "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Dark brown/004557711105_5004_2500b-off-white_dark-brown_r077_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 5004) in Dark brown, bottom (product 2500B OFF WHITE) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Dark brown/004557711105_5004_2500b-off-white_dark-brown_r077_08-detail-pose.jpg"
+ },
+ {
+  "row": 78,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Lavender grey/004557711105_5004_2500b-off-white_lavender-grey_r078_01-front.jpg",
+   "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Lavender grey/004557711105_5004_2500b-off-white_lavender-grey_r078_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 5004) in Lavender grey, bottom (product 2500B OFF WHITE) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Lavender grey/004557711105_5004_2500b-off-white_lavender-grey_r078_08-detail-pose.jpg"
+ },
+ {
+  "row": 79,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Black/004557711105_5004_2500b-off-white_black_r079_01-front.jpg",
+   "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Black/004557711105_5004_2500b-off-white_black_r079_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 5004) in Black, bottom (product 2500B OFF WHITE) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand gently pulling the sleeve cuff of the other arm down over the wrist, arms relaxed in front of the body, showing the knit texture, neckline and ribbing.",
+  "out": "pose_staging/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Black/004557711105_5004_2500b-off-white_black_r079_08-detail-pose.jpg"
+ },
+ {
+  "row": 80,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Grey/004557711181_5005_n022-off-white_grey_r080_01-front.jpg",
+   "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Grey/004557711181_5005_n022-off-white_grey_r080_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 5005) in Grey, bottom (product N022 OFF WHITE) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand gently pulling the sleeve cuff of the other arm down over the wrist, arms relaxed in front of the body, showing the knit texture, neckline and ribbing.",
+  "out": "pose_staging/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Grey/004557711181_5005_n022-off-white_grey_r080_08-detail-pose.jpg"
+ },
+ {
+  "row": 81,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Chocolate brown/004557711181_5005_n022-off-white_chocolate-brown_r081_01-front.jpg",
+   "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Chocolate brown/004557711181_5005_n022-off-white_chocolate-brown_r081_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 5005) in Chocolate brown, bottom (product N022 OFF WHITE) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Chocolate brown/004557711181_5005_n022-off-white_chocolate-brown_r081_08-detail-pose.jpg"
+ },
+ {
+  "row": 82,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Navy/004557711181_5005_n022-off-white_navy_r082_01-front.jpg",
+   "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Navy/004557711181_5005_n022-off-white_navy_r082_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 5005) in Navy, bottom (product N022 OFF WHITE) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Navy/004557711181_5005_n022-off-white_navy_r082_08-detail-pose.jpg"
+ },
+ {
+  "row": 83,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/White - Grey Pants/004557711181_5005_n022-off-white_white_grey-pants_r083_01-front.jpg",
+   "output/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/White - Grey Pants/004557711181_5005_n022-off-white_white_grey-pants_r083_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 5005) in White, bottom (product N022 OFF WHITE) in Grey Pants",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand gently pulling the sleeve cuff of the other arm down over the wrist, arms relaxed in front of the body, showing the knit texture, neckline and ribbing.",
+  "out": "pose_staging/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/White - Grey Pants/004557711181_5005_n022-off-white_white_grey-pants_r083_08-detail-pose.jpg"
+ },
+ {
+  "row": 84,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 5006 + BOTTOM 2400B/Black - Off White Pants/004557710672_5006_2400b_black_off-white-pants_r084_01-front.jpg",
+   "output/On-Model/TOP 5006 + BOTTOM 2400B/Black - Off White Pants/004557710672_5006_2400b_black_off-white-pants_r084_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 5006) in Black, bottom (product 2400B) in Off White Pants",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand gently pulling the sleeve cuff of the other arm down over the wrist, arms relaxed in front of the body, showing the knit texture, neckline and ribbing.",
+  "out": "pose_staging/On-Model/TOP 5006 + BOTTOM 2400B/Black - Off White Pants/004557710672_5006_2400b_black_off-white-pants_r084_08-detail-pose.jpg"
+ },
+ {
+  "row": 85,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 5006 + BOTTOM 2400B/Navy/004557710672_5006_2400b_navy_r085_01-front.jpg",
+   "output/On-Model/TOP 5006 + BOTTOM 2400B/Navy/004557710672_5006_2400b_navy_r085_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 5006) in Navy, bottom (product 2400B) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 5006 + BOTTOM 2400B/Navy/004557710672_5006_2400b_navy_r085_08-detail-pose.jpg"
+ },
+ {
+  "row": 86,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 5006 + BOTTOM 2400B/Burgundy - White Pants/004557710672_5006_2400b_burgundy_white-pants_r086_01-front.jpg",
+   "output/On-Model/TOP 5006 + BOTTOM 2400B/Burgundy - White Pants/004557710672_5006_2400b_burgundy_white-pants_r086_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 5006) in Burgundy, bottom (product 2400B) in White Pants",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 5006 + BOTTOM 2400B/Burgundy - White Pants/004557710672_5006_2400b_burgundy_white-pants_r086_08-detail-pose.jpg"
+ },
+ {
+  "row": 87,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 5006 + BOTTOM 2400B/Light Brown - Black Pants/004557710672_5006_2400b_light-brown_black-pants_r087_01-front.jpg",
+   "output/On-Model/TOP 5006 + BOTTOM 2400B/Light Brown - Black Pants/004557710672_5006_2400b_light-brown_black-pants_r087_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 5006) in Light Brown, bottom (product 2400B) in Black Pants",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand gently pulling the sleeve cuff of the other arm down over the wrist, arms relaxed in front of the body, showing the knit texture, neckline and ribbing.",
+  "out": "pose_staging/On-Model/TOP 5006 + BOTTOM 2400B/Light Brown - Black Pants/004557710672_5006_2400b_light-brown_black-pants_r087_08-detail-pose.jpg"
+ },
+ {
+  "row": 88,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 5006 + BOTTOM 2400B/White/004557710672_5006_2400b_white_r088_01-front.jpg",
+   "output/On-Model/TOP 5006 + BOTTOM 2400B/White/004557710672_5006_2400b_white_r088_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 5006) in White, bottom (product 2400B) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 5006 + BOTTOM 2400B/White/004557710672_5006_2400b_white_r088_08-detail-pose.jpg"
+ },
+ {
+  "row": 89,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 5006 + BOTTOM 2400B/Charcoal grey/004557710672_5006_2400b_charcoal-grey_r089_01-front.jpg",
+   "output/On-Model/TOP 5006 + BOTTOM 2400B/Charcoal grey/004557710672_5006_2400b_charcoal-grey_r089_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 5006) in Charcoal grey, bottom (product 2400B) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 5006 + BOTTOM 2400B/Charcoal grey/004557710672_5006_2400b_charcoal-grey_r089_08-detail-pose.jpg"
+ },
+ {
+  "row": 90,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 5008 + BOTTOM N022 OFF WHITE/Black vest over white shirt/004557711402_5008_n022-off-white_black-vest-over-white-shirt_r090_01-front.jpg",
+   "output/On-Model/TOP 5008 + BOTTOM N022 OFF WHITE/Black vest over white shirt/004557711402_5008_n022-off-white_black-vest-over-white-shirt_r090_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 5008) in Black vest over white shirt, bottom (product N022 OFF WHITE) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand gently pulling the sleeve cuff of the other arm down over the wrist, arms relaxed in front of the body, showing the knit texture, neckline and ribbing.",
+  "out": "pose_staging/On-Model/TOP 5008 + BOTTOM N022 OFF WHITE/Black vest over white shirt/004557711402_5008_n022-off-white_black-vest-over-white-shirt_r090_08-detail-pose.jpg"
+ },
+ {
+  "row": 91,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 5010 + BOTTOM 2500B/Grey/004557711716_5010_2500b_grey_r091_01-front.jpg",
+   "output/On-Model/TOP 5010 + BOTTOM 2500B/Grey/004557711716_5010_2500b_grey_r091_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 5010) in Grey, bottom (product 2500B) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the top has a hood, both hands lifting the hood up over the back of her head; if it has no hood, both hands pushing the sleeves up to the forearms; showing the zip or buttons, drawstrings, cuffs and fabric.",
+  "out": "pose_staging/On-Model/TOP 5010 + BOTTOM 2500B/Grey/004557711716_5010_2500b_grey_r091_08-detail-pose.jpg"
+ },
+ {
+  "row": 92,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 5010 + BOTTOM 2500B/Dusty pink/004557711716_5010_2500b_dusty-pink_r092_01-front.jpg",
+   "output/On-Model/TOP 5010 + BOTTOM 2500B/Dusty pink/004557711716_5010_2500b_dusty-pink_r092_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 5010) in Dusty pink, bottom (product 2500B) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 5010 + BOTTOM 2500B/Dusty pink/004557711716_5010_2500b_dusty-pink_r092_08-detail-pose.jpg"
+ },
+ {
+  "row": 93,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 5010 + BOTTOM 2500B/Burgundy - Grey Pants/004557711716_5010_2500b_burgundy_grey-pants_r093_01-front.jpg",
+   "output/On-Model/TOP 5010 + BOTTOM 2500B/Burgundy - Grey Pants/004557711716_5010_2500b_burgundy_grey-pants_r093_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 5010) in Burgundy, bottom (product 2500B) in Grey Pants",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 5010 + BOTTOM 2500B/Burgundy - Grey Pants/004557711716_5010_2500b_burgundy_grey-pants_r093_08-detail-pose.jpg"
+ },
+ {
+  "row": 94,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 5010 + BOTTOM 2500B/Brown/004557711716_5010_2500b_brown_r094_01-front.jpg",
+   "output/On-Model/TOP 5010 + BOTTOM 2500B/Brown/004557711716_5010_2500b_brown_r094_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 5010) in Brown, bottom (product 2500B) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the top has a hood, both hands lifting the hood up over the back of her head; if it has no hood, both hands pushing the sleeves up to the forearms; showing the zip or buttons, drawstrings, cuffs and fabric.",
+  "out": "pose_staging/On-Model/TOP 5010 + BOTTOM 2500B/Brown/004557711716_5010_2500b_brown_r094_08-detail-pose.jpg"
+ },
+ {
+  "row": 95,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 5010 + BOTTOM 2500B/Black/004557711716_5010_2500b_black_r095_01-front.jpg",
+   "output/On-Model/TOP 5010 + BOTTOM 2500B/Black/004557711716_5010_2500b_black_r095_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 5010) in Black, bottom (product 2500B) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 5010 + BOTTOM 2500B/Black/004557711716_5010_2500b_black_r095_08-detail-pose.jpg"
+ },
+ {
+  "row": 96,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 5010 + BOTTOM 2500B/Navy - Light Blue Jeans/004557711716_5010_2500b_navy_light-blue-jeans_r096_01-front.jpg",
+   "output/On-Model/TOP 5010 + BOTTOM 2500B/Navy - Light Blue Jeans/004557711716_5010_2500b_navy_light-blue-jeans_r096_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 5010) in Navy, bottom (product 2500B) in Light Blue Jeans",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 5010 + BOTTOM 2500B/Navy - Light Blue Jeans/004557711716_5010_2500b_navy_light-blue-jeans_r096_08-detail-pose.jpg"
+ },
+ {
+  "row": 97,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 5010 + BOTTOM 2500B/White - Grey/Beige Jeans/004557711716_5010_2500b_white_grey-beige-jeans_r097_01-front.jpg",
+   "output/On-Model/TOP 5010 + BOTTOM 2500B/White - Grey/Beige Jeans/004557711716_5010_2500b_white_grey-beige-jeans_r097_02-three-quarter.jpg"
+  ],
+  "has_real_back": false,
+  "outfit": "top (product 5010) in White, bottom (product 2500B) in Grey/Beige Jeans",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the top has a hood, both hands lifting the hood up over the back of her head; if it has no hood, both hands pushing the sleeves up to the forearms; showing the zip or buttons, drawstrings, cuffs and fabric.",
+  "out": "pose_staging/On-Model/TOP 5010 + BOTTOM 2500B/White - Grey/Beige Jeans/004557711716_5010_2500b_white_grey-beige-jeans_r097_08-detail-pose.jpg"
+ },
+ {
+  "row": 98,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 5014 + BOTTOM N023/Cream/004557711730_5014_n023_cream_r098_01-front.jpg",
+   "output/On-Model/TOP 5014 + BOTTOM N023/Cream/004557711730_5014_n023_cream_r098_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 5014) in Cream, bottom (product N023) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the top has a hood, both hands lifting the hood up over the back of her head; if it has no hood, both hands pushing the sleeves up to the forearms; showing the zip or buttons, drawstrings, cuffs and fabric.",
+  "out": "pose_staging/On-Model/TOP 5014 + BOTTOM N023/Cream/004557711730_5014_n023_cream_r098_08-detail-pose.jpg"
+ },
+ {
+  "row": 99,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 5014 + BOTTOM N023/Olive/004557711730_5014_n023_olive_r099_01-front.jpg",
+   "output/On-Model/TOP 5014 + BOTTOM N023/Olive/004557711730_5014_n023_olive_r099_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 5014) in Olive, bottom (product N023) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 5014 + BOTTOM N023/Olive/004557711730_5014_n023_olive_r099_08-detail-pose.jpg"
+ },
+ {
+  "row": 100,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 5014 + BOTTOM N023/Cobalt blue/004557711730_5014_n023_cobalt-blue_r100_01-front.jpg",
+   "output/On-Model/TOP 5014 + BOTTOM N023/Cobalt blue/004557711730_5014_n023_cobalt-blue_r100_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 5014) in Cobalt blue, bottom (product N023) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 5014 + BOTTOM N023/Cobalt blue/004557711730_5014_n023_cobalt-blue_r100_08-detail-pose.jpg"
+ },
+ {
+  "row": 101,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 5014 + BOTTOM N023/Rose pink - White jeans/004557711730_5014_n023_rose-pink_white-jeans_r101_01-front.jpg",
+   "output/On-Model/TOP 5014 + BOTTOM N023/Rose pink - White jeans/004557711730_5014_n023_rose-pink_white-jeans_r101_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 5014) in Rose pink, bottom (product N023) in White jeans",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the top has a hood, both hands lifting the hood up over the back of her head; if it has no hood, both hands pushing the sleeves up to the forearms; showing the zip or buttons, drawstrings, cuffs and fabric.",
+  "out": "pose_staging/On-Model/TOP 5014 + BOTTOM N023/Rose pink - White jeans/004557711730_5014_n023_rose-pink_white-jeans_r101_08-detail-pose.jpg"
+ },
+ {
+  "row": 102,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 5014 + BOTTOM N023/Camel - White/Beige/Black/004557711730_5014_n023_camel_white-beige-black_r102_01-front.jpg",
+   "output/On-Model/TOP 5014 + BOTTOM N023/Camel - White/Beige/Black/004557711730_5014_n023_camel_white-beige-black_r102_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 5014) in Camel, bottom (product N023) in White/Beige/Black",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 5014 + BOTTOM N023/Camel - White/Beige/Black/004557711730_5014_n023_camel_white-beige-black_r102_08-detail-pose.jpg"
+ },
+ {
+  "row": 103,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 5014 + BOTTOM N023/Burgundy/004557711730_5014_n023_burgundy_r103_01-front.jpg",
+   "output/On-Model/TOP 5014 + BOTTOM N023/Burgundy/004557711730_5014_n023_burgundy_r103_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 5014) in Burgundy, bottom (product N023) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 5014 + BOTTOM N023/Burgundy/004557711730_5014_n023_burgundy_r103_08-detail-pose.jpg"
+ },
+ {
+  "row": 104,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 5014 + BOTTOM N023/Black - Grey Jeans/004557711730_5014_n023_black_grey-jeans_r104_01-front.jpg",
+   "output/On-Model/TOP 5014 + BOTTOM N023/Black - Grey Jeans/004557711730_5014_n023_black_grey-jeans_r104_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 5014) in Black, bottom (product N023) in Grey Jeans",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the top has a hood, both hands lifting the hood up over the back of her head; if it has no hood, both hands pushing the sleeves up to the forearms; showing the zip or buttons, drawstrings, cuffs and fabric.",
+  "out": "pose_staging/On-Model/TOP 5014 + BOTTOM N023/Black - Grey Jeans/004557711730_5014_n023_black_grey-jeans_r104_08-detail-pose.jpg"
+ },
+ {
+  "row": 105,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Sand beige - White Jeans or sweatpants/000455766933_603_601-black_sand-beige_white-jeans-or-sweatpants_r105_01-front.jpg",
+   "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Sand beige - White Jeans or sweatpants/000455766933_603_601-black_sand-beige_white-jeans-or-sweatpants_r105_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 603) in Sand beige, bottom (product 601 BLACK) in White Jeans or sweatpants",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the top has a hood, both hands lifting the hood up over the back of her head; if it has no hood, both hands pushing the sleeves up to the forearms; showing the zip or buttons, drawstrings, cuffs and fabric.",
+  "out": "pose_staging/On-Model/TOP 603 + BOTTOM 601 BLACK/Sand beige - White Jeans or sweatpants/000455766933_603_601-black_sand-beige_white-jeans-or-sweatpants_r105_08-detail-pose.jpg"
+ },
+ {
+  "row": 106,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Burgundy/000455766933_603_601-black_burgundy_r106_01-front.jpg",
+   "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Burgundy/000455766933_603_601-black_burgundy_r106_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 603) in Burgundy, bottom (product 601 BLACK) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 603 + BOTTOM 601 BLACK/Burgundy/000455766933_603_601-black_burgundy_r106_08-detail-pose.jpg"
+ },
+ {
+  "row": 107,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Black/000455766933_603_601-black_black_r107_01-front.jpg",
+   "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Black/000455766933_603_601-black_black_r107_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 603) in Black, bottom (product 601 BLACK) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 603 + BOTTOM 601 BLACK/Black/000455766933_603_601-black_black_r107_08-detail-pose.jpg"
+ },
+ {
+  "row": 108,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Brown - White Jeans or sweatpants/000455766933_603_601-black_brown_white-jeans-or-sweatpants_r108_01-front.jpg",
+   "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Brown - White Jeans or sweatpants/000455766933_603_601-black_brown_white-jeans-or-sweatpants_r108_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 603) in Brown, bottom (product 601 BLACK) in White Jeans or sweatpants",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the top has a hood, both hands lifting the hood up over the back of her head; if it has no hood, both hands pushing the sleeves up to the forearms; showing the zip or buttons, drawstrings, cuffs and fabric.",
+  "out": "pose_staging/On-Model/TOP 603 + BOTTOM 601 BLACK/Brown - White Jeans or sweatpants/000455766933_603_601-black_brown_white-jeans-or-sweatpants_r108_08-detail-pose.jpg"
+ },
+ {
+  "row": 109,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 603 + BOTTOM 601 BLACK/White/000455766933_603_601-black_white_r109_01-front.jpg",
+   "output/On-Model/TOP 603 + BOTTOM 601 BLACK/White/000455766933_603_601-black_white_r109_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 603) in White, bottom (product 601 BLACK) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 603 + BOTTOM 601 BLACK/White/000455766933_603_601-black_white_r109_08-detail-pose.jpg"
+ },
+ {
+  "row": 110,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 604 + BOTTOM N022/Blush taupe/000455767527_604_n022_blush-taupe_r110_01-front.jpg",
+   "output/On-Model/TOP 604 + BOTTOM N022/Blush taupe/000455767527_604_n022_blush-taupe_r110_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 604) in Blush taupe, bottom (product N022) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the top has a hood, both hands lifting the hood up over the back of her head; if it has no hood, both hands pushing the sleeves up to the forearms; showing the zip or buttons, drawstrings, cuffs and fabric.",
+  "out": "pose_staging/On-Model/TOP 604 + BOTTOM N022/Blush taupe/000455767527_604_n022_blush-taupe_r110_08-detail-pose.jpg"
+ },
+ {
+  "row": 111,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 604 + BOTTOM N022/Black/000455767527_604_n022_black_r111_01-front.jpg",
+   "output/On-Model/TOP 604 + BOTTOM N022/Black/000455767527_604_n022_black_r111_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 604) in Black, bottom (product N022) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 604 + BOTTOM N022/Black/000455767527_604_n022_black_r111_08-detail-pose.jpg"
+ },
+ {
+  "row": 112,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 604 + BOTTOM N022/Dark brown/000455767527_604_n022_dark-brown_r112_01-front.jpg",
+   "output/On-Model/TOP 604 + BOTTOM N022/Dark brown/000455767527_604_n022_dark-brown_r112_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 604) in Dark brown, bottom (product N022) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 604 + BOTTOM N022/Dark brown/000455767527_604_n022_dark-brown_r112_08-detail-pose.jpg"
+ },
+ {
+  "row": 113,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 604 + BOTTOM N022/Burgundy/000455767527_604_n022_burgundy_r113_01-front.jpg",
+   "output/On-Model/TOP 604 + BOTTOM N022/Burgundy/000455767527_604_n022_burgundy_r113_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 604) in Burgundy, bottom (product N022) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the top has a hood, both hands lifting the hood up over the back of her head; if it has no hood, both hands pushing the sleeves up to the forearms; showing the zip or buttons, drawstrings, cuffs and fabric.",
+  "out": "pose_staging/On-Model/TOP 604 + BOTTOM N022/Burgundy/000455767527_604_n022_burgundy_r113_08-detail-pose.jpg"
+ },
+ {
+  "row": 114,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 604 + BOTTOM N022/Camel/000455767527_604_n022_camel_r114_01-front.jpg",
+   "output/On-Model/TOP 604 + BOTTOM N022/Camel/000455767527_604_n022_camel_r114_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 604) in Camel, bottom (product N022) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 604 + BOTTOM N022/Camel/000455767527_604_n022_camel_r114_08-detail-pose.jpg"
+ },
+ {
+  "row": 115,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 604 + BOTTOM N022/Cream - Grey Jeans/000455767527_604_n022_cream_grey-jeans_r115_01-front.jpg",
+   "output/On-Model/TOP 604 + BOTTOM N022/Cream - Grey Jeans/000455767527_604_n022_cream_grey-jeans_r115_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 604) in Cream, bottom (product N022) in Grey Jeans",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 604 + BOTTOM N022/Cream - Grey Jeans/000455767527_604_n022_cream_grey-jeans_r115_08-detail-pose.jpg"
+ },
+ {
+  "row": 116,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Grey/947990092861_7080-grey_n022-off-white_grey_r116_01-front.jpg",
+   "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Grey/947990092861_7080-grey_n022-off-white_grey_r116_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7080 GREY) in Grey, bottom (product N022 OFF WHITE) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. one hand fastening the cuff button of the other sleeve at waist height, showing the collar, placket, buttons and fabric.",
+  "out": "pose_staging/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Grey/947990092861_7080-grey_n022-off-white_grey_r116_08-detail-pose.jpg"
+ },
+ {
+  "row": 117,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Chocolate brown/947990092861_7080-grey_n022-off-white_chocolate-brown_r117_01-front.jpg",
+   "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Chocolate brown/947990092861_7080-grey_n022-off-white_chocolate-brown_r117_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7080 GREY) in Chocolate brown, bottom (product N022 OFF WHITE) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Chocolate brown/947990092861_7080-grey_n022-off-white_chocolate-brown_r117_08-detail-pose.jpg"
+ },
+ {
+  "row": 118,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Cafe pink/947990092861_7080-grey_n022-off-white_cafe-pink_r118_01-front.jpg",
+   "output/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Cafe pink/947990092861_7080-grey_n022-off-white_cafe-pink_r118_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7080 GREY) in Cafe pink, bottom (product N022 OFF WHITE) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 7080 GREY + BOTTOM N022 OFF WHITE/Cafe pink/947990092861_7080-grey_n022-off-white_cafe-pink_r118_08-detail-pose.jpg"
+ },
+ {
+  "row": 119,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 7088 + BOTTOM N022/Black/000455768661_7088_n022_black_r119_01-front.jpg",
+   "output/On-Model/TOP 7088 + BOTTOM N022/Black/000455768661_7088_n022_black_r119_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7088) in Black, bottom (product N022) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the coat has a belt, both hands tying the belt at the waist; if it has no belt, both hands holding the lapels or fastening the front closure; showing lapels, buttons, pockets and fabric.",
+  "out": "pose_staging/On-Model/TOP 7088 + BOTTOM N022/Black/000455768661_7088_n022_black_r119_08-detail-pose.jpg"
+ },
+ {
+  "row": 120,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Black - White Jeans/000455770596_7089_no23-as-in-folder-name_black_white-jeans_r120_01-front.jpg",
+   "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Black - White Jeans/000455770596_7089_no23-as-in-folder-name_black_white-jeans_r120_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7089) in Black, bottom (product NO23 (as in folder name)) in White Jeans",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the coat has a belt, both hands tying the belt at the waist; if it has no belt, both hands holding the lapels or fastening the front closure; showing lapels, buttons, pockets and fabric.",
+  "out": "pose_staging/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Black - White Jeans/000455770596_7089_no23-as-in-folder-name_black_white-jeans_r120_08-detail-pose.jpg"
+ },
+ {
+  "row": 121,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Sage green - White Jeans/000455770596_7089_no23-as-in-folder-name_sage-green_white-jeans_r121_01-front.jpg",
+   "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Sage green - White Jeans/000455770596_7089_no23-as-in-folder-name_sage-green_white-jeans_r121_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7089) in Sage green, bottom (product NO23 (as in folder name)) in White Jeans",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Sage green - White Jeans/000455770596_7089_no23-as-in-folder-name_sage-green_white-jeans_r121_08-detail-pose.jpg"
+ },
+ {
+  "row": 122,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/White - Black Jeans/000455770596_7089_no23-as-in-folder-name_white_black-jeans_r122_01-front.jpg",
+   "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/White - Black Jeans/000455770596_7089_no23-as-in-folder-name_white_black-jeans_r122_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7089) in White, bottom (product NO23 (as in folder name)) in Black Jeans",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/White - Black Jeans/000455770596_7089_no23-as-in-folder-name_white_black-jeans_r122_08-detail-pose.jpg"
+ },
+ {
+  "row": 123,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Brown - White Jeans/000455770596_7089_no23-as-in-folder-name_brown_white-jeans_r123_01-front.jpg",
+   "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Brown - White Jeans/000455770596_7089_no23-as-in-folder-name_brown_white-jeans_r123_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7089) in Brown, bottom (product NO23 (as in folder name)) in White Jeans",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the coat has a belt, both hands tying the belt at the waist; if it has no belt, both hands holding the lapels or fastening the front closure; showing lapels, buttons, pockets and fabric.",
+  "out": "pose_staging/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Brown - White Jeans/000455770596_7089_no23-as-in-folder-name_brown_white-jeans_r123_08-detail-pose.jpg"
+ },
+ {
+  "row": 124,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Dark brown - White Jeans/000455770596_7089_no23-as-in-folder-name_dark-brown_white-jeans_r124_01-front.jpg",
+   "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Dark brown - White Jeans/000455770596_7089_no23-as-in-folder-name_dark-brown_white-jeans_r124_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7089) in Dark brown, bottom (product NO23 (as in folder name)) in White Jeans",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Dark brown - White Jeans/000455770596_7089_no23-as-in-folder-name_dark-brown_white-jeans_r124_08-detail-pose.jpg"
+ },
+ {
+  "row": 125,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Beige/000455770596_7089_no23-as-in-folder-name_beige_r125_01-front.jpg",
+   "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Beige/000455770596_7089_no23-as-in-folder-name_beige_r125_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7089) in Beige, bottom (product NO23 (as in folder name)) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Beige/000455770596_7089_no23-as-in-folder-name_beige_r125_08-detail-pose.jpg"
+ },
+ {
+  "row": 126,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Olive - White Jeans/000455770596_7089_no23-as-in-folder-name_olive_white-jeans_r126_01-front.jpg",
+   "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Olive - White Jeans/000455770596_7089_no23-as-in-folder-name_olive_white-jeans_r126_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7089) in Olive, bottom (product NO23 (as in folder name)) in White Jeans",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the coat has a belt, both hands tying the belt at the waist; if it has no belt, both hands holding the lapels or fastening the front closure; showing lapels, buttons, pockets and fabric.",
+  "out": "pose_staging/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Olive - White Jeans/000455770596_7089_no23-as-in-folder-name_olive_white-jeans_r126_08-detail-pose.jpg"
+ },
+ {
+  "row": 127,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Khaki taupe/004557712164_7094_n022-off-white_khaki-taupe_r127_01-front.jpg",
+   "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Khaki taupe/004557712164_7094_n022-off-white_khaki-taupe_r127_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7094) in Khaki taupe, bottom (product N022 OFF WHITE) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the coat has a belt, both hands tying the belt at the waist; if it has no belt, both hands holding the lapels or fastening the front closure; showing lapels, buttons, pockets and fabric.",
+  "out": "pose_staging/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Khaki taupe/004557712164_7094_n022-off-white_khaki-taupe_r127_08-detail-pose.jpg"
+ },
+ {
+  "row": 128,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Cream/004557712164_7094_n022-off-white_cream_r128_01-front.jpg",
+   "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Cream/004557712164_7094_n022-off-white_cream_r128_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7094) in Cream, bottom (product N022 OFF WHITE) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Cream/004557712164_7094_n022-off-white_cream_r128_08-detail-pose.jpg"
+ },
+ {
+  "row": 129,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Dusty mauve / lilac/004557712164_7094_n022-off-white_dusty-mauve-lilac_r129_01-front.jpg",
+   "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Dusty mauve / lilac/004557712164_7094_n022-off-white_dusty-mauve-lilac_r129_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7094) in Dusty mauve / lilac, bottom (product N022 OFF WHITE) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Dusty mauve / lilac/004557712164_7094_n022-off-white_dusty-mauve-lilac_r129_08-detail-pose.jpg"
+ },
+ {
+  "row": 130,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Powder blue - White/Grey/Black Pants/004557712164_7094_n022-off-white_powder-blue_white-grey-black-pants_r130_01-front.jpg",
+   "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Powder blue - White/Grey/Black Pants/004557712164_7094_n022-off-white_powder-blue_white-grey-black-pants_r130_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7094) in Powder blue, bottom (product N022 OFF WHITE) in White/Grey/Black Pants",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the coat has a belt, both hands tying the belt at the waist; if it has no belt, both hands holding the lapels or fastening the front closure; showing lapels, buttons, pockets and fabric.",
+  "out": "pose_staging/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Powder blue - White/Grey/Black Pants/004557712164_7094_n022-off-white_powder-blue_white-grey-black-pants_r130_08-detail-pose.jpg"
+ },
+ {
+  "row": 131,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Grey - Black Pants/004557712164_7094_n022-off-white_grey_black-pants_r131_01-front.jpg",
+   "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Grey - Black Pants/004557712164_7094_n022-off-white_grey_black-pants_r131_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7094) in Grey, bottom (product N022 OFF WHITE) in Black Pants",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Grey - Black Pants/004557712164_7094_n022-off-white_grey_black-pants_r131_08-detail-pose.jpg"
+ },
+ {
+  "row": 132,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 7095 + BOTTOM N022/Cream / beige - Black Pants/004557714977_7095_n022_cream-beige_black-pants_r132_01-front.jpg",
+   "output/On-Model/TOP 7095 + BOTTOM N022/Cream / beige - Black Pants/004557714977_7095_n022_cream-beige_black-pants_r132_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7095) in Cream / beige, bottom (product N022) in Black Pants",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the coat has a belt, both hands tying the belt at the waist; if it has no belt, both hands holding the lapels or fastening the front closure; showing lapels, buttons, pockets and fabric.",
+  "out": "pose_staging/On-Model/TOP 7095 + BOTTOM N022/Cream / beige - Black Pants/004557714977_7095_n022_cream-beige_black-pants_r132_08-detail-pose.jpg"
+ },
+ {
+  "row": 133,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 7095 + BOTTOM N022/Blush peach - White Pants/004557714977_7095_n022_blush-peach_white-pants_r133_01-front.jpg",
+   "output/On-Model/TOP 7095 + BOTTOM N022/Blush peach - White Pants/004557714977_7095_n022_blush-peach_white-pants_r133_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7095) in Blush peach, bottom (product N022) in White Pants",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 7095 + BOTTOM N022/Blush peach - White Pants/004557714977_7095_n022_blush-peach_white-pants_r133_08-detail-pose.jpg"
+ },
+ {
+  "row": 134,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 7095 + BOTTOM N022/Purple - White Pants/004557714977_7095_n022_purple_white-pants_r134_01-front.jpg",
+   "output/On-Model/TOP 7095 + BOTTOM N022/Purple - White Pants/004557714977_7095_n022_purple_white-pants_r134_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7095) in Purple, bottom (product N022) in White Pants",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 7095 + BOTTOM N022/Purple - White Pants/004557714977_7095_n022_purple_white-pants_r134_08-detail-pose.jpg"
+ },
+ {
+  "row": 135,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 7095 + BOTTOM N022/Yellow - White Pants/004557714977_7095_n022_yellow_white-pants_r135_01-front.jpg",
+   "output/On-Model/TOP 7095 + BOTTOM N022/Yellow - White Pants/004557714977_7095_n022_yellow_white-pants_r135_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7095) in Yellow, bottom (product N022) in White Pants",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the coat has a belt, both hands tying the belt at the waist; if it has no belt, both hands holding the lapels or fastening the front closure; showing lapels, buttons, pockets and fabric.",
+  "out": "pose_staging/On-Model/TOP 7095 + BOTTOM N022/Yellow - White Pants/004557714977_7095_n022_yellow_white-pants_r135_08-detail-pose.jpg"
+ },
+ {
+  "row": 136,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 7095 + BOTTOM N022/Grey - White Pants/004557714977_7095_n022_grey_white-pants_r136_01-front.jpg",
+   "output/On-Model/TOP 7095 + BOTTOM N022/Grey - White Pants/004557714977_7095_n022_grey_white-pants_r136_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7095) in Grey, bottom (product N022) in White Pants",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 7095 + BOTTOM N022/Grey - White Pants/004557714977_7095_n022_grey_white-pants_r136_08-detail-pose.jpg"
+ },
+ {
+  "row": 137,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 7095 + BOTTOM N022/Taupe - Black Pants/004557714977_7095_n022_taupe_black-pants_r137_01-front.jpg",
+   "output/On-Model/TOP 7095 + BOTTOM N022/Taupe - Black Pants/004557714977_7095_n022_taupe_black-pants_r137_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7095) in Taupe, bottom (product N022) in Black Pants",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 7095 + BOTTOM N022/Taupe - Black Pants/004557714977_7095_n022_taupe_black-pants_r137_08-detail-pose.jpg"
+ },
+ {
+  "row": 138,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 7095 + BOTTOM N022/Black - White Pants/004557714977_7095_n022_black_white-pants_r138_01-front.jpg",
+   "output/On-Model/TOP 7095 + BOTTOM N022/Black - White Pants/004557714977_7095_n022_black_white-pants_r138_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7095) in Black, bottom (product N022) in White Pants",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the coat has a belt, both hands tying the belt at the waist; if it has no belt, both hands holding the lapels or fastening the front closure; showing lapels, buttons, pockets and fabric.",
+  "out": "pose_staging/On-Model/TOP 7095 + BOTTOM N022/Black - White Pants/004557714977_7095_n022_black_white-pants_r138_08-detail-pose.jpg"
+ },
+ {
+  "row": 139,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Cream / ivory/004557715738_7096_n022022-as-in-folder-name_cream-ivory_r139_01-front.jpg",
+   "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Cream / ivory/004557715738_7096_n022022-as-in-folder-name_cream-ivory_r139_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7096) in Cream / ivory, bottom (product N022022 (as in folder name)) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the top has a hood, both hands lifting the hood up over the back of her head; if it has no hood, both hands pushing the sleeves up to the forearms; showing the zip or buttons, drawstrings, cuffs and fabric.",
+  "out": "pose_staging/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Cream / ivory/004557715738_7096_n022022-as-in-folder-name_cream-ivory_r139_08-detail-pose.jpg"
+ },
+ {
+  "row": 140,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Pink - White Jeans/004557715738_7096_n022022-as-in-folder-name_pink_white-jeans_r140_01-front.jpg",
+   "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Pink - White Jeans/004557715738_7096_n022022-as-in-folder-name_pink_white-jeans_r140_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7096) in Pink, bottom (product N022022 (as in folder name)) in White Jeans",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Pink - White Jeans/004557715738_7096_n022022-as-in-folder-name_pink_white-jeans_r140_08-detail-pose.jpg"
+ },
+ {
+  "row": 141,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Black/004557715738_7096_n022022-as-in-folder-name_black_r141_01-front.jpg",
+   "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Black/004557715738_7096_n022022-as-in-folder-name_black_r141_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7096) in Black, bottom (product N022022 (as in folder name)) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Black/004557715738_7096_n022022-as-in-folder-name_black_r141_08-detail-pose.jpg"
+ },
+ {
+  "row": 142,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Blush beige - Grey jeans/004557715738_7096_n022022-as-in-folder-name_blush-beige_grey-jeans_r142_01-front.jpg",
+   "output/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Blush beige - Grey jeans/004557715738_7096_n022022-as-in-folder-name_blush-beige_grey-jeans_r142_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7096) in Blush beige, bottom (product N022022 (as in folder name)) in Grey jeans",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the top has a hood, both hands lifting the hood up over the back of her head; if it has no hood, both hands pushing the sleeves up to the forearms; showing the zip or buttons, drawstrings, cuffs and fabric.",
+  "out": "pose_staging/On-Model/TOP 7096 + BOTTOM N022022 (as in folder name)/Blush beige - Grey jeans/004557715738_7096_n022022-as-in-folder-name_blush-beige_grey-jeans_r142_08-detail-pose.jpg"
+ },
+ {
+  "row": 143,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 7097 + BOTTOM N023/Black/004557715820_7097_n023_black_r143_01-front.jpg",
+   "output/On-Model/TOP 7097 + BOTTOM N023/Black/004557715820_7097_n023_black_r143_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7097) in Black, bottom (product N023) in its original color",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the coat has a belt, both hands tying the belt at the waist; if it has no belt, both hands holding the lapels or fastening the front closure; showing lapels, buttons, pockets and fabric.",
+  "out": "pose_staging/On-Model/TOP 7097 + BOTTOM N023/Black/004557715820_7097_n023_black_r143_08-detail-pose.jpg"
+ },
+ {
+  "row": 144,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 7097 + BOTTOM N023/Burgundy - White Jeans/004557715820_7097_n023_burgundy_white-jeans_r144_01-front.jpg",
+   "output/On-Model/TOP 7097 + BOTTOM N023/Burgundy - White Jeans/004557715820_7097_n023_burgundy_white-jeans_r144_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7097) in Burgundy, bottom (product N023) in White Jeans",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 7097 + BOTTOM N023/Burgundy - White Jeans/004557715820_7097_n023_burgundy_white-jeans_r144_08-detail-pose.jpg"
+ },
+ {
+  "row": 145,
+  "pose": "lying-down",
+  "refs": [
+   "output/On-Model/TOP 7097 + BOTTOM N023/Beige / stone/004557715820_7097_n023_beige-stone_r145_01-front.jpg",
+   "output/On-Model/TOP 7097 + BOTTOM N023/Beige / stone/004557715820_7097_n023_beige-stone_r145_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7097) in Beige / stone, bottom (product N023) in its original color",
+  "pose_text": "She is lying back on the seamless white studio floor, propped up on her elbows, one leg bent with the knee up and the foot flat on the floor, the other leg stretched out flat. Camera low and close, framed from the waist to the feet, focused on the trousers (waistband, pockets, seams, hems, fabric) and the shoes; upper body and face softly out of frame.",
+  "out": "pose_staging/On-Model/TOP 7097 + BOTTOM N023/Beige / stone/004557715820_7097_n023_beige-stone_r145_08-detail-pose.jpg"
+ },
+ {
+  "row": 146,
+  "pose": "top-action",
+  "refs": [
+   "output/On-Model/TOP 7097 + BOTTOM N023/Camel brown - White Jeans/004557715820_7097_n023_camel-brown_white-jeans_r146_01-front.jpg",
+   "output/On-Model/TOP 7097 + BOTTOM N023/Camel brown - White Jeans/004557715820_7097_n023_camel-brown_white-jeans_r146_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7097) in Camel brown, bottom (product N023) in White Jeans",
+  "pose_text": "Framed from the lips or chin down to the hips, her face mostly out of frame. if the coat has a belt, both hands tying the belt at the waist; if it has no belt, both hands holding the lapels or fastening the front closure; showing lapels, buttons, pockets and fabric.",
+  "out": "pose_staging/On-Model/TOP 7097 + BOTTOM N023/Camel brown - White Jeans/004557715820_7097_n023_camel-brown_white-jeans_r146_08-detail-pose.jpg"
+ },
+ {
+  "row": 147,
+  "pose": "wall-lean",
+  "refs": [
+   "output/On-Model/TOP 7097 + BOTTOM N023/Dark brown/004557715820_7097_n023_dark-brown_r147_01-front.jpg",
+   "output/On-Model/TOP 7097 + BOTTOM N023/Dark brown/004557715820_7097_n023_dark-brown_r147_03-back.jpg"
+  ],
+  "has_real_back": true,
+  "outfit": "top (product 7097) in Dark brown, bottom (product N023) in its original color",
+  "pose_text": "She leans casually with one shoulder and her back against a plain white studio wall, one knee bent with the sole of her shoe resting against the wall, hands relaxed (in pockets if the garment has pockets). Framed from the chin down to the knees, face mostly out of frame, the top and the upper part of the trousers sharp.",
+  "out": "pose_staging/On-Model/TOP 7097 + BOTTOM N023/Dark brown/004557715820_7097_n023_dark-brown_r147_08-detail-pose.jpg"
+ }
+]
