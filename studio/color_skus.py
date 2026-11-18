@@ -8,8 +8,9 @@ from pathlib import Path
 import numpy as np
 from PIL import Image
 
+BOTTOM_PALETTE = {"Blue": "#4A74A8", "Dark Blue": "#27456F", "Dark Navy": "#18233C", "Navy": "#1F2A44"}
 PALETTE = {
- "Black": "#1C1C1E", "White": "#F6F5F1", "Off White": "#EFEAE0", "Cream": "#F1E8D4", "Beige": "#D8C4A6", "Light Beige": "#E6D8C0",
+ "Black": "#1C1C1E", "White": "#F8F8F5", "Off White": "#EBE3D0", "Cream": "#F1E8D4", "Beige": "#D8C4A6", "Light Beige": "#E6D8C0",
  "Dark Beige": "#B89F7E", "Café": "#8A6B58", "Brown": "#5B3B2A", "Camel": "#B8894F", "Havana": "#9A6A3C", "Burgundy": "#6B1A2B",
  "Navy": "#1F2A44", "Dark Navy": "#141C30", "Blue": "#2F5FA8", "Dark Blue": "#1E3A6E", "Sky Blue": "#9CC3E6", "Indigo": "#2E3270",
  "Petrol": "#1F5C66", "Turquoise": "#2FB5B0", "Aqua": "#7FD4D0", "Mint": "#A8DCC4", "Gray": "#8F9093", "Dark Gray": "#4B4C50",
@@ -25,6 +26,7 @@ FOLDER = {"125/7071": ["125-7071"], "126/427": ["126-427"], "126/439": ["126-439
  "N023": ["N023", "NO23 (as in folder name)"], "2500B": ["2500B", "2500B OFF WHITE"]}
 PRINT = {"126/451A", "126/451B", "126/474", "126/433", "126/461"}   # prints / patterns: a flat recolour would destroy them
 SKIP = {"7098"}
+KEEP_TRIMS = {"1438", "1431", "7095", "7094", "7088", "7089", "7096", "7097", "1418"}   # contrast rib trims, buttons, zips, drawstrings
 REDO = {"125/1380"}   # cut-out exists but is flawed (camisole shows through the sheer fabric)
 BAD_SRC = re.compile(r"print|check|dots|floral|over white|vest over", re.I)
 slug = lambda s: re.sub(r"[^a-z0-9]+", "-", s.lower().replace("é", "e")).strip("-")
@@ -77,7 +79,7 @@ def plan():
         kind = {"Top": "top", "Bottom": "bottom", "Dress": "dress"}[typ]
         d = OUT / f"{typ.upper()} {code.replace('/', '-')}" / col
         for side, src in (("front", fr), ("back", bk)):
-            jobs.append({"sku": s["SKU ID"], "code": code, "type": typ, "colour": col, "hex": PALETTE[col], "side": side,
+            jobs.append({"sku": s["SKU ID"], "code": code, "type": typ, "colour": col, "hex": (BOTTOM_PALETTE.get(col) if typ == "Bottom" else None) or PALETTE[col], "side": side,
                          "src": str(src), "src_colour": name, "out": str(d / f"ghost_{kind}_{slug(code)}_{slug(col)}_{side}.jpg")})
     json.dump(jobs, open("data/color_plan.json", "w"), indent=1, ensure_ascii=False)
     json.dump(todo_ai, open("data/color_needs_ai.json", "w"), indent=1, ensure_ascii=False)
@@ -91,7 +93,7 @@ def run(limit=None):
     jobs = [j for j in json.load(open("data/color_plan.json")) if not os.path.exists(j["out"])][: limit]
     for i, j in enumerate(jobs):
         os.makedirs(os.path.dirname(j["out"]), exist_ok=True)
-        recolor(Image.open(j["src"]), j["hex"]).save(j["out"], quality=93)
+        recolor(Image.open(j["src"]), j["hex"], j["code"] in KEEP_TRIMS).save(j["out"], quality=93)
         if i % 20 == 0: print(i, "/", len(jobs), flush=True)
     if jobs: subprocess.run([sys.executable, "-m", "studio.tag_metadata", *[j["out"] for j in jobs]], check=True)
     print("rendered", len(jobs))

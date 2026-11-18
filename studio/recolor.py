@@ -42,10 +42,36 @@ def garment_mask(rgb):
                 if m2[:, :3].mean() < 0.01 and m2[:, -3:].mean() < 0.01 and m2.mean() > 0.08:
                     m = m2; garment_mask.floor = True; break
     garment_mask.clean = bool(m[:, :3].mean() < 0.01 and m[:, -3:].mean() < 0.01)
+    # contact shadow / floor glow under the hem: in the bottom part of the garment, drop pixels whose colour is
+    # far from the garment's own colour (a neutral grey blob under a black or beige garment). Thin parts higher up
+    # (drawstrings, straps) are not affected.
+    rows = np.where(m.any(1))[0]
+    if len(rows):
+        y0, y1 = rows[0], rows[-1]; zone = int(y1 - 0.14 * (y1 - y0))
+        labi = color.rgb2lab(rgb / 255.0)
+        ref_px = labi[int(y0 + 0.2 * (y1 - y0)):zone][m[int(y0 + 0.2 * (y1 - y0)):zone]]
+        if len(ref_px) > 50:
+            ref = np.median(ref_px, 0); sd = float(np.median(np.abs(ref_px - ref).sum(1))) + 1e-6
+            dE = np.sqrt(((labi - ref) ** 2).sum(2))
+            far = dE > max(16.0, 3.0 * sd)
+            zmask = np.arange(m.shape[0])[:, None] >= zone
+            if garment_mask.floor and np.median(np.hypot(ref_px[:, 1], ref_px[:, 2])) > 8:
+                zmask = np.arange(m.shape[0])[:, None] >= int(y0 + 0.25 * (y1 - y0))   # coloured garment on a grey floor: use colour everywhere low down
+            m = m & ~(far & zmask)
+            m = ndimage.binary_opening(m, iterations=2)
+            lab5, n5 = ndimage.label(m)
+            if n5 > 1:
+                sz5 = ndimage.sum(m, lab5, range(1, n5 + 1)); m = np.isin(lab5, [i + 1 for i, v in enumerate(sz5) if v > 0.1 * sz5.max()])
+            band = m[int(y0 + 0.3 * (y1 - y0)):zone]
+            cols = np.where(band.any(0))[0]
+            if len(cols):                      # nothing below the hem line may stick out sideways beyond the garment body
+                lo, hi = max(cols[0] - 6, 0), min(cols[-1] + 6, m.shape[1] - 1)
+                m[zone:, :lo] = False; m[zone:, hi + 1:] = False
+            m = ndimage.binary_opening(m, iterations=1)
     m = Image.fromarray((m * 255).astype("uint8")).resize((full[1], full[0]), Image.BILINEAR)
     return np.asarray(m.filter(ImageFilter.GaussianBlur(1.5))).astype(float) / 255
 
-def recolor(im, hexcol):
+def recolor(im, hexcol, keep_trims=False):
     rgb = np.asarray(im.convert("RGB")); m = garment_mask(rgb)
     lab = color.rgb2lab(rgb / 255.0)
     t = color.rgb2lab(np.array([[[int(hexcol[i:i + 2], 16) / 255 for i in (1, 3, 5)]]]))[0, 0]
@@ -61,7 +87,7 @@ def recolor(im, hexcol):
     res = color.lab2rgb(out) * 255
     # keep dark neutral trims, buttons and zips of a coloured garment as photographed
     chroma = np.hypot(lab[..., 1], lab[..., 2]); cmed = np.median(chroma[core])
-    if cmed > 14:
+    if keep_trims and cmed > 14:
         trim = ((chroma < 0.35 * cmed) & (L < Lmed - 18)).astype(float)
         trim = np.asarray(Image.fromarray((trim * 255).astype("uint8")).filter(ImageFilter.GaussianBlur(1))) / 255.0
         res = res * (1 - trim[..., None]) + rgb * trim[..., None]
