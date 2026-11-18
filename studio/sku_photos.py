@@ -89,9 +89,10 @@ def run_one(j, model, tries=3):
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser(); ap.add_argument("--model", default="gemini-2.5-flash-image"); ap.add_argument("--limit", type=int)
-    ap.add_argument("--only"); ap.add_argument("--workers", type=int, default=3); ap.add_argument("--dry-run", action="store_true"); ap.add_argument("--budget", type=float, default=10.0)
+    ap.add_argument("--only"); ap.add_argument("--workers", type=int, default=3); ap.add_argument("--dry-run", action="store_true"); ap.add_argument("--budget", type=float, default=10.0); ap.add_argument("--out"); ap.add_argument("--skus")
     a = ap.parse_args()
-    jobs = [j for j in json.load(open("data/sku_photo_jobs.json")) if not j["blocked_by"] and (not a.only or j["sku"] == a.only)]
+    if a.out: OUT = Path(a.out)
+    jobs = [j for j in json.load(open("data/sku_photo_jobs.json")) if not j["blocked_by"] and (not a.only or j["sku"] == a.only) and (not a.skus or j["sku"] in a.skus.split(","))]
     jobs = [j for j in jobs if not out_path(j).exists()][: a.limit]
     if a.dry_run:
         for j in jobs: print("=" * 70, j["sku"], "|", j["style_source"], "\nrefs:", refs(j), "\n" + prompt(j))

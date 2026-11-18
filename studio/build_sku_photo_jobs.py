@@ -74,7 +74,8 @@ def bottom_ref(bcode, bcolour_name):
         cands = [s for s in skus if base(s["Product code"]) == base(bcode) and s["Type"] == "Bottom" and s["SKU ID"] in plan]
         if cands and want:
             s = min(cands, key=lambda s: dist(want, BOTTOM_PALETTE.get(s["Colour"]) or PALETTE[s["Colour"]]))
-            return plan[s["SKU ID"]]["front"], s["Colour"], False
+            if dist(want, BOTTOM_PALETTE.get(s["Colour"]) or PALETTE[s["Colour"]]) < 40 ** 2 * 3:   # only a genuinely close colour
+                return plan[s["SKU ID"]]["front"], s["Colour"], False
         sub = ghost_for("bottom", bcode, bcolour_name)
         return sub, bcolour_name, False
     return ghost_for("bottom", bcode, "Original") or None, "its original colour", True
