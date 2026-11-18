@@ -1,0 +1,576 @@
+[
+ {
+  "folder": "TOP 126-427",
+  "files": [
+   {
+    "title": "ghost_top_126-427_black_front.jpg",
+    "ref": "sha256:18c063b188d5fc7dc04ac1f8606e665719cb78fee3ded30dc46b9907c93d28de:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_black_front.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_black_back.jpg",
+    "ref": "sha256:183b0db8c4ad2a8a188ae1406e46dffc73910121dfad1436d9cc79a6466d2ce3:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_black_back.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_beige_front.jpg",
+    "ref": "sha256:011c8ae34a5bdab615d3ab3c787012e3ff226ee95fb0c907604b214526e52cac:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_beige_front.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_beige_back.jpg",
+    "ref": "sha256:eda391bb484369bde9912efaae7113d07861cfeb967dcb52ba316e09edd8d956:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_beige_back.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_b-rose_front.jpg",
+    "ref": "sha256:4e48879a675276b602f4c62d4e7a81d9120f13078c74ed6d0cd60dd4fb4df414:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_b-rose_front.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_b-rose_back.jpg",
+    "ref": "sha256:628cedea02a9632d0a1395ac3c9532ac34204e02b3f826ac2b5a25a08fe96c83:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_b-rose_back.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_brown_front.jpg",
+    "ref": "sha256:98a9761cbd9356d615f157f739b15a1b3e3b04f09cc3cca734814a79babf979e:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_brown_front.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_brown_back.jpg",
+    "ref": "sha256:f3f56bf7f4745fea1a036a254e979d0e968dbb3134a267fa42e0b90ea215cc6e:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_brown_back.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_lavender_front.jpg",
+    "ref": "sha256:ed69f76848e88a85121d2ab01998968dc8feae22841777b3a242ac871650a77f:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_lavender_front.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_lavender_back.jpg",
+    "ref": "sha256:f6a92d10ed00681d60732fd9c78c7fe0fdbf0ef2b4a2afd4b027701d9d9462a5:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_lavender_back.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_light-green_front.jpg",
+    "ref": "sha256:5e4fb8913b5f1bd214470ff7bb17408f912e999ae3f52cf3a4768627c1673114:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_light-green_front.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_light-green_back.jpg",
+    "ref": "sha256:c6a0a64ca6a618404d33cd6fafc5bf4b6327c4163473e606a2825135306c0941:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_light-green_back.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_mustard_front.jpg",
+    "ref": "sha256:3f62ac784888fab87d798eb88adf20a9ab5f367c39a58568aab419250820c0d3:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_mustard_front.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_mustard_back.jpg",
+    "ref": "sha256:01445b3c2040121abf676e934b1cc513923891a463a83df2de8fec086744afd0:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_mustard_back.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_olive_front.jpg",
+    "ref": "sha256:dd2067edb0b56c7c05fff665a1043c36d823f27fd5a41920f7c7ec1531d0eadc:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_olive_front.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_olive_back.jpg",
+    "ref": "sha256:b256b8e30807dbf8360eed0c619cbc9bb3af12b7a4c9a48f0967fbd23be85a39:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_olive_back.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_purple_front.jpg",
+    "ref": "sha256:80f118b272791aac732132882e2ee3c1e43286ae27ab46f466719f10fcdaac4a:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_purple_front.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_purple_back.jpg",
+    "ref": "sha256:28ae1a78233c2195640584ca1e32a53d55debf4f028befd3c8b209080b9e091b:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_purple_back.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_sky-blue_front.jpg",
+    "ref": "sha256:08f721c4e394bde34d959c484a1ff26840ed95c95246c774caaca17d6e4b9f1b:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_sky-blue_front.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_sky-blue_back.jpg",
+    "ref": "sha256:bd4b8b08719dd879ec472e6eb8778abe37ad9ad4a9bc83b666dc26cc5c7c7917:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_sky-blue_back.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_white_front.jpg",
+    "ref": "sha256:b27de3c8831b6ab88fe706b1157297d99a38133ed17efa70859d884a353f8dae:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_white_front.jpg"
+   },
+   {
+    "title": "ghost_top_126-427_white_back.jpg",
+    "ref": "sha256:f18b26af8346dd8d0fe3a119428c544251d39fb6164e884d441fca220cad324b:/home/user/moi-and-lin/output/_up2/ghost_top_126-427_white_back.jpg"
+   }
+  ]
+ },
+ {
+  "folder": "TOP 5006",
+  "files": [
+   {
+    "title": "ghost_top_5006_black_front.jpg",
+    "ref": "sha256:ef9c1f92b8e414e2195254362007cd1220524cf44b8e68fb9800dc26b4a8665d:/home/user/moi-and-lin/output/_up2/ghost_top_5006_black_front.jpg"
+   },
+   {
+    "title": "ghost_top_5006_black_back.jpg",
+    "ref": "sha256:80d218e822620d8253562c25d5b8dd6fc47befbb48b2bc2d4b1c54fa53eff64d:/home/user/moi-and-lin/output/_up2/ghost_top_5006_black_back.jpg"
+   },
+   {
+    "title": "ghost_top_5006_navy_front.jpg",
+    "ref": "sha256:461878c98876778e0bae87bd7f4e82ddd54b97d25cd84c02402167f17a14de4b:/home/user/moi-and-lin/output/_up2/ghost_top_5006_navy_front.jpg"
+   },
+   {
+    "title": "ghost_top_5006_navy_back.jpg",
+    "ref": "sha256:e2ee2566f1cd037ed5b50e4a552208b3e1e1997751cd98356f6ac408533ecd90:/home/user/moi-and-lin/output/_up2/ghost_top_5006_navy_back.jpg"
+   },
+   {
+    "title": "ghost_top_5006_brown_front.jpg",
+    "ref": "sha256:94106730b43e947f5588cbcef12d12559a285c795d991341c10ac0f2f485cbaa:/home/user/moi-and-lin/output/_up2/ghost_top_5006_brown_front.jpg"
+   },
+   {
+    "title": "ghost_top_5006_brown_back.jpg",
+    "ref": "sha256:5befdfd27e740094be27496d8e037f61bc7dfce472e58a9e4aa8d89e4a3cfb13:/home/user/moi-and-lin/output/_up2/ghost_top_5006_brown_back.jpg"
+   },
+   {
+    "title": "ghost_top_5006_burgundy_front.jpg",
+    "ref": "sha256:e7a0d36bc94865070397f2a80fa430d359aa0ca724a7a2edfb17f4e2d863f903:/home/user/moi-and-lin/output/_up2/ghost_top_5006_burgundy_front.jpg"
+   },
+   {
+    "title": "ghost_top_5006_burgundy_back.jpg",
+    "ref": "sha256:9f0563a86dc17e5aad70f820bb3401a474a149345e38104ff968d1196ad6b835:/home/user/moi-and-lin/output/_up2/ghost_top_5006_burgundy_back.jpg"
+   },
+   {
+    "title": "ghost_top_5006_gray_front.jpg",
+    "ref": "sha256:510468d3ce1073af0dbef4b8540ab17cbb26c27209a1f67ad3d9ccaf468427cf:/home/user/moi-and-lin/output/_up2/ghost_top_5006_gray_front.jpg"
+   },
+   {
+    "title": "ghost_top_5006_gray_back.jpg",
+    "ref": "sha256:eff82c80be71a4e8e05fc8f8086574b70cc676bbe538293c9cef9f808204f558:/home/user/moi-and-lin/output/_up2/ghost_top_5006_gray_back.jpg"
+   },
+   {
+    "title": "ghost_top_5006_cafe_front.jpg",
+    "ref": "sha256:ab16ff1e92bab0eb3209d39323b44c9a3f4ddced9ca1987764120dfa8efcc6e7:/home/user/moi-and-lin/output/_up2/ghost_top_5006_cafe_front.jpg"
+   },
+   {
+    "title": "ghost_top_5006_cafe_back.jpg",
+    "ref": "sha256:11afd535127aa2204fad510289d6c5a8d895a2c6416a45878cea1c5ce4646454:/home/user/moi-and-lin/output/_up2/ghost_top_5006_cafe_back.jpg"
+   },
+   {
+    "title": "ghost_top_5006_white_front.jpg",
+    "ref": "sha256:e1320884404936d3ab859a5267b98275067ac42082cc5222e3d7776fdb6482fa:/home/user/moi-and-lin/output/_up2/ghost_top_5006_white_front.jpg"
+   },
+   {
+    "title": "ghost_top_5006_white_back.jpg",
+    "ref": "sha256:f008986b48bcde7ceb3d134b97947427914ab2367b71ee3f4f7992859550de50:/home/user/moi-and-lin/output/_up2/ghost_top_5006_white_back.jpg"
+   }
+  ]
+ },
+ {
+  "folder": "TOP 7089",
+  "files": [
+   {
+    "title": "ghost_top_7089_black_front.jpg",
+    "ref": "sha256:526e387e14c36d7894c75b6cd9824c731a4b215d6b666d1ad2d0a473f440554a:/home/user/moi-and-lin/output/_up2/ghost_top_7089_black_front.jpg"
+   },
+   {
+    "title": "ghost_top_7089_black_back.jpg",
+    "ref": "sha256:bfcf56d62fb5970704175f85e74874301b1e0fcb87e5030bb365cbf91f588a7c:/home/user/moi-and-lin/output/_up2/ghost_top_7089_black_back.jpg"
+   },
+   {
+    "title": "ghost_top_7089_white_front.jpg",
+    "ref": "sha256:4019ec13ff099292d9a68ca25c4a065b14a3cea260dba1f2c9a4a899d3d6ff03:/home/user/moi-and-lin/output/_up2/ghost_top_7089_white_front.jpg"
+   },
+   {
+    "title": "ghost_top_7089_white_back.jpg",
+    "ref": "sha256:27d886b8f0c6e4e84d7e66d1d74518bbdd4f4adafd6f00f2c26116c82e0368df:/home/user/moi-and-lin/output/_up2/ghost_top_7089_white_back.jpg"
+   },
+   {
+    "title": "ghost_top_7089_light-olive_front.jpg",
+    "ref": "sha256:42e410cd08f7abde4648be8a28d0abafc20c38d811b021de4a32d95e47804fa1:/home/user/moi-and-lin/output/_up2/ghost_top_7089_light-olive_front.jpg"
+   },
+   {
+    "title": "ghost_top_7089_light-olive_back.jpg",
+    "ref": "sha256:65f9f9954346a3f5c6a975124c9d2e3bee6da2d8c5664780d8d93f259d42c784:/home/user/moi-and-lin/output/_up2/ghost_top_7089_light-olive_back.jpg"
+   },
+   {
+    "title": "ghost_top_7089_havana_front.jpg",
+    "ref": "sha256:f4129cd967bb192699120c89e12e103afc9017b5b851a92ab83c8fc4ab697df7:/home/user/moi-and-lin/output/_up2/ghost_top_7089_havana_front.jpg"
+   },
+   {
+    "title": "ghost_top_7089_havana_back.jpg",
+    "ref": "sha256:87ed256191af3e9435e3c1223e7df24773f0494e2f40b65ef6201ddec8e4a70f:/home/user/moi-and-lin/output/_up2/ghost_top_7089_havana_back.jpg"
+   },
+   {
+    "title": "ghost_top_7089_dark-olive_front.jpg",
+    "ref": "sha256:6117804adb16b3606002c116470e92a13dec06702352af251c088ad9fd32e10a:/home/user/moi-and-lin/output/_up2/ghost_top_7089_dark-olive_front.jpg"
+   },
+   {
+    "title": "ghost_top_7089_dark-olive_back.jpg",
+    "ref": "sha256:3dbca13d5a26c7705ec85405fdf15ffccb43607ad9f6ceca6729a3e63d2eb8d8:/home/user/moi-and-lin/output/_up2/ghost_top_7089_dark-olive_back.jpg"
+   },
+   {
+    "title": "ghost_top_7089_brown_front.jpg",
+    "ref": "sha256:0bbbe91ed6cc408ac19bbf7d0c875d377eb04ad1fd05d166579a181dd0313a72:/home/user/moi-and-lin/output/_up2/ghost_top_7089_brown_front.jpg"
+   },
+   {
+    "title": "ghost_top_7089_brown_back.jpg",
+    "ref": "sha256:3137af4f5319e7c1b4db6b15b74b815f0fa0935c89782cae81f372c53388ac6d:/home/user/moi-and-lin/output/_up2/ghost_top_7089_brown_back.jpg"
+   },
+   {
+    "title": "ghost_top_7089_beige_front.jpg",
+    "ref": "sha256:cf33b6b3e8b9aacce3179f4469e42dd8582cf12f1dc3ed50c7d08b53f5fc8401:/home/user/moi-and-lin/output/_up2/ghost_top_7089_beige_front.jpg"
+   },
+   {
+    "title": "ghost_top_7089_beige_back.jpg",
+    "ref": "sha256:de6a3a2c75cecb6205eca32d56864701b90e418c45dc635d90a48fa2dcbd8454:/home/user/moi-and-lin/output/_up2/ghost_top_7089_beige_back.jpg"
+   }
+  ]
+ },
+ {
+  "folder": "TOP 2403",
+  "files": [
+   {
+    "title": "ghost_top_2403_white_front.jpg",
+    "ref": "sha256:3e6ddf28fbe6f2364c281119d12f7ab10c936d35b672619e8dc34f726301b487:/home/user/moi-and-lin/output/_up2/ghost_top_2403_white_front.jpg"
+   },
+   {
+    "title": "ghost_top_2403_white_back.jpg",
+    "ref": "sha256:d0d89275772371fdc6882d9ce274328b97055bfbd8c74a67655080920b99840b:/home/user/moi-and-lin/output/_up2/ghost_top_2403_white_back.jpg"
+   },
+   {
+    "title": "ghost_top_2403_black_front.jpg",
+    "ref": "sha256:b4b4b368017f56399b288fe2e53978fd25005014469eca4b8f5eb295a39eec40:/home/user/moi-and-lin/output/_up2/ghost_top_2403_black_front.jpg"
+   },
+   {
+    "title": "ghost_top_2403_black_back.jpg",
+    "ref": "sha256:d3378fc6001ba6f340a621a99395388fbf19e03e5a4105556d40d9812d0c4dbf:/home/user/moi-and-lin/output/_up2/ghost_top_2403_black_back.jpg"
+   },
+   {
+    "title": "ghost_top_2403_burgundy_front.jpg",
+    "ref": "sha256:7e3e45a213f8452f28d2aa2f03e35ae8f418bb0ac0950bd133a0d8e694dfeee9:/home/user/moi-and-lin/output/_up2/ghost_top_2403_burgundy_front.jpg"
+   },
+   {
+    "title": "ghost_top_2403_burgundy_back.jpg",
+    "ref": "sha256:c54b5a31637cd94ca26077f0ee9af89773d0ad475b4be1e0bae46468951eb13a:/home/user/moi-and-lin/output/_up2/ghost_top_2403_burgundy_back.jpg"
+   },
+   {
+    "title": "ghost_top_2403_cafe_front.jpg",
+    "ref": "sha256:70b30bc71b7b973d2962642b8c85dfa963150835d96fc6c92dae0dbfde431916:/home/user/moi-and-lin/output/_up2/ghost_top_2403_cafe_front.jpg"
+   },
+   {
+    "title": "ghost_top_2403_cafe_back.jpg",
+    "ref": "sha256:29de55a4cb9fcd62746a0763e176d26a89a269f48b148522700b790f33b14325:/home/user/moi-and-lin/output/_up2/ghost_top_2403_cafe_back.jpg"
+   },
+   {
+    "title": "ghost_top_2403_dark-gray_front.jpg",
+    "ref": "sha256:6618989b93a89fdc9dd4c273c33ba701af1295f8d6b05e219915cd6907cc30e0:/home/user/moi-and-lin/output/_up2/ghost_top_2403_dark-gray_front.jpg"
+   },
+   {
+    "title": "ghost_top_2403_dark-gray_back.jpg",
+    "ref": "sha256:6d2ebe3aacb4debc8de5766d0ad40b980bce25c6807cffd3667beda60abe7993:/home/user/moi-and-lin/output/_up2/ghost_top_2403_dark-gray_back.jpg"
+   },
+   {
+    "title": "ghost_top_2403_navy_front.jpg",
+    "ref": "sha256:707044f4d6eef450d47f62bc923cdc0cff5fa6f84ed7755660e5c9693e644fe2:/home/user/moi-and-lin/output/_up2/ghost_top_2403_navy_front.jpg"
+   },
+   {
+    "title": "ghost_top_2403_navy_back.jpg",
+    "ref": "sha256:a8bf29d19520bf57db2136fa6b4a585ec75c7a02141ab4d00d2b7cdb887ebf32:/home/user/moi-and-lin/output/_up2/ghost_top_2403_navy_back.jpg"
+   }
+  ]
+ },
+ {
+  "folder": "TOP 5005",
+  "files": [
+   {
+    "title": "ghost_top_5005_gray_front.jpg",
+    "ref": "sha256:e1e0e5fc23bd1bdab55a021153f4264e51c7a3ea4cabab63ae49c979e5edcf66:/home/user/moi-and-lin/output/_up2/ghost_top_5005_gray_front.jpg"
+   },
+   {
+    "title": "ghost_top_5005_gray_back.jpg",
+    "ref": "sha256:793d9e7b65395b87bd8a0021e26f32f74ad2c483a133e809091e498eedb458b3:/home/user/moi-and-lin/output/_up2/ghost_top_5005_gray_back.jpg"
+   },
+   {
+    "title": "ghost_top_5005_brown_front.jpg",
+    "ref": "sha256:a424e772af71a9f8ed015add8779fd59585caba8bcfdf259afde266c3d10fc48:/home/user/moi-and-lin/output/_up2/ghost_top_5005_brown_front.jpg"
+   },
+   {
+    "title": "ghost_top_5005_brown_back.jpg",
+    "ref": "sha256:2e06c08d55d6c375d6d0f1b7775ba3ecdf6b20227156ad81266c634331f3f000:/home/user/moi-and-lin/output/_up2/ghost_top_5005_brown_back.jpg"
+   },
+   {
+    "title": "ghost_top_5005_cafe_front.jpg",
+    "ref": "sha256:7fa7db59b9f957f9ce6fee74a28c791590e4d19d8655ab07335aa97d413a6ada:/home/user/moi-and-lin/output/_up2/ghost_top_5005_cafe_front.jpg"
+   },
+   {
+    "title": "ghost_top_5005_cafe_back.jpg",
+    "ref": "sha256:0266248eac0460e21835465f2d0d50bd0dea19599fdec7300e69a41f5bced7d6:/home/user/moi-and-lin/output/_up2/ghost_top_5005_cafe_back.jpg"
+   },
+   {
+    "title": "ghost_top_5005_navy_front.jpg",
+    "ref": "sha256:c120a983e6376b1c3386ecd7da4d1a5801ff4f35ac5340706bd6a86def4bf4f7:/home/user/moi-and-lin/output/_up2/ghost_top_5005_navy_front.jpg"
+   },
+   {
+    "title": "ghost_top_5005_navy_back.jpg",
+    "ref": "sha256:d72ed63aae98b8017a5dc1971e587018fe19aa83dca281fe66a2f2fbd9fd2ed8:/home/user/moi-and-lin/output/_up2/ghost_top_5005_navy_back.jpg"
+   },
+   {
+    "title": "ghost_top_5005_white_front.jpg",
+    "ref": "sha256:58a7c88821bbf53f9acc00bae9d7ae3edd7f1d080f10b9b2fca8532012377340:/home/user/moi-and-lin/output/_up2/ghost_top_5005_white_front.jpg"
+   },
+   {
+    "title": "ghost_top_5005_white_back.jpg",
+    "ref": "sha256:f19469a5ad4327055b33d748ec522e2d428a475f91d08a8fd613ecebad776f93:/home/user/moi-and-lin/output/_up2/ghost_top_5005_white_back.jpg"
+   }
+  ]
+ },
+ {
+  "folder": "TOP 603",
+  "files": [
+   {
+    "title": "ghost_top_603_beige_front.jpg",
+    "ref": "sha256:24324470726c10afdfa1e0f909b16fd9e6ce1c555be4d7ae359ebfcbcba7ca00:/home/user/moi-and-lin/output/_up2/ghost_top_603_beige_front.jpg"
+   },
+   {
+    "title": "ghost_top_603_beige_back.jpg",
+    "ref": "sha256:f540bab9ad6a0a91aebf9bcad32d977828876b36b71948d5198a93edf1808390:/home/user/moi-and-lin/output/_up2/ghost_top_603_beige_back.jpg"
+   },
+   {
+    "title": "ghost_top_603_black_front.jpg",
+    "ref": "sha256:eca95c372b1642226143c93b112e1c729484aee47f83390f858264898308ad23:/home/user/moi-and-lin/output/_up2/ghost_top_603_black_front.jpg"
+   },
+   {
+    "title": "ghost_top_603_black_back.jpg",
+    "ref": "sha256:1bcdaf940f613873f5d352b5d216ceb04af776fe7e34bd8d67a90a94e9f59781:/home/user/moi-and-lin/output/_up2/ghost_top_603_black_back.jpg"
+   },
+   {
+    "title": "ghost_top_603_brown_front.jpg",
+    "ref": "sha256:ab2640c31ff60b7dfde78f96121105825b51ba89b0cc48a73bea002697fe69f1:/home/user/moi-and-lin/output/_up2/ghost_top_603_brown_front.jpg"
+   },
+   {
+    "title": "ghost_top_603_brown_back.jpg",
+    "ref": "sha256:34d12faeccafea30cf78f5f8c4405afdda2142f9589adb7a2b66aaf90e60f948:/home/user/moi-and-lin/output/_up2/ghost_top_603_brown_back.jpg"
+   },
+   {
+    "title": "ghost_top_603_burgundy_front.jpg",
+    "ref": "sha256:faffa46873f0740341b1914d80a2def860c3414fcc31fb70b75b7447fe3c956a:/home/user/moi-and-lin/output/_up2/ghost_top_603_burgundy_front.jpg"
+   },
+   {
+    "title": "ghost_top_603_burgundy_back.jpg",
+    "ref": "sha256:85cbeff5ffe0ba7221c15edefcb4ba2cc44da0040942acdf68bc43cbf141c05a:/home/user/moi-and-lin/output/_up2/ghost_top_603_burgundy_back.jpg"
+   },
+   {
+    "title": "ghost_top_603_white_front.jpg",
+    "ref": "sha256:46eeab07dab67106da477004d30e7000383b54068d3580785f959f6f248f0914:/home/user/moi-and-lin/output/_up2/ghost_top_603_white_front.jpg"
+   },
+   {
+    "title": "ghost_top_603_white_back.jpg",
+    "ref": "sha256:d2a5050d1906d40ca14d229146d8803ad8c9844d3ecbfb8d1bde7c63de37152f:/home/user/moi-and-lin/output/_up2/ghost_top_603_white_back.jpg"
+   }
+  ]
+ },
+ {
+  "folder": "TOP 2408",
+  "files": [
+   {
+    "title": "ghost_top_2408_black_front.jpg",
+    "ref": "sha256:786861b1381fbe35b6f9225e13299b66d886f921059cbef502c854a60fe70cac:/home/user/moi-and-lin/output/_up2/ghost_top_2408_black_front.jpg"
+   },
+   {
+    "title": "ghost_top_2408_black_back.jpg",
+    "ref": "sha256:7788f7b1685bddb4bdd06fb1c4603b8b4aef2c9c858e8aea06e96205b1e72280:/home/user/moi-and-lin/output/_up2/ghost_top_2408_black_back.jpg"
+   },
+   {
+    "title": "ghost_top_2408_aqua_front.jpg",
+    "ref": "sha256:f2ca08c40fd6a0e575adff62f687893d21bb31de1118e07a8be8be7b466d8a26:/home/user/moi-and-lin/output/_up2/ghost_top_2408_aqua_front.jpg"
+   },
+   {
+    "title": "ghost_top_2408_aqua_back.jpg",
+    "ref": "sha256:52857e7c5f9b6775386872c6b861c68308078b5ed8fb683610ca6f1e96224886:/home/user/moi-and-lin/output/_up2/ghost_top_2408_aqua_back.jpg"
+   },
+   {
+    "title": "ghost_top_2408_beige_front.jpg",
+    "ref": "sha256:f46b8095b1a72ce4a3898c6756b6620f9db32e420c00a7cd93ccadb271ea81b4:/home/user/moi-and-lin/output/_up2/ghost_top_2408_beige_front.jpg"
+   },
+   {
+    "title": "ghost_top_2408_beige_back.jpg",
+    "ref": "sha256:2899d37362e85701f4df0ef966b69df265f7265bd869bbac7abcd1d9a3786170:/home/user/moi-and-lin/output/_up2/ghost_top_2408_beige_back.jpg"
+   },
+   {
+    "title": "ghost_top_2408_gray_front.jpg",
+    "ref": "sha256:77b446ea5b50e4c13a7a975f9837a9c45d0b042c0f65c7b2cef9f9ebb00503e4:/home/user/moi-and-lin/output/_up2/ghost_top_2408_gray_front.jpg"
+   },
+   {
+    "title": "ghost_top_2408_gray_back.jpg",
+    "ref": "sha256:2c6aceaace454ba1f5363033e6ae6621cae47c3ddb50f7831d5e2b12e5d54ef5:/home/user/moi-and-lin/output/_up2/ghost_top_2408_gray_back.jpg"
+   }
+  ]
+ },
+ {
+  "folder": "TOP 1438",
+  "files": [
+   {
+    "title": "ghost_top_1438_cafe_front.jpg",
+    "ref": "sha256:f24c2406e1f86ec8fb333627c89d678bf69b2e6467be91d15fa31b8307e29445:/home/user/moi-and-lin/output/_up2/ghost_top_1438_cafe_front.jpg"
+   },
+   {
+    "title": "ghost_top_1438_cafe_back.jpg",
+    "ref": "sha256:848c85b910fcbbdfa6e00dc027388eacaea9dab0d166249eaae21866a6e45ee2:/home/user/moi-and-lin/output/_up2/ghost_top_1438_cafe_back.jpg"
+   },
+   {
+    "title": "ghost_top_1438_olive_front.jpg",
+    "ref": "sha256:8fcb49a326636c512852ebe44e99ce4822363ae59bd3b695a1f0723e4bb021c0:/home/user/moi-and-lin/output/_up2/ghost_top_1438_olive_front.jpg"
+   },
+   {
+    "title": "ghost_top_1438_olive_back.jpg",
+    "ref": "sha256:131a8ef01cb5a227fbbdb0c4d04c8fe3ca555a05ecd8c688328b8540d327a13b:/home/user/moi-and-lin/output/_up2/ghost_top_1438_olive_back.jpg"
+   },
+   {
+    "title": "ghost_top_1438_mauve_front.jpg",
+    "ref": "sha256:0641af85584cac859e91a15677b8ba90227ac81e915bdc8d69977e89be033df5:/home/user/moi-and-lin/output/_up2/ghost_top_1438_mauve_front.jpg"
+   },
+   {
+    "title": "ghost_top_1438_mauve_back.jpg",
+    "ref": "sha256:5fb420436ab245880b4dbb6cc694502090c3c1a00fa8f696a7ffdceba57f0d35:/home/user/moi-and-lin/output/_up2/ghost_top_1438_mauve_back.jpg"
+   },
+   {
+    "title": "ghost_top_1438_dark-gray_front.jpg",
+    "ref": "sha256:a1efe12bf2d70bb7f4b6e5156d030d41a203f216eb9cc07243cfc07c88578aa7:/home/user/moi-and-lin/output/_up2/ghost_top_1438_dark-gray_front.jpg"
+   },
+   {
+    "title": "ghost_top_1438_dark-gray_back.jpg",
+    "ref": "sha256:dae8e054087987cd9a7d855cc343e6eab1d608353365000da35ffe54c5580982:/home/user/moi-and-lin/output/_up2/ghost_top_1438_dark-gray_back.jpg"
+   }
+  ]
+ },
+ {
+  "folder": "TOP 2505",
+  "files": [
+   {
+    "title": "ghost_top_2505_white_front.jpg",
+    "ref": "sha256:7990651f8b0b819be6b11ba64331c63f09050f1b07d3296e966ca17833033122:/home/user/moi-and-lin/output/_up2/ghost_top_2505_white_front.jpg"
+   },
+   {
+    "title": "ghost_top_2505_white_back.jpg",
+    "ref": "sha256:daf50300ee59e44cd565131e3f75fea24082e96ac3b9b2b182dad4f705e3899e:/home/user/moi-and-lin/output/_up2/ghost_top_2505_white_back.jpg"
+   },
+   {
+    "title": "ghost_top_2505_burgundy_front.jpg",
+    "ref": "sha256:2ac04ba76b265a14978c672c030553b2d0836124e76c3c6f2046eea765000392:/home/user/moi-and-lin/output/_up2/ghost_top_2505_burgundy_front.jpg"
+   },
+   {
+    "title": "ghost_top_2505_burgundy_back.jpg",
+    "ref": "sha256:20fdb5f74ad693ef5406fada280d492f2721c55bd09a448c2b394f68dd3bfed3:/home/user/moi-and-lin/output/_up2/ghost_top_2505_burgundy_back.jpg"
+   },
+   {
+    "title": "ghost_top_2505_brown_front.jpg",
+    "ref": "sha256:33579cb70c322a3342e35a0a5e1770e9454fac38f5fc81c71b9a0814d4a45579:/home/user/moi-and-lin/output/_up2/ghost_top_2505_brown_front.jpg"
+   },
+   {
+    "title": "ghost_top_2505_brown_back.jpg",
+    "ref": "sha256:7ef040efe0a09c644833cebe9407278430affb8813b7e832df31572aa6cb50f0:/home/user/moi-and-lin/output/_up2/ghost_top_2505_brown_back.jpg"
+   }
+  ]
+ },
+ {
+  "folder": "TOP 2410",
+  "files": [
+   {
+    "title": "ghost_top_2410_beige_front.jpg",
+    "ref": "sha256:72224e797dc16850295e77922b98791b3fcfe9e5309894b56becc06a5f448085:/home/user/moi-and-lin/output/_up2/ghost_top_2410_beige_front.jpg"
+   },
+   {
+    "title": "ghost_top_2410_beige_back.jpg",
+    "ref": "sha256:6770a7f013d50ce80c80c34a304e7e027b711cc25227658b2717aa661fb9649b:/home/user/moi-and-lin/output/_up2/ghost_top_2410_beige_back.jpg"
+   },
+   {
+    "title": "ghost_top_2410_burgundy_front.jpg",
+    "ref": "sha256:316e0c8804c7fefe838dd8eb5e281efb9d32e42b0ffc6672272cff31e3c45b92:/home/user/moi-and-lin/output/_up2/ghost_top_2410_burgundy_front.jpg"
+   },
+   {
+    "title": "ghost_top_2410_burgundy_back.jpg",
+    "ref": "sha256:5c8fab2c3f928177ad4d1292e0ab2d7c737d8bd85d6a6e05c397016374af2e04:/home/user/moi-and-lin/output/_up2/ghost_top_2410_burgundy_back.jpg"
+   },
+   {
+    "title": "ghost_top_2410_off-white_front.jpg",
+    "ref": "sha256:3b4a9931c4cb35e70d905d4a671185aa5e58e20ee539bb2fc113e93114f7f65b:/home/user/moi-and-lin/output/_up2/ghost_top_2410_off-white_front.jpg"
+   },
+   {
+    "title": "ghost_top_2410_off-white_back.jpg",
+    "ref": "sha256:a51e8caa40a030080e0111c2f39a34f0f4b8501ec140179875f9fc3eaf584683:/home/user/moi-and-lin/output/_up2/ghost_top_2410_off-white_back.jpg"
+   }
+  ]
+ },
+ {
+  "folder": "TOP 7080",
+  "files": [
+   {
+    "title": "ghost_top_7080_gray_front.jpg",
+    "ref": "sha256:c113e84521a615270202c4ae11c29788ed9775554f2c26c3808534cd5a807ace:/home/user/moi-and-lin/output/_up2/ghost_top_7080_gray_front.jpg"
+   },
+   {
+    "title": "ghost_top_7080_gray_back.jpg",
+    "ref": "sha256:f00363b0f9f9752267a8453d85732ef59b851b3faa1930dee9d120e2954ddff2:/home/user/moi-and-lin/output/_up2/ghost_top_7080_gray_back.jpg"
+   },
+   {
+    "title": "ghost_top_7080_cafe_front.jpg",
+    "ref": "sha256:a51ef50f32e1daca33432c154f81a66878aba57900ea5f05b05d62fc498c47a7:/home/user/moi-and-lin/output/_up2/ghost_top_7080_cafe_front.jpg"
+   },
+   {
+    "title": "ghost_top_7080_cafe_back.jpg",
+    "ref": "sha256:aa971d57a1ffd81b67d8406396b2c43c756760d421806781b20b1e7bff458b6f:/home/user/moi-and-lin/output/_up2/ghost_top_7080_cafe_back.jpg"
+   },
+   {
+    "title": "ghost_top_7080_brown_front.jpg",
+    "ref": "sha256:d86c5dc5c556479464e2409b63ce19fb06860cd2ca7b2eb5b7e5f9b0321c1ba2:/home/user/moi-and-lin/output/_up2/ghost_top_7080_brown_front.jpg"
+   },
+   {
+    "title": "ghost_top_7080_brown_back.jpg",
+    "ref": "sha256:1b2bdadd6cda669603c04903d3af82e080a61b41b257fb276f050c28b25eb10f:/home/user/moi-and-lin/output/_up2/ghost_top_7080_brown_back.jpg"
+   }
+  ]
+ },
+ {
+  "folder": "BOTTOM N024",
+  "files": [
+   {
+    "title": "ghost_bottom_n024_beige_front.jpg",
+    "ref": "sha256:5258a18853222f3be0a837c930b3f10465b04a663e8aa063bd6ebb011c8d9146:/home/user/moi-and-lin/output/_up2/ghost_bottom_n024_beige_front.jpg"
+   },
+   {
+    "title": "ghost_bottom_n024_beige_back.jpg",
+    "ref": "sha256:0e447e6866f371d74cf3d256aef3878898a6bed044d9ba9e45c6cb7558150666:/home/user/moi-and-lin/output/_up2/ghost_bottom_n024_beige_back.jpg"
+   },
+   {
+    "title": "ghost_bottom_n024_off-white_front.jpg",
+    "ref": "sha256:5ec9bb52b55c7063b91c141fa5ac007d666c276b305525fd84bc4237c5d9ce71:/home/user/moi-and-lin/output/_up2/ghost_bottom_n024_off-white_front.jpg"
+   },
+   {
+    "title": "ghost_bottom_n024_off-white_back.jpg",
+    "ref": "sha256:30008b0e0c65f86edfb246c27df22a1bb73df057008a630d5717b23d782ea34c:/home/user/moi-and-lin/output/_up2/ghost_bottom_n024_off-white_back.jpg"
+   }
+  ]
+ },
+ {
+  "folder": "TOP 2400A",
+  "files": [
+   {
+    "title": "ghost_top_2400a_beige_front.jpg",
+    "ref": "sha256:fb721c573d11ffa6340de5a5f727a2390fe5e2c8aa388a9385ed235553371e20:/home/user/moi-and-lin/output/_up2/ghost_top_2400a_beige_front.jpg"
+   },
+   {
+    "title": "ghost_top_2400a_beige_back.jpg",
+    "ref": "sha256:606830b865fd75786271c4e079e8634f1324c8fbefa2ce40e235bd19671b50a4:/home/user/moi-and-lin/output/_up2/ghost_top_2400a_beige_back.jpg"
+   },
+   {
+    "title": "ghost_top_2400a_gray_front.jpg",
+    "ref": "sha256:77f669fd6c82992ec20fafc0f976fd79793badeef45c01fbba61fa305cddf7c1:/home/user/moi-and-lin/output/_up2/ghost_top_2400a_gray_front.jpg"
+   },
+   {
+    "title": "ghost_top_2400a_gray_back.jpg",
+    "ref": "sha256:e3fe56d96198a88a8eda32c7f738609b8a6a68ce751c11051056b6f542603d4e:/home/user/moi-and-lin/output/_up2/ghost_top_2400a_gray_back.jpg"
+   }
+  ]
+ },
+ {
+  "folder": "BOTTOM BXX-SMB115",
+  "files": [
+   {
+    "title": "ghost_bottom_bxx-smb115_black_front.jpg",
+    "ref": "sha256:0de7085920dcd4702973be3a813d85d2c8c7c393ea6ec6078eadb58df529299e:/home/user/moi-and-lin/output/_up2/ghost_bottom_bxx-smb115_black_front.jpg"
+   },
+   {
+    "title": "ghost_bottom_bxx-smb115_black_back.jpg",
+    "ref": "sha256:75a67b240d304e3e2cbba2821144eb27071dad2d955cf08ba9e849c1309af56f:/home/user/moi-and-lin/output/_up2/ghost_bottom_bxx-smb115_black_back.jpg"
+   }
+  ]
+ }
+]

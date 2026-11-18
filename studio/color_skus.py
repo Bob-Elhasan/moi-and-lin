@@ -25,6 +25,7 @@ FOLDER = {"125/7071": ["125-7071"], "126/427": ["126-427"], "126/439": ["126-439
  "N023": ["N023", "NO23 (as in folder name)"], "2500B": ["2500B", "2500B OFF WHITE"]}
 PRINT = {"126/451A", "126/451B", "126/474", "126/433", "126/461"}   # prints / patterns: a flat recolour would destroy them
 SKIP = {"7098"}
+REDO = {"125/1380"}   # cut-out exists but is flawed (camisole shows through the sheer fabric)
 BAD_SRC = re.compile(r"print|check|dots|floral|over white|vest over", re.I)
 slug = lambda s: re.sub(r"[^a-z0-9]+", "-", s.lower().replace("é", "e")).strip("-")
 ROOT = Path("output/Ghost Mannequin"); OUT = Path("output/SKU Colors 2026")
@@ -32,7 +33,7 @@ ROOT = Path("output/Ghost Mannequin"); OUT = Path("output/SKU Colors 2026")
 def sources(typ, code):
     kind = "BOTTOM" if typ == "Bottom" else "TOP"
     res = []
-    for f in FOLDER.get(code, [code]):
+    for f in FOLDER.get(code, [code.replace('/', '-')]):
         base = ROOT / f"{kind} {f}"
         for fr in sorted(base.rglob("*_front.jpg")):
             bk = fr.with_name(fr.name.replace("_front.jpg", "_back.jpg"))
@@ -58,6 +59,8 @@ def plan():
     for s in skus:
         code, typ, col = s["Product code"], s["Type"], s["Colour"]
         if code in SKIP: continue
+        if code in REDO:
+            todo_ai.append({**{k: s[k] for k in ("SKU ID", "Product code", "Type", "Colour")}, "why": "cut-out needs a redo"}); continue
         if col not in PALETTE:
             todo_ai.append({**{k: s[k] for k in ("SKU ID", "Product code", "Type", "Colour")}, "why": "colour list missing"}); continue
         if code in PRINT: todo_ai.append({**{k: s[k] for k in ("SKU ID", "Product code", "Type", "Colour")}, "why": "printed / patterned fabric"}); continue

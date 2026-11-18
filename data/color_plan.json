@@ -3914,5 +3914,203 @@
   "src": "output/Ghost Mannequin/BOTTOM BXX-1384/White Pants/ghost_bottom_bxx-1384_white-pants_back.jpg",
   "src_colour": "White Pants",
   "out": "output/SKU Colors 2026/BOTTOM BXX-1384/Dark Beige/ghost_bottom_bxx-1384_dark-beige_back.jpg"
+ },
+ {
+  "sku": "126-1372-BLACK",
+  "code": "126/1372",
+  "type": "Top",
+  "colour": "Black",
+  "hex": "#1C1C1E",
+  "side": "front",
+  "src": "output/Ghost Mannequin/TOP 126-1372/Original/ghost_top_126-1372_original_front.jpg",
+  "src_colour": "Original",
+  "out": "output/SKU Colors 2026/TOP 126-1372/Black/ghost_top_126-1372_black_front.jpg"
+ },
+ {
+  "sku": "126-1372-BLACK",
+  "code": "126/1372",
+  "type": "Top",
+  "colour": "Black",
+  "hex": "#1C1C1E",
+  "side": "back",
+  "src": "output/Ghost Mannequin/TOP 126-1372/Original/ghost_top_126-1372_original_back.jpg",
+  "src_colour": "Original",
+  "out": "output/SKU Colors 2026/TOP 126-1372/Black/ghost_top_126-1372_black_back.jpg"
+ },
+ {
+  "sku": "126-1372-BEIGE",
+  "code": "126/1372",
+  "type": "Top",
+  "colour": "Beige",
+  "hex": "#D8C4A6",
+  "side": "front",
+  "src": "output/Ghost Mannequin/TOP 126-1372/Original/ghost_top_126-1372_original_front.jpg",
+  "src_colour": "Original",
+  "out": "output/SKU Colors 2026/TOP 126-1372/Beige/ghost_top_126-1372_beige_front.jpg"
+ },
+ {
+  "sku": "126-1372-BEIGE",
+  "code": "126/1372",
+  "type": "Top",
+  "colour": "Beige",
+  "hex": "#D8C4A6",
+  "side": "back",
+  "src": "output/Ghost Mannequin/TOP 126-1372/Original/ghost_top_126-1372_original_back.jpg",
+  "src_colour": "Original",
+  "out": "output/SKU Colors 2026/TOP 126-1372/Beige/ghost_top_126-1372_beige_back.jpg"
+ },
+ {
+  "sku": "126-1372-WHITE",
+  "code": "126/1372",
+  "type": "Top",
+  "colour": "White",
+  "hex": "#F6F5F1",
+  "side": "front",
+  "src": "output/Ghost Mannequin/TOP 126-1372/Original/ghost_top_126-1372_original_front.jpg",
+  "src_colour": "Original",
+  "out": "output/SKU Colors 2026/TOP 126-1372/White/ghost_top_126-1372_white_front.jpg"
+ },
+ {
+  "sku": "126-1372-WHITE",
+  "code": "126/1372",
+  "type": "Top",
+  "colour": "White",
+  "hex": "#F6F5F1",
+  "side": "back",
+  "src": "output/Ghost Mannequin/TOP 126-1372/Original/ghost_top_126-1372_original_back.jpg",
+  "src_colour": "Original",
+  "out": "output/SKU Colors 2026/TOP 126-1372/White/ghost_top_126-1372_white_back.jpg"
+ },
+ {
+  "sku": "126-425-BLACK",
+  "code": "126/425",
+  "type": "Top",
+  "colour": "Black",
+  "hex": "#1C1C1E",
+  "side": "front",
+  "src": "output/Ghost Mannequin/TOP 126-425/Original/ghost_top_126-425_original_front.jpg",
+  "src_colour": "Original",
+  "out": "output/SKU Colors 2026/TOP 126-425/Black/ghost_top_126-425_black_front.jpg"
+ },
+ {
+  "sku": "126-425-BLACK",
+  "code": "126/425",
+  "type": "Top",
+  "colour": "Black",
+  "hex": "#1C1C1E",
+  "side": "back",
+  "src": "output/Ghost Mannequin/TOP 126-425/Original/ghost_top_126-425_original_back.jpg",
+  "src_colour": "Original",
+  "out": "output/SKU Colors 2026/TOP 126-425/Black/ghost_top_126-425_black_back.jpg"
+ },
+ {
+  "sku": "126-425-BEIGE",
+  "code": "126/425",
+  "type": "Top",
+  "colour": "Beige",
+  "hex": "#D8C4A6",
+  "side": "front",
+  "src": "output/Ghost Mannequin/TOP 126-425/Original/ghost_top_126-425_original_front.jpg",
+  "src_colour": "Original",
+  "out": "output/SKU Colors 2026/TOP 126-425/Beige/ghost_top_126-425_beige_front.jpg"
+ },
+ {
+  "sku": "126-425-BEIGE",
+  "code": "126/425",
+  "type": "Top",
+  "colour": "Beige",
+  "hex": "#D8C4A6",
+  "side": "back",
+  "src": "output/Ghost Mannequin/TOP 126-425/Original/ghost_top_126-425_original_back.jpg",
+  "src_colour": "Original",
+  "out": "output/SKU Colors 2026/TOP 126-425/Beige/ghost_top_126-425_beige_back.jpg"
+ },
+ {
+  "sku": "126-425-CANARY",
+  "code": "126/425",
+  "type": "Top",
+  "colour": "Canary",
+  "hex": "#F7D842",
+  "side": "front",
+  "src": "output/Ghost Mannequin/TOP 126-425/Original/ghost_top_126-425_original_front.jpg",
+  "src_colour": "Original",
+  "out": "output/SKU Colors 2026/TOP 126-425/Canary/ghost_top_126-425_canary_front.jpg"
+ },
+ {
+  "sku": "126-425-CANARY",
+  "code": "126/425",
+  "type": "Top",
+  "colour": "Canary",
+  "hex": "#F7D842",
+  "side": "back",
+  "src": "output/Ghost Mannequin/TOP 126-425/Original/ghost_top_126-425_original_back.jpg",
+  "src_colour": "Original",
+  "out": "output/SKU Colors 2026/TOP 126-425/Canary/ghost_top_126-425_canary_back.jpg"
+ },
+ {
+  "sku": "126-425-FUCHSIA",
+  "code": "126/425",
+  "type": "Top",
+  "colour": "Fuchsia",
+  "hex": "#C2187A",
+  "side": "front",
+  "src": "output/Ghost Mannequin/TOP 126-425/Original/ghost_top_126-425_original_front.jpg",
+  "src_colour": "Original",
+  "out": "output/SKU Colors 2026/TOP 126-425/Fuchsia/ghost_top_126-425_fuchsia_front.jpg"
+ },
+ {
+  "sku": "126-425-FUCHSIA",
+  "code": "126/425",
+  "type": "Top",
+  "colour": "Fuchsia",
+  "hex": "#C2187A",
+  "side": "back",
+  "src": "output/Ghost Mannequin/TOP 126-425/Original/ghost_top_126-425_original_back.jpg",
+  "src_colour": "Original",
+  "out": "output/SKU Colors 2026/TOP 126-425/Fuchsia/ghost_top_126-425_fuchsia_back.jpg"
+ },
+ {
+  "sku": "126-425-MAUVE",
+  "code": "126/425",
+  "type": "Top",
+  "colour": "Mauve",
+  "hex": "#B48FA8",
+  "side": "front",
+  "src": "output/Ghost Mannequin/TOP 126-425/Original/ghost_top_126-425_original_front.jpg",
+  "src_colour": "Original",
+  "out": "output/SKU Colors 2026/TOP 126-425/Mauve/ghost_top_126-425_mauve_front.jpg"
+ },
+ {
+  "sku": "126-425-MAUVE",
+  "code": "126/425",
+  "type": "Top",
+  "colour": "Mauve",
+  "hex": "#B48FA8",
+  "side": "back",
+  "src": "output/Ghost Mannequin/TOP 126-425/Original/ghost_top_126-425_original_back.jpg",
+  "src_colour": "Original",
+  "out": "output/SKU Colors 2026/TOP 126-425/Mauve/ghost_top_126-425_mauve_back.jpg"
+ },
+ {
+  "sku": "126-425-WHITE",
+  "code": "126/425",
+  "type": "Top",
+  "colour": "White",
+  "hex": "#F6F5F1",
+  "side": "front",
+  "src": "output/Ghost Mannequin/TOP 126-425/Original/ghost_top_126-425_original_front.jpg",
+  "src_colour": "Original",
+  "out": "output/SKU Colors 2026/TOP 126-425/White/ghost_top_126-425_white_front.jpg"
+ },
+ {
+  "sku": "126-425-WHITE",
+  "code": "126/425",
+  "type": "Top",
+  "colour": "White",
+  "hex": "#F6F5F1",
+  "side": "back",
+  "src": "output/Ghost Mannequin/TOP 126-425/Original/ghost_top_126-425_original_back.jpg",
+  "src_colour": "Original",
+  "out": "output/SKU Colors 2026/TOP 126-425/White/ghost_top_126-425_white_back.jpg"
  }
 ]
