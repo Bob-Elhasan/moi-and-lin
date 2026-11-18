@@ -1,0 +1,332 @@
+[
+ {
+  "root": "Products",
+  "path": "Products",
+  "title": "Wave 1",
+  "id": "1MXrR_3hTya7QyB1a0odOLlvWwDQAg0zy",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-11-16T10:18:58.450Z",
+  "parentId": "1E6VMpYg1d3A2drKMLdeCX5w2Wxja_HVV"
+ },
+ {
+  "root": "Products",
+  "path": "Products",
+  "title": "wave 2",
+  "id": "1yZIhQoBZ614-T3Dh8pB1t-2Qc3u3z6ZH",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-11-16T11:09:50.571Z",
+  "parentId": "1E6VMpYg1d3A2drKMLdeCX5w2Wxja_HVV"
+ },
+ {
+  "root": "Photoshoot A",
+  "path": "Photoshoot A",
+  "title": "TOP+BOTTOM",
+  "id": "1e12ob-oX9r8vovIhXBih4ZYfJj7T8kg7",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-10-18T13:15:51.630Z",
+  "parentId": "12l_9xPkACtmyAHMhvx5n6JKlvzN7mQ1h"
+ },
+ {
+  "root": "Photoshoot A",
+  "path": "Photoshoot A",
+  "title": "Dresses",
+  "id": "1rLafuUpHWAwCXCWNl0jRLPn0rkGUk5gV",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-10-18T13:15:30.542Z",
+  "parentId": "12l_9xPkACtmyAHMhvx5n6JKlvzN7mQ1h"
+ },
+ {
+  "root": "Photoshoot B",
+  "path": "Photoshoot B",
+  "title": "Top + Bottom",
+  "id": "10yzAjFWIhadFoK2H9O1507PgWpleqbhp",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-10-29T11:12:08.008Z",
+  "parentId": "1x0NBmDWc5q70Z4TLNWJjBul6CCMY6Vui"
+ },
+ {
+  "root": "Photoshoot B",
+  "path": "Photoshoot B",
+  "title": "Dresses",
+  "id": "1jC0JU736WWXo5rU-7E6BNA4GxyauLWaO",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-10-29T11:17:50.850Z",
+  "parentId": "1x0NBmDWc5q70Z4TLNWJjBul6CCMY6Vui"
+ },
+ {
+  "root": "Products",
+  "path": "Products / Wave 1",
+  "title": "TOP 125-1380 BOTTOM 126-439",
+  "id": "1cyh9c94R0ZdmYRKOiQsUOkMDuw1So6ap",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-11-16T10:28:06.628Z",
+  "parentId": "1MXrR_3hTya7QyB1a0odOLlvWwDQAg0zy"
+ },
+ {
+  "root": "Products",
+  "path": "Products / Wave 1",
+  "title": "TOP 126-1336 BOTTOM 126-SMO101",
+  "id": "1u2p8BfiC0W-wui4yqGUZKF0NLyFJiboX",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-11-16T10:28:06.653Z",
+  "parentId": "1MXrR_3hTya7QyB1a0odOLlvWwDQAg0zy"
+ },
+ {
+  "root": "Products",
+  "path": "Products / Wave 1",
+  "title": "Top 126-474 Bottom BXX-SMB115",
+  "id": "1oOf_pd8kVXK9SYVH4ce3Q7znOOYL5zG-",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-11-16T10:28:06.666Z",
+  "parentId": "1MXrR_3hTya7QyB1a0odOLlvWwDQAg0zy"
+ },
+ {
+  "root": "Products",
+  "path": "Products / Wave 1",
+  "title": "TOP 126-1372 BOTTOM BXX-1384",
+  "id": "1bnkxX7i25twGNwzzZJKtL-mTJLFRoeK2",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-11-16T10:28:06.601Z",
+  "parentId": "1MXrR_3hTya7QyB1a0odOLlvWwDQAg0zy"
+ },
+ {
+  "root": "Products",
+  "path": "Products / Wave 1",
+  "title": "TOP 125-7071 BOTTOM 126-439",
+  "id": "1YHZqVK3ELZQbwfTlTmf7KSCGf-OTMt-u",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-11-16T10:28:06.648Z",
+  "parentId": "1MXrR_3hTya7QyB1a0odOLlvWwDQAg0zy"
+ },
+ {
+  "root": "Products",
+  "path": "Products / wave 2",
+  "title": "TOP 603 BOTTOM 601 BLACK",
+  "id": "1UEyD9Nh-yEwSsoCoSOCZfopgMZLWdh_G",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-11-16T11:10:35.503Z",
+  "parentId": "1yZIhQoBZ614-T3Dh8pB1t-2Qc3u3z6ZH"
+ },
+ {
+  "root": "Products",
+  "path": "Products / Wave 1",
+  "title": "TOP 126-425 BOTTOM BXX-1384",
+  "id": "1xAAg971sST6aSV3HzZe3-ami-3c2xYkM",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-11-16T10:28:06.655Z",
+  "parentId": "1MXrR_3hTya7QyB1a0odOLlvWwDQAg0zy"
+ },
+ {
+  "root": "Products",
+  "path": "Products / Wave 1",
+  "title": "TOP 125-7064 BOTTOM 126-439",
+  "id": "1GZ7R-ehxIUImasf69kBKg8N8rDhAjCh0",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-11-16T10:28:06.650Z",
+  "parentId": "1MXrR_3hTya7QyB1a0odOLlvWwDQAg0zy"
+ },
+ {
+  "root": "Products",
+  "path": "Products / Wave 1",
+  "title": "TOP 126-427 BOTTOM 126-439",
+  "id": "1IUubXGzmNqr7E7K9Lrn6atvLzl841hoK",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-11-16T10:28:06.642Z",
+  "parentId": "1MXrR_3hTya7QyB1a0odOLlvWwDQAg0zy"
+ },
+ {
+  "root": "Products",
+  "path": "Products / Wave 1",
+  "title": "TOP 125-7082 BOTTOM BXX-1384",
+  "id": "1xwT0u8G0BFJJYew0iJGnf06mll4nBpiX",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-11-16T10:28:06.623Z",
+  "parentId": "1MXrR_3hTya7QyB1a0odOLlvWwDQAg0zy"
+ },
+ {
+  "root": "Products",
+  "path": "Products / Wave 1",
+  "title": "TOP 126-451A BOTTOM 126-451B",
+  "id": "1kVw7nvEjyOvAoV07r2KdKH1jM8YfQRsd",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-11-16T10:28:06.616Z",
+  "parentId": "1MXrR_3hTya7QyB1a0odOLlvWwDQAg0zy"
+ },
+ {
+  "root": "Photoshoot A",
+  "path": "Photoshoot A / TOP+BOTTOM",
+  "title": "TOP 125-7071 BOTTOM 126-439",
+  "id": "1Z4CLvXv4apgFL0Ui8fHvUIAGe9MQaHH5",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-10-18T13:15:56.316Z",
+  "parentId": "1e12ob-oX9r8vovIhXBih4ZYfJj7T8kg7"
+ },
+ {
+  "root": "Photoshoot A",
+  "path": "Photoshoot A / TOP+BOTTOM",
+  "title": "TOP 1418 BOTTOM 601",
+  "id": "15jRLJRNPghR35SjMEx8m9XOKf9r0rjq0",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-10-18T13:15:55.266Z",
+  "parentId": "1e12ob-oX9r8vovIhXBih4ZYfJj7T8kg7"
+ },
+ {
+  "root": "Photoshoot A",
+  "path": "Photoshoot A / TOP+BOTTOM",
+  "title": "TOP 7094 BOTTOM N022 OFF WHITE",
+  "id": "11K--MJyv1wyT_GXnv-Eq2TLrhaKWQorN",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-10-18T13:15:52.533Z",
+  "parentId": "1e12ob-oX9r8vovIhXBih4ZYfJj7T8kg7"
+ },
+ {
+  "root": "Photoshoot A",
+  "path": "Photoshoot A / TOP+BOTTOM",
+  "title": "TOP 125-1380 BOTTOM 126-439",
+  "id": "1eTVPGUQnU2SBTEolvl6vbVb2aVAVTfdk",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-10-18T13:15:56.320Z",
+  "parentId": "1e12ob-oX9r8vovIhXBih4ZYfJj7T8kg7"
+ },
+ {
+  "root": "Photoshoot A",
+  "path": "Photoshoot A / TOP+BOTTOM",
+  "title": "TOP 126-433 Bottom bxx-1384",
+  "id": "1hk8JORVvMQPE5hkrIOFYnyPtljv7OZYx",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-10-18T13:15:56.297Z",
+  "parentId": "1e12ob-oX9r8vovIhXBih4ZYfJj7T8kg7"
+ },
+ {
+  "root": "Photoshoot A",
+  "path": "Photoshoot A / Dresses",
+  "title": "125-415",
+  "id": "1eYuF2UaDogifWUOz80G6M0mvfk6Q5vIg",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-10-18T13:15:31.953Z",
+  "parentId": "1rLafuUpHWAwCXCWNl0jRLPn0rkGUk5gV"
+ },
+ {
+  "root": "Photoshoot A",
+  "path": "Photoshoot A / Dresses",
+  "title": "126-486",
+  "id": "1aWrFgi8R0KnadW4r7p_fGkLsEN3yqVA-",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-10-18T13:15:31.941Z",
+  "parentId": "1rLafuUpHWAwCXCWNl0jRLPn0rkGUk5gV"
+ },
+ {
+  "root": "Photoshoot A",
+  "path": "Photoshoot A / Dresses",
+  "title": "126-461",
+  "id": "1Lxa_QhMRP4a4kO4gnAGlcntXhf1m2VFx",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-10-18T13:15:31.935Z",
+  "parentId": "1rLafuUpHWAwCXCWNl0jRLPn0rkGUk5gV"
+ },
+ {
+  "root": "Photoshoot B",
+  "path": "Photoshoot B / Top + Bottom",
+  "title": "TOP 125-1380 BOTTOM 126-439",
+  "id": "1Ug6Z5Tzj5pQg97BtZwfCVHT7ut9oAb1m",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-10-29T10:49:35.994Z",
+  "parentId": "10yzAjFWIhadFoK2H9O1507PgWpleqbhp"
+ },
+ {
+  "root": "Photoshoot B",
+  "path": "Photoshoot B / Top + Bottom",
+  "title": "TOP 125-7071 BOTTOM 126-439",
+  "id": "1f97P7bzuxZ00Xd2s2ytrtoS2VQUSQ_WH",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-10-27T14:47:15.605Z",
+  "parentId": "10yzAjFWIhadFoK2H9O1507PgWpleqbhp"
+ },
+ {
+  "root": "Photoshoot B",
+  "path": "Photoshoot B / Top + Bottom",
+  "title": "Top 126-474 Bottom BXX-SMB115",
+  "id": "1kL17W-pzJ0oOaupmYC59ZOO-htiSsY2U",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-10-27T15:09:59.400Z",
+  "parentId": "10yzAjFWIhadFoK2H9O1507PgWpleqbhp"
+ },
+ {
+  "root": "Photoshoot B",
+  "path": "Photoshoot B / Top + Bottom",
+  "title": "TOP 126-451A BOTTOM 126-451B",
+  "id": "1Mk5SLkL-84HwxDeu9-h-FLmdNsAXBLyg",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-10-27T15:06:16.798Z",
+  "parentId": "10yzAjFWIhadFoK2H9O1507PgWpleqbhp"
+ },
+ {
+  "root": "Photoshoot B",
+  "path": "Photoshoot B / Top + Bottom",
+  "title": "TOP 126-427 BOTTOM 126-439",
+  "id": "1TN39OqXidjT2Z6aMeo9QyB_06nkjrVZH",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-10-27T19:51:02.471Z",
+  "parentId": "10yzAjFWIhadFoK2H9O1507PgWpleqbhp"
+ },
+ {
+  "root": "Photoshoot B",
+  "path": "Photoshoot B / Dresses",
+  "title": "126-461",
+  "id": "19_FA4JBZqYL0upL_JazXdWWXlkEaalBv",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-10-29T11:17:59.237Z",
+  "parentId": "1jC0JU736WWXo5rU-7E6BNA4GxyauLWaO"
+ },
+ {
+  "root": "Photoshoot B",
+  "path": "Photoshoot B / Dresses",
+  "title": "126-486",
+  "id": "1iTogmfL4X4gIjRv7pV3O3H1s51nbHBA3",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-10-29T11:17:59.228Z",
+  "parentId": "1jC0JU736WWXo5rU-7E6BNA4GxyauLWaO"
+ },
+ {
+  "root": "Photoshoot B",
+  "path": "Photoshoot B / Dresses",
+  "title": "125-415",
+  "id": "1Fo0hmlzrQDadKvirW_tku3k5NKSCYLfI",
+  "mimeType": "application/vnd.google-apps.folder",
+  "isFolder": true,
+  "modifiedTime": "2026-10-29T11:17:59.233Z",
+  "parentId": "1jC0JU736WWXo5rU-7E6BNA4GxyauLWaO"
+ }
+]
