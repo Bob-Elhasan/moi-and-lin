@@ -2,109 +2,109 @@
  {
   "row": 3,
   "pose": "top-action",
-  "status": "generated",
+  "status": "staged",
   "out": "pose_staging/On-Model/TOP 125-7071 + BOTTOM 126-439/Black/000676478967_125-7071_126-439_black_r003_08-detail-pose.jpg",
   "canva_media": "MAHbQA674_U",
   "generations": 1,
-  "note": "preview ok, pending export"
+  "note": "Garment, tabs, buttons, hair match. Lips/chin visible at top. Minor: right sleeve tab strap hangs as a loose loop; trouser waistband button drawn slightly larger than reference."
  },
  {
   "row": 14,
   "pose": "top-action",
-  "status": "generated",
+  "status": "staged",
   "out": "pose_staging/On-Model/TOP 126-427 + BOTTOM 126-439/Sky blue - White Pants/000676478967_126-427_126-439_sky-blue_white-pants_r014_08-detail-pose.jpg",
   "canva_media": "MAHbQMyuqCQ",
   "generations": 1,
-  "note": "preview ok, pending export"
+  "note": "Color, kimono front, sleeve tabs, hair match; hands clean. Lips visible at top. Minor: left-sleeve tab button sits slightly lower than in reference."
  },
  {
   "row": 25,
   "pose": "wall-lean",
-  "status": "generated",
+  "status": "staged",
   "out": "pose_staging/On-Model/TOP 1418 + BOTTOM 601/Cream - Black Pants/947990090614_1418_601_cream_black-pants_r025_08-detail-pose.jpg",
   "canva_media": "MAHbQCzy9wc",
   "generations": 1,
-  "note": "preview ok, pending export"
+  "note": "Half-zip top and black trousers match; anatomy fine. Flaws: wall reads light grey with a visible shadow, not pure white; trouser side pocket (hand inside) is not verifiable from the reference; shoe bow slightly more pronounced."
  },
  {
   "row": 40,
   "pose": "lying-down",
-  "status": "generated",
+  "status": "rejected",
   "out": "pose_staging/On-Model/TOP 21008 + BOTTOM N022/Turquoise - White Jeans/094367000087_21008_n022_turquoise_white-jeans_r040_08-detail-pose.jpg",
-  "canva_media": "MAHbQHHoLrs",
-  "generations": 1,
-  "note": "preview pending check"
+  "canva_media": "MAHbQuM3CT8",
+  "generations": 2,
+  "note": "Gen 1 (MAHbQHHoLrs): stretched leg ends in a bunched stump at the knee, flats became pointed block-heel shoes. Gen 2 (sharper prompt): legs complete but bent-leg foot is tiny/half merged into the other leg, shoes still slightly pointed with a low heel, subject fills only the middle ~45% of the frame. Not staged."
  },
  {
   "row": 51,
   "pose": "wall-lean",
-  "status": "generated",
+  "status": "staged",
   "out": "pose_staging/On-Model/TOP 2408 + BOTTOM N024/Aqua / turquoise - White Jeans/000676476574_2408_n024_aqua-turquoise_white-jeans_r051_08-detail-pose.jpg",
   "canva_media": "MAHbQHMFkM0",
   "generations": 1,
-  "note": "pending export"
+  "note": "Turtleneck with centre seam, side panel seams and rib hem match; hair matches. Flaws: jeans drawn with slant chino-style side pockets and a clean front that the reference does not confirm; wall is light grey, not pure white."
  },
  {
   "row": 69,
   "pose": "lying-down",
-  "status": "generated",
+  "status": "staged",
   "out": "pose_staging/On-Model/TOP 5003 + BOTTOM 2500B/Plum brown/004557710566_5003_2500b_plum-brown_r069_08-detail-pose.jpg",
   "canva_media": "MAHbQIF2lSg",
   "generations": 1,
-  "note": "pending export"
+  "note": "Knit trousers with ribbed hems, plum V-neck and flat shoes match; two legs, plausible anatomy. Flaws: she is sitting/reclining seen from above rather than a low camera; second foot is cropped at the bottom-left corner; composition is awkward, floor is light grey-white."
  },
  {
   "row": 80,
   "pose": "top-action",
-  "status": "generated",
+  "status": "staged",
   "out": "pose_staging/On-Model/TOP 5005 + BOTTOM N022 OFF WHITE/Grey/004557711181_5005_n022-off-white_grey_r080_08-detail-pose.jpg",
   "canva_media": "MAHbQMyU5NE",
   "generations": 1,
-  "note": "pending export"
+  "note": "Oversized grey knit, mock neck, dropped shoulders and hair match; hands natural. Minor: lower hand fingers look slightly long; hem reads straighter than the reference's side-dipped hem."
  },
  {
   "row": 91,
   "pose": "top-action",
-  "status": "generated",
+  "status": "staged",
   "out": "pose_staging/On-Model/TOP 5010 + BOTTOM 2500B/Grey/004557711716_5010_2500b_grey_r091_08-detail-pose.jpg",
   "canva_media": "MAHbQCakp0w",
   "generations": 1,
-  "note": "pending export"
+  "note": "Hood up, zip, drawstrings with metal tips, kangaroo pockets, ribbing all match; hands fine. Minor: sleeves cropped at the frame edges; jeans fly detail simplified."
  },
  {
   "row": 102,
   "pose": "wall-lean",
-  "status": "generated",
+  "status": "staged",
   "out": "pose_staging/On-Model/TOP 5014 + BOTTOM N023/Camel - White/Beige/Black/004557711730_5014_n023_camel_white-beige-black_r102_08-detail-pose.jpg",
   "canva_media": "MAHbQAWRm_c",
   "generations": 1,
-  "note": "pending export"
+  "note": "Camel knit hoodie, drawstrings, rolled hem and check trousers match; anatomy fine. Flaws: check pattern scale slightly larger than reference; side pockets (hands inside) not verifiable from reference; wall light grey, not pure white."
  },
  {
   "row": 113,
   "pose": "top-action",
-  "status": "generated",
+  "status": "staged",
   "out": "pose_staging/On-Model/TOP 604 + BOTTOM N022/Burgundy/000455767527_604_n022_burgundy_r113_08-detail-pose.jpg",
   "canva_media": "MAHbQKTTmr4",
   "generations": 1,
-  "note": "pending export"
+  "note": "Burgundy fleece, zip, drawstrings, slant pockets and hair match; hands fine. Minor: zip pulled slightly higher than in reference; lips visible at top."
  },
  {
   "row": 124,
   "pose": "wall-lean",
-  "status": "generated",
+  "status": "staged",
   "out": "pose_staging/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Dark brown - White Jeans/000455770596_7089_no23-as-in-folder-name_dark-brown_white-jeans_r124_08-detail-pose.jpg",
   "canva_media": "MAHbQFVTbvk",
   "generations": 1,
-  "note": "pending export"
+  "note": "Dark brown faux-leather jacket, lapels, cuff tabs, tied belt match. Flaws: only 3 of the 4 front buttons visible; both hands sit in pockets drawn lower/more slanted than the reference patch pockets; wall light grey; standing leg looks thin below the raised knee."
  },
  {
   "row": 135,
   "pose": "top-action",
-  "status": "generated",
+  "status": "staged",
   "out": "pose_staging/On-Model/TOP 7095 + BOTTOM N022/Yellow - White Pants/004557714977_7095_n022_yellow_white-pants_r135_08-detail-pose.jpg",
   "canva_media": "MAHbQCvrP2w",
   "generations": 1,
-  "note": "pending export"
+  "note": "Yellow boucle coat, lapels, black buttons, belt and white tee match; hands tying the belt look natural. Flaws: button layout reads 2-1-1 instead of the reference 3 rows of 2 (some hidden by hands/belt); belt tails hang longer than in reference."
  }
 ]
