@@ -18,6 +18,9 @@ for i in (1, 2, 3):
         elif op["op"] == "upload":
             files[d["id"]] = [op["title"], d.get("viewUrl") or f"https://drive.google.com/file/d/{d['id']}/view"]
         else: files[op["id"]][0] = op["title"]
+for f in sorted(glob.glob("data/drive/crop_done_*.json")) + sorted(glob.glob("data/drive/pose_done_*.json")):
+    for d in json.load(open(f)):
+        if d.get("status") == "ok": files[d["id"]] = [d["title"], d["viewUrl"]]
 names = [n for n, _ in files.values()]
 dup = {n for n in names if names.count(n) > 1}
 if dup: print("DUPLICATE NAMES ON DRIVE", sorted(dup))
@@ -45,7 +48,9 @@ for j in jobs:
     r = {"Excel row": j["row"], "Barcode": f'="{j["code"]}"', "Top": j["top"], "Bottom": j["bottom"],
          "Top color": j["top_color"], "Bottom color": j["bottom_color"], "Footwear": j["footwear"],
          "Front": pick("_01-"), "Three-quarter / detail": pick("_02-"), "Back / side": pick("_03-"),
-         "Editorial front": pick("_04-"), "Editorial back": pick("_05-") or "not generated yet"}
+         "Editorial front": pick("_04-"), "Editorial back": pick("_05-") or "not generated yet",
+         "Detail crop top (real photo)": pick("_06-"), "Detail crop bottom (real photo)": pick("_07-"),
+         "Detail pose (AI-generated)": pick("_08-")}
     for kind, code, color in (("top", j["top"], j["top_color"]), ("bottom", j["bottom"], j["bottom_color"])):
         for side in ("front", "back"):
             r[f"Ghost {kind} {side}"] = gurl(kind, code, color, side)
