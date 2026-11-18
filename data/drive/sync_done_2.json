@@ -101,5 +101,90 @@
   "status": "ok",
   "error": null,
   "viewUrl": "https://drive.google.com/file/d/1yuijuT32kH8rNh2kC5L4QsqT0yigWmKf/view?usp=drivesdk"
+ },
+ {
+  "op": "trash",
+  "title": "004557713949_126-451a_126-451b_white-with-dots_r019_01-front.jpg",
+  "id": "1d7l_Cn8w4XZwnY40mCTQAaBA1gR4t-nD",
+  "status": "ok",
+  "error": null
+ },
+ {
+  "op": "upload",
+  "title": "004557713949_126-451a_126-451b_white-with-dots_r019_01-front.jpg",
+  "id": "1GvQ4AggtfnBWGaYKn6L6xdPHugtq6Kk-",
+  "status": "ok",
+  "error": null,
+  "viewUrl": "https://drive.google.com/file/d/1GvQ4AggtfnBWGaYKn6L6xdPHugtq6Kk-/view?usp=drivesdk"
+ },
+ {
+  "op": "trash",
+  "title": "004557717602_126-474_bxx-smb115_beige-leaf-print_white-pants_r021_02-three-quarter.jpg",
+  "id": "1qy075dMASog8a9h6VprjRPvOl120h3wL",
+  "status": "ok",
+  "error": null
+ },
+ {
+  "op": "upload",
+  "title": "004557717602_126-474_bxx-smb115_beige-leaf-print_white-pants_r021_02-three-quarter.jpg",
+  "id": "1YlXiPge6T0agrh2jnkGwUkRwfWZEw76y",
+  "status": "ok",
+  "error": null,
+  "viewUrl": "https://drive.google.com/file/d/1YlXiPge6T0agrh2jnkGwUkRwfWZEw76y/view?usp=drivesdk"
+ },
+ {
+  "op": "upload",
+  "title": "004557717602_126-474_bxx-smb115_chocolate-brown-leaf-print_r022_04-editorial-front.jpg",
+  "id": "19jh53d0eRnOMgpp-YRGUhlTpWm8vD5gu",
+  "status": "ok",
+  "error": null,
+  "viewUrl": "https://drive.google.com/file/d/19jh53d0eRnOMgpp-YRGUhlTpWm8vD5gu/view?usp=drivesdk"
+ },
+ {
+  "op": "upload",
+  "title": "947990090614_1418_601_black_r024_04-editorial-front.jpg",
+  "id": "17qEbWE8_w-ytOYDRmatumRnIlg5xQs53",
+  "status": "ok",
+  "error": null,
+  "viewUrl": "https://drive.google.com/file/d/17qEbWE8_w-ytOYDRmatumRnIlg5xQs53/view?usp=drivesdk"
+ },
+ {
+  "op": "trash",
+  "title": "947990090614_1418_601_white_r026_03-back.jpg",
+  "id": "1KW6ichRUBrXgI0LIm2ln9NwMB2mrXLaP",
+  "status": "ok",
+  "error": null
+ },
+ {
+  "op": "upload",
+  "title": "947990090614_1418_601_white_r026_03-side.jpg",
+  "id": "1wtZL7sJ0VhW2vQzEaMXSIVdy1B_cvMnb",
+  "status": "ok",
+  "error": null,
+  "viewUrl": "https://drive.google.com/file/d/1wtZL7sJ0VhW2vQzEaMXSIVdy1B_cvMnb/view?usp=drivesdk"
+ },
+ {
+  "op": "upload",
+  "title": "947990090614_1418_601_sand-beige_r027_04-editorial-front.jpg",
+  "id": "1HF41g3F5eOpdqTp3ZteNa6o-Hlah7MYX",
+  "status": "ok",
+  "error": null,
+  "viewUrl": "https://drive.google.com/file/d/1HF41g3F5eOpdqTp3ZteNa6o-Hlah7MYX/view?usp=drivesdk"
+ },
+ {
+  "op": "upload",
+  "title": "947990093677_1438_n025_mustard-camel_r031_04-editorial-front.jpg",
+  "id": "1NV--x_VZXOLdV_0LENdONzS_h_6nU_mY",
+  "status": "ok",
+  "error": null,
+  "viewUrl": "https://drive.google.com/file/d/1NV--x_VZXOLdV_0LENdONzS_h_6nU_mY/view?usp=drivesdk"
+ },
+ {
+  "op": "upload",
+  "title": "094367000087_21008_n022_white_beige-jeans_r036_04-editorial-front.jpg",
+  "id": "14NFWWI0Iq9G8XPzgEVCdhEtjjvGff3ox",
+  "status": "ok",
+  "error": null,
+  "viewUrl": "https://drive.google.com/file/d/14NFWWI0Iq9G8XPzgEVCdhEtjjvGff3ox/view?usp=drivesdk"
  }
 ]
