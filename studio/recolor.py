@@ -10,19 +10,21 @@ def garment_mask(rgb):
     """Soft mask of the garment. Tightens the white threshold until the mask no longer runs into
     the left/right image border (a grey floor gradient would otherwise be recoloured too)."""
     from scipy import ndimage
+    full = rgb.shape[:2]
+    rgb = np.asarray(Image.fromarray(rgb).resize((full[1] // 3, full[0] // 3), Image.BILINEAR))   # mask at 1/3 size: fast
     a = rgb.astype(int); sat = (a.max(2) - a.min(2)) > 12
     for thr in (240, 232, 224, 216, 208, 200):
         m = (a.min(2) < thr) | sat
-        m = ndimage.binary_fill_holes(ndimage.binary_closing(m, iterations=3))
-        m = ndimage.binary_opening(m, iterations=2)
+        m = ndimage.binary_fill_holes(ndimage.binary_closing(m, iterations=2))
+        m = ndimage.binary_opening(m, iterations=1)
         lab, n = ndimage.label(m)
         if n > 1:
             sizes = ndimage.sum(m, lab, range(1, n + 1)); keep = [i + 1 for i, v in enumerate(sizes) if v > 0.08 * sizes.max()]
             m = np.isin(lab, keep)
         if m[:, :3].mean() < 0.01 and m[:, -3:].mean() < 0.01: break
     garment_mask.clean = bool(m[:, :3].mean() < 0.01 and m[:, -3:].mean() < 0.01)
-    m = Image.fromarray((m * 255).astype("uint8"))
-    return np.asarray(m.filter(ImageFilter.GaussianBlur(1.2))).astype(float) / 255
+    m = Image.fromarray((m * 255).astype("uint8")).resize((full[1], full[0]), Image.BILINEAR)
+    return np.asarray(m.filter(ImageFilter.GaussianBlur(1.5))).astype(float) / 255
 
 def recolor(im, hexcol):
     rgb = np.asarray(im.convert("RGB")); m = garment_mask(rgb)

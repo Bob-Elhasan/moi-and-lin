@@ -65,6 +65,8 @@ def plan():
             cands = [(score(fr), name, fr, bk) for name, fr, bk in sources(typ, code) if not BAD_SRC.search(name)
                      and not any(r in fr.name for r in known)]
             cands = [c for c in cands if c[0] > 0]
+            if typ == "Bottom":   # other variants were styling substitutes (jeans etc.) in the first run, not this product
+                cands = [c for c in cands if c[1].lower() == ("white pants" if code == "BXX/1384" else "original")]
             best[code] = max(cands) if cands else None
         if not best[code]:
             todo_ai.append({**{k: s[k] for k in ("SKU ID", "Product code", "Type", "Colour")}, "why": "no usable product cut-out yet"}); continue
