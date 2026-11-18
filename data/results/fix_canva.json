@@ -1,5 +1,41 @@
 [
  {
+  "fix": 6,
+  "row": "r019",
+  "file": "output/On-Model/TOP 126-451A + BOTTOM 126-451B/White with dots/004557713949_126-451a_126-451b_white-with-dots_r019_02-three-quarter.jpg",
+  "status": "failed",
+  "staged": null,
+  "canva_media": "MAHbP6ZWgAM",
+  "note": "Not staged. 2 generations (MAHbP-MYBFw, MAHbP6ZWgAM). Both replace the pointed heeled pumps with black flats (second one: round toe, essentially flat), BUT both re-render the fabric print: the irregular scattered white dots become regular rows of fine dots on jacket and trousers (garment design changed), and the eye makeup comes out darker/brownish. Second export also had a blank first page (photo on page 2, no text/graphics). Rejected for altering the garment print. An older staged file from a previous round still exists at the fix_staging path; it is a front view with pointed shoes and is NOT a valid fix. Separate observation: in this look 01-front shows a WHITE dotted jacket while 02 and 03 show a BLACK dotted jacket."
+ },
+ {
+  "fix": 27,
+  "row": "r076",
+  "file": "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/White - Grey Pants/004557711105_5004_2500b-off-white_white_grey-pants_r076_03-front-alt.jpg",
+  "status": "staged",
+  "staged": "fix_staging/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/White - Grey Pants/004557711105_5004_2500b-off-white_white_grey-pants_r076_03-front-alt.jpg",
+  "canva_media": "MAHbPwXzOpE",
+  "note": "2 generations (first: MAHbPzA4CaM; staged the second). Back view kept (note: this '03-front-alt' file is actually a back view). Arms are now covered by white long sleeves instead of bare skin; vest shoulder edges are faintly visible but vest and sleeves largely merge into one white top. NEW ISSUE: hair came out darker and redder (auburn) than the chestnut brown of the original and of 01-front; still long and wavy. Grey trousers and white flats preserved. Whole frame was re-rendered by Canva: export is upscaled from a lower-res generation so it is visibly softer than the originals at 100%, background is flat pure white without the soft grey floor shadow of the sibling shots, and the figure scale/framing differs slightly. No added text/graphics."
+ },
+ {
+  "fix": 44,
+  "row": "r108",
+  "file": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Brown - White Jeans or sweatpants/000455766933_603_601-black_brown_white-jeans-or-sweatpants_r108_03-back.jpg",
+  "status": "staged",
+  "staged": "fix_staging/On-Model/TOP 603 + BOTTOM 601 BLACK/Brown - White Jeans or sweatpants/000455766933_603_601-black_brown_white-jeans-or-sweatpants_r108_03-back.jpg",
+  "canva_media": "MAHbP3N9-EA",
+  "note": "Back view. Hoodie is now dark chocolate brown and trousers white (were beige/black), matching 01-front colors. BUT framing changed from the original close crop (head to thighs) to a full-body shot, trousers look wider than the straight leg in 01-front, and shoes are indistinct white. Replaces an earlier staged version whose hoodie was a lighter rust brown. Whole frame was re-rendered by Canva: export is upscaled from a lower-res generation so it is visibly softer than the originals at 100%, background is flat pure white without the soft grey floor shadow of the sibling shots, and the figure scale/framing differs slightly. No added text/graphics."
+ },
+ {
+  "fix": 55,
+  "row": "r132",
+  "file": "output/On-Model/TOP 7095 + BOTTOM N022/Cream / beige - Black Pants/004557714977_7095_n022_cream-beige_black-pants_r132_02-three-quarter.jpg",
+  "status": "staged",
+  "staged": "fix_staging/On-Model/TOP 7095 + BOTTOM N022/Cream / beige - Black Pants/004557714977_7095_n022_cream-beige_black-pants_r132_02-three-quarter.jpg",
+  "canva_media": "MAHbP6P9O2E",
+  "note": "2 generations; staged the FIRST (MAHbP6P9O2E). Now exactly one woman, three-quarter view, loose dark-blonde hair, cream belted double-breasted coat, white tee, black trousers, white flats. Imperfect: coat ends at the hip bone, a little SHORTER than in 01-front (where it covers the hips); hair is wavier/curlier than in 01; face is similar to the 01 model but not a certain match (eyes look browner). The second generation (MAHbPwiuejE, not staged) has the correct hip-covering coat length but a rounder, less similar face. Whole frame was re-rendered by Canva: export is upscaled from a lower-res generation so it is visibly softer than the originals at 100%, background is flat pure white without the soft grey floor shadow of the sibling shots, and the figure scale/framing differs slightly. No added text/graphics."
+ },
+ {
   "fix": 64,
   "row": "r148",
   "file": "output/On-Model/TOP BXX-7039 + BOTTOM BXX-1384/Cream - Blue/Black/Pink/Brown/Beige Pants/000676478837_bxx-7039_bxx-1384_cream_blue-black-pink-brown-beige-pants_r148_03-back.jpg",
@@ -7,6 +43,15 @@
   "staged": null,
   "canva_media": null,
   "note": "03-back now shows the blue/black/pink/brown/beige print trousers, cream shirt, brown hair, cream flats. NOTE: 01-front-detail and 03-back-alt of this look show SOLID NAVY trousers (inconsistent with 03-back; not in my list, untouched)."
+ },
+ {
+  "fix": 62,
+  "row": "r146",
+  "file": "output/On-Model/TOP 7097 + BOTTOM N023/Camel brown - White Jeans/004557715820_7097_n023_camel-brown_white-jeans_r146_03-back.jpg",
+  "status": "staged",
+  "staged": "fix_staging/On-Model/TOP 7097 + BOTTOM N023/Camel brown - White Jeans/004557715820_7097_n023_camel-brown_white-jeans_r146_03-back.jpg",
+  "canva_media": "MAHbP3rUR5w",
+  "note": "Back close-crop framing kept. Jacket is now camel brown and jeans white (were black/grey). Jacket fabric reads slightly suede-like/mottled compared with the smooth twill in 01-front; cut, epaulettes, yoke seam and jeans pockets preserved. Hair strands look a little stringy. Whole frame was re-rendered by Canva: export is upscaled from a lower-res generation so it is visibly softer than the originals at 100%, background is flat pure white without the soft grey floor shadow of the sibling shots, and the figure scale/framing differs slightly. No added text/graphics."
  },
  {
   "fix": 67,
@@ -18,6 +63,15 @@
   "note": "03-back shows turquoise shirt, white pants, brown hair, white flats. NOTE: sibling 03-back-alt still shows cream shirt/navy trousers/blonde hair (not in my list, untouched)."
  },
  {
+  "fix": 23,
+  "row": "r071",
+  "file": "output/On-Model/TOP 5003 + BOTTOM 2500B/White - Grey Jeans/004557710566_5003_2500b_white_grey-jeans_r071_01-front.jpg",
+  "status": "staged",
+  "staged": "fix_staging/On-Model/TOP 5003 + BOTTOM 2500B/White - Grey Jeans/004557710566_5003_2500b_white_grey-jeans_r071_01-front.jpg",
+  "canva_media": "MAHbP_cvy38",
+  "note": "SPECIAL CASE, please review: the local file named 01-front is actually a BACK view (no face), so the recorded smoky-eye defect is not in it; the smoky front view lives in 02-three-quarter. I edited the 02-three-quarter image (straight front view) and staged the result under the 01-front name so 01 becomes a real front shot. 2 generations (first MAHbP_XK9Rc still had dark eyes; staged the second). Eye makeup is now natural/clean. Face is soft and reads slightly older/less crisp than the original; white V-neck sweater, grey wide jeans, white flats preserved. The 02-three-quarter and 04 files of r071 still show smoky eyes and the old 01 back view is not otherwise kept (untouched in output/). Whole frame was re-rendered by Canva: export is upscaled from a lower-res generation so it is visibly softer than the originals at 100%, background is flat pure white without the soft grey floor shadow of the sibling shots, and the figure scale/framing differs slightly. No added text/graphics."
+ },
+ {
   "fix": 24,
   "row": "r072",
   "file": "output/On-Model/TOP 5003 + BOTTOM 2500B/Navy/004557710566_5003_2500b_navy_r072_03-three-quarter-alt.jpg",
@@ -25,6 +79,24 @@
   "staged": null,
   "canva_media": null,
   "note": "03-three-quarter-alt now shows straight roughly shoulder/chest-length blonde hair consistent with 02. NOTE: the file named 01-front of r072 is actually a BACK view with long wavy hair (not in my list, untouched)."
+ },
+ {
+  "fix": 26,
+  "row": "r074",
+  "file": "output/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Burgundy/004557711105_5004_2500b-off-white_burgundy_r074_03-front-alt.jpg",
+  "status": "staged",
+  "staged": "fix_staging/On-Model/TOP 5004 + BOTTOM 2500B OFF WHITE/Burgundy/004557711105_5004_2500b-off-white_burgundy_r074_03-front-alt.jpg",
+  "canva_media": "MAHbP8pgpVQ",
+  "note": "Back view kept. Hair is now straight and just past shoulder length (was long, wavy, red). Color is a warm auburn-brown: clearly less red than before but still a bit warmer/redder than the neutral brown in 01-front. Burgundy vest, white sleeves, off-white trousers, white flats preserved; vest hem rib slightly simplified. Whole frame was re-rendered by Canva: export is upscaled from a lower-res generation so it is visibly softer than the originals at 100%, background is flat pure white without the soft grey floor shadow of the sibling shots, and the figure scale/framing differs slightly. No added text/graphics."
+ },
+ {
+  "fix": 30,
+  "row": "r087",
+  "file": "output/On-Model/TOP 5006 + BOTTOM 2400B/Light Brown - Black Pants/004557710672_5006_2400b_light-brown_black-pants_r087_01-front.jpg",
+  "status": "failed",
+  "staged": null,
+  "canva_media": "MAHbP4Syqo0",
+  "note": "Not staged. 2 generations (MAHbP71j7Wc, MAHbP4Syqo0). First reduced the smoky eye shadow only partly (still grey-brown shading around the eyes); second was no better (pinkish-brown shadow remains). Defect still present in both, and face softened. An older staged file from a previous round still exists at the fix_staging path (not produced by me, not verified as fixed). Note 02 and 04 of r087 show the same smoky makeup."
  },
  {
   "fix": 42,
@@ -36,6 +108,24 @@
   "note": "Close-crop detail; hoodie hem sits at hip/wrist level, same as in 01-front. No clear length mismatch visible. Hoodie tone slightly more tan than in 01 (minor)."
  },
  {
+  "fix": 43,
+  "row": "r107",
+  "file": "output/On-Model/TOP 603 + BOTTOM 601 BLACK/Black/000455766933_603_601-black_black_r107_03-back.jpg",
+  "status": "staged",
+  "staged": "fix_staging/On-Model/TOP 603 + BOTTOM 601 BLACK/Black/000455766933_603_601-black_black_r107_03-back.jpg",
+  "canva_media": "MAHbP0RxzKg",
+  "note": "Back view kept. Hair changed from blonde to auburn; it came out more ginger/copper than the light auburn-brown seen in 01/02, so it reads redder than the front. Black hoodie, black sweatpants, white sneakers preserved. Whole frame was re-rendered by Canva: export is upscaled from a lower-res generation so it is visibly softer than the originals at 100%, background is flat pure white without the soft grey floor shadow of the sibling shots, and the figure scale/framing differs slightly. No added text/graphics."
+ },
+ {
+  "fix": 50,
+  "row": "r121",
+  "file": "output/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Sage green - White Jeans/000455770596_7089_no23-as-in-folder-name_sage-green_white-jeans_r121_03-back.jpg",
+  "status": "staged",
+  "staged": "fix_staging/On-Model/TOP 7089 + BOTTOM NO23 (as in folder name)/Sage green - White Jeans/000455770596_7089_no23-as-in-folder-name_sage-green_white-jeans_r121_03-back.jpg",
+  "canva_media": "MAHbPxpDasw",
+  "note": "Back view kept. Hair is now medium brown (was red) and matches 01-front well. Sage green belted coat, white jeans, white flats preserved; figure rendered a little smaller in frame, belt tail still hangs below hem as in the original. Whole frame was re-rendered by Canva: export is upscaled from a lower-res generation so it is visibly softer than the originals at 100%, background is flat pure white without the soft grey floor shadow of the sibling shots, and the figure scale/framing differs slightly. No added text/graphics."
+ },
+ {
   "fix": 53,
   "row": "r128",
   "file": "output/On-Model/TOP 7094 + BOTTOM N022 OFF WHITE/Cream/004557712164_7094_n022-off-white_cream_r128_01-front.jpg",
@@ -43,5 +133,14 @@
   "staged": null,
   "canva_media": null,
   "note": "Not edited (labeling question). Coat is a taupe / grey-beige (greige) herringbone in 01, 02 (and all shots viewed), not cream; worn with white trousers and black flats."
+ },
+ {
+  "fix": 60,
+  "row": "r138",
+  "file": "output/On-Model/TOP 7095 + BOTTOM N022/Black - White Pants/004557714977_7095_n022_black_white-pants_r138_03-back.jpg",
+  "status": "staged",
+  "staged": "fix_staging/On-Model/TOP 7095 + BOTTOM N022/Black - White Pants/004557714977_7095_n022_black_white-pants_r138_03-back.jpg",
+  "canva_media": "MAHbP1emc2w",
+  "note": "Back view kept. Hair is now straight blonde and ends at the shoulders (was long and wavy); it is slightly SHORTER than in 01-front where it falls a little past the shoulders. Black belted coat, white trousers, black flats preserved. Whole frame was re-rendered by Canva: export is upscaled from a lower-res generation so it is visibly softer than the originals at 100%, background is flat pure white without the soft grey floor shadow of the sibling shots, and the figure scale/framing differs slightly. No added text/graphics."
  }
 ]
