@@ -93,7 +93,7 @@ def run(limit=None):
     jobs = [j for j in json.load(open("data/color_plan.json")) if not os.path.exists(j["out"])][: limit]
     for i, j in enumerate(jobs):
         os.makedirs(os.path.dirname(j["out"]), exist_ok=True)
-        recolor(Image.open(j["src"]), j["hex"], j["code"] in KEEP_TRIMS).save(j["out"], quality=93)
+        recolor(Image.open(j["src"]), j["hex"], j["code"] in KEEP_TRIMS, j["type"] == "Bottom").save(j["out"], quality=93)
         if i % 20 == 0: print(i, "/", len(jobs), flush=True)
     if jobs: subprocess.run([sys.executable, "-m", "studio.tag_metadata", *[j["out"] for j in jobs]], check=True)
     print("rendered", len(jobs))

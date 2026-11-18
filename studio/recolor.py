@@ -6,7 +6,7 @@ import numpy as np
 from PIL import Image, ImageFilter
 from skimage import color
 
-def garment_mask(rgb):
+def garment_mask(rgb, shadow_clean=False):
     """Soft mask of the garment. Tightens the white threshold until the mask no longer runs into
     the left/right image border (a grey floor gradient would otherwise be recoloured too)."""
     from scipy import ndimage
@@ -46,33 +46,39 @@ def garment_mask(rgb):
     # far from the garment's own colour (a neutral grey blob under a black or beige garment). Thin parts higher up
     # (drawstrings, straps) are not affected.
     rows = np.where(m.any(1))[0]
-    if len(rows):
+    if len(rows) and shadow_clean:
         y0, y1 = rows[0], rows[-1]; zone = int(y1 - 0.14 * (y1 - y0))
         labi = color.rgb2lab(rgb / 255.0)
         ref_px = labi[int(y0 + 0.2 * (y1 - y0)):zone][m[int(y0 + 0.2 * (y1 - y0)):zone]]
         if len(ref_px) > 50:
             ref = np.median(ref_px, 0); sd = float(np.median(np.abs(ref_px - ref).sum(1))) + 1e-6
             dE = np.sqrt(((labi - ref) ** 2).sum(2))
-            far = dE > max(16.0, 3.0 * sd)
-            zmask = np.arange(m.shape[0])[:, None] >= zone
+            far = dE > max(20.0, 3.2 * sd)
+            rr = np.arange(m.shape[0])[:, None]
+            # 1) below the body, only the columns the legs/body occupy just above the zone may stay (kills floor bridges between legs)
+            sup = m[max(zone - 14, 0):zone].any(0)
+            sup = ndimage.binary_dilation(sup, iterations=2)
+            m = m & ~((rr >= zone) & ~sup[None, :])
+            # 2) in the last rows (the hem line and what hangs under it) also drop pixels whose colour is not the garment's
+            hemzone = int(y1 - 0.30 * (y1 - y0))
             if garment_mask.floor and np.median(np.hypot(ref_px[:, 1], ref_px[:, 2])) > 8:
-                zmask = np.arange(m.shape[0])[:, None] >= int(y0 + 0.25 * (y1 - y0))   # coloured garment on a grey floor: use colour everywhere low down
-            m = m & ~(far & zmask)
-            m = ndimage.binary_opening(m, iterations=2)
+                hemzone = int(y0 + 0.25 * (y1 - y0))      # coloured garment on a grey floor: use colour everywhere low down
+            m = m & ~(far & (rr >= hemzone))
+            # higher up (below the crotch): a patch that is lighter than the garment or a different hue is floor / gap, not fabric;
+            # darker patches of the same hue are just folds and stay
+            midzone = int(y0 + 0.30 * (y1 - y0))
+            dab = np.hypot(labi[..., 1] - ref[1], labi[..., 2] - ref[2])
+            notfabric = far & ((labi[..., 0] > ref[0] + 10) | (dab > 14))
+            m = m & ~(notfabric & (rr >= midzone))
+            m = ndimage.binary_opening(m, iterations=1)
             lab5, n5 = ndimage.label(m)
             if n5 > 1:
                 sz5 = ndimage.sum(m, lab5, range(1, n5 + 1)); m = np.isin(lab5, [i + 1 for i, v in enumerate(sz5) if v > 0.1 * sz5.max()])
-            band = m[int(y0 + 0.3 * (y1 - y0)):zone]
-            cols = np.where(band.any(0))[0]
-            if len(cols):                      # nothing below the hem line may stick out sideways beyond the garment body
-                lo, hi = max(cols[0] - 6, 0), min(cols[-1] + 6, m.shape[1] - 1)
-                m[zone:, :lo] = False; m[zone:, hi + 1:] = False
-            m = ndimage.binary_opening(m, iterations=1)
     m = Image.fromarray((m * 255).astype("uint8")).resize((full[1], full[0]), Image.BILINEAR)
     return np.asarray(m.filter(ImageFilter.GaussianBlur(1.5))).astype(float) / 255
 
-def recolor(im, hexcol, keep_trims=False):
-    rgb = np.asarray(im.convert("RGB")); m = garment_mask(rgb)
+def recolor(im, hexcol, keep_trims=False, shadow_clean=False):
+    rgb = np.asarray(im.convert("RGB")); m = garment_mask(rgb, shadow_clean)
     lab = color.rgb2lab(rgb / 255.0)
     t = color.rgb2lab(np.array([[[int(hexcol[i:i + 2], 16) / 255 for i in (1, 3, 5)]]]))[0, 0]
     core = m > 0.9
