@@ -11,7 +11,7 @@ sys.path.insert(0, ".")
 from studio.sheet import load_outfits, code_key
 from studio.color_skus import PALETTE, BOTTOM_PALETTE, slug
 
-KEYS = [("charcoal", "Dark Gray"), ("burgundy", "Burgundy"), ("navy", "Navy"), ("sky", "Sky Blue"), ("powder", "Sky Blue"), ("turquoise", "Turquoise"),
+KEYS = [("oatmeal", "Beige"), ("oat", "Beige"), ("mocha", "Brown"), ("chestnut", "Brown"), ("coffee", "Café"), ("sand", "Beige"), ("denim", "Blue"), ("charcoal", "Dark Gray"), ("burgundy", "Burgundy"), ("navy", "Navy"), ("sky", "Sky Blue"), ("powder", "Sky Blue"), ("turquoise", "Turquoise"),
  ("aqua", "Aqua"), ("mint", "Mint"), ("sage", "Light Green"), ("olive", "Olive"), ("kiwi", "Kiwi"), ("green", "Green"), ("mustard", "Mustard"),
  ("yellow", "Lemon"), ("lemon", "Lemon"), ("camel", "Camel"), ("tan", "Camel"), ("chocolate", "Brown"), ("brown", "Brown"), ("khaki", "Beige"),
  ("taupe", "Café"), ("stone", "Beige"), ("beige", "Beige"), ("cream", "Cream"), ("ivory", "Cream"), ("off", "Off White"), ("white", "White"),
