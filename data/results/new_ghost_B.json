@@ -1,0 +1,157 @@
+[
+ {
+  "code": "126/1372",
+  "type": "Top",
+  "front": {
+   "status": "saved",
+   "source_photo": "009478108904-Fullbody-JPG-1.jpg",
+   "canva_media": {
+    "reference": "MAHbRHyE3AQ",
+    "result": "MAHbRNq905o"
+   },
+   "generations": 1,
+   "note": "Saved. Notch V-neck, rolled cuffs, curved hem all present. Flaws: body and sleeves drawn wider/boxier than on the model; hem slightly more rounded; fabric looks a touch more matte/suede-like."
+  },
+  "back": {
+   "status": "saved",
+   "source_photo": "009478108904-Fullbody-JPG-3.jpg",
+   "canva_media": {
+    "reference": "MAHbRPnLKCA",
+    "result": "MAHbRGBHy9A"
+   },
+   "generations": 1,
+   "note": "Saved. True back view. Flaws: boxier/wider than worn; side slits of the hem not readable; plain black so little detail to verify."
+  },
+  "photo_colour": "black"
+ },
+ {
+  "code": "126/425",
+  "type": "Top",
+  "front": {
+   "status": "saved",
+   "source_photo": "004557713901-Fullbody-JPG-1.jpg",
+   "canva_media": {
+    "reference": "MAHbRBm_ZdY",
+    "result": "MAHbRAMZ8pI"
+   },
+   "generations": 1,
+   "note": "Saved. Sleeveless, curved gathered yoke kept. Flaws: neckline a bit wider/deeper than the photo; body flares more A-line; satin sheen of the fabric reduced (reads more like matte jersey)."
+  },
+  "back": {
+   "status": "saved",
+   "source_photo": "004557713901-Fullbody-JPG-3.jpg",
+   "canva_media": {
+    "reference": "MAHbRLcqaJU",
+    "result": "MAHbRKgfnhE"
+   },
+   "generations": 1,
+   "note": "Saved. True back view with curved back yoke, gathers and rounded longer back hem. Flaws: sheen reduced, slightly slimmer than worn."
+  },
+  "photo_colour": "black"
+ },
+ {
+  "code": "125/1380",
+  "type": "Top",
+  "front": {
+   "status": "saved",
+   "source_photo": "000676462294-Fullbody-JPG-1.jpg",
+   "canva_media": {
+    "reference": "MAHbRAz75Ao",
+    "result": "MAHbRHEr5Q4"
+   },
+   "generations": 1,
+   "note": "Saved, with a real flaw: the blouse is sheer and the model's black halter camisole underneath was kept, so a second garment (cami outline and straps) is visible through the fabric. High neck, pearl shoulder buttons (3 drawn), long sleeves with deep cuffs are right. Hem drawn level, in the photo it hangs slightly asymmetric. Could not retry because of the quota error."
+  },
+  "back": {
+   "status": "saved",
+   "source_photo": "000676462294-Fullbody-JPG-3.jpg",
+   "canva_media": {
+    "reference": "MAHbREjC3cI",
+    "result": "MAHbRJBk4vA"
+   },
+   "generations": 1,
+   "note": "Saved, with the same flaw: the camisole's back band shows through the sheer back as a dark horizontal block. Back yoke with centre pleat, shoulder button placket, pearl cuff buttons and curved hem are right; the camisole's halter tie at the neck was correctly removed."
+  },
+  "photo_colour": "black (sheer chiffon, with white pearl buttons)",
+  "photos_note": "Used only barcode 000676462294 (plain sheer high-neck blouse with pearl shoulder buttons). The other barcode 947990096722 (3 photos) shows a different product: a sheer black long-sleeved shirt with a pointed collar and full front button placket, longer, with a back yoke; no shoulder buttons. Not used."
+ },
+ {
+  "code": "126/433",
+  "type": "Top",
+  "front": {
+   "status": "quota",
+   "source_photo": "000676479155-Fullbody-JPG-1.jpg",
+   "canva_media": {
+    "reference": "MAHbRLkvtCs"
+   },
+   "generations": 0,
+   "note": "Not generated. Canva generate-image returned verbatim: {\"status\": \"failed\", \"failure\": {\"code\": \"quota_cooldown\", \"message\": \"Your credit usage is cooling down. Please try again later.\"}} (hit on this exact call)"
+  },
+  "back": {
+   "status": "quota",
+   "source_photo": "000676479155-Fullbody-JPG-3.jpg",
+   "canva_media": null,
+   "generations": 0,
+   "note": "Not generated. Canva generate-image returned verbatim: {\"status\": \"failed\", \"failure\": {\"code\": \"quota_cooldown\", \"message\": \"Your credit usage is cooling down. Please try again later.\"}} (stopped after the quota error on 126/433 front; reference photo not uploaded)"
+  },
+  "photo_colour": "dark navy with large cream/beige and cobalt-blue leaf-and-flower print"
+ },
+ {
+  "code": "125/415",
+  "type": "Dress",
+  "front": {
+   "status": "quota",
+   "source_photo": "000676470343-Fullbody-JPG-1.jpg",
+   "canva_media": null,
+   "generations": 0,
+   "note": "Not generated. Canva generate-image returned verbatim: {\"status\": \"failed\", \"failure\": {\"code\": \"quota_cooldown\", \"message\": \"Your credit usage is cooling down. Please try again later.\"}} (stopped after the quota error on 126/433 front; reference photo not uploaded)"
+  },
+  "back": {
+   "status": "quota",
+   "source_photo": "000676470343-Fullbody-JPG-3.jpg",
+   "canva_media": null,
+   "generations": 0,
+   "note": "Not generated. Canva generate-image returned verbatim: {\"status\": \"failed\", \"failure\": {\"code\": \"quota_cooldown\", \"message\": \"Your credit usage is cooling down. Please try again later.\"}} (stopped after the quota error on 126/433 front; reference photo not uploaded)"
+  },
+  "photo_colour": "beige / sand"
+ },
+ {
+  "code": "126/486",
+  "type": "Dress",
+  "front": {
+   "status": "quota",
+   "source_photo": "013608000082-Fullbody-JPG-1.jpg",
+   "canva_media": null,
+   "generations": 0,
+   "note": "Not generated. Canva generate-image returned verbatim: {\"status\": \"failed\", \"failure\": {\"code\": \"quota_cooldown\", \"message\": \"Your credit usage is cooling down. Please try again later.\"}} (stopped after the quota error on 126/433 front; reference photo not uploaded)"
+  },
+  "back": {
+   "status": "quota",
+   "source_photo": "013608000082-Fullbody-JPG-3.jpg",
+   "canva_media": null,
+   "generations": 0,
+   "note": "Not generated. Canva generate-image returned verbatim: {\"status\": \"failed\", \"failure\": {\"code\": \"quota_cooldown\", \"message\": \"Your credit usage is cooling down. Please try again later.\"}} (stopped after the quota error on 126/433 front; reference photo not uploaded)"
+  },
+  "photo_colour": "very pale yellow / cream, with brown wooden buttons"
+ },
+ {
+  "code": "126/461",
+  "type": "Dress",
+  "front": {
+   "status": "quota",
+   "source_photo": "013100005974-Fullbody-JPG-1.jpg",
+   "canva_media": null,
+   "generations": 0,
+   "note": "Not generated. Canva generate-image returned verbatim: {\"status\": \"failed\", \"failure\": {\"code\": \"quota_cooldown\", \"message\": \"Your credit usage is cooling down. Please try again later.\"}} (stopped after the quota error on 126/433 front; reference photo not uploaded)"
+  },
+  "back": {
+   "status": "quota",
+   "source_photo": "013100005974-Fullbody-JPG-2.jpg",
+   "canva_media": null,
+   "generations": 0,
+   "note": "Not generated. Canva generate-image returned verbatim: {\"status\": \"failed\", \"failure\": {\"code\": \"quota_cooldown\", \"message\": \"Your credit usage is cooling down. Please try again later.\"}} (stopped after the quota error on 126/433 front; reference photo not uploaded)"
+  },
+  "photo_colour": "olive green bodice; skirt olive green brush-stroke print on off-white",
+  "photos_note": "JPG-1 chosen as front (boat neck, consistent with the scooped back in JPG-2, the true back view). JPG-4 is also a front view but with a lower scooped neckline, i.e. the dress appears to be worn back-to-front there. JPG-3 is a three-quarter view."
+ }
+]
