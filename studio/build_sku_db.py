@@ -92,6 +92,18 @@ PNOTE = {"5015":"Not in the PDF; added on request (18 Nov). Studio photos exist 
  "5010":"Appears twice in the PDF (with 2500B and with N022); first entry has no description."}
 
 CHECK = {r[0]: r for r in json.load(open("data/drive/pdf_photo_check.json"))}  # code -> (code, type, originals, files, folders)
+import os
+_plan = {}
+for j in json.load(open("data/color_plan.json")): _plan.setdefault(j["sku"], {})[j["side"]] = os.path.basename(j["out"])
+_url = {}
+for _f in sorted(__import__("glob").glob("data/drive/sku_done_*.json")):
+    for d in json.load(open(_f))["files"]:
+        if d["status"] == "ok": _url[d["title"]] = d["viewUrl"]
+_ai = {t["SKU ID"]: t["why"] for t in json.load(open("data/color_needs_ai.json"))}
+STATUS_AI = {"printed / patterned fabric": "Waiting: printed fabric needs an AI recolour (Canva quota)",
+             "no usable product cut-out yet": "Waiting: product cut-out not made yet (Canva quota)",
+             "cut-out needs a redo": "Waiting: first cut-out flawed, redo needed",
+             "colour list missing": "Waiting: colour list for this product needed from client"}
 slug = lambda s: re.sub(r"[^A-Z0-9]+", "-", s.upper()).strip("-")
 prod, skus = [], []
 for typ, code, en, ar, cols, page in P:
@@ -109,8 +121,15 @@ for typ, code, en, ar, cols, page in P:
             ("Description (EN)", en), ("Description (AR)", ar), ("Colour", n), ("Colour as written in PDF", c),
             ("Barcode (EAN)", ""), ("Studio photos in Drive for product", CHECK[code][2]),
             ("Product already in AI catalog (Nov run)", "Yes" if cat else "No"),
-            ("Recolour status", ""), ("On-model status", ""), ("PDF page", page), ("Notes", NOTE.get(c.upper(), ""))]))
+            ("Recolour status", ""), ("Front image (Drive)", ""), ("Back image (Drive)", ""), ("On-model status", ""), ("PDF page", page), ("Notes", NOTE.get(c.upper(), ""))]))
 assert len({s["SKU ID"] for s in skus}) == len(skus), "duplicate SKU ids"
+for r in skus:
+    sid = r["SKU ID"]
+    if sid in _plan:
+        r["Recolour status"] = "Done (local recolour, front + back)"
+        r["Front image (Drive)"] = _url.get(_plan[sid]["front"], ""); r["Back image (Drive)"] = _url.get(_plan[sid]["back"], "")
+    elif r["Product code"] == "7098": r["Recolour status"] = "Skipped (client request)"
+    else: r["Recolour status"] = STATUS_AI.get(_ai.get(sid, ""), "Waiting")
 for name, rows in (("data/skus.csv", skus), ("data/sku_products.csv", prod)):
     w = csv.DictWriter(open(name, "w", newline="", encoding="utf-8"), fieldnames=list(rows[0])); w.writeheader(); w.writerows(rows)
 import collections
