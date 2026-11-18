@@ -1,0 +1,170 @@
+[
+ {
+  "code": "2500A",
+  "type": "Top",
+  "front": {
+   "status": "saved",
+   "source_photo": "000676460719-Fullbodycopy-JPG-1 copy.jpg",
+   "canva_media": "MAHbRILNiMo",
+   "reference_media": "MAHbRKxIf-c",
+   "generations": 1,
+   "output": "output/Ghost Mannequin/TOP 2500A/Original/ghost_top_2500a_original_front.jpg",
+   "note": "Correct garment and colour, no body parts, clean white. Flaws: image is soft (low native resolution upscaled to 1856x2304, knit texture smoothed); back hem peeks below the front hem and the side slits of the real garment are not clearly shown; hood shape at the neck is partly invented."
+  },
+  "back": {
+   "status": "quota",
+   "source_photo": "000676460719-Fullbodyc-JPG-3 copy.jpg",
+   "canva_media": null,
+   "reference_media": "MAHbRLJ8vi0",
+   "generations": 0,
+   "note": "True back view chosen and uploaded. First attempt returned 'Error POSTing to endpoint: Service Unavailable', second attempt hit the quota. Not generated: generate-image returned {\"failure\":{\"message\":\"Your credit usage is cooling down. Please try again later.\",\"code\":\"quota_cooldown\"},\"status\":\"failed\"}"
+  },
+  "photo_colour": "off-white / ivory"
+ },
+ {
+  "code": "25003",
+  "type": "Top",
+  "front": {
+   "status": "quota",
+   "source_photo": "000676478318-Fullbody-JPG-3.jpg",
+   "canva_media": null,
+   "reference_media": "MAHbRAHbAiM",
+   "generations": 0,
+   "note": "Not generated: generate-image returned {\"failure\":{\"message\":\"Your credit usage is cooling down. Please try again later.\",\"code\":\"quota_cooldown\"},\"status\":\"failed\"}"
+  },
+  "back": {
+   "status": "quota",
+   "source_photo": "000676478318-Fullbody-JPG-2.jpg",
+   "canva_media": null,
+   "reference_media": "MAHbRKnCNOc",
+   "generations": 0,
+   "note": "True back view. Not generated: generate-image returned {\"failure\":{\"message\":\"Your credit usage is cooling down. Please try again later.\",\"code\":\"quota_cooldown\"},\"status\":\"failed\"}"
+  },
+  "photo_colour": "burgundy / deep raspberry red"
+ },
+ {
+  "code": "5008",
+  "type": "Top",
+  "front": {
+   "status": "quota",
+   "source_photo": "004557711402-Fullbody-JPG-1.jpg",
+   "canva_media": null,
+   "reference_media": "MAHbRCxud3Y",
+   "generations": 0,
+   "note": "Not generated: generate-image returned {\"failure\":{\"message\":\"Your credit usage is cooling down. Please try again later.\",\"code\":\"quota_cooldown\"},\"status\":\"failed\"}"
+  },
+  "back": {
+   "status": "quota",
+   "source_photo": "004557711402-Fullbody-JPG-3.jpg",
+   "canva_media": null,
+   "reference_media": "MAHbRH1thSQ",
+   "generations": 0,
+   "note": "True back view. Not generated: generate-image returned {\"failure\":{\"message\":\"Your credit usage is cooling down. Please try again later.\",\"code\":\"quota_cooldown\"},\"status\":\"failed\"}"
+  },
+  "photo_colour": "black body with light grey melange ribbed trims and a cream edge stripe on the armholes (worn over a white long-sleeve tee that is not the product)"
+ },
+ {
+  "code": "5015",
+  "type": "Top",
+  "front": {
+   "status": "quota",
+   "source_photo": "004557711679-Fullbody-JPG-1.jpg",
+   "canva_media": null,
+   "reference_media": "MAHbRCdrUis",
+   "generations": 0,
+   "note": "Not generated: generate-image returned {\"failure\":{\"message\":\"Your credit usage is cooling down. Please try again later.\",\"code\":\"quota_cooldown\"},\"status\":\"failed\"}"
+  },
+  "back": {
+   "status": "quota",
+   "source_photo": "004557711679-Fullbody-JPG-3.jpg",
+   "canva_media": null,
+   "reference_media": "MAHbRB66jTI",
+   "generations": 0,
+   "note": "True back view. Not generated: generate-image returned {\"failure\":{\"message\":\"Your credit usage is cooling down. Please try again later.\",\"code\":\"quota_cooldown\"},\"status\":\"failed\"}"
+  },
+  "photo_colour": "off-white / ivory (zip hoodie with silver zip and silver drawstring tips)"
+ },
+ {
+  "code": "125/7082",
+  "type": "Top",
+  "front": {
+   "status": "quota",
+   "source_photo": "000676474181-Fullbody-JPG-1.jpg",
+   "canva_media": null,
+   "reference_media": "MAHbRKIu23o",
+   "generations": 0,
+   "note": "Not attempted: generation stopped after the quota error (generate-image returned {\"failure\":{\"message\":\"Your credit usage is cooling down. Please try again later.\",\"code\":\"quota_cooldown\"},\"status\":\"failed\"})"
+  },
+  "back": {
+   "status": "quota",
+   "source_photo": "000676474181-Fullbody-JPG-3.jpg",
+   "canva_media": null,
+   "reference_media": "MAHbREV_r-o",
+   "generations": 0,
+   "note": "True back view. Not attempted: generation stopped after the quota error."
+  },
+  "photo_colour": "black (satin-look blouse with pussy-bow neck tie)"
+ },
+ {
+  "code": "125/7064",
+  "type": "Top",
+  "front": {
+   "status": "failed",
+   "source_photo": null,
+   "canva_media": null,
+   "generations": 0,
+   "note": "No front photo exists: the only photo in the job (947990096722-Fullbody-JPG-3.jpg) is a true back view. A front cut-out would have to be invented, so none should be generated from this photo; a front photo is needed."
+  },
+  "back": {
+   "status": "quota",
+   "source_photo": "947990096722-Fullbody-JPG-3.jpg",
+   "canva_media": null,
+   "reference_media": "MAHbRJsTMPs",
+   "generations": 0,
+   "note": "True back view. Not attempted: generation stopped after the quota error."
+  },
+  "photo_colour": "black, semi-sheer (shirt with collar, back yoke and centre box pleat)"
+ },
+ {
+  "code": "126/1336",
+  "type": "Top",
+  "front": {
+   "status": "quota",
+   "source_photo": "010575000053-Fullbody-JPG-1.jpg",
+   "canva_media": null,
+   "reference_media": "MAHbRGG-fdQ",
+   "generations": 0,
+   "note": "Not attempted: generation stopped after the quota error."
+  },
+  "back": {
+   "status": "quota",
+   "source_photo": "010575000053-Fullbody-JPG-3.jpg",
+   "canva_media": null,
+   "reference_media": "MAHbRMJuID0",
+   "generations": 0,
+   "note": "True back view (keyhole button at back neck). Not attempted: generation stopped after the quota error."
+  },
+  "photo_colour": "white / off-white"
+ },
+ {
+  "code": "126/SMO101/1",
+  "type": "Bottom",
+  "front": {
+   "status": "quota",
+   "source_photo": "010575000053-Fullbody-JPG-1.jpg",
+   "canva_media": null,
+   "reference_media": "MAHbRGG-fdQ",
+   "generations": 0,
+   "note": "Not attempted: generation stopped after the quota error. Caveat for later: the skirt waistband is hidden under the top in every photo, so the waistband would be invented."
+  },
+  "back": {
+   "status": "quota",
+   "source_photo": "010575000053-Fullbody-JPG-3.jpg",
+   "canva_media": null,
+   "reference_media": "MAHbRMJuID0",
+   "generations": 0,
+   "note": "True back view, but the upper third of the skirt is covered by the top's long back hem. Not attempted: generation stopped after the quota error."
+  },
+  "photo_colour": "royal / cobalt blue"
+ }
+]
