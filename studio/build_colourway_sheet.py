@@ -83,11 +83,32 @@ for s in skus:
     rows_sku.append({"SKU ID": sid, "Product": pc, "Type": s["Type"], "Colour (PDF)": s["Colour"], "Status": st, "Real photos": det,
                      "Check": UNCERTAIN.get(pc, "colour-blocked in the real photos, not a solid colour" if pc == "5008" else "")})
 
+# matched looks from the PDF (top + bottom pairs), with what the real photos cover and what the Excel says
+src = open("studio/build_sku_db.py").read()
+PAIRS = eval(src[src.index("PAIRS = [") + 8: src.index("NORM = {")].strip())
+from studio.sheet import load_outfits
+def xbase(c):
+    c = re.sub(r"\(.*?\)", "", c).strip().upper(); c = re.sub(r"[ -](GREY|OFF[ -]WHITE|BLACK|BLUE)$", "", c)
+    return c.replace("NO23", "N023").replace("/", "-").replace(" ", "-").replace("601-1", "601")
+ex = collections.defaultdict(set)
+for o in load_outfits("data/combinations.xlsx"): ex[xbase(o.top)].add(xbase(o.bottom))
+def cols(pc): return [s["Colour"] for s in skus if s["Product code"] == pc]
+def real(pc): return [s["Colour"] for s in skus if s["Product code"] == pc and s["SKU ID"] in cover]
+rows_looks = []
+for i, (t, b) in enumerate(PAIRS, 1):
+    e = ex.get(xbase(t))
+    agree = "not in the Excel" if e is None else ("same pairing as the Excel" if xbase(b) in e else "Excel pairs it with " + ", ".join(sorted(e)))
+    rows_looks.append({"Look": i, "Top": t, "Bottom": b,
+        "Top colours (PDF)": ", ".join(cols(t)), "Top colours with real photos": ", ".join(real(t)) or "none",
+        "Bottom colours (PDF)": ", ".join(cols(b)), "Bottom colours with real photos": ", ".join(real(b)) or "none",
+        "Excel": agree,
+        "Styling rule": "Excel row for colour pairing and footwear" if e is not None and xbase(b) in e else "PDF pairing; neutral contrast bottom colour; white ballet flats"})
+
 import openpyxl
 from openpyxl.styles import Font, PatternFill
 wb = openpyxl.Workbook(); wb.remove(wb.active)
 summary = collections.Counter(r["Status"].split(":")[0].split(",")[0] for r in rows_sku)
-tabs = [("SKU coverage", rows_sku), ("Colourways in client photos", rows_found),
+tabs = [("Matched looks (PDF)", rows_looks), ("SKU coverage", rows_sku), ("Colourways in client photos", rows_found),
         ("Summary", [{"Status": k, "SKUs": v} for k, v in summary.most_common()])]
 for t, rows in tabs:
     ws = wb.create_sheet(t); ws.append(list(rows[0]))
