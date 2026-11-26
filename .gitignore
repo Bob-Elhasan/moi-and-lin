@@ -4,3 +4,4 @@ __pycache__/
 output_grey/
 fix_staging/
 pose_staging/
+*.whl
